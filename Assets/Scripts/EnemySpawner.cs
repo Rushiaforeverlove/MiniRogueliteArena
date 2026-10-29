@@ -3,6 +3,10 @@ using UnityEngine;
 public class EnemySpawner : MonoBehaviour
 {
     [SerializeField] private GameObject enemyPrefab;
+    [SerializeField] private GameObject fastEnemyPrefab;
+    [SerializeField, Range(0f, 1f)] private float fastEnemyChance = 0.25f;
+    [SerializeField, Min(1)] private int fastEnemyUnlockWave = 2;
+    private int currentWave = 1;
     [SerializeField] private Transform player;
     [SerializeField] private float spawnInterval = 1.5f;
 
@@ -29,9 +33,21 @@ public class EnemySpawner : MonoBehaviour
     {
         Vector2 spawnPosition = GetRandomSpawnPosition();
 
-        GameObject enemyObject = Instantiate(enemyPrefab, spawnPosition, Quaternion.identity);
+        GameObject selectedPrefab = enemyPrefab;
 
-        EnemyController enemyController = enemyObject.GetComponent<EnemyController>();
+        if (currentWave >= fastEnemyUnlockWave
+            && fastEnemyPrefab != null
+            && Random.value < fastEnemyChance)
+        {
+            selectedPrefab = fastEnemyPrefab;
+        }
+
+        GameObject enemyObject = Instantiate(
+            selectedPrefab, spawnPosition, Quaternion.identity);
+
+        EnemyController enemyController =
+            enemyObject.GetComponent<EnemyController>();
+
         enemyController.SetTarget(player);
     }
 
@@ -55,5 +71,13 @@ public class EnemySpawner : MonoBehaviour
         }
 
         return new Vector2(maxX, Random.Range(minY, maxY));
+    }
+    public void SetSpawnInterval(float newInterval)
+    {
+        spawnInterval = Mathf.Max(0.05f, newInterval);
+    }
+    public void SetWave(int wave)
+    {
+        currentWave = Mathf.Max(1, wave);
     }
 }

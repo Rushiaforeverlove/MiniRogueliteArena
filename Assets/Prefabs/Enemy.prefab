@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 3470460458014267214}
   - component: {fileID: -1615624317111929472}
   - component: {fileID: 6896502047851029244}
+  - component: {fileID: 5054064636263692471}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemy
@@ -212,3 +213,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   maxHealth: 3
   experienceGemPrefab: {fileID: 8131127870507990911, guid: dae3602fd98885b47ab572dab276dee8, type: 3}
+--- !u!114 &5054064636263692471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5183622408988819558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa3322137c2c65a4fb4c87d29824fa1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DamageFlash
+  duration: 0.12

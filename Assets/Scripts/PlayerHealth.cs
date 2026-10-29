@@ -8,6 +8,10 @@ public class PlayerHealth : MonoBehaviour
 
     private int currentHealth;
 
+    [SerializeField, Min(0f)] private float invincibilityDuration = 0.8f;
+
+    private float nextDamageTime;
+
     private void Awake()
     {
         Time.timeScale = 1f;
@@ -21,10 +25,23 @@ public class PlayerHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        currentHealth -= damage;
-        Debug.Log("Player HP: " + currentHealth + " / " + maxHealth);
+        if (damage <= 0 || currentHealth <= 0)
+        {
+            return;
+        }
+
+        if (Time.time < nextDamageTime)
+        {
+            return;
+        }
+
+        nextDamageTime = Time.time + invincibilityDuration;
+
+        currentHealth = Mathf.Max(0, currentHealth - damage);
+        GetComponent<DamageFlash>()?.Play();
 
         gameHUD.UpdateHealth(currentHealth, maxHealth);
+        Debug.Log("Player HP: " + currentHealth + " / " + maxHealth);
 
         if (currentHealth <= 0)
         {

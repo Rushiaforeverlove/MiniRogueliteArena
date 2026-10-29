@@ -15,6 +15,7 @@ public class EnemyHealth : MonoBehaviour
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
+        GetComponent<DamageFlash>()?.Play();
         Debug.Log(gameObject.name + " HP: " + currentHealth);
 
         if (currentHealth <= 0)
