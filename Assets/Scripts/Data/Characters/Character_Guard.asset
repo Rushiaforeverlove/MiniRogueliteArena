@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fd1a10780c4f9843916faa6d2e38ba3, type: 3}
+  m_Name: Character_Guard
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterId: guard_01
+  displayName: "\u9632\u885B\u968A\u54E1"
+  portrait: {fileID: 0}
+  gameplaySprite: {fileID: 0}
+  baseMaxHealth: 8
+  baseMoveSpeed: 3.5
+  startingWeapon: {fileID: 11400000, guid: 85e07b6d704928e4386bf5f1eb381fed, type: 2}

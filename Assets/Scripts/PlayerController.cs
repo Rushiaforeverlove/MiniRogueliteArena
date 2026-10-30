@@ -31,4 +31,9 @@ public class PlayerController : MonoBehaviour
         moveSpeed += amount;
         Debug.Log("Move Speed: " + moveSpeed);
     }
+
+    public void SetStartingMoveSpeed(float speed)
+    {
+        moveSpeed = Mathf.Max(0.1f, speed);
+    }
 }

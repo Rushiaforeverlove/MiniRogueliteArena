@@ -68,4 +68,18 @@ public class PlayerAutoAttack : MonoBehaviour
 
         Debug.Log("Attack Interval: " + attackInterval);
     }
+
+    public void SetStartingWeapon(WeaponData weapon)
+    {
+        if (weapon == null || weapon.ProjectilePrefab == null)
+        {
+            Debug.LogError("Assign a weapon and its projectile prefab.", this);
+            return;
+        }
+
+        projectilePrefab = weapon.ProjectilePrefab;
+        attackInterval = weapon.AttackInterval;
+        attackRange = weapon.AttackRange;
+        attackTimer = 0f;
+    }
 }

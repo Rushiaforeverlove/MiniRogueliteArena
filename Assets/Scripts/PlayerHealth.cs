@@ -64,4 +64,12 @@ public class PlayerHealth : MonoBehaviour
     {
         gameResultUI.ShowGameOver();
     }
+
+    public void SetStartingHealth(int health)
+    {
+        maxHealth = Mathf.Max(1, health);
+        currentHealth = maxHealth;
+        nextDamageTime = 0f;
+        gameHUD.UpdateHealth(currentHealth, maxHealth);
+    }
 }

@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: -1615624317111929472}
   - component: {fileID: 6896502047851029244}
   - component: {fileID: 5054064636263692471}
+  - component: {fileID: -2066489845943849799}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemy
@@ -226,3 +227,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DamageFlash
   duration: 0.12
+--- !u!114 &-2066489845943849799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5183622408988819558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 444e0704eabb08a4187d9cc75abe9d15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpriteDepthSort
