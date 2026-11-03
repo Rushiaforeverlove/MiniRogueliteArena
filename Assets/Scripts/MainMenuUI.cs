@@ -1,39 +1,25 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using TMPro;
 
 public class MainMenuUI : MonoBehaviour
 {
-    [SerializeField] private CharacterData selectedCharacter;
-    [SerializeField] private TMP_Text selectedCharacterText;
+    private bool isLoading;
+
     public void StartGame()
     {
-        if (selectedCharacter == null) return;
-        CharacterSelection.Current = selectedCharacter;
+        if (isLoading) return;
+
+        if (!Application.CanStreamedLevelBeLoaded("BarHub"))
+        {
+            Debug.LogError("Add BarHub to the active build profile's scene list.", this);
+            return;
+        }
+
+        // Starting from the title screen always begins with choosing a seat.
+        CharacterSelection.Current = null;
         Time.timeScale = 1f;
-        SceneManager.LoadScene("Main");
-    }
-
-    private void Start()
-    {
-        SelectCharacter(selectedCharacter);
-    }
-
-    public void SelectCharacter(CharacterData character)
-    {
-        if (character == null) return;
-
-        selectedCharacter = character;
-
-        string weaponName = character.StartingWeapon != null
-            ? character.StartingWeapon.DisplayName
-            : "未指定";
-
-        selectedCharacterText.text =
-            $"{character.DisplayName}\n"
-            + $"初始生命值：{character.BaseMaxHealth}\n"
-            + $"移動速度：{character.BaseMoveSpeed:0.#}\n"
-            + $"初始武器：{weaponName}";
+        isLoading = true;
+        SceneManager.LoadScene("BarHub");
     }
 
     public void QuitGame()

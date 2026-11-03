@@ -7,6 +7,8 @@ public class PlayerAutoAttack : MonoBehaviour
     [SerializeField] private float attackRange = 8f;
 
     private float attackTimer;
+    private int startingDamageBonus;
+    public float AttackInterval => attackInterval;
 
     private void Update()
     {
@@ -37,7 +39,7 @@ public class PlayerAutoAttack : MonoBehaviour
         );
 
         Projectile projectile = projectileObject.GetComponent<Projectile>();
-        projectile.Launch(direction);
+        projectile.Launch(direction, startingDamageBonus);
     }
 
     private GameObject FindNearestEnemy()
@@ -69,7 +71,7 @@ public class PlayerAutoAttack : MonoBehaviour
         Debug.Log("Attack Interval: " + attackInterval);
     }
 
-    public void SetStartingWeapon(WeaponData weapon)
+    public void SetStartingWeapon(WeaponData weapon, int damageBonus = 0, float attackSpeedBonus = 0f)
     {
         if (weapon == null || weapon.ProjectilePrefab == null)
         {
@@ -78,7 +80,10 @@ public class PlayerAutoAttack : MonoBehaviour
         }
 
         projectilePrefab = weapon.ProjectilePrefab;
-        attackInterval = weapon.AttackInterval;
+        startingDamageBonus = Mathf.Max(0, damageBonus);
+        float speedBonus = float.IsNaN(attackSpeedBonus) || float.IsInfinity(attackSpeedBonus)
+            ? 0f : Mathf.Max(0f, attackSpeedBonus);
+        attackInterval = Mathf.Max(0.15f, weapon.AttackInterval / (1f + speedBonus));
         attackRange = weapon.AttackRange;
         attackTimer = 0f;
     }

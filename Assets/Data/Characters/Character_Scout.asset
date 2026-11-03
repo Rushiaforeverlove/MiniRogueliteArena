@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fd1a10780c4f9843916faa6d2e38ba3, type: 3}
+  m_Name: Character_Scout
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterId: scout_01
+  displayName: "\u5075\u5BDF\u54E1"
+  portrait: {fileID: 0}
+  gameplaySprite: {fileID: 21300000, guid: 60f56a28fe64da94883b589f5aa5e744, type: 3}
+  skins:
+  - {fileID: 11400000, guid: 28e6058ce95de8944bac1477c306bc94, type: 2}
+  - {fileID: 11400000, guid: 97c331fb3e480dd4d95fa753763fb6fa, type: 2}
+  - {fileID: 11400000, guid: 2ed3524fe55ec8a44b78768e61128027, type: 2}
+  baseMaxHealth: 5
+  baseMoveSpeed: 5
+  startingWeapon: {fileID: 11400000, guid: e66210353f92b94469e040a211aab028, type: 2}
+  startingESkill: {fileID: 11400000, guid: 7577f504135c72c41b7ec51782f4aaa7, type: 2}
+  ultimateQSkill: {fileID: 11400000, guid: 2b8c143879eb18642ad5b6789c412b7d, type: 2}
+  qUnlockCost: 100
+  statTrainingSteps:
+  - kind: 0
+    amount: 1
+    cost: 60
+  - kind: 1
+    amount: 1
+    cost: 80
+  - kind: 0
+    amount: 1
+    cost: 100
+  eEnhanceCost: 150
+  enhancedESkill: {fileID: 11400000, guid: f712eab1dc4d6a346b2ae4a198844dda, type: 2}
+  qEnhanceCost: 200
+  enhancedQSkill: {fileID: 11400000, guid: 96df38f53a7524c41a1e19aaa4c975e6, type: 2}

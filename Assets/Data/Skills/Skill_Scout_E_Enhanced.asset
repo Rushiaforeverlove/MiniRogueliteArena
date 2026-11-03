@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aba912efdc504fb4f8b5e98692768259, type: 3}
+  m_Name: Skill_Scout_E_Enhanced
+  m_EditorClassIdentifier: Assembly-CSharp::ActiveSkillData
+  displayName: "\u7A7F\u900F\u5C04\u64CA"
+  kind: 0
+  cooldown: 6
+  projectilePrefab: {fileID: 4869091462130860920, guid: 436a893f8ac437941849b3295bdf6815, type: 3}
+  projectileCount: 5
+  spreadDegrees: 60
+  targetRange: 8
+  radius: 3
+  damage: 4
+  pulsePrefab: {fileID: 0}
+  projectileMaxTargets: 3
+  explodeOnEnemyHit: 0
+  explosionRadius: 1.2
+  explosionVisual: {fileID: 0}
+  shockwaveCount: 1
+  shockwaveInterval: 0.5

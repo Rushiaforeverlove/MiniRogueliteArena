@@ -1088,8 +1088,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a49cdfc1157e8aa4b9577b6ec4f8736b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MainMenuUI
-  selectedCharacter: {fileID: 11400000, guid: 26d989de7598eca42842f83fd378dd52, type: 2}
-  selectedCharacterText: {fileID: 2017110318}
 --- !u!1 &1664517631
 GameObject:
   m_ObjectHideFlags: 0
@@ -1245,7 +1243,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1701826005
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1309,19 +1307,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1701826007}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1625383471}
-        m_TargetAssemblyTypeName: MainMenuUI, Assembly-CSharp
-        m_MethodName: SelectCharacter
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: 4def47718191f934881ad04137b0bec9, type: 2}
-          m_ObjectArgumentAssemblyTypeName: CharacterData, Assembly-CSharp
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1701826007
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1378,7 +1364,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1843576110
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1442,19 +1428,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1843576112}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1625383471}
-        m_TargetAssemblyTypeName: MainMenuUI, Assembly-CSharp
-        m_MethodName: SelectCharacter
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: 26d989de7598eca42842f83fd378dd52, type: 2}
-          m_ObjectArgumentAssemblyTypeName: CharacterData, Assembly-CSharp
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1843576112
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1510,7 +1484,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2017110318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1687,7 +1661,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Mini Roguelite Arena
+  m_text: Abyss Bar
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aba912efdc504fb4f8b5e98692768259, type: 3}
+  m_Name: Skill_Guard_E_Enhanced
+  m_EditorClassIdentifier: Assembly-CSharp::ActiveSkillData
+  displayName: "\u5F37\u5316\u9707\u76EA\u885D\u64CA"
+  kind: 1
+  cooldown: 8
+  projectilePrefab: {fileID: 0}
+  projectileCount: 5
+  spreadDegrees: 60
+  targetRange: 8
+  radius: 4
+  damage: 6
+  pulsePrefab: {fileID: 5966077795377086160, guid: 5e7b7a4c7d23ba347bdb99a1e7eeed52, type: 3}

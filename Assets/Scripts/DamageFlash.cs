@@ -22,6 +22,16 @@ public class DamageFlash : MonoBehaviour
         remainingTime = duration;
     }
 
+    // PlayerCharacter calls this after applying a skin in Start, after Awake cached its color.
+    public void SetBaseColor(Color color)
+    {
+        originalColor = color;
+        if (spriteRenderer == null)
+            spriteRenderer = GetComponent<SpriteRenderer>();
+        if (remainingTime <= 0f)
+            spriteRenderer.color = color;
+    }
+
     private void Update()
     {
         if (remainingTime <= 0f) return;

@@ -6,6 +6,7 @@ public class EnemyHealth : MonoBehaviour
     [SerializeField] private GameObject experienceGemPrefab;
 
     private int currentHealth;
+    public bool IsAlive => currentHealth > 0;
 
     private void Awake()
     {
@@ -14,7 +15,9 @@ public class EnemyHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        currentHealth -= damage;
+        // Several fan-shot projectiles can arrive before Destroy removes this object.
+        if (damage <= 0 || !IsAlive) return;
+        currentHealth = Mathf.Max(0, currentHealth - damage);
         GetComponent<DamageFlash>()?.Play();
         Debug.Log(gameObject.name + " HP: " + currentHealth);
 

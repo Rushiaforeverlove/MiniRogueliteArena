@@ -7,6 +7,9 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] private GameResultUI gameResultUI;
 
     private int currentHealth;
+    public bool IsAlive => currentHealth > 0;
+    private bool dodgeInvulnerable;
+    public bool IsInvincible => dodgeInvulnerable || Time.time < nextDamageTime;
 
     [SerializeField, Min(0f)] private float invincibilityDuration = 0.8f;
 
@@ -30,7 +33,7 @@ public class PlayerHealth : MonoBehaviour
             return;
         }
 
-        if (Time.time < nextDamageTime)
+        if (IsInvincible)
         {
             return;
         }
@@ -48,6 +51,16 @@ public class PlayerHealth : MonoBehaviour
             Die();
         }
     }
+
+    // Available for other timed effects. Never shortens an existing hurt-immunity window.
+    public void GrantInvincibility(float duration)
+    {
+        if (!IsAlive || duration <= 0f || float.IsNaN(duration) || float.IsInfinity(duration)) return;
+        nextDamageTime = Mathf.Max(nextDamageTime, Time.time + duration);
+    }
+
+    // Dodge owns this temporary flag; ordinary hurt immunity keeps its own timer.
+    public void SetDodgeInvulnerability(bool value) { dodgeInvulnerable = value; }
 
     public void AddMaxHealth(int amount)
     {
@@ -70,6 +83,7 @@ public class PlayerHealth : MonoBehaviour
         maxHealth = Mathf.Max(1, health);
         currentHealth = maxHealth;
         nextDamageTime = 0f;
+        dodgeInvulnerable = false;
         gameHUD.UpdateHealth(currentHealth, maxHealth);
     }
 }

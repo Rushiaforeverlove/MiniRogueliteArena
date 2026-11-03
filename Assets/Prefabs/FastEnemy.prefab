@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 6896502047851029244}
   - component: {fileID: -7590047556017219525}
   - component: {fileID: -7970057376280025076}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: FastEnemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -227,6 +227,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DamageFlash
   duration: 0.12
+  flashColor: {r: 1, g: 0.2, b: 0.2, a: 1}
 --- !u!114 &-7970057376280025076
 MonoBehaviour:
   m_ObjectHideFlags: 0

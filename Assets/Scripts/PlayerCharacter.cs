@@ -18,16 +18,37 @@ public class PlayerCharacter : MonoBehaviour
             return;
         }
 
+        CharacterProgressionSave.MigrateLegacyTraining(characterData);
+        CharacterTrainingBonuses bonuses = CharacterProgressionSave.GetBonuses(characterData);
+
         GetComponent<PlayerController>()
             .SetStartingMoveSpeed(characterData.BaseMoveSpeed);
         GetComponent<PlayerHealth>()
-            .SetStartingHealth(characterData.BaseMaxHealth);
+            .SetStartingHealth(CurrencySave.GetStartingMaxHealth(characterData));
         GetComponent<PlayerAutoAttack>()
-            .SetStartingWeapon(characterData.StartingWeapon);
+            .SetStartingWeapon(characterData.StartingWeapon, bonuses.Damage, bonuses.AttackSpeed);
 
-        if (characterData.GameplaySprite != null)
+        GetComponent<PlayerDodge>()?.SetStartingDistanceBonus(bonuses.DodgeDistance);
+
+        PlayerActiveSkill activeSkill = GetComponent<PlayerActiveSkill>();
+        if (activeSkill != null)
         {
-            GetComponent<SpriteRenderer>().sprite = characterData.GameplaySprite;
+            activeSkill.SetStartingDamageBonus(bonuses.Damage);
+            if (CharacterProgressionSave.IsEEnhanced(characterData) && !characterData.HasConfiguredEnhancedESkill)
+                Debug.LogWarning("Enhanced E data is missing or invalid. Using the base E until it is restored.", this);
+            if (CharacterProgressionSave.IsQEnhanced(characterData) && !characterData.HasConfiguredEnhancedQSkill)
+                Debug.LogWarning("Enhanced Q data is missing or invalid. Using the base Q until it is restored.", this);
+            activeSkill.SetStartingSkills(CharacterProgressionSave.GetBattleESkill(characterData), CharacterProgressionSave.GetBattleQSkill(characterData),
+                CharacterProgressionSave.IsQUnlocked(characterData));
         }
+        else
+            Debug.LogWarning("Add PlayerActiveSkill to the combat Player to enable E skills.", this);
+
+        SpriteRenderer spriteRenderer = GetComponent<SpriteRenderer>();
+        Sprite sprite = CharacterSkinSave.GetGameplaySprite(characterData);
+        if (sprite != null)
+            spriteRenderer.sprite = sprite;
+        spriteRenderer.color = CharacterSkinSave.GetTint(characterData);
+        GetComponent<DamageFlash>()?.SetBaseColor(spriteRenderer.color);
     }
 }
