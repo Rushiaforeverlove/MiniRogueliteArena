@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: SCT-W01
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: SCT-W01
+  title: "\u5148\u9063\u8A18\u9304"
+  ownerRoleId: scout_01
+  effectKey: scout.scouting_attack
+  description: "\u666E\u653B\u547D\u4E2D\u7684\u6575\u4EBA\u7372\u5F97\u5075\u5BDF\u6A19\u8A18\uFF0C\u6301\u7E8C 4\uFF0F6 \u79D2\uFF1B\u6A19\u8A18\u4F7F\u5176\u53D7\u5230\u4F60\u7684\u76F4\u63A5\u50B7\u5BB3\u589E\u52A0 10%\uFF0C\u5237\u65B0\u4E0D\u758A\u5C64\u3002"
+  quality: 0
+  category: 2
+  icon: {fileID: 21300000, guid: 7b559915fa39f764faf3359dd8cc5927, type: 3}
+  artBrief: "\u6524\u958B\u7684\u5075\u5BDF\u7B46\u8A18\u4E0A\uFF0C\u4E00\u679A\u6E96\u661F\u5708\u4F4F\u6575\u4EBA\u7D20\u63CF"
+  maxRank: 2
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: vulnerability
+    values:
+    - 0.1
+  - key: durations
+    values:
+    - 4
+    - 6

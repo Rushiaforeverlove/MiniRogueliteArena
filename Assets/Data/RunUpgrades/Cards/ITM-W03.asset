@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: ITM-W03
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: ITM-W03
+  title: "\u788E\u676F\u8B66\u5831"
+  ownerRoleId: 
+  effectKey: item.glass_shards
+  description: "\u751F\u547D\u5BE6\u969B\u53D7\u50B7\u6642\u5411\u56DB\u5468\u5C04\u51FA 8\uFF0F12 \u7247\u788E\u73BB\u7483\uFF0C\u6BCF\u7247\u9020\u6210 40% \u666E\u653B\u57FA\u6E96\u50B7\u5BB3\uFF1B\u5167\u7F6E\u51B7\u537B 2 \u79D2\u3002"
+  quality: 0
+  category: 1
+  icon: {fileID: 21300000, guid: 400fae01a7ef9c546b985a34619d389f, type: 3}
+  artBrief: "\u788E\u88C2\u9AD8\u8173\u676F\u570D\u6210\u653E\u5C04\u72C0\u7684\u7D05\u8272\u8B66\u5831\u5708"
+  maxRank: 2
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: coefficient
+    values:
+    - 0.4
+  - key: icd
+    values:
+    - 2
+  - key: counts
+    values:
+    - 8
+    - 12

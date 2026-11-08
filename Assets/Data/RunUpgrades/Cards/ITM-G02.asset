@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: ITM-G02
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: ITM-G02
+  title: "\u7DCA\u6025\u6E05\u5834\u9234"
+  ownerRoleId: 
+  effectKey: item.emergency_bell
+  description: "\u751F\u547D\u53D7\u50B7\u4E14\u964D\u81F3 40% \u4EE5\u4E0B\u6642\uFF0C\u53EC\u51FA\u6E05\u5834\u9234\uFF1A\u64CA\u9000\u534A\u5F91 4 \u5167\u6575\u4EBA 2 \u55AE\u4F4D\u3001\u6688\u7729 1 \u79D2\uFF0C\u4E26\u6389\u843D 3 \u4EFD\u5404\u56DE\u5FA9 100 \u751F\u547D\u7684\u6025\u6551\u5305\uFF1B\u51B7\u537B 20 \u79D2\u3002"
+  quality: 2
+  category: 1
+  icon: {fileID: 21300000, guid: c71dc1b99305abf429b8f797a6a4a4be, type: 3}
+  artBrief: "\u9152\u5427\u670D\u52D9\u9234\u5316\u6210\u5DE8\u5927\u7684\u91D1\u8272\u885D\u64CA\u6CE2"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: healthThreshold
+    values:
+    - 0.4
+  - key: stun
+    values:
+    - 1
+  - key: knockback
+    values:
+    - 2
+  - key: healPerPack
+    values:
+    - 100
+  - key: packs
+    values:
+    - 3
+  - key: cooldown
+    values:
+    - 20
+  - key: radius
+    values:
+    - 4

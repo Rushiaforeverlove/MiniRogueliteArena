@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 1628afcf289871e408b8360f9def6972
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8838772577204169336
+    second: hub-walk_0
+  - first:
+      213: 3970156237814739222
+    second: hub-walk_1
+  - first:
+      213: 8008253315875264081
+    second: hub-walk_2
+  - first:
+      213: 7806149242146377189
+    second: hub-walk_3
+  - first:
+      213: 1949225326943256656
+    second: hub-walk_4
+  - first:
+      213: 110436883975127029
+    second: hub-walk_5
+  - first:
+      213: -7194795595695273863
+    second: hub-walk_6
+  - first:
+      213: -401189638162124490
+    second: hub-walk_7
+  - first:
+      213: -1695320452646894367
+    second: hub-walk_8
+  - first:
+      213: 8637423238199431163
+    second: hub-walk_9
+  - first:
+      213: 1664118964855833029
+    second: hub-walk_10
+  - first:
+      213: 8548630782340209445
+    second: hub-walk_11
+  - first:
+      213: -8600304003917099622
+    second: hub-walk_12
+  - first:
+      213: 1077970198236210097
+    second: hub-walk_13
+  - first:
+      213: 8458342455370431318
+    second: hub-walk_14
+  - first:
+      213: 1250681762479364714
+    second: hub-walk_15
+  - first:
+      213: 7580809782824454936
+    second: hub-walk_16
+  - first:
+      213: -284848978130797972
+    second: hub-walk_17
+  - first:
+      213: 3472792467232132968
+    second: hub-walk_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hub-walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 1015
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885184dbb2f565580800000000000000
+      internalID: -8838772577204169336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1013
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611bfb14014d81730800000000000000
+      internalID: 3970156237814739222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_2
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1017
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156d61416f7032f60800000000000000
+      internalID: 8008253315875264081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1005
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edc1d18063055c60800000000000000
+      internalID: 7806149242146377189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_4
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1019
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050c5af7b1a0d0b10800000000000000
+      internalID: 1949225326943256656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_5
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 501
+        width: 522
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff3077c2c9588100800000000000000
+      internalID: 110436883975127029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_6
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1002
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978c90f7683f62c90800000000000000
+      internalID: -7194795595695273863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_7
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 891
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63177c15620be6af0800000000000000
+      internalID: -401189638162124490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_8
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 867
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4078fc7030978e0800000000000000
+      internalID: -1695320452646894367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_9
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 612
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffc49f0caa4ed770800000000000000
+      internalID: 8637423238199431163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_10
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 583
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c10934b163281710800000000000000
+      internalID: 1664118964855833029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1020
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b9b596766d2a670800000000000000
+      internalID: 8548630782340209445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_12
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 0
+        width: 503
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dc626231595a880800000000000000
+      internalID: -8600304003917099622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_13
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 490
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3a3581f28b5fe00800000000000000
+      internalID: 1077970198236210097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_14
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 519
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bb5f026a1126570800000000000000
+      internalID: 8458342455370431318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_15
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 423
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a54a3cf605b5110800000000000000
+      internalID: 1250681762479364714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_16
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 385
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bce072552743960800000000000000
+      internalID: 7580809782824454936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_17
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 295
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a71e31d530c0cf0800000000000000
+      internalID: -284848978130797972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-walk_18
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f060c6956d13030800000000000000
+      internalID: 3472792467232132968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hub-walk_0: -8838772577204169336
+      hub-walk_1: 3970156237814739222
+      hub-walk_10: 1664118964855833029
+      hub-walk_11: 8548630782340209445
+      hub-walk_12: -8600304003917099622
+      hub-walk_13: 1077970198236210097
+      hub-walk_14: 8458342455370431318
+      hub-walk_15: 1250681762479364714
+      hub-walk_16: 7580809782824454936
+      hub-walk_17: -284848978130797972
+      hub-walk_18: 3472792467232132968
+      hub-walk_2: 8008253315875264081
+      hub-walk_3: 7806149242146377189
+      hub-walk_4: 1949225326943256656
+      hub-walk_5: 110436883975127029
+      hub-walk_6: -7194795595695273863
+      hub-walk_7: -401189638162124490
+      hub-walk_8: -1695320452646894367
+      hub-walk_9: 8637423238199431163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

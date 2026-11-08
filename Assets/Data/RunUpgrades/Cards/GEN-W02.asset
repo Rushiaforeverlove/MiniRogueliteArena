@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: GEN-W02
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: GEN-W02
+  title: "\u6273\u6A5F\u4FDD\u990A"
+  ownerRoleId: 
+  effectKey: stat.attack_speed
+  description: "\u6BCF\u7D1A\u666E\u653B\u653B\u901F +8%\uFF1B\u4EE5\u6BCF\u79D2\u653B\u64CA\u6B21\u6578\u8A08\u7B97\uFF0C\u4E0D\u7E2E\u77ED E\uFF0FQ \u51B7\u537B\u3002"
+  quality: 0
+  category: 0
+  icon: {fileID: 21300000, guid: 7b5e78db9b8413b4782b38733144b4cf, type: 3}
+  artBrief: "\u6CBE\u8457\u6A5F\u6CB9\u7684\u5237\u5B50\u8207\u62CB\u5149\u69CD\u6A5F"
+  maxRank: 0
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: fractionPerRank
+    values:
+    - 0.08

@@ -1,0 +1,1302 @@
+fileFormatVersion: 2
+guid: 7c032ea710830134484ae0c551491bb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1507946206404428907
+    second: chitose-combat-v1_0
+  - first:
+      213: 1589505538134144963
+    second: chitose-combat-v1_1
+  - first:
+      213: 4769250376604232446
+    second: chitose-combat-v1_2
+  - first:
+      213: -8719708662488814701
+    second: chitose-combat-v1_3
+  - first:
+      213: -4195796030372242284
+    second: chitose-combat-v1_4
+  - first:
+      213: -2960056143505162217
+    second: chitose-combat-v1_5
+  - first:
+      213: -5404562785633165910
+    second: chitose-combat-v1_6
+  - first:
+      213: -5919350296039195329
+    second: chitose-combat-v1_7
+  - first:
+      213: 4397746620248098131
+    second: chitose-combat-v1_8
+  - first:
+      213: -1431346256539663945
+    second: chitose-combat-v1_9
+  - first:
+      213: -7723293235641952289
+    second: chitose-combat-v1_10
+  - first:
+      213: -6635711365390890687
+    second: chitose-combat-v1_11
+  - first:
+      213: -7190407666391000745
+    second: chitose-combat-v1_12
+  - first:
+      213: 8930960451753303104
+    second: chitose-combat-v1_13
+  - first:
+      213: 5391420468375842704
+    second: chitose-combat-v1_14
+  - first:
+      213: 6354211364245252491
+    second: chitose-combat-v1_15
+  - first:
+      213: 8935866792379769721
+    second: chitose-combat-v1_16
+  - first:
+      213: 7379495741308635459
+    second: chitose-combat-v1_17
+  - first:
+      213: -4451186621392764591
+    second: chitose-combat-v1_18
+  - first:
+      213: -4724691896189497790
+    second: chitose-combat-v1_19
+  - first:
+      213: -4026630799119541589
+    second: chitose-combat-v1_20
+  - first:
+      213: 4933352636617793460
+    second: chitose-combat-v1_21
+  - first:
+      213: 5901798432015401977
+    second: chitose-combat-v1_22
+  - first:
+      213: -5542822701969607181
+    second: chitose-combat-v1_23
+  - first:
+      213: -2530986205497418172
+    second: chitose-combat-v1_24
+  - first:
+      213: 3147750214383216250
+    second: chitose-combat-v1_25
+  - first:
+      213: -2466636733673305050
+    second: chitose-combat-v1_26
+  - first:
+      213: 4758691948948639427
+    second: chitose-combat-v1_27
+  - first:
+      213: -8234967715038402584
+    second: chitose-combat-v1_28
+  - first:
+      213: 5879045449076375099
+    second: chitose-combat-v1_29
+  - first:
+      213: 9194254544589733619
+    second: chitose-combat-v1_30
+  - first:
+      213: 6180039068130452481
+    second: chitose-combat-v1_31
+  - first:
+      213: 389813073478530488
+    second: chitose-combat-v1_32
+  - first:
+      213: -8293930528735507815
+    second: chitose-combat-v1_33
+  - first:
+      213: 4286926235840415048
+    second: chitose-combat-v1_34
+  - first:
+      213: 9108431947740855155
+    second: chitose-combat-v1_35
+  - first:
+      213: -4717934403268366728
+    second: chitose-combat-v1_36
+  - first:
+      213: 8073440765491650492
+    second: chitose-combat-v1_37
+  - first:
+      213: -5830837076888074261
+    second: chitose-combat-v1_38
+  - first:
+      213: -1482585638348499456
+    second: chitose-combat-v1_39
+  - first:
+      213: -2800031741816789524
+    second: chitose-combat-v1_40
+  - first:
+      213: -5512514182572739364
+    second: chitose-combat-v1_41
+  - first:
+      213: 3680717180377227834
+    second: chitose-combat-v1_42
+  - first:
+      213: -8918202811791919801
+    second: chitose-combat-v1_43
+  - first:
+      213: -432883673942914821
+    second: chitose-combat-v1_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chitose-combat-v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 233
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b644225d51d4de410800000000000000
+      internalID: 1507946206404428907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 861
+        width: 190
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c770098dde0f0610800000000000000
+      internalID: 1589505538134144963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 496
+        width: 239
+        height: 739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaa46ee2f7cf2240800000000000000
+      internalID: 4769250376604232446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_3
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 860
+        width: 175
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b2573ab2f5df680800000000000000
+      internalID: -8719708662488814701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 865
+        width: 220
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c1bab9db985c5c0800000000000000
+      internalID: -4195796030372242284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_5
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 131
+        width: 216
+        height: 1104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710892bde94cbe6d0800000000000000
+      internalID: -2960056143505162217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_6
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1114
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad1a04f7c22ff4b0800000000000000
+      internalID: -5404562785633165910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_7
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1081
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dfa7f844e3adda0800000000000000
+      internalID: -5919350296039195329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_8
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1001
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3550018304fe70d30800000000000000
+      internalID: 4397746620248098131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_9
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 905
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b14e5cc926d22ce0800000000000000
+      internalID: -1431346256539663945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_10
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 922
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd75261d8b951d490800000000000000
+      internalID: -7723293235641952289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_11
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 915
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1498ad1bba739e3a0800000000000000
+      internalID: -6635711365390890687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 218
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d486e25a863c90800000000000000
+      internalID: -7190407666391000745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_13
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 505
+        width: 193
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c51dd663521fb70800000000000000
+      internalID: 8930960451753303104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_14
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 825
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fef4cd95c22da40800000000000000
+      internalID: 5391420468375842704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_15
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 516
+        width: 242
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a699d191be2850800000000000000
+      internalID: 6354211364245252491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_16
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 759
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9736100e083920c70800000000000000
+      internalID: 8935866792379769721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 725
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349853a474c396660800000000000000
+      internalID: 7379495741308635459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_18
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 721
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151c9eae9553a32c0800000000000000
+      internalID: -4451186621392764591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_19
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 675
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e457eb0c58e6eb0800000000000000
+      internalID: -4724691896189497790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_20
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 542
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa15d84f988e18c0800000000000000
+      internalID: -4026630799119541589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_21
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 543
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf1751c51ac67440800000000000000
+      internalID: 4933352636617793460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_22
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 528
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f34c34a76667e150800000000000000
+      internalID: 5901798432015401977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_23
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 339
+        width: 208
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f57124ae10f313b0800000000000000
+      internalID: -5542822701969607181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_24
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 512
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e99e1b47120ecd0800000000000000
+      internalID: -2530986205497418172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_25
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 493
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76a8f9742e0fab20800000000000000
+      internalID: 3147750214383216250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_26
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 480
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c0973a5feb4cdd0800000000000000
+      internalID: -2466636733673305050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_27
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 466
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce489c6d154a0240800000000000000
+      internalID: 4758691948948639427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_28
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 148
+        width: 209
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e763507e7487bd80800000000000000
+      internalID: -8234967715038402584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_29
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 151
+        width: 235
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ef29affa0969150800000000000000
+      internalID: 5879045449076375099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_30
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 432
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3febac88bcd889f70800000000000000
+      internalID: 9194254544589733619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 352
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104a3f90ac8e3c550800000000000000
+      internalID: 6180039068130452481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_32
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 191
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5bd7dcce4e86500800000000000000
+      internalID: 389813073478530488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_33
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 111
+        width: 184
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ac3f2902a06ec80800000000000000
+      internalID: -8293930528735507815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_34
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 147
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8450299c2b83e7b30800000000000000
+      internalID: 4286926235840415048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_35
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 151
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bb9e11996a76e70800000000000000
+      internalID: 9108431947740855155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_36
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 149
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e289b28a7868eb0800000000000000
+      internalID: -4717934403268366728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_37
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 191
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf994ee99f9a0070800000000000000
+      internalID: 8073440765491650492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_38
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 190
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7c8e85294b41fa0800000000000000
+      internalID: -5830837076888074261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_39
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 127
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006542d873ccc6be0800000000000000
+      internalID: -1482585638348499456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_40
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 186
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5213d47f94429d0800000000000000
+      internalID: -2800031741816789524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_41
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 135
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4f278be8d9f73b0800000000000000
+      internalID: -5512514182572739364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_42
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 114
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32ef0736c8841330800000000000000
+      internalID: 3680717180377227834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_43
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 0
+        width: 180
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745b0481bcd2c3480800000000000000
+      internalID: -8918202811791919801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-combat-v1_44
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 17
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8019197961ef9f0800000000000000
+      internalID: -432883673942914821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chitose-combat-v1_0: 1507946206404428907
+      chitose-combat-v1_1: 1589505538134144963
+      chitose-combat-v1_10: -7723293235641952289
+      chitose-combat-v1_11: -6635711365390890687
+      chitose-combat-v1_12: -7190407666391000745
+      chitose-combat-v1_13: 8930960451753303104
+      chitose-combat-v1_14: 5391420468375842704
+      chitose-combat-v1_15: 6354211364245252491
+      chitose-combat-v1_16: 8935866792379769721
+      chitose-combat-v1_17: 7379495741308635459
+      chitose-combat-v1_18: -4451186621392764591
+      chitose-combat-v1_19: -4724691896189497790
+      chitose-combat-v1_2: 4769250376604232446
+      chitose-combat-v1_20: -4026630799119541589
+      chitose-combat-v1_21: 4933352636617793460
+      chitose-combat-v1_22: 5901798432015401977
+      chitose-combat-v1_23: -5542822701969607181
+      chitose-combat-v1_24: -2530986205497418172
+      chitose-combat-v1_25: 3147750214383216250
+      chitose-combat-v1_26: -2466636733673305050
+      chitose-combat-v1_27: 4758691948948639427
+      chitose-combat-v1_28: -8234967715038402584
+      chitose-combat-v1_29: 5879045449076375099
+      chitose-combat-v1_3: -8719708662488814701
+      chitose-combat-v1_30: 9194254544589733619
+      chitose-combat-v1_31: 6180039068130452481
+      chitose-combat-v1_32: 389813073478530488
+      chitose-combat-v1_33: -8293930528735507815
+      chitose-combat-v1_34: 4286926235840415048
+      chitose-combat-v1_35: 9108431947740855155
+      chitose-combat-v1_36: -4717934403268366728
+      chitose-combat-v1_37: 8073440765491650492
+      chitose-combat-v1_38: -5830837076888074261
+      chitose-combat-v1_39: -1482585638348499456
+      chitose-combat-v1_4: -4195796030372242284
+      chitose-combat-v1_40: -2800031741816789524
+      chitose-combat-v1_41: -5512514182572739364
+      chitose-combat-v1_42: 3680717180377227834
+      chitose-combat-v1_43: -8918202811791919801
+      chitose-combat-v1_44: -432883673942914821
+      chitose-combat-v1_5: -2960056143505162217
+      chitose-combat-v1_6: -5404562785633165910
+      chitose-combat-v1_7: -5919350296039195329
+      chitose-combat-v1_8: 4397746620248098131
+      chitose-combat-v1_9: -1431346256539663945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: d271fb38fbf20034fa859eccb4ccdbd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7244535537485552093
+    second: chitose-hub-v2_0
+  - first:
+      213: -4319953079538488335
+    second: chitose-hub-v2_1
+  - first:
+      213: 8681064184784555563
+    second: chitose-hub-v2_2
+  - first:
+      213: -8505539631899574825
+    second: chitose-hub-v2_3
+  - first:
+      213: -5912027577255429839
+    second: chitose-hub-v2_4
+  - first:
+      213: -6141927131787844402
+    second: chitose-hub-v2_5
+  - first:
+      213: 1045214419618243991
+    second: chitose-hub-v2_6
+  - first:
+      213: -2884437041488428999
+    second: chitose-hub-v2_7
+  - first:
+      213: 3392351878021098790
+    second: chitose-hub-v2_8
+  - first:
+      213: 6487219290746839923
+    second: chitose-hub-v2_9
+  - first:
+      213: 1590675002285117434
+    second: chitose-hub-v2_10
+  - first:
+      213: 4798063083687581164
+    second: chitose-hub-v2_11
+  - first:
+      213: -1001407759658653544
+    second: chitose-hub-v2_12
+  - first:
+      213: 7774646881047095548
+    second: chitose-hub-v2_13
+  - first:
+      213: 3190975174503426354
+    second: chitose-hub-v2_14
+  - first:
+      213: -8656882046845635875
+    second: chitose-hub-v2_15
+  - first:
+      213: 536618135953112992
+    second: chitose-hub-v2_16
+  - first:
+      213: 7331945281766290193
+    second: chitose-hub-v2_17
+  - first:
+      213: 7626069403053510801
+    second: chitose-hub-v2_18
+  - first:
+      213: -1197927398925284384
+    second: chitose-hub-v2_19
+  - first:
+      213: -5517586338599247321
+    second: chitose-hub-v2_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chitose-hub-v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 310
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326ea75df4d367b90800000000000000
+      internalID: -7244535537485552093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 244
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbe0cfef817c04c0800000000000000
+      internalID: -4319953079538488335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 266
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e037eb1e5597870800000000000000
+      internalID: 8681064184784555563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 264
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd7e91e4c046f980800000000000000
+      internalID: -8505539631899574825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_4
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 952
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1397063ed3244fda0800000000000000
+      internalID: -5912027577255429839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_5
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 222
+        width: 242
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4a371a0dd73caa0800000000000000
+      internalID: -6141927131787844402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_6
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 0
+        width: 257
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79526731af8518e00800000000000000
+      internalID: 1045214419618243991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_7
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 877
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9308a1d0bcb68f7d0800000000000000
+      internalID: -2884437041488428999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_8
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 827
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da3924f0e041f20800000000000000
+      internalID: 3392351878021098790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_9
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 813
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373e60df29b370a50800000000000000
+      internalID: 6487219290746839923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_10
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 788
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff4c40ac76331610800000000000000
+      internalID: 1590675002285117434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_11
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 699
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce51d1114f4269240800000000000000
+      internalID: 4798063083687581164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898e932c2f84a12f0800000000000000
+      internalID: -1001407759658653544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_13
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 610
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf829ee752815eb60800000000000000
+      internalID: 7774646881047095548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 5
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239ed53c30f984c20800000000000000
+      internalID: 3190975174503426354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd23f4ff4a39cd780800000000000000
+      internalID: -8656882046845635875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_16
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 173
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af748df953727700800000000000000
+      internalID: 536618135953112992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_17
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 162
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f740336d40c560800000000000000
+      internalID: 7331945281766290193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_18
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 110
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190da79a7bd35d960800000000000000
+      internalID: 7626069403053510801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_19
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 84
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebc958a06b106fe0800000000000000
+      internalID: -1197927398925284384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-hub-v2_20
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 5
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7226e3e55789d63b0800000000000000
+      internalID: -5517586338599247321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chitose-hub-v2_0: -7244535537485552093
+      chitose-hub-v2_1: -4319953079538488335
+      chitose-hub-v2_10: 1590675002285117434
+      chitose-hub-v2_11: 4798063083687581164
+      chitose-hub-v2_12: -1001407759658653544
+      chitose-hub-v2_13: 7774646881047095548
+      chitose-hub-v2_14: 3190975174503426354
+      chitose-hub-v2_15: -8656882046845635875
+      chitose-hub-v2_16: 536618135953112992
+      chitose-hub-v2_17: 7331945281766290193
+      chitose-hub-v2_18: 7626069403053510801
+      chitose-hub-v2_19: -1197927398925284384
+      chitose-hub-v2_2: 8681064184784555563
+      chitose-hub-v2_20: -5517586338599247321
+      chitose-hub-v2_3: -8505539631899574825
+      chitose-hub-v2_4: -5912027577255429839
+      chitose-hub-v2_5: -6141927131787844402
+      chitose-hub-v2_6: 1045214419618243991
+      chitose-hub-v2_7: -2884437041488428999
+      chitose-hub-v2_8: 3392351878021098790
+      chitose-hub-v2_9: 6487219290746839923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

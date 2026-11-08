@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: ece871ad52d852d449b2497bbbcd3f46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9157112127494925054
+    second: GRD-W08_0
+  - first:
+      213: 4537675493836267038
+    second: GRD-W08_1
+  - first:
+      213: 5500818144293987873
+    second: GRD-W08_2
+  - first:
+      213: 5094181212158706773
+    second: GRD-W08_3
+  - first:
+      213: -4150457229399532033
+    second: GRD-W08_4
+  - first:
+      213: -4457841439706390750
+    second: GRD-W08_5
+  - first:
+      213: -8779097751089926378
+    second: GRD-W08_6
+  - first:
+      213: -5058505345574733404
+    second: GRD-W08_7
+  - first:
+      213: -7773530979112628164
+    second: GRD-W08_8
+  - first:
+      213: 5033216809110367600
+    second: GRD-W08_9
+  - first:
+      213: -6400822545290205250
+    second: GRD-W08_10
+  - first:
+      213: -1534823352912660478
+    second: GRD-W08_11
+  - first:
+      213: -8636051171618095233
+    second: GRD-W08_12
+  - first:
+      213: -1195069954499577425
+    second: GRD-W08_13
+  - first:
+      213: 8284806229673160629
+    second: GRD-W08_14
+  - first:
+      213: -3773001515545450167
+    second: GRD-W08_15
+  - first:
+      213: -3479169048578834340
+    second: GRD-W08_16
+  - first:
+      213: -7894287580032331082
+    second: GRD-W08_17
+  - first:
+      213: 6166791376603529010
+    second: GRD-W08_18
+  - first:
+      213: 1908455077128557052
+    second: GRD-W08_19
+  - first:
+      213: -8933011355403889688
+    second: GRD-W08_20
+  - first:
+      213: -212390082978634484
+    second: GRD-W08_21
+  - first:
+      213: 5291759391593177810
+    second: GRD-W08_22
+  - first:
+      213: -5380939606140504139
+    second: GRD-W08_23
+  - first:
+      213: -8444084055105823204
+    second: GRD-W08_24
+  - first:
+      213: 914907736460917530
+    second: GRD-W08_25
+  - first:
+      213: 6934915151933476186
+    second: GRD-W08_26
+  - first:
+      213: 3517097790940530248
+    second: GRD-W08_27
+  - first:
+      213: 4472655481546937323
+    second: GRD-W08_28
+  - first:
+      213: 4351559963537948095
+    second: GRD-W08_29
+  - first:
+      213: -4294176030378370615
+    second: GRD-W08_30
+  - first:
+      213: -7487270702397322899
+    second: GRD-W08_31
+  - first:
+      213: 2286706704327829843
+    second: GRD-W08_32
+  - first:
+      213: -5584648238452856650
+    second: GRD-W08_33
+  - first:
+      213: 7188536716315697440
+    second: GRD-W08_34
+  - first:
+      213: 4638386545478604380
+    second: GRD-W08_35
+  - first:
+      213: -6034381801903398391
+    second: GRD-W08_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GRD-W08_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2055e3859076be080800000000000000
+      internalID: -9157112127494925054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1185
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e1b1ce1df09fe30800000000000000
+      internalID: 4537675493836267038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1195
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126aaa825f4d65c40800000000000000
+      internalID: 5500818144293987873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1187
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554403482da22b640800000000000000
+      internalID: 5094181212158706773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1169
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd5032d32d9666c0800000000000000
+      internalID: -4150457229399532033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1181
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fd84944d09222c0800000000000000
+      internalID: -4457841439706390750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1140
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61faad9eb116a2680800000000000000
+      internalID: -8779097751089926378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1163
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a97a9670349cc9b0800000000000000
+      internalID: -5058505345574733404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c305f7ba2cede1490800000000000000
+      internalID: -7773530979112628164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_9
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1181
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d6c80550499d540800000000000000
+      internalID: 5033216809110367600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1157
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb76aaddec5bb27a0800000000000000
+      internalID: -6400822545290205250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208baa8da4633bae0800000000000000
+      internalID: -1534823352912660478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_12
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f7b951735962880800000000000000
+      internalID: -8636051171618095233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 946
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa97f4845324a6fe0800000000000000
+      internalID: -1195069954499577425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 755
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfac900f5b89f270800000000000000
+      internalID: 8284806229673160629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 681
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94927e0ac1b93abc0800000000000000
+      internalID: -3773001515545450167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_16
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 465
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50cce90f2287bfc0800000000000000
+      internalID: -3479169048578834340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_17
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 371
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2156d854bd17290800000000000000
+      internalID: -7894287580032331082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_18
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 302
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f356e7518d49550800000000000000
+      internalID: 6166791376603529010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_19
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 300
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1d90ef7c13c7a10800000000000000
+      internalID: 1908455077128557052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_20
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 305
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3de9a5081970480800000000000000
+      internalID: -8933011355403889688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 67
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c052e3648507d0df0800000000000000
+      internalID: -212390082978634484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 55
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2afb4312b107940800000000000000
+      internalID: 5291759391593177810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_23
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 49
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b73a2a00ff0355b0800000000000000
+      internalID: -5380939606140504139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_24
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 63
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e90e16a4690da80800000000000000
+      internalID: -8444084055105823204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_25
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 65
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b720a2db762bc00800000000000000
+      internalID: 914907736460917530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_26
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d08728694cd3060800000000000000
+      internalID: 6934915151933476186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 29
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84642557ecd3fc030800000000000000
+      internalID: 3517097790940530248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_28
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be31f4c9670121e30800000000000000
+      internalID: 4472655481546937323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_29
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 49
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdbd753bb8d36c30800000000000000
+      internalID: 4351559963537948095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_30
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 31
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9dc42e6a50864c0800000000000000
+      internalID: -4294176030378370615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_31
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d690b6627fed71890800000000000000
+      internalID: -7487270702397322899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 23
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359e6f0d1a30cbf10800000000000000
+      internalID: 2286706704327829843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_33
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 23
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8a18f04085f72b0800000000000000
+      internalID: -5584648238452856650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_34
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 23
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021a9d69e00d2c360800000000000000
+      internalID: 7188536716315697440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_35
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 33
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c561436ecfbde5040800000000000000
+      internalID: 4638386545478604380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-W08_36
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 31
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902677209b1914ca0800000000000000
+      internalID: -6034381801903398391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GRD-W08_0: -9157112127494925054
+      GRD-W08_1: 4537675493836267038
+      GRD-W08_10: -6400822545290205250
+      GRD-W08_11: -1534823352912660478
+      GRD-W08_12: -8636051171618095233
+      GRD-W08_13: -1195069954499577425
+      GRD-W08_14: 8284806229673160629
+      GRD-W08_15: -3773001515545450167
+      GRD-W08_16: -3479169048578834340
+      GRD-W08_17: -7894287580032331082
+      GRD-W08_18: 6166791376603529010
+      GRD-W08_19: 1908455077128557052
+      GRD-W08_2: 5500818144293987873
+      GRD-W08_20: -8933011355403889688
+      GRD-W08_21: -212390082978634484
+      GRD-W08_22: 5291759391593177810
+      GRD-W08_23: -5380939606140504139
+      GRD-W08_24: -8444084055105823204
+      GRD-W08_25: 914907736460917530
+      GRD-W08_26: 6934915151933476186
+      GRD-W08_27: 3517097790940530248
+      GRD-W08_28: 4472655481546937323
+      GRD-W08_29: 4351559963537948095
+      GRD-W08_3: 5094181212158706773
+      GRD-W08_30: -4294176030378370615
+      GRD-W08_31: -7487270702397322899
+      GRD-W08_32: 2286706704327829843
+      GRD-W08_33: -5584648238452856650
+      GRD-W08_34: 7188536716315697440
+      GRD-W08_35: 4638386545478604380
+      GRD-W08_36: -6034381801903398391
+      GRD-W08_4: -4150457229399532033
+      GRD-W08_5: -4457841439706390750
+      GRD-W08_6: -8779097751089926378
+      GRD-W08_7: -5058505345574733404
+      GRD-W08_8: -7773530979112628164
+      GRD-W08_9: 5033216809110367600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: ITM-W06
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: ITM-W06
+  title: "\u74B0\u8EAB\u9152\u5203"
+  ownerRoleId: 
+  effectKey: item.orbiting_blades
+  description: "\u7372\u5F97 1\uFF0F2\uFF0F3 \u679A\u74B0\u8EAB\u9152\u5203\uFF0C\u7B49\u89D2\u5EA6\u74B0\u7E5E\uFF0C\u534A\u5F91 1.4\u3001\u6BCF\u5708 2.4 \u79D2\uFF1B\u63A5\u89F8\u6575\u4EBA\u9020\u6210 60% \u666E\u653B\u57FA\u6E96\u50B7\u5BB3\u3002\u540C\u4E00\u6575\u4EBA\u6BCF 0.5 \u79D2\u6700\u591A\u627F\u53D7\u672C\u5361\u4E00\u6B21\u63A5\u89F8\u50B7\u5BB3\u3002"
+  quality: 0
+  category: 1
+  icon: {fileID: 21300000, guid: 471323dceb2870e42833ee39bc2f8718, type: 3}
+  artBrief: "\u92FC\u88FD\u676F\u588A\u908A\u7DE3\u5C55\u958B\u6210\u9152\u5203\uFF0C\u5728\u5C11\u5973\u8EAB\u65C1\u756B\u51FA\u4E09\u6BB5\u9280\u8272\u5713\u5F27"
+  maxRank: 3
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: counts
+    values:
+    - 1
+    - 2
+    - 3
+  - key: orbitRadius
+    values:
+    - 1.4
+  - key: orbitPeriod
+    values:
+    - 2.4
+  - key: hitRadius
+    values:
+    - 0.25
+  - key: coefficient
+    values:
+    - 0.6
+  - key: sharedTargetIcd
+    values:
+    - 0.5

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: GRD-W03
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: GRD-W03
+  title: "\u91CD\u69CC\u7BC0\u62CD"
+  ownerRoleId: guard_01
+  effectKey: guard.heavy_beat
+  description: "\u6BCF\u7B2C 4\uFF0F3 \u6B21\u666E\u653B\u52D5\u4F5C\uFF0C\u4F7F\u9996\u500B\u547D\u4E2D\u76EE\u6A19\u88AB\u64CA\u9000 0.6 \u4E26\u6688\u7729 0.2 \u79D2\u3002"
+  quality: 0
+  category: 2
+  icon: {fileID: 21300000, guid: 2c4a9b3b49620f341a8477d533787604, type: 3}
+  artBrief: "\u6C89\u91CD\u69CD\u67C4\u6572\u5728\u5427\u6AAF\u4E0A\uFF0C\u9707\u8D77\u56DB\u679A\u676F\u588A"
+  maxRank: 2
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: knockback
+    values:
+    - 0.6
+  - key: attackThresholds
+    values:
+    - 4
+    - 3
+  - key: stun
+    values:
+    - 0.2

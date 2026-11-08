@@ -1,0 +1,5826 @@
+fileFormatVersion: 2
+guid: beccd0cd744e7f04b863cfe73c90b26a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8405709272900464323
+    second: rin-combat-v1_0
+  - first:
+      213: 5563787183392022872
+    second: rin-combat-v1_1
+  - first:
+      213: 5041782800048055650
+    second: rin-combat-v1_2
+  - first:
+      213: -9021091099181610127
+    second: rin-combat-v1_3
+  - first:
+      213: -6613474909856542743
+    second: rin-combat-v1_4
+  - first:
+      213: 2339058555619754704
+    second: rin-combat-v1_5
+  - first:
+      213: 8774326897383411469
+    second: rin-combat-v1_6
+  - first:
+      213: 7628644893674205035
+    second: rin-combat-v1_7
+  - first:
+      213: -7355237282580658873
+    second: rin-combat-v1_8
+  - first:
+      213: 505492734774811361
+    second: rin-combat-v1_9
+  - first:
+      213: 2166350997018883538
+    second: rin-combat-v1_10
+  - first:
+      213: 8613235561311836047
+    second: rin-combat-v1_11
+  - first:
+      213: 8301339525031313087
+    second: rin-combat-v1_12
+  - first:
+      213: 4927429072935270370
+    second: rin-combat-v1_13
+  - first:
+      213: -5408825794638478935
+    second: rin-combat-v1_14
+  - first:
+      213: 2495846885244888473
+    second: rin-combat-v1_15
+  - first:
+      213: -161201615758312146
+    second: rin-combat-v1_16
+  - first:
+      213: -4575970905263872756
+    second: rin-combat-v1_17
+  - first:
+      213: -2270727909111393162
+    second: rin-combat-v1_18
+  - first:
+      213: -1633201989955370202
+    second: rin-combat-v1_19
+  - first:
+      213: -2777564270339046828
+    second: rin-combat-v1_20
+  - first:
+      213: 6634418640968711034
+    second: rin-combat-v1_21
+  - first:
+      213: -6332615167745025967
+    second: rin-combat-v1_22
+  - first:
+      213: -1642840203699745953
+    second: rin-combat-v1_23
+  - first:
+      213: -2089275860468362707
+    second: rin-combat-v1_24
+  - first:
+      213: 5846885833483064279
+    second: rin-combat-v1_25
+  - first:
+      213: 6146598217814416542
+    second: rin-combat-v1_26
+  - first:
+      213: 5427682785470365103
+    second: rin-combat-v1_27
+  - first:
+      213: -9035669053554494905
+    second: rin-combat-v1_28
+  - first:
+      213: 4679040764633163284
+    second: rin-combat-v1_29
+  - first:
+      213: 7620262582552939045
+    second: rin-combat-v1_30
+  - first:
+      213: 5728663446213369400
+    second: rin-combat-v1_31
+  - first:
+      213: -8558793541996623482
+    second: rin-combat-v1_32
+  - first:
+      213: -1050549634458922114
+    second: rin-combat-v1_33
+  - first:
+      213: -7399436203622747271
+    second: rin-combat-v1_34
+  - first:
+      213: -5728449152447018705
+    second: rin-combat-v1_35
+  - first:
+      213: 1836381404714217683
+    second: rin-combat-v1_36
+  - first:
+      213: 592922775003185547
+    second: rin-combat-v1_37
+  - first:
+      213: -6516613555792629349
+    second: rin-combat-v1_38
+  - first:
+      213: 401254455467009797
+    second: rin-combat-v1_39
+  - first:
+      213: -4265887789789013812
+    second: rin-combat-v1_40
+  - first:
+      213: 8613298396877227645
+    second: rin-combat-v1_41
+  - first:
+      213: -983300540359465512
+    second: rin-combat-v1_42
+  - first:
+      213: -5813893229012381269
+    second: rin-combat-v1_43
+  - first:
+      213: -7221054144650834965
+    second: rin-combat-v1_44
+  - first:
+      213: -5675567784508047214
+    second: rin-combat-v1_45
+  - first:
+      213: -6801990556009195055
+    second: rin-combat-v1_46
+  - first:
+      213: 7487793444782487493
+    second: rin-combat-v1_47
+  - first:
+      213: 5849226986885392043
+    second: rin-combat-v1_48
+  - first:
+      213: -6350888507491247400
+    second: rin-combat-v1_49
+  - first:
+      213: -7917251398390535191
+    second: rin-combat-v1_50
+  - first:
+      213: 2992049459036168556
+    second: rin-combat-v1_51
+  - first:
+      213: 598269307695196665
+    second: rin-combat-v1_52
+  - first:
+      213: 7254163677084392400
+    second: rin-combat-v1_53
+  - first:
+      213: -2505676399408014248
+    second: rin-combat-v1_54
+  - first:
+      213: -1979762830941074169
+    second: rin-combat-v1_55
+  - first:
+      213: -5866179447566198151
+    second: rin-combat-v1_56
+  - first:
+      213: -3523337901995597192
+    second: rin-combat-v1_57
+  - first:
+      213: -1279574243665617608
+    second: rin-combat-v1_58
+  - first:
+      213: -3270957062405405882
+    second: rin-combat-v1_59
+  - first:
+      213: 3312540607955766031
+    second: rin-combat-v1_60
+  - first:
+      213: 5633156262353862552
+    second: rin-combat-v1_61
+  - first:
+      213: -6489964794279531749
+    second: rin-combat-v1_62
+  - first:
+      213: 930510764382290614
+    second: rin-combat-v1_63
+  - first:
+      213: -1576114804788216608
+    second: rin-combat-v1_64
+  - first:
+      213: -7240695942882572014
+    second: rin-combat-v1_65
+  - first:
+      213: 5235591287226736918
+    second: rin-combat-v1_66
+  - first:
+      213: -1225139053960718974
+    second: rin-combat-v1_67
+  - first:
+      213: 6380864541894930062
+    second: rin-combat-v1_68
+  - first:
+      213: 7872015663073789340
+    second: rin-combat-v1_69
+  - first:
+      213: -7193185285839157039
+    second: rin-combat-v1_70
+  - first:
+      213: -3441103349741199155
+    second: rin-combat-v1_71
+  - first:
+      213: 7327111015569742345
+    second: rin-combat-v1_72
+  - first:
+      213: 6233036327384776106
+    second: rin-combat-v1_73
+  - first:
+      213: 4970268045733350889
+    second: rin-combat-v1_74
+  - first:
+      213: 6567811605542047120
+    second: rin-combat-v1_75
+  - first:
+      213: 910086786167995512
+    second: rin-combat-v1_76
+  - first:
+      213: 5952539216034346895
+    second: rin-combat-v1_77
+  - first:
+      213: 1701816568103215413
+    second: rin-combat-v1_78
+  - first:
+      213: -1453911882765817164
+    second: rin-combat-v1_79
+  - first:
+      213: -8812082634265112976
+    second: rin-combat-v1_80
+  - first:
+      213: 5355022306815477830
+    second: rin-combat-v1_81
+  - first:
+      213: -4810939083349877404
+    second: rin-combat-v1_82
+  - first:
+      213: 8683289308846617801
+    second: rin-combat-v1_83
+  - first:
+      213: 2663364957066768685
+    second: rin-combat-v1_84
+  - first:
+      213: -3634845263062265909
+    second: rin-combat-v1_85
+  - first:
+      213: -9038202597643054339
+    second: rin-combat-v1_86
+  - first:
+      213: -2858072091095162490
+    second: rin-combat-v1_87
+  - first:
+      213: 4470202713760692126
+    second: rin-combat-v1_88
+  - first:
+      213: 2536747137242100669
+    second: rin-combat-v1_89
+  - first:
+      213: -545454819216265267
+    second: rin-combat-v1_90
+  - first:
+      213: 7408748825698664545
+    second: rin-combat-v1_91
+  - first:
+      213: 4433628540525827654
+    second: rin-combat-v1_92
+  - first:
+      213: -161451604903800958
+    second: rin-combat-v1_93
+  - first:
+      213: -1698513001216850298
+    second: rin-combat-v1_94
+  - first:
+      213: 6340850196434747098
+    second: rin-combat-v1_95
+  - first:
+      213: -1946726873838012747
+    second: rin-combat-v1_96
+  - first:
+      213: -6613438241453567265
+    second: rin-combat-v1_97
+  - first:
+      213: 4276781285643114809
+    second: rin-combat-v1_98
+  - first:
+      213: -2992544240108320656
+    second: rin-combat-v1_99
+  - first:
+      213: 3433443702144520943
+    second: rin-combat-v1_100
+  - first:
+      213: -6278984510954715205
+    second: rin-combat-v1_101
+  - first:
+      213: 3506102328021942565
+    second: rin-combat-v1_102
+  - first:
+      213: 6926943169655533805
+    second: rin-combat-v1_103
+  - first:
+      213: -9075688429479001790
+    second: rin-combat-v1_104
+  - first:
+      213: -7673865913344677564
+    second: rin-combat-v1_105
+  - first:
+      213: -991196272693281224
+    second: rin-combat-v1_106
+  - first:
+      213: -7799783292531405269
+    second: rin-combat-v1_107
+  - first:
+      213: 6054278403227052933
+    second: rin-combat-v1_108
+  - first:
+      213: 6338668296889204871
+    second: rin-combat-v1_109
+  - first:
+      213: -1835646108846086159
+    second: rin-combat-v1_110
+  - first:
+      213: 5274899772708213222
+    second: rin-combat-v1_111
+  - first:
+      213: 4262235510135392364
+    second: rin-combat-v1_112
+  - first:
+      213: 8603014485561335393
+    second: rin-combat-v1_113
+  - first:
+      213: -2239710557677947808
+    second: rin-combat-v1_114
+  - first:
+      213: -732039240195632270
+    second: rin-combat-v1_115
+  - first:
+      213: 6554845724331686984
+    second: rin-combat-v1_116
+  - first:
+      213: 2948435720144405412
+    second: rin-combat-v1_117
+  - first:
+      213: -4067403607873938297
+    second: rin-combat-v1_118
+  - first:
+      213: -3453965005536211818
+    second: rin-combat-v1_119
+  - first:
+      213: 5725756688073824534
+    second: rin-combat-v1_120
+  - first:
+      213: 5137567048728039174
+    second: rin-combat-v1_121
+  - first:
+      213: -7930123005019600599
+    second: rin-combat-v1_122
+  - first:
+      213: -3524976806838218407
+    second: rin-combat-v1_123
+  - first:
+      213: -3258729920531295310
+    second: rin-combat-v1_124
+  - first:
+      213: 2888069484709828946
+    second: rin-combat-v1_125
+  - first:
+      213: -7942816510153800949
+    second: rin-combat-v1_126
+  - first:
+      213: -6236799958586870378
+    second: rin-combat-v1_127
+  - first:
+      213: -4757751042932308167
+    second: rin-combat-v1_128
+  - first:
+      213: -1623407760180073457
+    second: rin-combat-v1_129
+  - first:
+      213: 1893068314367165086
+    second: rin-combat-v1_130
+  - first:
+      213: -8789141515087608566
+    second: rin-combat-v1_131
+  - first:
+      213: -2558076743831997932
+    second: rin-combat-v1_132
+  - first:
+      213: -2974708081242383051
+    second: rin-combat-v1_133
+  - first:
+      213: -4838344150227447166
+    second: rin-combat-v1_134
+  - first:
+      213: 4486055754559210474
+    second: rin-combat-v1_135
+  - first:
+      213: 1162718319350017944
+    second: rin-combat-v1_136
+  - first:
+      213: -1623418566271831502
+    second: rin-combat-v1_137
+  - first:
+      213: -4864909787847745214
+    second: rin-combat-v1_138
+  - first:
+      213: -7720734452963255611
+    second: rin-combat-v1_139
+  - first:
+      213: -1115962576270464027
+    second: rin-combat-v1_140
+  - first:
+      213: -7791197898015281885
+    second: rin-combat-v1_141
+  - first:
+      213: -596083950347247917
+    second: rin-combat-v1_142
+  - first:
+      213: 543821119347643937
+    second: rin-combat-v1_143
+  - first:
+      213: 2802828422979127704
+    second: rin-combat-v1_144
+  - first:
+      213: -8958299430348151855
+    second: rin-combat-v1_145
+  - first:
+      213: 6833459921168852759
+    second: rin-combat-v1_146
+  - first:
+      213: -3514138552443643098
+    second: rin-combat-v1_147
+  - first:
+      213: 3199816800235411063
+    second: rin-combat-v1_148
+  - first:
+      213: 6764325637293028556
+    second: rin-combat-v1_149
+  - first:
+      213: -8835377211824279271
+    second: rin-combat-v1_150
+  - first:
+      213: 7387773774176550146
+    second: rin-combat-v1_151
+  - first:
+      213: 3820293739452975878
+    second: rin-combat-v1_152
+  - first:
+      213: 4945672195913216025
+    second: rin-combat-v1_153
+  - first:
+      213: -973441960633584926
+    second: rin-combat-v1_154
+  - first:
+      213: 6758723430774658052
+    second: rin-combat-v1_155
+  - first:
+      213: 5429239887528516115
+    second: rin-combat-v1_156
+  - first:
+      213: -4350760235056376297
+    second: rin-combat-v1_157
+  - first:
+      213: 1852988449316331835
+    second: rin-combat-v1_158
+  - first:
+      213: 3578223679643309927
+    second: rin-combat-v1_159
+  - first:
+      213: 4444064440360621533
+    second: rin-combat-v1_160
+  - first:
+      213: 6834141669333630384
+    second: rin-combat-v1_161
+  - first:
+      213: 8242830096569290254
+    second: rin-combat-v1_162
+  - first:
+      213: -883822694742829257
+    second: rin-combat-v1_163
+  - first:
+      213: 8435657054754402925
+    second: rin-combat-v1_164
+  - first:
+      213: 7651274658754448316
+    second: rin-combat-v1_165
+  - first:
+      213: -4463490756022772261
+    second: rin-combat-v1_166
+  - first:
+      213: 4296806646662465921
+    second: rin-combat-v1_167
+  - first:
+      213: -5611624404376858943
+    second: rin-combat-v1_168
+  - first:
+      213: -5522792959319997966
+    second: rin-combat-v1_169
+  - first:
+      213: 7436680434814091611
+    second: rin-combat-v1_170
+  - first:
+      213: 8517849123427217324
+    second: rin-combat-v1_171
+  - first:
+      213: 3957488329481578995
+    second: rin-combat-v1_172
+  - first:
+      213: -7644458094792222502
+    second: rin-combat-v1_173
+  - first:
+      213: 6508829265496220105
+    second: rin-combat-v1_174
+  - first:
+      213: -3935483196170716084
+    second: rin-combat-v1_175
+  - first:
+      213: -7320194615114124783
+    second: rin-combat-v1_176
+  - first:
+      213: 1284541906534911519
+    second: rin-combat-v1_177
+  - first:
+      213: 6455024592927878757
+    second: rin-combat-v1_178
+  - first:
+      213: 550901012357496283
+    second: rin-combat-v1_179
+  - first:
+      213: -6184867997488905261
+    second: rin-combat-v1_180
+  - first:
+      213: 5133809215973944111
+    second: rin-combat-v1_181
+  - first:
+      213: -5879328729070661340
+    second: rin-combat-v1_182
+  - first:
+      213: 4199409869771636342
+    second: rin-combat-v1_183
+  - first:
+      213: 3359845523657168578
+    second: rin-combat-v1_184
+  - first:
+      213: 1990464921695580188
+    second: rin-combat-v1_185
+  - first:
+      213: -6215717727911824625
+    second: rin-combat-v1_186
+  - first:
+      213: -6597619426416783828
+    second: rin-combat-v1_187
+  - first:
+      213: -3523524630470808583
+    second: rin-combat-v1_188
+  - first:
+      213: 7222465357375995640
+    second: rin-combat-v1_189
+  - first:
+      213: 1200482814228807530
+    second: rin-combat-v1_190
+  - first:
+      213: -3295887870364716982
+    second: rin-combat-v1_191
+  - first:
+      213: 1836227279610328423
+    second: rin-combat-v1_192
+  - first:
+      213: 2742232056527726021
+    second: rin-combat-v1_193
+  - first:
+      213: -1133779201219483269
+    second: rin-combat-v1_194
+  - first:
+      213: -4163539972246575067
+    second: rin-combat-v1_195
+  - first:
+      213: 2662857894766035632
+    second: rin-combat-v1_196
+  - first:
+      213: 6253984323097169162
+    second: rin-combat-v1_197
+  - first:
+      213: 2331299671488609616
+    second: rin-combat-v1_198
+  - first:
+      213: 5962747555529362970
+    second: rin-combat-v1_199
+  - first:
+      213: -6965225591556092455
+    second: rin-combat-v1_200
+  - first:
+      213: -7854820480103505919
+    second: rin-combat-v1_201
+  - first:
+      213: -605823021494970594
+    second: rin-combat-v1_202
+  - first:
+      213: -5443657070289762673
+    second: rin-combat-v1_203
+  - first:
+      213: 5216696347827729139
+    second: rin-combat-v1_204
+  - first:
+      213: -6425409014987321335
+    second: rin-combat-v1_205
+  - first:
+      213: -7613123174491468152
+    second: rin-combat-v1_206
+  - first:
+      213: -2214747630116955347
+    second: rin-combat-v1_207
+  - first:
+      213: -2434397303782449823
+    second: rin-combat-v1_208
+  - first:
+      213: 5138147524525492654
+    second: rin-combat-v1_209
+  - first:
+      213: 1466685315529443836
+    second: rin-combat-v1_210
+  - first:
+      213: 9097443884379070983
+    second: rin-combat-v1_211
+  - first:
+      213: -6363468055988061458
+    second: rin-combat-v1_212
+  - first:
+      213: 951650777946121245
+    second: rin-combat-v1_213
+  - first:
+      213: -3536074393945853593
+    second: rin-combat-v1_214
+  - first:
+      213: -1171694903103429103
+    second: rin-combat-v1_215
+  - first:
+      213: -4343450337235021043
+    second: rin-combat-v1_216
+  - first:
+      213: -22099097517404562
+    second: rin-combat-v1_217
+  - first:
+      213: 7297570554245343202
+    second: rin-combat-v1_218
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rin-combat-v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 229
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d319f8f93fbe85b80800000000000000
+      internalID: -8405709272900464323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 484
+        width: 251
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851e3ff07fa863d40800000000000000
+      internalID: 5563787183392022872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1202
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265e98f7eb208f540800000000000000
+      internalID: 5041782800048055650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1194
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b87dae075aec280800000000000000
+      internalID: -9021091099181610127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1186
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efca03fb973834a0800000000000000
+      internalID: -6613474909856542743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 871
+        width: 209
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2cd8c0d51067020800000000000000
+      internalID: 2339058555619754704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 863
+        width: 195
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f81b523dba4c970800000000000000
+      internalID: 8774326897383411469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_7
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 674
+        width: 241
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f6c0dcc146ed960800000000000000
+      internalID: 7628644893674205035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_8
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 81
+        width: 236
+        height: 1154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745021549a2fce990800000000000000
+      internalID: -7355237282580658873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_9
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1201
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea1bccc6fed30700800000000000000
+      internalID: 505492734774811361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1181
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5bf1401cc601e10800000000000000
+      internalID: 2166350997018883538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1176
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8711ceab1c588770800000000000000
+      internalID: 8613235561311836047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_12
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1154
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeb66dc058443370800000000000000
+      internalID: 8301339525031313087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_13
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e73d3c92aeb16440800000000000000
+      internalID: 4927429072935270370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_14
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1102
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a18a92d89dffe4b0800000000000000
+      internalID: -5408825794638478935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_15
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1146
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99569c0c48703a220800000000000000
+      internalID: 2495846885244888473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_16
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1091
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2db18b0cfb43cdf0800000000000000
+      internalID: -161201615758312146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_17
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1126
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c056939c4b2ee70c0800000000000000
+      internalID: -4575970905263872756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_18
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1072
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67499db5ff0cc70e0800000000000000
+      internalID: -2270727909111393162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_19
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1104
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623cf367173b559e0800000000000000
+      internalID: -1633201989955370202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_20
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1108
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452cf95230c1479d0800000000000000
+      internalID: -2777564270339046828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_21
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1112
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b7b227a90321c50800000000000000
+      internalID: 6634418640968711034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1070
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1589e4b7e080e18a0800000000000000
+      internalID: -6332615167745025967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_23
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1098
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b0fb3f9857339e0800000000000000
+      internalID: -1642840203699745953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_24
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1080
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d221cf2aca66103e0800000000000000
+      internalID: -2089275860468362707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_25
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1078
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3950bffaf442150800000000000000
+      internalID: 5846885833483064279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_26
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1070
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c90e5538a1d4550800000000000000
+      internalID: 6146598217814416542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_27
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1066
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadb67d7cb0035b40800000000000000
+      internalID: 5427682785470365103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_28
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1074
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742f4ea6edada9280800000000000000
+      internalID: -9035669053554494905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_29
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1076
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4162889e8ca4fe040800000000000000
+      internalID: 4679040764633163284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1033
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ac448e17c90c960800000000000000
+      internalID: 7620262582552939045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1055
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e10557d0d408f40800000000000000
+      internalID: 5728663446213369400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_32
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1053
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6894267be9e093980800000000000000
+      internalID: -8558793541996623482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_33
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1057
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73d82b6ca2bb61f0800000000000000
+      internalID: -1050549634458922114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_34
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1024
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973b6e80afbef4990800000000000000
+      internalID: -7399436203622747271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_35
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1046
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f290282b8d57080b0800000000000000
+      internalID: -5728449152447018705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_36
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1035
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0bf1478232c7910800000000000000
+      internalID: 1836381404714217683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1033
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81cd475f1c7a3800800000000000000
+      internalID: 592922775003185547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_38
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1023
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b913c7c5f765095a0800000000000000
+      internalID: -6516613555792629349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1003
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50767a22dca819500800000000000000
+      internalID: 401254455467009797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_40
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1007
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc813f528a58cc4c0800000000000000
+      internalID: -4265887789789013812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_41
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1011
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d760f4ab145988770800000000000000
+      internalID: 8613298396877227645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_42
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1019
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5ac684e5d9a52f0800000000000000
+      internalID: -983300540359465512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_43
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1013
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba11baa59e6e05fa0800000000000000
+      internalID: -5813893229012381269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_44
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1007
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb8934a389a9cb90800000000000000
+      internalID: -7221054144650834965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_45
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 993
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2904fb1ab255c31b0800000000000000
+      internalID: -5675567784508047214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_46
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 999
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d99287b0a97a91a0800000000000000
+      internalID: -6801990556009195055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_47
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 995
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c732cb477cf9e760800000000000000
+      internalID: 7487793444782487493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_48
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 969
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6aeeb34f0ac2150800000000000000
+      internalID: 5849226986885392043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 963
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da9fd60d8c1dd7a0800000000000000
+      internalID: -6350888507491247400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_50
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 971
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eba771fcc5402290800000000000000
+      internalID: -7917251398390535191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 977
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6120446125e58920800000000000000
+      internalID: 2992049459036168556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_52
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 973
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9e03df3ca7d4800800000000000000
+      internalID: 598269307695196665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 952
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db182b1e67fba460800000000000000
+      internalID: 7254163677084392400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_54
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 947
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c9433279c0a3dd0800000000000000
+      internalID: -2505676399408014248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_55
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 945
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d4c3ac1387684e0800000000000000
+      internalID: -1979762830941074169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_56
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 928
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a9e1f6fd4279ea0800000000000000
+      internalID: -5866179447566198151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_57
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 950
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872e1e778d69a1fc0800000000000000
+      internalID: -3523337901995597192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_58
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 907
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d529e310a0e3ee0800000000000000
+      internalID: -1279574243665617608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_59
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 913
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64345cbc1e93b92d0800000000000000
+      internalID: -3270957062405405882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_60
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 904
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8241e12288fd20800000000000000
+      internalID: 3312540607955766031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_61
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 911
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f7edd56cdfc2e40800000000000000
+      internalID: 5633156262353862552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_62
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 921
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b6d28a7630fe5a0800000000000000
+      internalID: -6489964794279531749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_63
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 911
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b20fa23c96d9ec00800000000000000
+      internalID: 930510764382290614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_64
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 893
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec3d578fe3802ae0800000000000000
+      internalID: -1576114804788216608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_65
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 901
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2194fdd1761e38b90800000000000000
+      internalID: -7240695942882572014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_66
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 878
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611a740598e88a840800000000000000
+      internalID: 5235591287226736918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_67
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 889
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2859630858e6ffee0800000000000000
+      internalID: -1225139053960718974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_68
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 878
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e688b5e726d8850800000000000000
+      internalID: 6380864541894930062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_69
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 867
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9503dfa9840f3d60800000000000000
+      internalID: 7872015663073789340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_70
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 865
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d88df9f71cac2c90800000000000000
+      internalID: -7193185285839157039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_71
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 863
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0e4433cbebe30d0800000000000000
+      internalID: -3441103349741199155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_72
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 865
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ad2e0e5a02fa560800000000000000
+      internalID: 7327111015569742345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_73
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 872
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadffd50481308650800000000000000
+      internalID: 6233036327384776106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_74
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 848
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed49683470f9f440800000000000000
+      internalID: 4970268045733350889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_75
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 871
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d85048bdd852b50800000000000000
+      internalID: 6567811605542047120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 249
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cf1543c1741ac00800000000000000
+      internalID: 910086786167995512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_77
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 844
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f873f4b01eaab9250800000000000000
+      internalID: 5952539216034346895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_78
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 496
+        width: 158
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531aaaee6211e9710800000000000000
+      internalID: 1701816568103215413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_79
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 769
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba260588daa2dbe0800000000000000
+      internalID: -1453911882765817164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_80
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 679
+        width: 125
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e4d35588135b580800000000000000
+      internalID: -8812082634265112976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_81
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 753
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648870a7a6cd05a40800000000000000
+      internalID: 5355022306815477830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_82
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 865
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d13e4a46c1c3db0800000000000000
+      internalID: -4810939083349877404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_83
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 843
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4ffbfce9d318870800000000000000
+      internalID: 8683289308846617801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_84
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 843
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21303d315c26f420800000000000000
+      internalID: 2663364957066768685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_85
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 849
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf89a1dd7f6e8dc0800000000000000
+      internalID: -3634845263062265909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_86
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 807
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df21977bf9ad19280800000000000000
+      internalID: -9038202597643054339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_87
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 804
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681a0db63961658d0800000000000000
+      internalID: -2858072091095162490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_88
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 819
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9771bb1fa9590e30800000000000000
+      internalID: 4470202713760692126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_89
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 813
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3fd40c416543320800000000000000
+      internalID: 2536747137242100669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_90
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 805
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfe69b5bb72e68f0800000000000000
+      internalID: -545454819216265267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_91
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 808
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1608cd1cdc921d660800000000000000
+      internalID: 7408748825698664545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_92
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 815
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6465310daa9678d30800000000000000
+      internalID: 4433628540525827654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_93
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 734
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fca49ee9862cdf0800000000000000
+      internalID: -161451604903800958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_94
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 787
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686461cac6bad68e0800000000000000
+      internalID: -1698513001216850298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_95
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 791
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade757c88a93ff750800000000000000
+      internalID: 6340850196434747098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_96
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 739
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6bd22f836dbf4e0800000000000000
+      internalID: -1946726873838012747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_97
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 752
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd21d2a75f85834a0800000000000000
+      internalID: -6613438241453567265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_98
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 742
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939dbc08bed2a5b30800000000000000
+      internalID: 4276781285643114809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_99
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 693
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078c3b96ed85876d0800000000000000
+      internalID: -2992544240108320656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_100
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 755
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe250ae1bda06af20800000000000000
+      internalID: 3433443702144520943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_101
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 727
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb74d52dad09cd8a0800000000000000
+      internalID: -6278984510954715205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_102
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 746
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5210befbd7d28a030800000000000000
+      internalID: 3506102328021942565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 679
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0f2aebc12712060800000000000000
+      internalID: 6926943169655533805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_104
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 651
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24108cc557dac0280800000000000000
+      internalID: -9075688429479001790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_105
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 672
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449ac151c93f08590800000000000000
+      internalID: -7673865913344677564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_106
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 623
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83efc67dd309e32f0800000000000000
+      internalID: -991196272693281224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_107
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 673
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e83a3ab6a91c390800000000000000
+      internalID: -7799783292531405269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_108
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 671
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58beaab712e150450800000000000000
+      internalID: 6054278403227052933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_109
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 673
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7808c197b3977f750800000000000000
+      internalID: 6338668296889204871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7a6e4f6997686e0800000000000000
+      internalID: -1835646108846086159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_111
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 614
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1df0a4565343940800000000000000
+      internalID: 5274899772708213222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_112
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 628
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c680daa3d90862b30800000000000000
+      internalID: 4262235510135392364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_113
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 646
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e5c69081c046770800000000000000
+      internalID: 8603014485561335393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_114
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 472
+        width: 128
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064f9e14d13fae0e0800000000000000
+      internalID: -2239710557677947808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_115
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 632
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2731e76803647d5f0800000000000000
+      internalID: -732039240195632270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_116
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 503
+        width: 144
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c374c057d77fa50800000000000000
+      internalID: 6554845724331686984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_117
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 640
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3c74e7aa2fae820800000000000000
+      internalID: 2948435720144405412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_118
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 645
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c188af7fdad87c0800000000000000
+      internalID: -4067403607873938297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_119
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 646
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c426a902d0110d0800000000000000
+      internalID: -3453965005536211818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_120
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 648
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61915f61f59f57f40800000000000000
+      internalID: 5725756688073824534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_121
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 615
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fcf25c20e4c4740800000000000000
+      internalID: 5137567048728039174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_122
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 615
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92947ac742b82f190800000000000000
+      internalID: -7930123005019600599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_123
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 612
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951dae23544c41fc0800000000000000
+      internalID: -3524976806838218407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_124
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 621
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b39bcb176aa6c2d0800000000000000
+      internalID: -3258729920531295310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_125
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 620
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25956ca05eb741820800000000000000
+      internalID: 2888069484709828946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_126
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 565
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03cc24877275c190800000000000000
+      internalID: -7942816510153800949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_127
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 514
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695324d4b7f6279a0800000000000000
+      internalID: -6236799958586870378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_128
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 580
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937864452a219fdb0800000000000000
+      internalID: -4757751042932308167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_129
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 576
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0caad84e3f7879e0800000000000000
+      internalID: -1623407760180073457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_130
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 576
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92076d1a97854a10800000000000000
+      internalID: 1893068314367165086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_131
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 560
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a058090eb52b60680800000000000000
+      internalID: -8789141515087608566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 558
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412b4b731c2ef7cd0800000000000000
+      internalID: -2558076743831997932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_133
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 534
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d5013c2c6b7b6d0800000000000000
+      internalID: -2974708081242383051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_134
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 549
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2829a9841afbadcb0800000000000000
+      internalID: -4838344150227447166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_135
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 508
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3491dc0fba14e30800000000000000
+      internalID: 4486055754559210474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_136
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 486
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f62bea62ec22010800000000000000
+      internalID: 1162718319350017944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_137
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 374
+        width: 55
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232f79b4a657879e0800000000000000
+      internalID: -1623418566271831502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_138
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 506
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241a307c25e5c7cb0800000000000000
+      internalID: -4864909787847745214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_139
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 498
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca5106dbe07ad490800000000000000
+      internalID: -7720734452963255611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_140
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 494
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebe4c213fd4380f0800000000000000
+      internalID: -1115962576270464027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_141
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 494
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d67029aca10e390800000000000000
+      internalID: -7791197898015281885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_142
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 510
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de9d3b2ec84ab7f0800000000000000
+      internalID: -596083950347247917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_143
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 444
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12652104d6a0c8700800000000000000
+      internalID: 543821119347643937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_144
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 516
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8990a06c995a5e620800000000000000
+      internalID: 2802828422979127704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_145
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 518
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3a386912abda380800000000000000
+      internalID: -8958299430348151855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_146
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 182
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7176324d79355de50800000000000000
+      internalID: 6833459921168852759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_147
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 486
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b5712fa954b3fc0800000000000000
+      internalID: -3514138552443643098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_148
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 156
+        width: 182
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776db5c2d68086c20800000000000000
+      internalID: 3199816800235411063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_149
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 469
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc43be30456bfdd50800000000000000
+      internalID: 6764325637293028556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_150
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 480
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911f1a8dc3f626580800000000000000
+      internalID: -8835377211824279271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_151
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 129
+        width: 190
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d7db20b15a68660800000000000000
+      internalID: 7387773774176550146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_152
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 352
+        width: 67
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b4ebd4ae8640530800000000000000
+      internalID: 3820293739452975878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_153
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 465
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910feeca8ae82a440800000000000000
+      internalID: 4945672195913216025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_154
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 472
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2b9feb1b3ad72f0800000000000000
+      internalID: -973441960633584926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_155
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 477
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404de6aa62fcbcd50800000000000000
+      internalID: 6758723430774658052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_156
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 456
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ad48099e8885b40800000000000000
+      internalID: 5429239887528516115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_157
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 440
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716d1961e9efe93c0800000000000000
+      internalID: -4350760235056376297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_158
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 145
+        width: 191
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31e6665d2327b910800000000000000
+      internalID: 1852988449316331835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_159
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 463
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767d7087a7768a130800000000000000
+      internalID: 3578223679643309927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_160
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 432
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5d3a6101d7cad30800000000000000
+      internalID: 4444064440360621533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_161
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 444
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd7351b3afb7de50800000000000000
+      internalID: 6834141669333630384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_162
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 406
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e49e9ec4a646270800000000000000
+      internalID: 8242830096569290254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_163
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 400
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737dc6b11f70cb3f0800000000000000
+      internalID: -883822694742829257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_164
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 402
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6277a3b569711570800000000000000
+      internalID: 8435657054754402925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_165
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 376
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbc10293c9ce2a60800000000000000
+      internalID: 7651274658754448316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_166
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 294
+        width: 39
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddd5055ece7e02c0800000000000000
+      internalID: -4463490756022772261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_167
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 360
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1898ad231e251ab30800000000000000
+      internalID: 4296806646662465921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_168
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 394
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce443cf5518f12b0800000000000000
+      internalID: -5611624404376858943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_169
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 368
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f104b380191b53b0800000000000000
+      internalID: -5522792959319997966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_170
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 374
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5101394475643760800000000000000
+      internalID: 7436680434814091611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_171
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 272
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf6044f5aa753670800000000000000
+      internalID: 8517849123427217324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_172
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 351
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9e0810ba2dbe630800000000000000
+      internalID: 3957488329481578995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_173
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 346
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8dc876ddd69e590800000000000000
+      internalID: -7644458094792222502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_174
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 338
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1a1915bb1045a50800000000000000
+      internalID: 6508829265496220105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_175
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 330
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cb9b852ea5269c0800000000000000
+      internalID: -3935483196170716084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_176
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 319
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112356718c1796a90800000000000000
+      internalID: -7320194615114124783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_177
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 306
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ecd16ee0c93d110800000000000000
+      internalID: 1284541906534911519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_178
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e60e5caaad49950800000000000000
+      internalID: 6455024592927878757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_179
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 272
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddb8fb4d8135a700800000000000000
+      internalID: 550901012357496283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_180
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 290
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d30efa335fea2aa0800000000000000
+      internalID: -6184867997488905261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_181
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 223
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2be0c62844fe3740800000000000000
+      internalID: 5133809215973944111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_182
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 268
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4219ef1cbad686ea0800000000000000
+      internalID: -5879328729070661340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_183
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 278
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef102f60d474a30800000000000000
+      internalID: 4199409869771636342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_184
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 262
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c695c9d3b190ae20800000000000000
+      internalID: 3359845523657168578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_185
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 248
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c107a83ec4d8f9b10800000000000000
+      internalID: 1990464921695580188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_186
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 256
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03b7b3a8a55db9a0800000000000000
+      internalID: -6215717727911824625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_187
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 262
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e063d561c8074a0800000000000000
+      internalID: -6597619426416783828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_188
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 229
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fba27b540de91fc0800000000000000
+      internalID: -3523524630470808583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_189
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 231
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fef5fce9f95b3460800000000000000
+      internalID: 7222465357375995640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_190
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 222
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fb11552c8f8a010800000000000000
+      internalID: 1200482814228807530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_191
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 223
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40746bb177a242d0800000000000000
+      internalID: -3295887870364716982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_192
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 135
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7653e086bf69b7910800000000000000
+      internalID: 1836227279610328423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_193
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 197
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c52605c68d5e0620800000000000000
+      internalID: 2742232056527726021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_194
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b792691d2d10440f0800000000000000
+      internalID: -1133779201219483269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_195
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 147
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5286a1264722836c0800000000000000
+      internalID: -4163539972246575067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_196
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 175
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2cfd8952f54f420800000000000000
+      internalID: 2662857894766035632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_197
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 167
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d81195b9d9ac650800000000000000
+      internalID: 6253984323097169162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_198
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 161
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d301013b07a5020800000000000000
+      internalID: 2331299671488609616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_199
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 141
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e08ac4f4fefb250800000000000000
+      internalID: 5962747555529362970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddc6d25a3c865f90800000000000000
+      internalID: -6965225591556092455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_201
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 189
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100a7f4d3621ef290800000000000000
+      internalID: -7854820480103505919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_202
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 113
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17d907fb2fa797f0800000000000000
+      internalID: -605823021494970594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_203
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 142
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86c55e7cbe3474b0800000000000000
+      internalID: -5443657070289762673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_204
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 143
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2795960bd656840800000000000000
+      internalID: 5216696347827729139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_205
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 123
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900961d4b8c54d6a0800000000000000
+      internalID: -6425409014987321335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_206
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 99
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e44211fc0c85690800000000000000
+      internalID: -7613123174491468152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_207
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 87
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b9dbfb3c2a341e0800000000000000
+      internalID: -2214747630116955347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_208
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 73
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dd0e9dc88473ed0800000000000000
+      internalID: -2434397303782449823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_209
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 183
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea905e253fd5e4740800000000000000
+      internalID: 5138147524525492654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_210
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 91
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf90a6d0686ba5410800000000000000
+      internalID: 1466685315529443836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_211
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 167
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702e674330d904e70800000000000000
+      internalID: 9097443884379070983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_212
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 111
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea3947a48b60b7a0800000000000000
+      internalID: -6363468055988061458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_213
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 109
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14e3b92751f43d00800000000000000
+      internalID: 951650777946121245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_214
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 93
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761b089d2175deec0800000000000000
+      internalID: -3536074393945853593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_215
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116626b81bd4dbfe0800000000000000
+      internalID: -1171694903103429103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_216
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d035e8d4ee6f8b3c0800000000000000
+      internalID: -4343450337235021043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_217
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 37
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e4e96ecfc71bff0800000000000000
+      internalID: -22099097517404562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rin-combat-v1_218
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 0
+        width: 180
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7e42141cd264560800000000000000
+      internalID: 7297570554245343202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rin-combat-v1_0: -8405709272900464323
+      rin-combat-v1_1: 5563787183392022872
+      rin-combat-v1_10: 2166350997018883538
+      rin-combat-v1_100: 3433443702144520943
+      rin-combat-v1_101: -6278984510954715205
+      rin-combat-v1_102: 3506102328021942565
+      rin-combat-v1_103: 6926943169655533805
+      rin-combat-v1_104: -9075688429479001790
+      rin-combat-v1_105: -7673865913344677564
+      rin-combat-v1_106: -991196272693281224
+      rin-combat-v1_107: -7799783292531405269
+      rin-combat-v1_108: 6054278403227052933
+      rin-combat-v1_109: 6338668296889204871
+      rin-combat-v1_11: 8613235561311836047
+      rin-combat-v1_110: -1835646108846086159
+      rin-combat-v1_111: 5274899772708213222
+      rin-combat-v1_112: 4262235510135392364
+      rin-combat-v1_113: 8603014485561335393
+      rin-combat-v1_114: -2239710557677947808
+      rin-combat-v1_115: -732039240195632270
+      rin-combat-v1_116: 6554845724331686984
+      rin-combat-v1_117: 2948435720144405412
+      rin-combat-v1_118: -4067403607873938297
+      rin-combat-v1_119: -3453965005536211818
+      rin-combat-v1_12: 8301339525031313087
+      rin-combat-v1_120: 5725756688073824534
+      rin-combat-v1_121: 5137567048728039174
+      rin-combat-v1_122: -7930123005019600599
+      rin-combat-v1_123: -3524976806838218407
+      rin-combat-v1_124: -3258729920531295310
+      rin-combat-v1_125: 2888069484709828946
+      rin-combat-v1_126: -7942816510153800949
+      rin-combat-v1_127: -6236799958586870378
+      rin-combat-v1_128: -4757751042932308167
+      rin-combat-v1_129: -1623407760180073457
+      rin-combat-v1_13: 4927429072935270370
+      rin-combat-v1_130: 1893068314367165086
+      rin-combat-v1_131: -8789141515087608566
+      rin-combat-v1_132: -2558076743831997932
+      rin-combat-v1_133: -2974708081242383051
+      rin-combat-v1_134: -4838344150227447166
+      rin-combat-v1_135: 4486055754559210474
+      rin-combat-v1_136: 1162718319350017944
+      rin-combat-v1_137: -1623418566271831502
+      rin-combat-v1_138: -4864909787847745214
+      rin-combat-v1_139: -7720734452963255611
+      rin-combat-v1_14: -5408825794638478935
+      rin-combat-v1_140: -1115962576270464027
+      rin-combat-v1_141: -7791197898015281885
+      rin-combat-v1_142: -596083950347247917
+      rin-combat-v1_143: 543821119347643937
+      rin-combat-v1_144: 2802828422979127704
+      rin-combat-v1_145: -8958299430348151855
+      rin-combat-v1_146: 6833459921168852759
+      rin-combat-v1_147: -3514138552443643098
+      rin-combat-v1_148: 3199816800235411063
+      rin-combat-v1_149: 6764325637293028556
+      rin-combat-v1_15: 2495846885244888473
+      rin-combat-v1_150: -8835377211824279271
+      rin-combat-v1_151: 7387773774176550146
+      rin-combat-v1_152: 3820293739452975878
+      rin-combat-v1_153: 4945672195913216025
+      rin-combat-v1_154: -973441960633584926
+      rin-combat-v1_155: 6758723430774658052
+      rin-combat-v1_156: 5429239887528516115
+      rin-combat-v1_157: -4350760235056376297
+      rin-combat-v1_158: 1852988449316331835
+      rin-combat-v1_159: 3578223679643309927
+      rin-combat-v1_16: -161201615758312146
+      rin-combat-v1_160: 4444064440360621533
+      rin-combat-v1_161: 6834141669333630384
+      rin-combat-v1_162: 8242830096569290254
+      rin-combat-v1_163: -883822694742829257
+      rin-combat-v1_164: 8435657054754402925
+      rin-combat-v1_165: 7651274658754448316
+      rin-combat-v1_166: -4463490756022772261
+      rin-combat-v1_167: 4296806646662465921
+      rin-combat-v1_168: -5611624404376858943
+      rin-combat-v1_169: -5522792959319997966
+      rin-combat-v1_17: -4575970905263872756
+      rin-combat-v1_170: 7436680434814091611
+      rin-combat-v1_171: 8517849123427217324
+      rin-combat-v1_172: 3957488329481578995
+      rin-combat-v1_173: -7644458094792222502
+      rin-combat-v1_174: 6508829265496220105
+      rin-combat-v1_175: -3935483196170716084
+      rin-combat-v1_176: -7320194615114124783
+      rin-combat-v1_177: 1284541906534911519
+      rin-combat-v1_178: 6455024592927878757
+      rin-combat-v1_179: 550901012357496283
+      rin-combat-v1_18: -2270727909111393162
+      rin-combat-v1_180: -6184867997488905261
+      rin-combat-v1_181: 5133809215973944111
+      rin-combat-v1_182: -5879328729070661340
+      rin-combat-v1_183: 4199409869771636342
+      rin-combat-v1_184: 3359845523657168578
+      rin-combat-v1_185: 1990464921695580188
+      rin-combat-v1_186: -6215717727911824625
+      rin-combat-v1_187: -6597619426416783828
+      rin-combat-v1_188: -3523524630470808583
+      rin-combat-v1_189: 7222465357375995640
+      rin-combat-v1_19: -1633201989955370202
+      rin-combat-v1_190: 1200482814228807530
+      rin-combat-v1_191: -3295887870364716982
+      rin-combat-v1_192: 1836227279610328423
+      rin-combat-v1_193: 2742232056527726021
+      rin-combat-v1_194: -1133779201219483269
+      rin-combat-v1_195: -4163539972246575067
+      rin-combat-v1_196: 2662857894766035632
+      rin-combat-v1_197: 6253984323097169162
+      rin-combat-v1_198: 2331299671488609616
+      rin-combat-v1_199: 5962747555529362970
+      rin-combat-v1_2: 5041782800048055650
+      rin-combat-v1_20: -2777564270339046828
+      rin-combat-v1_200: -6965225591556092455
+      rin-combat-v1_201: -7854820480103505919
+      rin-combat-v1_202: -605823021494970594
+      rin-combat-v1_203: -5443657070289762673
+      rin-combat-v1_204: 5216696347827729139
+      rin-combat-v1_205: -6425409014987321335
+      rin-combat-v1_206: -7613123174491468152
+      rin-combat-v1_207: -2214747630116955347
+      rin-combat-v1_208: -2434397303782449823
+      rin-combat-v1_209: 5138147524525492654
+      rin-combat-v1_21: 6634418640968711034
+      rin-combat-v1_210: 1466685315529443836
+      rin-combat-v1_211: 9097443884379070983
+      rin-combat-v1_212: -6363468055988061458
+      rin-combat-v1_213: 951650777946121245
+      rin-combat-v1_214: -3536074393945853593
+      rin-combat-v1_215: -1171694903103429103
+      rin-combat-v1_216: -4343450337235021043
+      rin-combat-v1_217: -22099097517404562
+      rin-combat-v1_218: 7297570554245343202
+      rin-combat-v1_22: -6332615167745025967
+      rin-combat-v1_23: -1642840203699745953
+      rin-combat-v1_24: -2089275860468362707
+      rin-combat-v1_25: 5846885833483064279
+      rin-combat-v1_26: 6146598217814416542
+      rin-combat-v1_27: 5427682785470365103
+      rin-combat-v1_28: -9035669053554494905
+      rin-combat-v1_29: 4679040764633163284
+      rin-combat-v1_3: -9021091099181610127
+      rin-combat-v1_30: 7620262582552939045
+      rin-combat-v1_31: 5728663446213369400
+      rin-combat-v1_32: -8558793541996623482
+      rin-combat-v1_33: -1050549634458922114
+      rin-combat-v1_34: -7399436203622747271
+      rin-combat-v1_35: -5728449152447018705
+      rin-combat-v1_36: 1836381404714217683
+      rin-combat-v1_37: 592922775003185547
+      rin-combat-v1_38: -6516613555792629349
+      rin-combat-v1_39: 401254455467009797
+      rin-combat-v1_4: -6613474909856542743
+      rin-combat-v1_40: -4265887789789013812
+      rin-combat-v1_41: 8613298396877227645
+      rin-combat-v1_42: -983300540359465512
+      rin-combat-v1_43: -5813893229012381269
+      rin-combat-v1_44: -7221054144650834965
+      rin-combat-v1_45: -5675567784508047214
+      rin-combat-v1_46: -6801990556009195055
+      rin-combat-v1_47: 7487793444782487493
+      rin-combat-v1_48: 5849226986885392043
+      rin-combat-v1_49: -6350888507491247400
+      rin-combat-v1_5: 2339058555619754704
+      rin-combat-v1_50: -7917251398390535191
+      rin-combat-v1_51: 2992049459036168556
+      rin-combat-v1_52: 598269307695196665
+      rin-combat-v1_53: 7254163677084392400
+      rin-combat-v1_54: -2505676399408014248
+      rin-combat-v1_55: -1979762830941074169
+      rin-combat-v1_56: -5866179447566198151
+      rin-combat-v1_57: -3523337901995597192
+      rin-combat-v1_58: -1279574243665617608
+      rin-combat-v1_59: -3270957062405405882
+      rin-combat-v1_6: 8774326897383411469
+      rin-combat-v1_60: 3312540607955766031
+      rin-combat-v1_61: 5633156262353862552
+      rin-combat-v1_62: -6489964794279531749
+      rin-combat-v1_63: 930510764382290614
+      rin-combat-v1_64: -1576114804788216608
+      rin-combat-v1_65: -7240695942882572014
+      rin-combat-v1_66: 5235591287226736918
+      rin-combat-v1_67: -1225139053960718974
+      rin-combat-v1_68: 6380864541894930062
+      rin-combat-v1_69: 7872015663073789340
+      rin-combat-v1_7: 7628644893674205035
+      rin-combat-v1_70: -7193185285839157039
+      rin-combat-v1_71: -3441103349741199155
+      rin-combat-v1_72: 7327111015569742345
+      rin-combat-v1_73: 6233036327384776106
+      rin-combat-v1_74: 4970268045733350889
+      rin-combat-v1_75: 6567811605542047120
+      rin-combat-v1_76: 910086786167995512
+      rin-combat-v1_77: 5952539216034346895
+      rin-combat-v1_78: 1701816568103215413
+      rin-combat-v1_79: -1453911882765817164
+      rin-combat-v1_8: -7355237282580658873
+      rin-combat-v1_80: -8812082634265112976
+      rin-combat-v1_81: 5355022306815477830
+      rin-combat-v1_82: -4810939083349877404
+      rin-combat-v1_83: 8683289308846617801
+      rin-combat-v1_84: 2663364957066768685
+      rin-combat-v1_85: -3634845263062265909
+      rin-combat-v1_86: -9038202597643054339
+      rin-combat-v1_87: -2858072091095162490
+      rin-combat-v1_88: 4470202713760692126
+      rin-combat-v1_89: 2536747137242100669
+      rin-combat-v1_9: 505492734774811361
+      rin-combat-v1_90: -545454819216265267
+      rin-combat-v1_91: 7408748825698664545
+      rin-combat-v1_92: 4433628540525827654
+      rin-combat-v1_93: -161451604903800958
+      rin-combat-v1_94: -1698513001216850298
+      rin-combat-v1_95: 6340850196434747098
+      rin-combat-v1_96: -1946726873838012747
+      rin-combat-v1_97: -6613438241453567265
+      rin-combat-v1_98: 4276781285643114809
+      rin-combat-v1_99: -2992544240108320656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

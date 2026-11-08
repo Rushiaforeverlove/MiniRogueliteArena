@@ -14,7 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterId: guard_01
   displayName: "\u9632\u885B\u968A\u54E1"
-  portrait: {fileID: 0}
+  identityProfile: {fileID: 11400000, guid: 150b75ae6bc09de4eb94e0c7cd3275a5, type: 2}
+  unlockedByDefault: 1
+  unlockCost: 500
+  portrait: {fileID: 21300000, guid: b97e0921848914d42aa59aabc727ec5c, type: 3}
   gameplaySprite: {fileID: 0}
   skins:
   - {fileID: 11400000, guid: 4ef5f52e41d34ae4c98bd5cebec9ed67, type: 2}
@@ -40,3 +43,5 @@ MonoBehaviour:
   enhancedESkill: {fileID: 11400000, guid: 0108a35c7dd624243b4807e66b3c6d16, type: 2}
   qEnhanceCost: 200
   enhancedQSkill: {fileID: 11400000, guid: 286a9ff55bf8ba94aa050513e0d39c69, type: 2}
+  nodeFiveCost: 250
+  masteryRewardSkin: {fileID: 0}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: MIO-P01
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: MIO-P01
+  title: "\u4E09\u62CD\u65B7\u594F"
+  ownerRoleId: mio_01
+  effectKey: mio.three_beats
+  description: "\u6BCF\u7B2C\u4E09\u6B21\u9EDE\u6309\u8FFD\u52A0\u77ED\u8DDD\u96E2\u885D\u64CA\u6CE2\uFF0C\u9020\u6210\u9EDE\u6309\u57FA\u6E96\u50B7\u5BB3 80%\uFF1B\u63EE\u7A7A\u4E5F\u8A08\u6578\u3002"
+  quality: 1
+  category: 2
+  icon: {fileID: -8505650963158372769, guid: e3ad5dbb5b6f4d5408361246d60b0c5e, type: 2}
+  artBrief: "\u7720\u6708\u5DE8\u528D\uFF0F\u6708\u8272\uFF0F\u62D6\u528D\u8207\u89E3\u653E\uFF1B\u5716\u96C6\u683C 8"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  requiredCardIds: []
+  numbers:
+  - key: coefficient
+    values:
+    - 0.8
+  - key: count
+    values:
+    - 3
+  - key: range
+    values:
+    - 3

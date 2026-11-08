@@ -1,0 +1,4256 @@
+{
+  "version": 1,
+  "heroes": [
+    {
+      "key": "rin",
+      "characterId": "scout_01",
+      "hubHeight": 1.85,
+      "battleHeight": 1.85,
+      "circularSkills": false,
+      "motions": [
+        {
+          "key": "hub.idle",
+          "duration": 2,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 0,
+                "y": 915,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.021739130434782594
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 229,
+                "y": 915,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.017391304347826098
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 458,
+                "y": 915,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.017391304347826098
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 687,
+                "y": 915,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.017391304347826098
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 916,
+                "y": 915,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.017391304347826098
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 1145,
+                "y": 915,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.017391304347826098
+              },
+              "pixelsPerUnit": 115.67567567567568
+            }
+          ]
+        },
+        {
+          "key": "hub.walk",
+          "duration": 0.85,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 0,
+                "y": 697,
+                "width": 229,
+                "height": 218
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.041284403669724745
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 229,
+                "y": 697,
+                "width": 229,
+                "height": 218
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.041284403669724745
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 458,
+                "y": 697,
+                "width": 229,
+                "height": 218
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.041284403669724745
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 687,
+                "y": 697,
+                "width": 229,
+                "height": 218
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.041284403669724745
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 916,
+                "y": 697,
+                "width": 229,
+                "height": 218
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.041284403669724745
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 1145,
+                "y": 697,
+                "width": 229,
+                "height": 218
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.041284403669724745
+              },
+              "pixelsPerUnit": 115.67567567567568
+            }
+          ]
+        },
+        {
+          "key": "hub.special",
+          "duration": 4,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 0,
+                "y": 465,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.03448275862068961
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 229,
+                "y": 465,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.03448275862068961
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 458,
+                "y": 465,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.03448275862068961
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 687,
+                "y": 465,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.03448275862068961
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 916,
+                "y": 465,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.03448275862068961
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 1145,
+                "y": 465,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.03448275862068961
+              },
+              "pixelsPerUnit": 115.67567567567568
+            }
+          ]
+        },
+        {
+          "key": "hub.seat",
+          "duration": 3.6,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 0,
+                "y": 235,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.034782608695652195
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 229,
+                "y": 235,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.034782608695652195
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 458,
+                "y": 235,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.034782608695652195
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 687,
+                "y": 235,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.034782608695652195
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 916,
+                "y": 235,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.034782608695652195
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 1145,
+                "y": 235,
+                "width": 229,
+                "height": 230
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.034782608695652195
+              },
+              "pixelsPerUnit": 115.67567567567568
+            }
+          ]
+        },
+        {
+          "key": "hub.seatSpecial",
+          "duration": 4,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 229,
+                "height": 235
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.05957446808510636
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 229,
+                "y": 0,
+                "width": 229,
+                "height": 235
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.05957446808510636
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 458,
+                "y": 0,
+                "width": 229,
+                "height": 235
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.05957446808510636
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 687,
+                "y": 0,
+                "width": 229,
+                "height": 235
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.05957446808510636
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 916,
+                "y": 0,
+                "width": 229,
+                "height": 235
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.06382978723404253
+              },
+              "pixelsPerUnit": 115.67567567567568
+            },
+            {
+              "texture": "rin-hub-v2",
+              "rect": {
+                "x": 1145,
+                "y": 0,
+                "width": 229,
+                "height": 235
+              },
+              "pivot": {
+                "x": 0.6026200873362445,
+                "y": 0.06382978723404253
+              },
+              "pixelsPerUnit": 115.67567567567568
+            }
+          ]
+        },
+        {
+          "key": "combat.idle",
+          "duration": 1.5,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 1063,
+                "width": 212,
+                "height": 172
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 1063,
+                "width": 213,
+                "height": 172
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 1063,
+                "width": 212,
+                "height": 172
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 1063,
+                "width": 212,
+                "height": 172
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 1063,
+                "width": 213,
+                "height": 172
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 1063,
+                "width": 212,
+                "height": 172
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            }
+          ]
+        },
+        {
+          "key": "combat.walk",
+          "duration": 0.8,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 869,
+                "width": 212,
+                "height": 194
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 869,
+                "width": 213,
+                "height": 194
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 869,
+                "width": 212,
+                "height": 194
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.11340206185567014
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 869,
+                "width": 212,
+                "height": 194
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 869,
+                "width": 213,
+                "height": 194
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 869,
+                "width": 212,
+                "height": 194
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            }
+          ]
+        },
+        {
+          "key": "combat.shoot",
+          "duration": 0.5,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 707,
+                "width": 212,
+                "height": 162
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 707,
+                "width": 213,
+                "height": 162
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 707,
+                "width": 212,
+                "height": 162
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 707,
+                "width": 212,
+                "height": 162
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 707,
+                "width": 213,
+                "height": 162
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 707,
+                "width": 212,
+                "height": 162
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            }
+          ]
+        },
+        {
+          "key": "combat.moveShoot",
+          "duration": 0.8,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 525,
+                "width": 212,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 525,
+                "width": 213,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 525,
+                "width": 212,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 525,
+                "width": 212,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 525,
+                "width": 213,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 525,
+                "width": 212,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0
+              },
+              "pixelsPerUnit": 88.1081081081081
+            }
+          ]
+        },
+        {
+          "key": "combat.dodge",
+          "duration": 0.6,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 343,
+                "width": 212,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.02197802197802201
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 343,
+                "width": 213,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.02197802197802201
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 343,
+                "width": 212,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0714285714285714
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 343,
+                "width": 212,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.04395604395604391
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 343,
+                "width": 213,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.02197802197802201
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 343,
+                "width": 212,
+                "height": 182
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.02197802197802201
+              },
+              "pixelsPerUnit": 88.1081081081081
+            }
+          ]
+        },
+        {
+          "key": "combat.hurt",
+          "duration": 0.55,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 166,
+                "width": 212,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.016949152542372836
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 166,
+                "width": 213,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.016949152542372836
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 166,
+                "width": 212,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.02259887005649719
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 166,
+                "width": 212,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.016949152542372836
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 166,
+                "width": 213,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.016949152542372836
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 166,
+                "width": 212,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.016949152542372836
+              },
+              "pixelsPerUnit": 88.1081081081081
+            }
+          ]
+        },
+        {
+          "key": "combat.death",
+          "duration": 1.1,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 212,
+                "height": 166
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.048192771084337394
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 0,
+                "width": 213,
+                "height": 166
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.054216867469879526
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 0,
+                "width": 212,
+                "height": 166
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.06024096385542166
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 0,
+                "width": 212,
+                "height": 166
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.0662650602409639
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 0,
+                "width": 213,
+                "height": 166
+              },
+              "pivot": {
+                "x": 0.6666666666666666,
+                "y": 0.0662650602409639
+              },
+              "pixelsPerUnit": 88.1081081081081
+            },
+            {
+              "texture": "rin-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 0,
+                "width": 212,
+                "height": 166
+              },
+              "pivot": {
+                "x": 0.6698113207547169,
+                "y": 0.07228915662650603
+              },
+              "pixelsPerUnit": 88.1081081081081
+            }
+          ]
+        },
+        {
+          "key": "skill.e",
+          "duration": 0.8,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 0,
+                "y": 770,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.019685039370078705
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 256,
+                "y": 770,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.019685039370078705
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 512,
+                "y": 770,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.019685039370078705
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 768,
+                "y": 770,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.019685039370078705
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 1024,
+                "y": 770,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.019685039370078705
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 1280,
+                "y": 770,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.019685039370078705
+              },
+              "pixelsPerUnit": 130.27027027027026
+            }
+          ]
+        },
+        {
+          "key": "skill.q",
+          "duration": 0.9,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 0,
+                "y": 512,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.027131782945736482
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 256,
+                "y": 512,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.027131782945736482
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 512,
+                "y": 512,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.027131782945736482
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 768,
+                "y": 512,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.027131782945736482
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 1024,
+                "y": 512,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.027131782945736482
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 1280,
+                "y": 512,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.027131782945736482
+              },
+              "pixelsPerUnit": 130.27027027027026
+            }
+          ]
+        },
+        {
+          "key": "action.talk",
+          "duration": 2.5,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 0,
+                "y": 256,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 256,
+                "y": 256,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 512,
+                "y": 256,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 768,
+                "y": 256,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 1024,
+                "y": 256,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 1280,
+                "y": 256,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            }
+          ]
+        },
+        {
+          "key": "action.victory",
+          "duration": 2.5,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 256,
+                "y": 0,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 512,
+                "y": 0,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 768,
+                "y": 0,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 1024,
+                "y": 0,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "rin-actions-v1",
+              "rect": {
+                "x": 1280,
+                "y": 0,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.62890625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            }
+          ]
+        },
+        {
+          "key": "fx.muzzle",
+          "duration": 0.45,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 0,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 256,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 512,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 768,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 1024,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 1280,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            }
+          ]
+        },
+        {
+          "key": "fx.projectile",
+          "duration": 0.45,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 0,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 256,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 512,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 768,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 1024,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 1280,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            }
+          ]
+        },
+        {
+          "key": "fx.hit",
+          "duration": 0.45,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 0,
+                "y": 268,
+                "width": 256,
+                "height": 244
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 256,
+                "y": 268,
+                "width": 256,
+                "height": 244
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 512,
+                "y": 268,
+                "width": 256,
+                "height": 244
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 768,
+                "y": 268,
+                "width": 256,
+                "height": 244
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 1024,
+                "y": 268,
+                "width": 256,
+                "height": 244
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 1280,
+                "y": 268,
+                "width": 256,
+                "height": 244
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            }
+          ]
+        },
+        {
+          "key": "fx.q",
+          "duration": 0.45,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 256,
+                "height": 268
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 256,
+                "y": 0,
+                "width": 256,
+                "height": 268
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 512,
+                "y": 0,
+                "width": 256,
+                "height": 268
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 768,
+                "y": 0,
+                "width": 256,
+                "height": 268
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 1024,
+                "y": 0,
+                "width": 256,
+                "height": 268
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            },
+            {
+              "texture": "rin-fx-v1",
+              "rect": {
+                "x": 1280,
+                "y": 0,
+                "width": 256,
+                "height": 268
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 42.16216216216216
+            }
+          ]
+        }
+      ],
+      "seatUpper": {
+        "key": "seat.upper",
+        "duration": 3.6,
+        "loop": true,
+        "frames": [
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 0,
+              "y": 312.0162162162162,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          },
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 229,
+              "y": 312.0162162162162,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          },
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 458,
+              "y": 312.0162162162162,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          },
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 687,
+              "y": 312.0162162162162,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          },
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 916,
+              "y": 312.0162162162162,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          },
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 1145,
+              "y": 312.0162162162162,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          }
+        ]
+      },
+      "seatSpecialUpper": {
+        "key": "seat.upper",
+        "duration": 4,
+        "loop": true,
+        "frames": [
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 0,
+              "y": 82.01621621621621,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          },
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 229,
+              "y": 82.01621621621621,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          },
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 458,
+              "y": 82.01621621621621,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          },
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 687,
+              "y": 82.01621621621621,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          },
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 916,
+              "y": 82.01621621621621,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          },
+          {
+            "texture": "rin-hub-v2",
+            "rect": {
+              "x": 1145,
+              "y": 82.01621621621621,
+              "width": 229,
+              "height": 152.9837837837838
+            },
+            "pivot": {
+              "x": 0.55,
+              "y": 0.03780651544060487
+            },
+            "pixelsPerUnit": 115.67567567567568
+          }
+        ]
+      },
+      "seatLower": {
+        "texture": "rin-hub-v2",
+        "rect": {
+          "x": 0,
+          "y": 235.0,
+          "width": 229,
+          "height": 77.01621621621621
+        },
+        "pivot": {
+          "x": 0.55,
+          "y": 1.0750982594048286
+        },
+        "pixelsPerUnit": 115.67567567567568
+      },
+      "profile": {
+        "id": "scout_01",
+        "name": "朝霧 凜",
+        "job": "偵察員",
+        "role": "機動遠程・掃線射手",
+        "skin": "巡路者・標準裝備",
+        "hubHeight": 1.85,
+        "battleHeight": 1.85,
+        "summary": "負責替酒吧尋找重返地面的路。她總是第一個探出掩體，也總記得替隊友留下撤離的空間。比起站著硬拚，她更相信一條乾淨的射線。",
+        "personality": "爽朗、反應快，等人時總愛把玩手上的手槍。嘴上說著只是順路，回程時卻常帶著別人託付的小東西。",
+        "traits": [
+          "靈活走位",
+          "扇形掃線",
+          "穿透成長",
+          "環狀爆裂"
+        ],
+        "strength": "移動快、容易調整射線；強化 E 可沿敵群穿透，強化 Q 的爆裂適合密集目標。",
+        "caution": "生命較低，保留閃避與撤退路線。她的大招是環狀彈幕，並不提供無敵。",
+        "greeting": "回來啦？先坐一下，我把路線整理給你。",
+        "stats": {
+          "hp": 1000,
+          "moveSpeed": 5,
+          "damage": 100,
+          "interval": 0.6,
+          "range": 8
+        },
+        "e": {
+          "name": "扇形射擊",
+          "enhancedName": "穿透射擊",
+          "cooldown": 6,
+          "count": 5,
+          "spread": 60,
+          "damage": 100,
+          "targets": 3,
+          "base": "自動朝範圍內最近的敵人發射 5 枚子彈，散布角度 60°。沒有有效目標時不消耗充能；滑鼠瞄準目前適用於普通攻擊。",
+          "enhanced": "保留最近目標鎖定與 5 發扇形射擊；每枚子彈最多命中 3 名敵人。利用走位讓敵群排列在射線上能提高收益。",
+          "previewKind": "fan"
+        },
+        "q": {
+          "name": "全方位彈幕",
+          "enhancedName": "爆裂彈幕",
+          "cooldown": 20,
+          "count": 16,
+          "damage": 100,
+          "explosionRadius": 1.2,
+          "base": "向四周同時發射 16 枚子彈，清理周圍的敵群。",
+          "enhanced": "環狀彈幕命中敵人後爆裂，擴大對密集目標的傷害；爆裂的正式數值沿用現有戰鬥邏輯。",
+          "previewKind": "radial"
+        },
+        "seatAnchor": [
+          0.55,
+          0.64
+        ]
+      }
+    },
+    {
+      "key": "chitose",
+      "characterId": "guard_01",
+      "hubHeight": 2.05,
+      "battleHeight": 1.85,
+      "circularSkills": true,
+      "motions": [
+        {
+          "key": "hub.idle",
+          "duration": 2,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 0,
+                "y": 919,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 229,
+                "y": 919,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 458,
+                "y": 919,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 687,
+                "y": 919,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 916,
+                "y": 919,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 1145,
+                "y": 919,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            }
+          ]
+        },
+        {
+          "key": "hub.walk",
+          "duration": 0.85,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 0,
+                "y": 693,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 229,
+                "y": 693,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 458,
+                "y": 693,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 687,
+                "y": 693,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 916,
+                "y": 693,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 1145,
+                "y": 693,
+                "width": 229,
+                "height": 226
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03982300884955747
+              },
+              "pixelsPerUnit": 114.59459459459458
+            }
+          ]
+        },
+        {
+          "key": "hub.special",
+          "duration": 4,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 0,
+                "y": 461,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.0431034482758621
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 229,
+                "y": 461,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.0431034482758621
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 458,
+                "y": 461,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03879310344827591
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 687,
+                "y": 461,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03879310344827591
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 916,
+                "y": 461,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03879310344827591
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 1145,
+                "y": 461,
+                "width": 229,
+                "height": 232
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.03879310344827591
+              },
+              "pixelsPerUnit": 114.59459459459458
+            }
+          ]
+        },
+        {
+          "key": "hub.seat",
+          "duration": 3.6,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 0,
+                "y": 233,
+                "width": 229,
+                "height": 228
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.04385964912280704
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 229,
+                "y": 233,
+                "width": 229,
+                "height": 228
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.04385964912280704
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 458,
+                "y": 233,
+                "width": 229,
+                "height": 228
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.04385964912280704
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 687,
+                "y": 233,
+                "width": 229,
+                "height": 228
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.04385964912280704
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 916,
+                "y": 233,
+                "width": 229,
+                "height": 228
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.04385964912280704
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 1145,
+                "y": 233,
+                "width": 229,
+                "height": 228
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.04385964912280704
+              },
+              "pixelsPerUnit": 114.59459459459458
+            }
+          ]
+        },
+        {
+          "key": "hub.seatSpecial",
+          "duration": 4,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 229,
+                "height": 233
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.06008583690987124
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 229,
+                "y": 0,
+                "width": 229,
+                "height": 233
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.06008583690987124
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 458,
+                "y": 0,
+                "width": 229,
+                "height": 233
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.06008583690987124
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 687,
+                "y": 0,
+                "width": 229,
+                "height": 233
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.06008583690987124
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 916,
+                "y": 0,
+                "width": 229,
+                "height": 233
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.06008583690987124
+              },
+              "pixelsPerUnit": 114.59459459459458
+            },
+            {
+              "texture": "chitose-hub-v2",
+              "rect": {
+                "x": 1145,
+                "y": 0,
+                "width": 229,
+                "height": 233
+              },
+              "pivot": {
+                "x": 0.5545851528384279,
+                "y": 0.06008583690987124
+              },
+              "pixelsPerUnit": 114.59459459459458
+            }
+          ]
+        },
+        {
+          "key": "combat.idle",
+          "duration": 1.5,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 1052,
+                "width": 212,
+                "height": 183
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.032786885245901676
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 1052,
+                "width": 213,
+                "height": 183
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.032786885245901676
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 1052,
+                "width": 212,
+                "height": 183
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.032786885245901676
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 1052,
+                "width": 212,
+                "height": 183
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.032786885245901676
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 1052,
+                "width": 213,
+                "height": 183
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.032786885245901676
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 1052,
+                "width": 212,
+                "height": 183
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.032786885245901676
+              },
+              "pixelsPerUnit": 91.89189189189189
+            }
+          ]
+        },
+        {
+          "key": "combat.walk",
+          "duration": 0.8,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 873,
+                "width": 212,
+                "height": 179
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.022346368715083775
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 873,
+                "width": 213,
+                "height": 179
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.022346368715083775
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 873,
+                "width": 212,
+                "height": 179
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.022346368715083775
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 873,
+                "width": 212,
+                "height": 179
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.022346368715083775
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 873,
+                "width": 213,
+                "height": 179
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.027932960893854775
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 873,
+                "width": 212,
+                "height": 179
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.022346368715083775
+              },
+              "pixelsPerUnit": 91.89189189189189
+            }
+          ]
+        },
+        {
+          "key": "combat.shoot",
+          "duration": 0.5,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 696,
+                "width": 212,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.016949152542372836
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 696,
+                "width": 213,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.016949152542372836
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 696,
+                "width": 212,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.016949152542372836
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 696,
+                "width": 212,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.016949152542372836
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 696,
+                "width": 213,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.016949152542372836
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 696,
+                "width": 212,
+                "height": 177
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.016949152542372836
+              },
+              "pixelsPerUnit": 91.89189189189189
+            }
+          ]
+        },
+        {
+          "key": "combat.moveShoot",
+          "duration": 0.8,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 521,
+                "width": 212,
+                "height": 175
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.03428571428571425
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 521,
+                "width": 213,
+                "height": 175
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.03428571428571425
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 521,
+                "width": 212,
+                "height": 175
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.03428571428571425
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 521,
+                "width": 212,
+                "height": 175
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.03428571428571425
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 521,
+                "width": 213,
+                "height": 175
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.03428571428571425
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 521,
+                "width": 212,
+                "height": 175
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.03428571428571425
+              },
+              "pixelsPerUnit": 91.89189189189189
+            }
+          ]
+        },
+        {
+          "key": "combat.dodge",
+          "duration": 0.6,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 345,
+                "width": 212,
+                "height": 176
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.02840909090909094
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 345,
+                "width": 213,
+                "height": 176
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.03409090909090906
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 345,
+                "width": 212,
+                "height": 176
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.03409090909090906
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 345,
+                "width": 212,
+                "height": 176
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.03409090909090906
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 345,
+                "width": 213,
+                "height": 176
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.045454545454545414
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 345,
+                "width": 212,
+                "height": 176
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.03409090909090906
+              },
+              "pixelsPerUnit": 91.89189189189189
+            }
+          ]
+        },
+        {
+          "key": "combat.hurt",
+          "duration": 0.55,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 171,
+                "width": 212,
+                "height": 174
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.02298850574712641
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 171,
+                "width": 213,
+                "height": 174
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.03448275862068961
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 171,
+                "width": 212,
+                "height": 174
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.028735632183908066
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 171,
+                "width": 212,
+                "height": 174
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.028735632183908066
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 171,
+                "width": 213,
+                "height": 174
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.04022988505747127
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 171,
+                "width": 212,
+                "height": 174
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.03448275862068961
+              },
+              "pixelsPerUnit": 91.89189189189189
+            }
+          ]
+        },
+        {
+          "key": "combat.death",
+          "duration": 1.1,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 212,
+                "height": 171
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.0292397660818714
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 212,
+                "y": 0,
+                "width": 213,
+                "height": 171
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.0292397660818714
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 425,
+                "y": 0,
+                "width": 212,
+                "height": 171
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.040935672514619936
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 637,
+                "y": 0,
+                "width": 212,
+                "height": 171
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.040935672514619936
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 849,
+                "y": 0,
+                "width": 213,
+                "height": 171
+              },
+              "pivot": {
+                "x": 0.5915492957746479,
+                "y": 0.04678362573099415
+              },
+              "pixelsPerUnit": 91.89189189189189
+            },
+            {
+              "texture": "chitose-combat-v1",
+              "rect": {
+                "x": 1062,
+                "y": 0,
+                "width": 212,
+                "height": 171
+              },
+              "pivot": {
+                "x": 0.5943396226415094,
+                "y": 0.04678362573099415
+              },
+              "pixelsPerUnit": 91.89189189189189
+            }
+          ]
+        },
+        {
+          "key": "skill.e",
+          "duration": 0.8,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 0,
+                "y": 766,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.027131782945736482
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 256,
+                "y": 766,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.027131782945736482
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 512,
+                "y": 766,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.03100775193798455
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 768,
+                "y": 766,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.03100775193798455
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 1024,
+                "y": 766,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.03100775193798455
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 1280,
+                "y": 766,
+                "width": 256,
+                "height": 258
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.027131782945736482
+              },
+              "pixelsPerUnit": 130.27027027027026
+            }
+          ]
+        },
+        {
+          "key": "skill.q",
+          "duration": 0.9,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 0,
+                "y": 510,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 256,
+                "y": 510,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.0234375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 512,
+                "y": 510,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.03125
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 768,
+                "y": 510,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.0234375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 1024,
+                "y": 510,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.03125
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 1280,
+                "y": 510,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            }
+          ]
+        },
+        {
+          "key": "action.talk",
+          "duration": 2.5,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 0,
+                "y": 254,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 256,
+                "y": 254,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 512,
+                "y": 254,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 768,
+                "y": 254,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.046875
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 1024,
+                "y": 254,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.046875
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 1280,
+                "y": 254,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.02734375
+              },
+              "pixelsPerUnit": 130.27027027027026
+            }
+          ]
+        },
+        {
+          "key": "action.victory",
+          "duration": 2.5,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.019685039370078705
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 256,
+                "y": 0,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.019685039370078705
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 512,
+                "y": 0,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.027559055118110187
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 768,
+                "y": 0,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.03149606299212604
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 1024,
+                "y": 0,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.027559055118110187
+              },
+              "pixelsPerUnit": 130.27027027027026
+            },
+            {
+              "texture": "chitose-actions-v1",
+              "rect": {
+                "x": 1280,
+                "y": 0,
+                "width": 256,
+                "height": 254
+              },
+              "pivot": {
+                "x": 0.47265625,
+                "y": 0.019685039370078705
+              },
+              "pixelsPerUnit": 130.27027027027026
+            }
+          ]
+        },
+        {
+          "key": "fx.muzzle",
+          "duration": 0.45,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 0,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 256,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 512,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 768,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 1024,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 1280,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            }
+          ]
+        },
+        {
+          "key": "fx.projectile",
+          "duration": 0.45,
+          "loop": true,
+          "frames": [
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 0,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 256,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 512,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 768,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 1024,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 1280,
+                "y": 512,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            }
+          ]
+        },
+        {
+          "key": "fx.e",
+          "duration": 0.45,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 0,
+                "y": 262,
+                "width": 256,
+                "height": 250
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 256,
+                "y": 262,
+                "width": 256,
+                "height": 250
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 512,
+                "y": 262,
+                "width": 256,
+                "height": 250
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 768,
+                "y": 262,
+                "width": 256,
+                "height": 250
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 1024,
+                "y": 262,
+                "width": 256,
+                "height": 250
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 1280,
+                "y": 262,
+                "width": 256,
+                "height": 250
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            }
+          ]
+        },
+        {
+          "key": "fx.q",
+          "duration": 0.45,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 256,
+                "height": 262
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 256,
+                "y": 0,
+                "width": 256,
+                "height": 262
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 512,
+                "y": 0,
+                "width": 256,
+                "height": 262
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 768,
+                "y": 0,
+                "width": 256,
+                "height": 262
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 1024,
+                "y": 0,
+                "width": 256,
+                "height": 262
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 1280,
+                "y": 0,
+                "width": 256,
+                "height": 262
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            }
+          ]
+        },
+        {
+          "key": "fx.hit",
+          "duration": 0.45,
+          "loop": false,
+          "frames": [
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 0,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 256,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 512,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 768,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 1024,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            },
+            {
+              "texture": "chitose-fx-v1",
+              "rect": {
+                "x": 1280,
+                "y": 768,
+                "width": 256,
+                "height": 256
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "pixelsPerUnit": 44.32432432432432
+            }
+          ]
+        }
+      ],
+      "seatUpper": {
+        "key": "seat.upper",
+        "duration": 3.6,
+        "loop": true,
+        "frames": [
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 0,
+              "y": 309.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          },
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 229,
+              "y": 309.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          },
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 458,
+              "y": 309.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          },
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 687,
+              "y": 309.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          },
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 916,
+              "y": 309.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          },
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 1145,
+              "y": 309.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          }
+        ]
+      },
+      "seatSpecialUpper": {
+        "key": "seat.upper",
+        "duration": 4,
+        "loop": true,
+        "frames": [
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 0,
+              "y": 81.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          },
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 229,
+              "y": 81.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          },
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 458,
+              "y": 81.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          },
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 687,
+              "y": 81.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          },
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 916,
+              "y": 81.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          },
+          {
+            "texture": "chitose-hub-v2",
+            "rect": {
+              "x": 1145,
+              "y": 81.9092682926829,
+              "width": 229,
+              "height": 151.0907317073171
+            },
+            "pivot": {
+              "x": 0.62,
+              "y": 0.034222692873931426
+            },
+            "pixelsPerUnit": 114.59459459459458
+          }
+        ]
+      },
+      "seatLower": {
+        "texture": "chitose-hub-v2",
+        "rect": {
+          "x": 0,
+          "y": 233.0,
+          "width": 229,
+          "height": 76.9092682926829
+        },
+        "pivot": {
+          "x": 0.62,
+          "y": 1.067231581083824
+        },
+        "pixelsPerUnit": 114.59459459459458
+      },
+      "profile": {
+        "id": "guard_01",
+        "name": "御影 千歲",
+        "job": "防衛隊員",
+        "role": "近身範圍・震爆防衛",
+        "skin": "守夜人・標準裝備",
+        "hubHeight": 2.05,
+        "battleHeight": 1.85,
+        "summary": "她守住的不只是一扇門，也是酒吧裡每個人回家的路。重型手槍負責開路，盾上的震爆裝置則替被包圍的隊友撕開空間。",
+        "personality": "沉穩、會照顧人，回到吧檯後卻能豪爽地喝下一大口琥珀拉格。她會笑著說自己只是坐一會兒，位置卻總留在大家看得見的地方。",
+        "traits": [
+          "高生命",
+          "重型射擊",
+          "周身震爆",
+          "三重爆發"
+        ],
+        "strength": "生命較高，重型射擊有分量；E 與 Q 直接處理近身敵群，強化 Q 可在 1 秒內完成三次震爆。",
+        "caution": "移動較慢，需要提早處理預警。大盾目前是外觀與技能演出的載體，不會憑這次換圖額外獲得格擋或減傷。",
+        "greeting": "先喝點東西吧。裝備我會看著，出發時叫我一聲。",
+        "stats": {
+          "hp": 1600,
+          "moveSpeed": 3.5,
+          "damage": 300,
+          "interval": 1.2,
+          "range": 8
+        },
+        "e": {
+          "name": "震盪衝擊",
+          "enhancedName": "強化震盪衝擊",
+          "cooldown": 8,
+          "damage": 400,
+          "enhancedDamage": 600,
+          "radius": 3,
+          "enhancedRadius": 4,
+          "base": "以自身為中心震爆，範圍半徑 3，造成 400 基礎傷害。",
+          "enhanced": "半徑提升為 4、基礎傷害提升為 600。沿用現有技能效果，不新增無敵或格擋。",
+          "previewKind": "pulse"
+        },
+        "q": {
+          "name": "深層震爆",
+          "enhancedName": "三重震爆",
+          "cooldown": 25,
+          "damage": 1000,
+          "enhancedDamage": 500,
+          "radius": 5,
+          "count": 3,
+          "interval": 0.5,
+          "base": "以自身為中心發動半徑 5 的深層震爆，造成 1,000 基礎傷害。",
+          "enhanced": "連續震爆 3 次，每次基礎傷害 500，間隔 0.5 秒。三次命中合計 1,500；是否命中仍依每次敵人位置判定。",
+          "previewKind": "pulse"
+        },
+        "seatAnchor": [
+          0.62,
+          0.64
+        ]
+      }
+    }
+  ]
+}

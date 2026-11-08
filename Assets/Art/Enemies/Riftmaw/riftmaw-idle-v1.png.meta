@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 1da6ed2db3d498e4b9b5a34087ea8426
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 158551431306493341
+    second: riftmaw-idle-v1_0
+  - first:
+      213: -4391535419409463105
+    second: riftmaw-idle-v1_1
+  - first:
+      213: 4150352336359832353
+    second: riftmaw-idle-v1_2
+  - first:
+      213: -3022849635283400336
+    second: riftmaw-idle-v1_3
+  - first:
+      213: 7375249138984093003
+    second: riftmaw-idle-v1_4
+  - first:
+      213: 5732841681046279271
+    second: riftmaw-idle-v1_5
+  - first:
+      213: 224881965608277069
+    second: riftmaw-idle-v1_6
+  - first:
+      213: -7489401795679053767
+    second: riftmaw-idle-v1_7
+  - first:
+      213: -6711739843625729125
+    second: riftmaw-idle-v1_8
+  - first:
+      213: -6662763701501613589
+    second: riftmaw-idle-v1_9
+  - first:
+      213: 6022178024447127896
+    second: riftmaw-idle-v1_10
+  - first:
+      213: -8709980804453271811
+    second: riftmaw-idle-v1_11
+  - first:
+      213: -3661360974337292024
+    second: riftmaw-idle-v1_12
+  - first:
+      213: 1527763538136426195
+    second: riftmaw-idle-v1_13
+  - first:
+      213: 1480887100183974191
+    second: riftmaw-idle-v1_14
+  - first:
+      213: -5320321566667802904
+    second: riftmaw-idle-v1_15
+  - first:
+      213: 4952822662478945525
+    second: riftmaw-idle-v1_16
+  - first:
+      213: -6592842903489315736
+    second: riftmaw-idle-v1_17
+  - first:
+      213: -509178032920735410
+    second: riftmaw-idle-v1_18
+  - first:
+      213: 7473503733439065505
+    second: riftmaw-idle-v1_19
+  - first:
+      213: 4487928495322801414
+    second: riftmaw-idle-v1_20
+  - first:
+      213: 6019140083084779402
+    second: riftmaw-idle-v1_21
+  - first:
+      213: 7077289859357178570
+    second: riftmaw-idle-v1_22
+  - first:
+      213: 8064987288030950923
+    second: riftmaw-idle-v1_23
+  - first:
+      213: 1458016239178418374
+    second: riftmaw-idle-v1_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.493, y: 0.045}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1235
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d37adcfa9433200800000000000000
+      internalID: 158551431306493341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1221
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb88d8badc12e03c0800000000000000
+      internalID: -4391535419409463105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1221
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bb07dd573099930800000000000000
+      internalID: 4150352336359832353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1195
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079838fb54eac06d0800000000000000
+      internalID: -3022849635283400336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1185
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45072324062a5660800000000000000
+      internalID: 7375249138984093003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_5
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1161
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764115092252f8f40800000000000000
+      internalID: 5732841681046279271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_6
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1160
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44197cc4f0fe1300800000000000000
+      internalID: 224881965608277069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1171
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93890645fbc401890800000000000000
+      internalID: -7489401795679053767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_8
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b934adb2c2c1bd2a0800000000000000
+      internalID: -6711739843625729125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_9
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1157
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be921add6bb1983a0800000000000000
+      internalID: -6662763701501613589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1110
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851b551a103139350800000000000000
+      internalID: 6022178024447127896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1148
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df677161b9eef1780800000000000000
+      internalID: -8709980804453271811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_12
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 970
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809c522b79b303dc0800000000000000
+      internalID: -3661360974337292024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 935
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d66a6fe7d4b33510800000000000000
+      internalID: 1527763538136426195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 795
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f219ce6b8fa2d8410800000000000000
+      internalID: 1480887100183974191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 761
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e67aef29bb6a26b0800000000000000
+      internalID: -5320321566667802904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_16
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 578
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcdf8868f5fbb440800000000000000
+      internalID: 4952822662478945525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_17
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 595
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c70954f448184a0800000000000000
+      internalID: -6592842903489315736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_18
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 216
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41d35cd6490fe8f0800000000000000
+      internalID: -509178032920735410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_19
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 212
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ade03b9c0837b760800000000000000
+      internalID: 7473503733439065505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_20
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 219
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605a11d3033584e30800000000000000
+      internalID: 4487928495322801414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f5599c308488350800000000000000
+      internalID: 6019140083084779402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca757741a5973260800000000000000
+      internalID: 7077289859357178570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 131
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06302555379cef60800000000000000
+      internalID: 8064987288030950923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-idle-v1_24
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 31
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c80bfc6b0aeb3410800000000000000
+      internalID: 1458016239178418374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      riftmaw-idle-v1_0: 158551431306493341
+      riftmaw-idle-v1_1: -4391535419409463105
+      riftmaw-idle-v1_10: 6022178024447127896
+      riftmaw-idle-v1_11: -8709980804453271811
+      riftmaw-idle-v1_12: -3661360974337292024
+      riftmaw-idle-v1_13: 1527763538136426195
+      riftmaw-idle-v1_14: 1480887100183974191
+      riftmaw-idle-v1_15: -5320321566667802904
+      riftmaw-idle-v1_16: 4952822662478945525
+      riftmaw-idle-v1_17: -6592842903489315736
+      riftmaw-idle-v1_18: -509178032920735410
+      riftmaw-idle-v1_19: 7473503733439065505
+      riftmaw-idle-v1_2: 4150352336359832353
+      riftmaw-idle-v1_20: 4487928495322801414
+      riftmaw-idle-v1_21: 6019140083084779402
+      riftmaw-idle-v1_22: 7077289859357178570
+      riftmaw-idle-v1_23: 8064987288030950923
+      riftmaw-idle-v1_24: 1458016239178418374
+      riftmaw-idle-v1_3: -3022849635283400336
+      riftmaw-idle-v1_4: 7375249138984093003
+      riftmaw-idle-v1_5: 5732841681046279271
+      riftmaw-idle-v1_6: 224881965608277069
+      riftmaw-idle-v1_7: -7489401795679053767
+      riftmaw-idle-v1_8: -6711739843625729125
+      riftmaw-idle-v1_9: -6662763701501613589
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

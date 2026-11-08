@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: MIO-P04
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: MIO-P04
+  title: "\u5713\u821E\u7684\u7A7A\u4F4D"
+  ownerRoleId: mio_01
+  effectKey: mio.circular_space
+  description: "E \u65CB\u65AC\u63A8\u958B\u6575\u4EBA\uFF1B\u4E4B\u5F8C 2 \u79D2\u5167\u7B2C\u4E00\u6B21\u9EDE\u6309\uFF0C\u5C07\u6247\u5F62\u5167\u6575\u4EBA\u8F15\u62C9\u5411\u524D\u65B9\u3002"
+  quality: 1
+  category: 2
+  icon: {fileID: 2454814551887343177, guid: e3ad5dbb5b6f4d5408361246d60b0c5e, type: 2}
+  artBrief: "\u7720\u6708\u5DE8\u528D\uFF0F\u6708\u8272\uFF0F\u62D6\u528D\u8207\u89E3\u653E\uFF1B\u5716\u96C6\u683C 11"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  requiredCardIds: []
+  numbers:
+  - key: push
+    values:
+    - 0.6
+  - key: pull
+    values:
+    - 0.45
+  - key: window
+    values:
+    - 2

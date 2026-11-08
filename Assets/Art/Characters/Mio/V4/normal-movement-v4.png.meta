@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 503934f2e09a180418bba8d6baa6fd1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1484519166362178910
+    second: normal-movement-v4_0
+  - first:
+      213: -8177923071349943136
+    second: normal-movement-v4_1
+  - first:
+      213: -5764700677375515573
+    second: normal-movement-v4_2
+  - first:
+      213: 3828775037523900427
+    second: normal-movement-v4_3
+  - first:
+      213: 6613037105754956693
+    second: normal-movement-v4_4
+  - first:
+      213: 1313412611866714942
+    second: normal-movement-v4_5
+  - first:
+      213: 2017061525356717131
+    second: normal-movement-v4_6
+  - first:
+      213: 7288764270227788454
+    second: normal-movement-v4_7
+  - first:
+      213: 7979815680914950330
+    second: normal-movement-v4_8
+  - first:
+      213: -7202981264548091335
+    second: normal-movement-v4_9
+  - first:
+      213: 4063241793115807589
+    second: normal-movement-v4_10
+  - first:
+      213: 8289552881153204290
+    second: normal-movement-v4_11
+  - first:
+      213: -2411482411809265135
+    second: normal-movement-v4_12
+  - first:
+      213: -7390832767014225094
+    second: normal-movement-v4_13
+  - first:
+      213: -9024537358551830473
+    second: normal-movement-v4_14
+  - first:
+      213: -5703143569193216092
+    second: normal-movement-v4_15
+  - first:
+      213: -8306617809744708910
+    second: normal-movement-v4_16
+  - first:
+      213: 3322338943921681986
+    second: normal-movement-v4_17
+  - first:
+      213: -1317294052720070533
+    second: normal-movement-v4_18
+  - first:
+      213: -6230449155492552929
+    second: normal-movement-v4_19
+  - first:
+      213: -3932406122768818941
+    second: normal-movement-v4_20
+  - first:
+      213: 3175514347623826409
+    second: normal-movement-v4_21
+  - first:
+      213: -4418781129284683034
+    second: normal-movement-v4_22
+  - first:
+      213: 3728170715356597774
+    second: normal-movement-v4_23
+  - first:
+      213: -3463474273497210847
+    second: normal-movement-v4_24
+  - first:
+      213: -9111675900538110547
+    second: normal-movement-v4_25
+  - first:
+      213: 7971450293111418220
+    second: normal-movement-v4_26
+  - first:
+      213: 8662963729231969505
+    second: normal-movement-v4_27
+  - first:
+      213: 6333292293060667225
+    second: normal-movement-v4_28
+  - first:
+      213: -3985722269225154711
+    second: normal-movement-v4_29
+  - first:
+      213: -1655554800291095576
+    second: normal-movement-v4_30
+  - first:
+      213: 7749349798950339253
+    second: normal-movement-v4_31
+  - first:
+      213: 1819226720252331218
+    second: normal-movement-v4_32
+  - first:
+      213: -4551976369142435126
+    second: normal-movement-v4_33
+  - first:
+      213: 1951198338192914709
+    second: normal-movement-v4_34
+  - first:
+      213: 1939187783697199312
+    second: normal-movement-v4_35
+  - first:
+      213: 6073958700054595301
+    second: normal-movement-v4_36
+  - first:
+      213: -7787381688298355238
+    second: normal-movement-v4_37
+  - first:
+      213: 3455330146698477608
+    second: normal-movement-v4_38
+  - first:
+      213: -1522521040448343266
+    second: normal-movement-v4_39
+  - first:
+      213: -6754087839460865907
+    second: normal-movement-v4_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: normal-movement-v4_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 759
+        width: 219
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa29bafeade56be0800000000000000
+      internalID: -1484519166362178910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 751
+        width: 243
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a417bb8b4e228e80800000000000000
+      internalID: -8177923071349943136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 485
+        width: 261
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b442490d64bafffa0800000000000000
+      internalID: -5764700677375515573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 755
+        width: 239
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08be746c9a822530800000000000000
+      internalID: 3828775037523900427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 989
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5936007d53a36cb50800000000000000
+      internalID: 6613037105754956693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_5
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 513
+        width: 265
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3365ddcfcd2a3210800000000000000
+      internalID: 1313412611866714942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_6
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 763
+        width: 225
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44aefc35ca0efb10800000000000000
+      internalID: 2017061525356717131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 501
+        width: 230
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a29c7a7c74e62560800000000000000
+      internalID: 7288764270227788454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 735
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8070a35100ebe60800000000000000
+      internalID: 7979815680914950330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 243
+        width: 267
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a21d2f3bed90c90800000000000000
+      internalID: -7202981264548091335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 502
+        width: 249
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f503302e8836830800000000000000
+      internalID: 4063241793115807589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_11
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 253
+        width: 248
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240e3fbec686a0370800000000000000
+      internalID: 8289552881153204290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 575
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aa106e581b88ed0800000000000000
+      internalID: -2411482411809265135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 543
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bbcc7b1cc7e6990800000000000000
+      internalID: -7390832767014225094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_14
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 511
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730b641261762c280800000000000000
+      internalID: -9024537358551830473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 511
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a75f2fe32d5ad0b0800000000000000
+      internalID: -5703143569193216092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_16
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 503
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dabb35cc17f8bc80800000000000000
+      internalID: -8306617809744708910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_17
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 501
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246f5efbaa15b1e20800000000000000
+      internalID: 3322338943921681986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_18
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 253
+        width: 245
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70b2e2d90808bde0800000000000000
+      internalID: -1317294052720070533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_19
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 512
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fdbbfd08ff889a0800000000000000
+      internalID: -6230449155492552929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 243
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d1bc357794d69c0800000000000000
+      internalID: -3932406122768818941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_21
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 463
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3464d7971b11c20800000000000000
+      internalID: 3175514347623826409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_22
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 230
+        width: 257
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea79c089f55da2c0800000000000000
+      internalID: -4418781129284683034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_23
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 489
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e08de438f1db330800000000000000
+      internalID: 3728170715356597774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_24
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 479
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120ae7f9f744fefc0800000000000000
+      internalID: -3463474273497210847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_25
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 247
+        width: 247
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad30ff4b03dc8180800000000000000
+      internalID: -9111675900538110547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_26
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 477
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6de6999ec740ae60800000000000000
+      internalID: 7971450293111418220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_27
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 455
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecf6f60d97093870800000000000000
+      internalID: 8662963729231969505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 359
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957a99a09cf54e750800000000000000
+      internalID: 6333292293060667225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_29
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 289
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9678871a6bedfa8c0800000000000000
+      internalID: -3985722269225154711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_30
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 273
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebd47e3ea94609e0800000000000000
+      internalID: -1655554800291095576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_31
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 279
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b20ea695983b8b60800000000000000
+      internalID: 7749349798950339253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_32
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 259
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d40a8a30113f3910800000000000000
+      internalID: 1819226720252331218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 257
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2fa431c9124d0c0800000000000000
+      internalID: -4551976369142435126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_34
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 236
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519325afc8c041b10800000000000000
+      internalID: 1951198338192914709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_35
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 239
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d07c08d30169ea10800000000000000
+      internalID: 1939187783697199312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_36
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 0
+        width: 265
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6c529a1490b4450800000000000000
+      internalID: 6073958700054595301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_37
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 244
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad548922d99ade390800000000000000
+      internalID: -7787381688298355238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_38
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 0
+        width: 237
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82049a7167cc3ff20800000000000000
+      internalID: 3455330146698477608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_39
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 145
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13b40d2e2beedae0800000000000000
+      internalID: -1522521040448343266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-movement-v4_40
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 257
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88462b05e8a442a0800000000000000
+      internalID: -6754087839460865907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      normal-movement-v4_0: -1484519166362178910
+      normal-movement-v4_1: -8177923071349943136
+      normal-movement-v4_10: 4063241793115807589
+      normal-movement-v4_11: 8289552881153204290
+      normal-movement-v4_12: -2411482411809265135
+      normal-movement-v4_13: -7390832767014225094
+      normal-movement-v4_14: -9024537358551830473
+      normal-movement-v4_15: -5703143569193216092
+      normal-movement-v4_16: -8306617809744708910
+      normal-movement-v4_17: 3322338943921681986
+      normal-movement-v4_18: -1317294052720070533
+      normal-movement-v4_19: -6230449155492552929
+      normal-movement-v4_2: -5764700677375515573
+      normal-movement-v4_20: -3932406122768818941
+      normal-movement-v4_21: 3175514347623826409
+      normal-movement-v4_22: -4418781129284683034
+      normal-movement-v4_23: 3728170715356597774
+      normal-movement-v4_24: -3463474273497210847
+      normal-movement-v4_25: -9111675900538110547
+      normal-movement-v4_26: 7971450293111418220
+      normal-movement-v4_27: 8662963729231969505
+      normal-movement-v4_28: 6333292293060667225
+      normal-movement-v4_29: -3985722269225154711
+      normal-movement-v4_3: 3828775037523900427
+      normal-movement-v4_30: -1655554800291095576
+      normal-movement-v4_31: 7749349798950339253
+      normal-movement-v4_32: 1819226720252331218
+      normal-movement-v4_33: -4551976369142435126
+      normal-movement-v4_34: 1951198338192914709
+      normal-movement-v4_35: 1939187783697199312
+      normal-movement-v4_36: 6073958700054595301
+      normal-movement-v4_37: -7787381688298355238
+      normal-movement-v4_38: 3455330146698477608
+      normal-movement-v4_39: -1522521040448343266
+      normal-movement-v4_4: 6613037105754956693
+      normal-movement-v4_40: -6754087839460865907
+      normal-movement-v4_5: 1313412611866714942
+      normal-movement-v4_6: 2017061525356717131
+      normal-movement-v4_7: 7288764270227788454
+      normal-movement-v4_8: 7979815680914950330
+      normal-movement-v4_9: -7202981264548091335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1432 @@
+fileFormatVersion: 2
+guid: 28079437bf55c484c97680aa8a11e288
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8155829639727060359
+    second: normal-skills_0
+  - first:
+      213: -8955194437012589599
+    second: normal-skills_1
+  - first:
+      213: -344752824918556545
+    second: normal-skills_2
+  - first:
+      213: -8103733928215348916
+    second: normal-skills_3
+  - first:
+      213: -5577843203732602322
+    second: normal-skills_4
+  - first:
+      213: 5299042651065270333
+    second: normal-skills_5
+  - first:
+      213: -7752440516174939619
+    second: normal-skills_6
+  - first:
+      213: 7491741847703553759
+    second: normal-skills_7
+  - first:
+      213: -7791080555322602319
+    second: normal-skills_8
+  - first:
+      213: 3987614642611238143
+    second: normal-skills_9
+  - first:
+      213: -7695977831085289275
+    second: normal-skills_10
+  - first:
+      213: -1678076140646377036
+    second: normal-skills_11
+  - first:
+      213: 5674108090594554229
+    second: normal-skills_12
+  - first:
+      213: 1937005097542585708
+    second: normal-skills_13
+  - first:
+      213: -1085002536487713561
+    second: normal-skills_14
+  - first:
+      213: 671386735182183773
+    second: normal-skills_15
+  - first:
+      213: 6830774855767314961
+    second: normal-skills_16
+  - first:
+      213: 1980021325916300433
+    second: normal-skills_17
+  - first:
+      213: -6817383912554798927
+    second: normal-skills_18
+  - first:
+      213: -2639076817250724583
+    second: normal-skills_19
+  - first:
+      213: 9067253793656541150
+    second: normal-skills_20
+  - first:
+      213: 7863436189799878109
+    second: normal-skills_21
+  - first:
+      213: -1911020493871140764
+    second: normal-skills_22
+  - first:
+      213: -426655513709350421
+    second: normal-skills_23
+  - first:
+      213: 4282154831999562879
+    second: normal-skills_24
+  - first:
+      213: -4394007527936892474
+    second: normal-skills_25
+  - first:
+      213: -5351690681215055234
+    second: normal-skills_26
+  - first:
+      213: -1086746501214729533
+    second: normal-skills_27
+  - first:
+      213: -2397656772412938040
+    second: normal-skills_28
+  - first:
+      213: -9104691428922618250
+    second: normal-skills_29
+  - first:
+      213: -7846536755731023830
+    second: normal-skills_30
+  - first:
+      213: -3526703487196110018
+    second: normal-skills_31
+  - first:
+      213: 8684244056520519536
+    second: normal-skills_32
+  - first:
+      213: -5056750399511018361
+    second: normal-skills_33
+  - first:
+      213: 5282650494610630539
+    second: normal-skills_34
+  - first:
+      213: -2015210538339252477
+    second: normal-skills_35
+  - first:
+      213: -8314326279355666775
+    second: normal-skills_36
+  - first:
+      213: 6437320359863297645
+    second: normal-skills_37
+  - first:
+      213: 7676593876659986324
+    second: normal-skills_38
+  - first:
+      213: 6560799478413858610
+    second: normal-skills_39
+  - first:
+      213: 5475807563208778083
+    second: normal-skills_40
+  - first:
+      213: -408439898683159058
+    second: normal-skills_41
+  - first:
+      213: -3235205656203831100
+    second: normal-skills_42
+  - first:
+      213: -682851251502263080
+    second: normal-skills_43
+  - first:
+      213: 565574245317988100
+    second: normal-skills_44
+  - first:
+      213: 1281201715364221474
+    second: normal-skills_45
+  - first:
+      213: -7303604669136567847
+    second: normal-skills_46
+  - first:
+      213: 5622022292224173512
+    second: normal-skills_47
+  - first:
+      213: 5369423355844423326
+    second: normal-skills_48
+  - first:
+      213: 1530305152527201670
+    second: normal-skills_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: normal-skills_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 11
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785988c88d35f2170800000000000000
+      internalID: 8155829639727060359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1007
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e37f4f2b12c8b380800000000000000
+      internalID: -8955194437012589599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1022
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70ca6fd121373bf0800000000000000
+      internalID: -344752824918556545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1036
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49717e7de0c98f80800000000000000
+      internalID: -8103733928215348916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1007
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2201bca8258792b0800000000000000
+      internalID: -5577843203732602322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1036
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30c362373bf98940800000000000000
+      internalID: 5299042651065270333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1049
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1afb0bbc6cc96490800000000000000
+      internalID: -7752440516174939619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1043
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd68c4d748308f760800000000000000
+      internalID: 7491741847703553759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1006
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc0b8b838580e390800000000000000
+      internalID: -7791080555322602319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1010
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff43df1e36ad65730800000000000000
+      internalID: 3987614642611238143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1052
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c051ea00f4623590800000000000000
+      internalID: -7695977831085289275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1016
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9d6b214a646b8e0800000000000000
+      internalID: -1678076140646377036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 988
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571fe05ee3b7ebe40800000000000000
+      internalID: 5674108090594554229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1055
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d852f9fdf91ea10800000000000000
+      internalID: 1937005097542585708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1024
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4804011fb41f0f0800000000000000
+      internalID: -1085002536487713561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_15
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1010
+        width: 134
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d7171bdae315900800000000000000
+      internalID: 671386735182183773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1011
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1125ea25a89cbce50800000000000000
+      internalID: 6830774855767314961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1042
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19460f2c7e27a7b10800000000000000
+      internalID: 1980021325916300433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_18
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1032
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b065ba9379c361a0800000000000000
+      internalID: -6817383912554798927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_19
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1012
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9155dccfd9d106bd0800000000000000
+      internalID: -2639076817250724583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_20
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1040
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf0633f84b55dd70800000000000000
+      internalID: 9067253793656541150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_21
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1008
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd09f66d89802d60800000000000000
+      internalID: 7863436189799878109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_22
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 322
+        width: 438
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460b1506cf0ba75e0800000000000000
+      internalID: -1911020493871140764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_23
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1057
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be174ef1217341af0800000000000000
+      internalID: -426655513709350421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1032
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f747e82c1254d6b30800000000000000
+      internalID: 4282154831999562879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_25
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1032
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1edec0f695503c0800000000000000
+      internalID: -4394007527936892474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1027
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a886e0ea9fab5b0800000000000000
+      internalID: -5351690681215055234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_27
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1042
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca8232a0d91be0f0800000000000000
+      internalID: -1086746501214729533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_28
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1012
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8640b6edfc9bed0800000000000000
+      internalID: -2397656772412938040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 992
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e06855263a5a180800000000000000
+      internalID: -9104691428922618250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_30
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1020
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a283b95b4608b1390800000000000000
+      internalID: -7846536755731023830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_31
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1010
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e336b891dd1ae0fc0800000000000000
+      internalID: -3526703487196110018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_32
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1026
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fe3b355f1a48870800000000000000
+      internalID: 8684244056520519536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_33
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 994
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784c45fad40d2d9b0800000000000000
+      internalID: -5056750399511018361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1136
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87eecbd2aebf4940800000000000000
+      internalID: 5282650494610630539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 992
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3074aa241b88804e0800000000000000
+      internalID: -2015210538339252477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 994
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae6f44dc449d9c80800000000000000
+      internalID: -8314326279355666775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1003
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66aa0bc2c4f55950800000000000000
+      internalID: 6437320359863297645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 988
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fd14f557db88a60800000000000000
+      internalID: 7676593876659986324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_39
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 992
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2371d617d54ac0b50800000000000000
+      internalID: 6560799478413858610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_40
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 939
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361e47777f9fdfb40800000000000000
+      internalID: 5475807563208778083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_41
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 587
+        width: 462
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedc4ee731ee45af0800000000000000
+      internalID: -408439898683159058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_42
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 998
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8d2a6b89d3a13d0800000000000000
+      internalID: -3235205656203831100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_43
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 948
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4d6c797660686f0800000000000000
+      internalID: -682851251502263080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_44
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 958
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fc94297c259d700800000000000000
+      internalID: 565574245317988100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_45
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 361
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222d7e90c2eb7c110800000000000000
+      internalID: 1281201715364221474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_46
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 127
+        width: 112
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d10b34ef3264aa90800000000000000
+      internalID: -7303604669136567847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_47
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 64
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5695fec7f650e40800000000000000
+      internalID: 5622022292224173512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_48
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 11
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eeacdf716048a40800000000000000
+      internalID: 5369423355844423326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-skills_49
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 15
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6857556ad6cbc3510800000000000000
+      internalID: 1530305152527201670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      normal-skills_0: 8155829639727060359
+      normal-skills_1: -8955194437012589599
+      normal-skills_10: -7695977831085289275
+      normal-skills_11: -1678076140646377036
+      normal-skills_12: 5674108090594554229
+      normal-skills_13: 1937005097542585708
+      normal-skills_14: -1085002536487713561
+      normal-skills_15: 671386735182183773
+      normal-skills_16: 6830774855767314961
+      normal-skills_17: 1980021325916300433
+      normal-skills_18: -6817383912554798927
+      normal-skills_19: -2639076817250724583
+      normal-skills_2: -344752824918556545
+      normal-skills_20: 9067253793656541150
+      normal-skills_21: 7863436189799878109
+      normal-skills_22: -1911020493871140764
+      normal-skills_23: -426655513709350421
+      normal-skills_24: 4282154831999562879
+      normal-skills_25: -4394007527936892474
+      normal-skills_26: -5351690681215055234
+      normal-skills_27: -1086746501214729533
+      normal-skills_28: -2397656772412938040
+      normal-skills_29: -9104691428922618250
+      normal-skills_3: -8103733928215348916
+      normal-skills_30: -7846536755731023830
+      normal-skills_31: -3526703487196110018
+      normal-skills_32: 8684244056520519536
+      normal-skills_33: -5056750399511018361
+      normal-skills_34: 5282650494610630539
+      normal-skills_35: -2015210538339252477
+      normal-skills_36: -8314326279355666775
+      normal-skills_37: 6437320359863297645
+      normal-skills_38: 7676593876659986324
+      normal-skills_39: 6560799478413858610
+      normal-skills_4: -5577843203732602322
+      normal-skills_40: 5475807563208778083
+      normal-skills_41: -408439898683159058
+      normal-skills_42: -3235205656203831100
+      normal-skills_43: -682851251502263080
+      normal-skills_44: 565574245317988100
+      normal-skills_45: 1281201715364221474
+      normal-skills_46: -7303604669136567847
+      normal-skills_47: 5622022292224173512
+      normal-skills_48: 5369423355844423326
+      normal-skills_49: 1530305152527201670
+      normal-skills_5: 5299042651065270333
+      normal-skills_6: -7752440516174939619
+      normal-skills_7: 7491741847703553759
+      normal-skills_8: -7791080555322602319
+      normal-skills_9: 3987614642611238143
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

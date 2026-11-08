@@ -1,0 +1,3018 @@
+fileFormatVersion: 2
+guid: 62edc08f6fb80b84f80f4631e3047186
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -731859800973802254
+    second: normal-doze-v4_0
+  - first:
+      213: -2232234976717717359
+    second: normal-doze-v4_1
+  - first:
+      213: -1826832320341958017
+    second: normal-doze-v4_2
+  - first:
+      213: -4396636916843652460
+    second: normal-doze-v4_3
+  - first:
+      213: 7673057866048122708
+    second: normal-doze-v4_4
+  - first:
+      213: -4193658444211445259
+    second: normal-doze-v4_5
+  - first:
+      213: -5472486764526514971
+    second: normal-doze-v4_6
+  - first:
+      213: 3361519087459847650
+    second: normal-doze-v4_7
+  - first:
+      213: 6304145994341912914
+    second: normal-doze-v4_8
+  - first:
+      213: 8779586787894733011
+    second: normal-doze-v4_9
+  - first:
+      213: -1987070454521524548
+    second: normal-doze-v4_10
+  - first:
+      213: 3456587891334596887
+    second: normal-doze-v4_11
+  - first:
+      213: 8137123329721210255
+    second: normal-doze-v4_12
+  - first:
+      213: 7238123480508915079
+    second: normal-doze-v4_13
+  - first:
+      213: 6085823042734290552
+    second: normal-doze-v4_14
+  - first:
+      213: 2528818397144175691
+    second: normal-doze-v4_15
+  - first:
+      213: 7013667422735509327
+    second: normal-doze-v4_16
+  - first:
+      213: -6628867445668165487
+    second: normal-doze-v4_17
+  - first:
+      213: -4199564660345320828
+    second: normal-doze-v4_18
+  - first:
+      213: -4877949280633464736
+    second: normal-doze-v4_19
+  - first:
+      213: 8185972527530640492
+    second: normal-doze-v4_20
+  - first:
+      213: 7893884250845679709
+    second: normal-doze-v4_21
+  - first:
+      213: -5527475739304708509
+    second: normal-doze-v4_22
+  - first:
+      213: 3104564993399628820
+    second: normal-doze-v4_23
+  - first:
+      213: -231266722767133442
+    second: normal-doze-v4_24
+  - first:
+      213: 200730295687168893
+    second: normal-doze-v4_25
+  - first:
+      213: 3430066043514026793
+    second: normal-doze-v4_26
+  - first:
+      213: -2216078622866210728
+    second: normal-doze-v4_27
+  - first:
+      213: 6203675515585936141
+    second: normal-doze-v4_28
+  - first:
+      213: 4800751695297536329
+    second: normal-doze-v4_29
+  - first:
+      213: -5762127014814087700
+    second: normal-doze-v4_30
+  - first:
+      213: 8440063971735702954
+    second: normal-doze-v4_31
+  - first:
+      213: 3026426812441225057
+    second: normal-doze-v4_32
+  - first:
+      213: -6026865281974804743
+    second: normal-doze-v4_33
+  - first:
+      213: -7746930586649330353
+    second: normal-doze-v4_34
+  - first:
+      213: -562540576248168064
+    second: normal-doze-v4_35
+  - first:
+      213: -2767388476679013857
+    second: normal-doze-v4_36
+  - first:
+      213: 21848800555585098
+    second: normal-doze-v4_37
+  - first:
+      213: 793115980615531342
+    second: normal-doze-v4_38
+  - first:
+      213: -5325792976999487058
+    second: normal-doze-v4_39
+  - first:
+      213: -7435700031825543583
+    second: normal-doze-v4_40
+  - first:
+      213: 4507916270880412969
+    second: normal-doze-v4_41
+  - first:
+      213: 3242782020674334482
+    second: normal-doze-v4_42
+  - first:
+      213: -5177934961105528844
+    second: normal-doze-v4_43
+  - first:
+      213: 4486953170197528189
+    second: normal-doze-v4_44
+  - first:
+      213: -1633507642682630573
+    second: normal-doze-v4_45
+  - first:
+      213: -2511712576139449094
+    second: normal-doze-v4_46
+  - first:
+      213: 2376035511907242950
+    second: normal-doze-v4_47
+  - first:
+      213: -9178183365794281683
+    second: normal-doze-v4_48
+  - first:
+      213: 6472012568734711048
+    second: normal-doze-v4_49
+  - first:
+      213: 1293689673498400570
+    second: normal-doze-v4_50
+  - first:
+      213: 1103050461533361743
+    second: normal-doze-v4_51
+  - first:
+      213: -5609284801741580987
+    second: normal-doze-v4_52
+  - first:
+      213: -8172233198635544723
+    second: normal-doze-v4_53
+  - first:
+      213: 4100650897216443349
+    second: normal-doze-v4_54
+  - first:
+      213: -3643472168221679610
+    second: normal-doze-v4_55
+  - first:
+      213: 1297155792567800172
+    second: normal-doze-v4_56
+  - first:
+      213: -7215116055531420655
+    second: normal-doze-v4_57
+  - first:
+      213: 6502442800118614201
+    second: normal-doze-v4_58
+  - first:
+      213: 6327864549795344850
+    second: normal-doze-v4_59
+  - first:
+      213: -8525030512891446545
+    second: normal-doze-v4_60
+  - first:
+      213: -515299862005939024
+    second: normal-doze-v4_61
+  - first:
+      213: -1604026929111216396
+    second: normal-doze-v4_62
+  - first:
+      213: -7957767071527813541
+    second: normal-doze-v4_63
+  - first:
+      213: 1503635116945641548
+    second: normal-doze-v4_64
+  - first:
+      213: 4232347551284529223
+    second: normal-doze-v4_65
+  - first:
+      213: 4379987557821204383
+    second: normal-doze-v4_66
+  - first:
+      213: 7460606299767918033
+    second: normal-doze-v4_67
+  - first:
+      213: 2714122238834017762
+    second: normal-doze-v4_68
+  - first:
+      213: -5203681905634949601
+    second: normal-doze-v4_69
+  - first:
+      213: 3941408901802441213
+    second: normal-doze-v4_70
+  - first:
+      213: -9021126814050002805
+    second: normal-doze-v4_71
+  - first:
+      213: 4783549824237029537
+    second: normal-doze-v4_72
+  - first:
+      213: -3811840807785961302
+    second: normal-doze-v4_73
+  - first:
+      213: -6428573557480817647
+    second: normal-doze-v4_74
+  - first:
+      213: 6558744908372032865
+    second: normal-doze-v4_75
+  - first:
+      213: -1422967653045805440
+    second: normal-doze-v4_76
+  - first:
+      213: -6259475838819198051
+    second: normal-doze-v4_77
+  - first:
+      213: -4243277879244518048
+    second: normal-doze-v4_78
+  - first:
+      213: -419689950614119595
+    second: normal-doze-v4_79
+  - first:
+      213: 6355486090346710720
+    second: normal-doze-v4_80
+  - first:
+      213: -5256747009446382419
+    second: normal-doze-v4_81
+  - first:
+      213: 336242464143339096
+    second: normal-doze-v4_82
+  - first:
+      213: -7291446882046229820
+    second: normal-doze-v4_83
+  - first:
+      213: 5135863789843355732
+    second: normal-doze-v4_84
+  - first:
+      213: -6980654816640574445
+    second: normal-doze-v4_85
+  - first:
+      213: -8429578803019870165
+    second: normal-doze-v4_86
+  - first:
+      213: 4889325959799386901
+    second: normal-doze-v4_87
+  - first:
+      213: -5010479291753686635
+    second: normal-doze-v4_88
+  - first:
+      213: -1631278476680663641
+    second: normal-doze-v4_89
+  - first:
+      213: -1992615427164308928
+    second: normal-doze-v4_90
+  - first:
+      213: 6285872345335847250
+    second: normal-doze-v4_91
+  - first:
+      213: -7601427290725644990
+    second: normal-doze-v4_92
+  - first:
+      213: -4617683679890070418
+    second: normal-doze-v4_93
+  - first:
+      213: 4480609849814340627
+    second: normal-doze-v4_94
+  - first:
+      213: -6849317265744382514
+    second: normal-doze-v4_95
+  - first:
+      213: 6509642248086933487
+    second: normal-doze-v4_96
+  - first:
+      213: -906392910853627442
+    second: normal-doze-v4_97
+  - first:
+      213: -980865804528339092
+    second: normal-doze-v4_98
+  - first:
+      213: -6940957033957291075
+    second: normal-doze-v4_99
+  - first:
+      213: -1862829962524752792
+    second: normal-doze-v4_100
+  - first:
+      213: 1612387026673895498
+    second: normal-doze-v4_101
+  - first:
+      213: 6359916163859490450
+    second: normal-doze-v4_102
+  - first:
+      213: -7066381496571830354
+    second: normal-doze-v4_103
+  - first:
+      213: -7191652318372798830
+    second: normal-doze-v4_104
+  - first:
+      213: -4909272823241989975
+    second: normal-doze-v4_105
+  - first:
+      213: 8419043726480293920
+    second: normal-doze-v4_106
+  - first:
+      213: 3961426431733883932
+    second: normal-doze-v4_107
+  - first:
+      213: 5609605886077383322
+    second: normal-doze-v4_108
+  - first:
+      213: 343866647756134427
+    second: normal-doze-v4_109
+  - first:
+      213: -1643134131614065937
+    second: normal-doze-v4_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: normal-doze-v4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 337
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f481997369e7d5f0800000000000000
+      internalID: -731859800973802254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 677
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190c9859d128501e0800000000000000
+      internalID: -2232234976717717359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 356
+        width: 345
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72a0d10fa9c5a6e0800000000000000
+      internalID: -1826832320341958017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 717
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a5a2db4020cf2c0800000000000000
+      internalID: -4396636916843652460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 708
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa0deb97d2c7a60800000000000000
+      internalID: 7673057866048122708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_5
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 713
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a57b2dd12dc5c0800000000000000
+      internalID: -4193658444211445259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_6
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 356
+        width: 363
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecce5a3842dd04b0800000000000000
+      internalID: -5472486764526514971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_7
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 608
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed4db9ccc386ae20800000000000000
+      internalID: 3361519087459847650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_8
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 299
+        width: 35
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25193fc8163dc7750800000000000000
+      internalID: 6304145994341912914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_9
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 339
+        width: 328
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8ad27daab57d970800000000000000
+      internalID: 8779586787894733011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_10
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 518
+        width: 45
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe029613f18c64e0800000000000000
+      internalID: -1987070454521524548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_11
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 377
+        width: 323
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7194ae59f5448ff20800000000000000
+      internalID: 3456587891334596887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_12
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 697
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8593995e8edce070800000000000000
+      internalID: 8137123329721210255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_13
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 343
+        width: 358
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dd520d4faf27460800000000000000
+      internalID: 7238123480508915079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_14
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 713
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876701430df257450800000000000000
+      internalID: 6085823042734290552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_15
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 717
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4450471fea281320800000000000000
+      internalID: 2528818397144175691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_16
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 707
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4721e86c5d855160800000000000000
+      internalID: 7013667422735509327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_17
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 711
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1984ccded288104a0800000000000000
+      internalID: -6628867445668165487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_18
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 709
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a45d0113628b5c0800000000000000
+      internalID: -4199564660345320828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 697
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068587749fa0e4cb0800000000000000
+      internalID: -4877949280633464736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_20
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 710
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64029484aa6a9170800000000000000
+      internalID: 8185972527530640492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_21
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 669
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5015bd07e5bc8d60800000000000000
+      internalID: 7893884250845679709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_22
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 694
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3663726d9167a43b0800000000000000
+      internalID: -5527475739304708509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_23
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 630
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414a2bda961a51b20800000000000000
+      internalID: 3104564993399628820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_24
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 691
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4a81514206accf0800000000000000
+      internalID: -231266722767133442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 651
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73c712f32329c200800000000000000
+      internalID: 200730295687168893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 615
+        width: 13
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b78cfa4ea0a9f20800000000000000
+      internalID: 3430066043514026793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_27
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 675
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85009b9db38ee31e0800000000000000
+      internalID: -2216078622866210728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_28
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 640
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bb9405302e71650800000000000000
+      internalID: 6203675515585936141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_29
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 638
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941601d3b32bf9240800000000000000
+      internalID: 4800751695297536329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_30
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 638
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce503535200d800b0800000000000000
+      internalID: -5762127014814087700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 642
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad01e40771212570800000000000000
+      internalID: 8440063971735702954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_32
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 626
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167e646b627000a20800000000000000
+      internalID: 3026426812441225057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_33
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 632
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fed1ce25f54c5ca0800000000000000
+      internalID: -6026865281974804743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 612
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d782b2daf5d7490800000000000000
+      internalID: -7746930586649330353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_35
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 615
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0810cfc83547138f0800000000000000
+      internalID: -562540576248168064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_36
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 620
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ab90cb7d24899d0800000000000000
+      internalID: -2767388476679013857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_37
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 592
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e42eb4e5f9d4000800000000000000
+      internalID: 21848800555585098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 582
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b364248c6b10b00800000000000000
+      internalID: 793115980615531342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_39
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 569
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9eca2318bf616b0800000000000000
+      internalID: -5325792976999487058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_40
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 577
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e7da297361fc890800000000000000
+      internalID: -7435700031825543583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_41
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 568
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925d703e6f55f8e30800000000000000
+      internalID: 4507916270880412969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_42
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 423
+        width: 57
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f215a111da00d20800000000000000
+      internalID: 3242782020674334482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_43
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 592
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f79a3536974428b0800000000000000
+      internalID: -5177934961105528844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 536
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ebf69a22cd44e30800000000000000
+      internalID: 4486953170197528189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_45
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 561
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e1404247d9459e0800000000000000
+      internalID: -1633507642682630573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 412
+        width: 20
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afca35938ba942dd0800000000000000
+      internalID: -2511712576139449094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_47
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 452
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d1f495bf59f020800000000000000
+      internalID: 2376035511907242950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 392
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27ce6e5bda80a080800000000000000
+      internalID: -9178183365794281683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_49
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 401
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dbb4d142531d950800000000000000
+      internalID: 6472012568734711048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_50
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 366
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37967e57eb14f110800000000000000
+      internalID: 1293689673498400570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_51
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 405
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46d601fc82de4f00800000000000000
+      internalID: 1103050461533361743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_52
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 307
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545123c2131d722b0800000000000000
+      internalID: -5609284801741580987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_53
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 393
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f8ca54435669e80800000000000000
+      internalID: -8172233198635544723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 339
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3197cc34078e830800000000000000
+      internalID: 4100650897216443349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 311
+        width: 31
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600ef10fd59cf6dc0800000000000000
+      internalID: -3643472168221679610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_56
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 357
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61185a125c600210800000000000000
+      internalID: 1297155792567800172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_57
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 369
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11405d0cc22cedb90800000000000000
+      internalID: -7215116055531420655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_58
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 371
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8cd5976415d3a50800000000000000
+      internalID: 6502442800118614201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_59
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 372
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1b655184711d750800000000000000
+      internalID: 6327864549795344850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_60
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 367
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea3db38ae101b980800000000000000
+      internalID: -8525030512891446545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_61
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 365
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b40454718949d8f0800000000000000
+      internalID: -515299862005939024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_62
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 0
+        width: 399
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe4a28a10a5db9e0800000000000000
+      internalID: -1604026929111216396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eb840b205509190800000000000000
+      internalID: -7957767071527813541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_64
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 347
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4019591c2cfdd410800000000000000
+      internalID: 1503635116945641548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_65
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 321
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7480f488ca15cba30800000000000000
+      internalID: 4232347551284529223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_66
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 0
+        width: 305
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9740984a77d8cc30800000000000000
+      internalID: 4379987557821204383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_67
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 353
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd45b2d6e5698760800000000000000
+      internalID: 7460606299767918033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_68
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 355
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e580b2dbcf7aa520800000000000000
+      internalID: 2714122238834017762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_69
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 355
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16408a80eec8c7b0800000000000000
+      internalID: -5203681905634949601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_70
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 339
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df93f728382b2b630800000000000000
+      internalID: 3941408901802441213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_71
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 348
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b885cc665f48ec280800000000000000
+      internalID: -9021126814050002805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_72
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 353
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8c7078835926240800000000000000
+      internalID: 4783549824237029537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_73
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 357
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa864973bfe991bc0800000000000000
+      internalID: -3811840807785961302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_74
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 353
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cf2e5d86e19c6a0800000000000000
+      internalID: -6428573557480817647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_75
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 357
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dbae39eb7550b50800000000000000
+      internalID: 6558744908372032865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_76
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 353
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e5551757a904ce0800000000000000
+      internalID: -1422967653045805440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_77
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 345
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b9a0383efd129a0800000000000000
+      internalID: -6259475838819198051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_78
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 339
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d8b5c2049dc15c0800000000000000
+      internalID: -4243277879244518048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_79
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 345
+        width: 108
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b18d9a636fc2af0800000000000000
+      internalID: -419689950614119595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_80
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 329
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c64d062de8333850800000000000000
+      internalID: 6355486090346710720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_81
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 355
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4f9d342784c07b0800000000000000
+      internalID: -5256747009446382419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_82
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 351
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e6aa95db29aa400800000000000000
+      internalID: 336242464143339096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_83
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 353
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2410941b39fca90800000000000000
+      internalID: -7291446882046229820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_84
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 329
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4589768e7e0464740800000000000000
+      internalID: 5135863789843355732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_85
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 293
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cd48aed6bbf1f90800000000000000
+      internalID: -6980654816640574445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_86
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 327
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2096df8dbe140b80800000000000000
+      internalID: -8429578803019870165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_87
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 0
+        width: 309
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51330f04e006ad340800000000000000
+      internalID: 4889325959799386901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 292
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599129c71a3377ab0800000000000000
+      internalID: -5010479291753686635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_89
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 299
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad65bb4ed88c59e0800000000000000
+      internalID: -1631278476680663641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_90
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 301
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a78e983dec854e0800000000000000
+      internalID: -1992615427164308928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_91
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 289
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259d1371897eb3750800000000000000
+      internalID: 6285872345335847250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_92
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 229
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2458656372e428690800000000000000
+      internalID: -7601427290725644990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_93
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 116
+        width: 25
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64a80f9821baefb0800000000000000
+      internalID: -4617683679890070418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_94
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 200
+        width: 31
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314dc4b4be25e2e30800000000000000
+      internalID: 4480609849814340627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 264
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec53b5d6c3652f0a0800000000000000
+      internalID: -6849317265744382514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefc8149225e65a50800000000000000
+      internalID: 6509642248086933487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_97
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 213
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec123a92378db63f0800000000000000
+      internalID: -906392910853627442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 226
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67b2c46fb34362f0800000000000000
+      internalID: -980865804528339092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_99
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 221
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb0ab53a54ccaf90800000000000000
+      internalID: -6940957033957291075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_100
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 111
+        width: 31
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86402cec406e526e0800000000000000
+      internalID: -1862829962524752792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_101
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 200
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48885d3579506610800000000000000
+      internalID: 1612387026673895498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_102
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 199
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2962c140e06f24850800000000000000
+      internalID: 6359916163859490450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_103
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 130
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf5179d77b2fed90800000000000000
+      internalID: -7066381496571830354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_104
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 91
+        width: 15
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e5647c15e123c90800000000000000
+      internalID: -7191652318372798830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_105
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 21
+        width: 23
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0ae21b062cedbb0800000000000000
+      internalID: -4909272823241989975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_106
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020c659c9a376d470800000000000000
+      internalID: 8419043726480293920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_107
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 17
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c146753e950d9f630800000000000000
+      internalID: 3961426431733883932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_108
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 0
+        width: 25
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92359915d259dd40800000000000000
+      internalID: 5609605886077383322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18db9de4e8a5c400800000000000000
+      internalID: 343866647756134427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-doze-v4_110
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fead2d6863a6239e0800000000000000
+      internalID: -1643134131614065937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      normal-doze-v4_0: -731859800973802254
+      normal-doze-v4_1: -2232234976717717359
+      normal-doze-v4_10: -1987070454521524548
+      normal-doze-v4_100: -1862829962524752792
+      normal-doze-v4_101: 1612387026673895498
+      normal-doze-v4_102: 6359916163859490450
+      normal-doze-v4_103: -7066381496571830354
+      normal-doze-v4_104: -7191652318372798830
+      normal-doze-v4_105: -4909272823241989975
+      normal-doze-v4_106: 8419043726480293920
+      normal-doze-v4_107: 3961426431733883932
+      normal-doze-v4_108: 5609605886077383322
+      normal-doze-v4_109: 343866647756134427
+      normal-doze-v4_11: 3456587891334596887
+      normal-doze-v4_110: -1643134131614065937
+      normal-doze-v4_12: 8137123329721210255
+      normal-doze-v4_13: 7238123480508915079
+      normal-doze-v4_14: 6085823042734290552
+      normal-doze-v4_15: 2528818397144175691
+      normal-doze-v4_16: 7013667422735509327
+      normal-doze-v4_17: -6628867445668165487
+      normal-doze-v4_18: -4199564660345320828
+      normal-doze-v4_19: -4877949280633464736
+      normal-doze-v4_2: -1826832320341958017
+      normal-doze-v4_20: 8185972527530640492
+      normal-doze-v4_21: 7893884250845679709
+      normal-doze-v4_22: -5527475739304708509
+      normal-doze-v4_23: 3104564993399628820
+      normal-doze-v4_24: -231266722767133442
+      normal-doze-v4_25: 200730295687168893
+      normal-doze-v4_26: 3430066043514026793
+      normal-doze-v4_27: -2216078622866210728
+      normal-doze-v4_28: 6203675515585936141
+      normal-doze-v4_29: 4800751695297536329
+      normal-doze-v4_3: -4396636916843652460
+      normal-doze-v4_30: -5762127014814087700
+      normal-doze-v4_31: 8440063971735702954
+      normal-doze-v4_32: 3026426812441225057
+      normal-doze-v4_33: -6026865281974804743
+      normal-doze-v4_34: -7746930586649330353
+      normal-doze-v4_35: -562540576248168064
+      normal-doze-v4_36: -2767388476679013857
+      normal-doze-v4_37: 21848800555585098
+      normal-doze-v4_38: 793115980615531342
+      normal-doze-v4_39: -5325792976999487058
+      normal-doze-v4_4: 7673057866048122708
+      normal-doze-v4_40: -7435700031825543583
+      normal-doze-v4_41: 4507916270880412969
+      normal-doze-v4_42: 3242782020674334482
+      normal-doze-v4_43: -5177934961105528844
+      normal-doze-v4_44: 4486953170197528189
+      normal-doze-v4_45: -1633507642682630573
+      normal-doze-v4_46: -2511712576139449094
+      normal-doze-v4_47: 2376035511907242950
+      normal-doze-v4_48: -9178183365794281683
+      normal-doze-v4_49: 6472012568734711048
+      normal-doze-v4_5: -4193658444211445259
+      normal-doze-v4_50: 1293689673498400570
+      normal-doze-v4_51: 1103050461533361743
+      normal-doze-v4_52: -5609284801741580987
+      normal-doze-v4_53: -8172233198635544723
+      normal-doze-v4_54: 4100650897216443349
+      normal-doze-v4_55: -3643472168221679610
+      normal-doze-v4_56: 1297155792567800172
+      normal-doze-v4_57: -7215116055531420655
+      normal-doze-v4_58: 6502442800118614201
+      normal-doze-v4_59: 6327864549795344850
+      normal-doze-v4_6: -5472486764526514971
+      normal-doze-v4_60: -8525030512891446545
+      normal-doze-v4_61: -515299862005939024
+      normal-doze-v4_62: -1604026929111216396
+      normal-doze-v4_63: -7957767071527813541
+      normal-doze-v4_64: 1503635116945641548
+      normal-doze-v4_65: 4232347551284529223
+      normal-doze-v4_66: 4379987557821204383
+      normal-doze-v4_67: 7460606299767918033
+      normal-doze-v4_68: 2714122238834017762
+      normal-doze-v4_69: -5203681905634949601
+      normal-doze-v4_7: 3361519087459847650
+      normal-doze-v4_70: 3941408901802441213
+      normal-doze-v4_71: -9021126814050002805
+      normal-doze-v4_72: 4783549824237029537
+      normal-doze-v4_73: -3811840807785961302
+      normal-doze-v4_74: -6428573557480817647
+      normal-doze-v4_75: 6558744908372032865
+      normal-doze-v4_76: -1422967653045805440
+      normal-doze-v4_77: -6259475838819198051
+      normal-doze-v4_78: -4243277879244518048
+      normal-doze-v4_79: -419689950614119595
+      normal-doze-v4_8: 6304145994341912914
+      normal-doze-v4_80: 6355486090346710720
+      normal-doze-v4_81: -5256747009446382419
+      normal-doze-v4_82: 336242464143339096
+      normal-doze-v4_83: -7291446882046229820
+      normal-doze-v4_84: 5135863789843355732
+      normal-doze-v4_85: -6980654816640574445
+      normal-doze-v4_86: -8429578803019870165
+      normal-doze-v4_87: 4889325959799386901
+      normal-doze-v4_88: -5010479291753686635
+      normal-doze-v4_89: -1631278476680663641
+      normal-doze-v4_9: 8779586787894733011
+      normal-doze-v4_90: -1992615427164308928
+      normal-doze-v4_91: 6285872345335847250
+      normal-doze-v4_92: -7601427290725644990
+      normal-doze-v4_93: -4617683679890070418
+      normal-doze-v4_94: 4480609849814340627
+      normal-doze-v4_95: -6849317265744382514
+      normal-doze-v4_96: 6509642248086933487
+      normal-doze-v4_97: -906392910853627442
+      normal-doze-v4_98: -980865804528339092
+      normal-doze-v4_99: -6940957033957291075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8601a3e257ad0d24eaedf7572b583c95, type: 3}
+  m_Name: StationHordeTenWaves
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Waves.BattleWavePlan
+  planId: station_horde_ten_v1
+  intermissionSeconds: 5
+  waves:
+  - enemyCount: 20
+    spawnInterval: 0.7
+    maximumAlive: 20
+  - enemyCount: 30
+    spawnInterval: 0.65
+    maximumAlive: 24
+  - enemyCount: 45
+    spawnInterval: 0.6
+    maximumAlive: 30
+  - enemyCount: 65
+    spawnInterval: 0.55
+    maximumAlive: 36
+  - enemyCount: 90
+    spawnInterval: 0.5
+    maximumAlive: 42
+  - enemyCount: 120
+    spawnInterval: 0.45
+    maximumAlive: 50
+  - enemyCount: 155
+    spawnInterval: 0.4
+    maximumAlive: 60
+  - enemyCount: 195
+    spawnInterval: 0.35
+    maximumAlive: 70
+  - enemyCount: 240
+    spawnInterval: 0.3
+    maximumAlive: 80
+  - enemyCount: 290
+    spawnInterval: 0.25
+    maximumAlive: 90

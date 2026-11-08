@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: GEN-W05
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: GEN-W05
+  title: "\u78C1\u5438\u676F\u588A"
+  ownerRoleId: 
+  effectKey: stat.pickup_radius
+  description: "\u7D93\u9A57\u5438\u9644\u534A\u5F91 +20%\uFF0F40%\uFF0F60%\u3002"
+  quality: 0
+  category: 0
+  icon: {fileID: 21300000, guid: a252e547e5423c44a8e02be6bde7202c, type: 3}
+  artBrief: "\u5438\u4F4F\u7DA0\u8272\u7D93\u9A57\u5BF6\u77F3\u7684\u78C1\u6027\u676F\u588A"
+  maxRank: 3
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: fractions
+    values:
+    - 0.2
+    - 0.4
+    - 0.6

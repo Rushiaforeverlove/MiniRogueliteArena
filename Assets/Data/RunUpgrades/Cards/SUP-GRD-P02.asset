@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: SUP-GRD-P02
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: SUP-GRD-P02
+  title: "\u7DAD\u4FEE\u54E1\u5230\u5834"
+  ownerRoleId: guard_01
+  effectKey: support.guard_repair
+  description: "\u6BCF\u7B2C\u4E09\u6B21\u751F\u547D\u53D7\u50B7\u4E8B\u4EF6\uFF0C\u89E3\u9664\u6E1B\u901F\u3001\u6062\u5FA9 1 \u683C\u9583\u907F\u4E26\u7372 100 \u5C4F\u969C\uFF1B\u53D7\u50B7\u8A08\u6578\u6700\u591A\u6BCF\u79D2\u4E00\u6B21\u3002"
+  quality: 1
+  category: 3
+  icon: {fileID: 21300000, guid: 7e9d3810c5325384ea6436a251a75815, type: 3}
+  artBrief: "\u5DE5\u5177\u7BB1\u6ED1\u5230\u8173\u908A\uFF0C\u6273\u624B\u62CE\u8D77\u4E00\u679A\u767C\u4EAE\u7684\u9583\u907F\u6263\u74B0"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: countIcd
+    values:
+    - 1
+  - key: hurtEvents
+    values:
+    - 3
+  - key: dodgeCharges
+    values:
+    - 1
+  - key: shield
+    values:
+    - 100

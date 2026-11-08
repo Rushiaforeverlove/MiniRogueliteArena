@@ -1,0 +1,3512 @@
+fileFormatVersion: 2
+guid: e5c5d60aedaa5f349a887f945af6d53c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1256425756917180585
+    second: aftermath_0
+  - first:
+      213: 5700219439358206800
+    second: aftermath_1
+  - first:
+      213: -5218503538215450528
+    second: aftermath_2
+  - first:
+      213: -7338070775933870020
+    second: aftermath_3
+  - first:
+      213: -8402412733654245533
+    second: aftermath_4
+  - first:
+      213: 5802075501305603234
+    second: aftermath_5
+  - first:
+      213: 312085051359529300
+    second: aftermath_6
+  - first:
+      213: -2330900213271844420
+    second: aftermath_7
+  - first:
+      213: -153543076711014365
+    second: aftermath_8
+  - first:
+      213: -2040729013093838660
+    second: aftermath_9
+  - first:
+      213: 7066588224472052985
+    second: aftermath_10
+  - first:
+      213: 2016766172203816326
+    second: aftermath_11
+  - first:
+      213: 2395203904711204394
+    second: aftermath_12
+  - first:
+      213: 2295974023065362636
+    second: aftermath_13
+  - first:
+      213: -5284124151055225252
+    second: aftermath_14
+  - first:
+      213: -2365956826943371006
+    second: aftermath_15
+  - first:
+      213: 8135503953733523487
+    second: aftermath_16
+  - first:
+      213: 24160624240815551
+    second: aftermath_17
+  - first:
+      213: -862246253235635001
+    second: aftermath_18
+  - first:
+      213: 7192140072183000826
+    second: aftermath_19
+  - first:
+      213: 8072217040307217452
+    second: aftermath_20
+  - first:
+      213: -2841368594069777501
+    second: aftermath_21
+  - first:
+      213: -4178891322981010900
+    second: aftermath_22
+  - first:
+      213: -9095324792116677259
+    second: aftermath_23
+  - first:
+      213: 7444200206536620998
+    second: aftermath_24
+  - first:
+      213: -9104066305414894600
+    second: aftermath_25
+  - first:
+      213: -3658688668781784281
+    second: aftermath_26
+  - first:
+      213: -6154726060151307576
+    second: aftermath_27
+  - first:
+      213: 1495840270878605041
+    second: aftermath_28
+  - first:
+      213: 6078220230178255066
+    second: aftermath_29
+  - first:
+      213: -2156015272574328228
+    second: aftermath_30
+  - first:
+      213: -6995328074339034307
+    second: aftermath_31
+  - first:
+      213: 5728533359555057665
+    second: aftermath_32
+  - first:
+      213: 4624286456425395727
+    second: aftermath_33
+  - first:
+      213: 568752040323630774
+    second: aftermath_34
+  - first:
+      213: 3728141673163966265
+    second: aftermath_35
+  - first:
+      213: -6279283753569468435
+    second: aftermath_36
+  - first:
+      213: 3604943578033568796
+    second: aftermath_37
+  - first:
+      213: -1429444744986045942
+    second: aftermath_38
+  - first:
+      213: 5896753717413915892
+    second: aftermath_39
+  - first:
+      213: -1372688375406666258
+    second: aftermath_40
+  - first:
+      213: 695526329268276026
+    second: aftermath_41
+  - first:
+      213: -7357625637795017216
+    second: aftermath_42
+  - first:
+      213: 1977271132030592095
+    second: aftermath_43
+  - first:
+      213: 7141272253612750962
+    second: aftermath_44
+  - first:
+      213: -6698514030457952767
+    second: aftermath_45
+  - first:
+      213: -2745315928040731724
+    second: aftermath_46
+  - first:
+      213: -1493168550983457730
+    second: aftermath_47
+  - first:
+      213: 8506012085556773435
+    second: aftermath_48
+  - first:
+      213: -2592208955576452073
+    second: aftermath_49
+  - first:
+      213: -1249948548201450753
+    second: aftermath_50
+  - first:
+      213: 3224477618707224504
+    second: aftermath_51
+  - first:
+      213: -6512088480130877333
+    second: aftermath_52
+  - first:
+      213: 5451387188943639743
+    second: aftermath_53
+  - first:
+      213: 6450209393413757751
+    second: aftermath_54
+  - first:
+      213: 5040952300631892114
+    second: aftermath_55
+  - first:
+      213: 74438061174622892
+    second: aftermath_56
+  - first:
+      213: 2154792943450981339
+    second: aftermath_57
+  - first:
+      213: 3145606241235443506
+    second: aftermath_58
+  - first:
+      213: 9154773402428822927
+    second: aftermath_59
+  - first:
+      213: 5531952554034255489
+    second: aftermath_60
+  - first:
+      213: -5123145909776181561
+    second: aftermath_61
+  - first:
+      213: -1127552833679535012
+    second: aftermath_62
+  - first:
+      213: -3560914330243512707
+    second: aftermath_63
+  - first:
+      213: 7676479605162852123
+    second: aftermath_64
+  - first:
+      213: -2934358744087979145
+    second: aftermath_65
+  - first:
+      213: -2945664007609681606
+    second: aftermath_66
+  - first:
+      213: -4344275393498951892
+    second: aftermath_67
+  - first:
+      213: 945851320007882920
+    second: aftermath_68
+  - first:
+      213: 3420914789410448150
+    second: aftermath_69
+  - first:
+      213: 2781131256849273744
+    second: aftermath_70
+  - first:
+      213: -2646097389455016108
+    second: aftermath_71
+  - first:
+      213: 5614476917036253928
+    second: aftermath_72
+  - first:
+      213: -6450444602358988884
+    second: aftermath_73
+  - first:
+      213: -4026099105156926116
+    second: aftermath_74
+  - first:
+      213: -4625064308911130685
+    second: aftermath_75
+  - first:
+      213: -4321963483172709077
+    second: aftermath_76
+  - first:
+      213: 7852377676314966764
+    second: aftermath_77
+  - first:
+      213: -4914482081084511265
+    second: aftermath_78
+  - first:
+      213: 1761173041840092419
+    second: aftermath_79
+  - first:
+      213: 2164095806769125559
+    second: aftermath_80
+  - first:
+      213: 1597973415708454226
+    second: aftermath_81
+  - first:
+      213: -7610121152075400845
+    second: aftermath_82
+  - first:
+      213: -7040282948229358349
+    second: aftermath_83
+  - first:
+      213: -3682779398165019648
+    second: aftermath_84
+  - first:
+      213: -8631968294575614980
+    second: aftermath_85
+  - first:
+      213: -5857105551045921559
+    second: aftermath_86
+  - first:
+      213: 8888446101719224590
+    second: aftermath_87
+  - first:
+      213: 986770654582045420
+    second: aftermath_88
+  - first:
+      213: 9218733660204271540
+    second: aftermath_89
+  - first:
+      213: -1447215200462302397
+    second: aftermath_90
+  - first:
+      213: -3868127432610896896
+    second: aftermath_91
+  - first:
+      213: 5828760985890067020
+    second: aftermath_92
+  - first:
+      213: 8062329869337911277
+    second: aftermath_93
+  - first:
+      213: 4149333340654515978
+    second: aftermath_94
+  - first:
+      213: 7099113354492792212
+    second: aftermath_95
+  - first:
+      213: -8853513048202464467
+    second: aftermath_96
+  - first:
+      213: -6927117578241609733
+    second: aftermath_97
+  - first:
+      213: -8420242485707169002
+    second: aftermath_98
+  - first:
+      213: 4105216670541077144
+    second: aftermath_99
+  - first:
+      213: -6455138180286474289
+    second: aftermath_100
+  - first:
+      213: -7883372316020604455
+    second: aftermath_101
+  - first:
+      213: 2614396108645239238
+    second: aftermath_102
+  - first:
+      213: 3210046988669818504
+    second: aftermath_103
+  - first:
+      213: 5407679128255691585
+    second: aftermath_104
+  - first:
+      213: 7782388522888270481
+    second: aftermath_105
+  - first:
+      213: -50915576697754125
+    second: aftermath_106
+  - first:
+      213: -5303773106602474979
+    second: aftermath_107
+  - first:
+      213: -7310228050535465814
+    second: aftermath_108
+  - first:
+      213: 2909092135895828316
+    second: aftermath_109
+  - first:
+      213: 1256185663893034903
+    second: aftermath_110
+  - first:
+      213: 2151519059362483909
+    second: aftermath_111
+  - first:
+      213: 6567629210345584397
+    second: aftermath_112
+  - first:
+      213: -5622727487664656411
+    second: aftermath_113
+  - first:
+      213: -1158453477976006809
+    second: aftermath_114
+  - first:
+      213: -797172351368733328
+    second: aftermath_115
+  - first:
+      213: -8163153161671369735
+    second: aftermath_116
+  - first:
+      213: -7508441865421723938
+    second: aftermath_117
+  - first:
+      213: -792125590276381702
+    second: aftermath_118
+  - first:
+      213: -1655096510764529414
+    second: aftermath_119
+  - first:
+      213: -7776850003801683738
+    second: aftermath_120
+  - first:
+      213: -5745552868286516894
+    second: aftermath_121
+  - first:
+      213: 7188311254536014759
+    second: aftermath_122
+  - first:
+      213: -3896079401595513249
+    second: aftermath_123
+  - first:
+      213: -1335918705680146830
+    second: aftermath_124
+  - first:
+      213: 4830077426735016994
+    second: aftermath_125
+  - first:
+      213: -7892330635426456574
+    second: aftermath_126
+  - first:
+      213: 143743466000435604
+    second: aftermath_127
+  - first:
+      213: -351367691999960528
+    second: aftermath_128
+  - first:
+      213: 415504916088714329
+    second: aftermath_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aftermath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 296
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757dc405e67409ee0800000000000000
+      internalID: -1256425756917180585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1238
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053e8b8016f3b1f40800000000000000
+      internalID: 5700219439358206800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1193
+        width: 95
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0688c894ea62497b0800000000000000
+      internalID: -5218503538215450528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_3
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1126
+        width: 79
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3069cf028fe92a90800000000000000
+      internalID: -7338070775933870020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1207
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fd15af222a46b80800000000000000
+      internalID: -8402412733654245533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1187
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4215f7dec158050800000000000000
+      internalID: 5802075501305603234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1208
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4598ef163bfb45400800000000000000
+      internalID: 312085051359529300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1197
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9ac0d0b9af6afd0800000000000000
+      internalID: -2330900213271844420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_8
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1162
+        width: 99
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3206bee92618eddf0800000000000000
+      internalID: -153543076711014365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_9
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1154
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb055bb56cfdda3e0800000000000000
+      internalID: -2040729013093838660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_10
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1114
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f47d9dbc80911260800000000000000
+      internalID: 7066588224472052985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_11
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1143
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6859b39f52efcfb10800000000000000
+      internalID: 2016766172203816326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1173
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e90f0d2497d3120800000000000000
+      internalID: 2395203904711204394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1185
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0e55a9530fcdf10800000000000000
+      internalID: 2295974023065362636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1175
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e6a43c4150ba6b0800000000000000
+      internalID: -5284124151055225252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1178
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20941202dce6a2fd0800000000000000
+      internalID: -2365956826943371006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_16
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1145
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18921ffdbd17e070800000000000000
+      internalID: 8135503953733523487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 870
+        width: 301
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdec61b5f5d55000800000000000000
+      internalID: 24160624240815551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_18
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1138
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc7afed99fa804f0800000000000000
+      internalID: -862246253235635001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_19
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afee1514a4d9fc360800000000000000
+      internalID: 7192140072183000826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_20
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1156
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24ed5531a6460070800000000000000
+      internalID: 8072217040307217452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_21
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1157
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a31582615e6198d0800000000000000
+      internalID: -2841368594069777501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_22
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 876
+        width: 651
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2231c28b789106c0800000000000000
+      internalID: -4178891322981010900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_23
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1140
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f4196a4ae6c180800000000000000
+      internalID: -9095324792116677259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1113
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb318395ac1f4760800000000000000
+      internalID: 7444200206536620998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_25
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1144
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb642e3eebd7a180800000000000000
+      internalID: -9104066305414894600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_26
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1128
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723d3815a0ab93dc0800000000000000
+      internalID: -3658688668781784281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1124
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c287d6e145069aa0800000000000000
+      internalID: -6154726060151307576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_28
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1126
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe71721dca42c410800000000000000
+      internalID: 1495840270878605041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_29
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad03e56781d2a5450800000000000000
+      internalID: 6078220230178255066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52e3eb588b4412e0800000000000000
+      internalID: -2156015272574328228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1080
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b54b1ed2a9bee90800000000000000
+      internalID: -6995328074339034307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108114c4db6df7f40800000000000000
+      internalID: 5728533359555057665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 871
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06b2e61804cc2040800000000000000
+      internalID: 4624286456425395727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 916
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6c4c0a7fc94e700800000000000000
+      internalID: 568752040323630774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 919
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937c44569150db330800000000000000
+      internalID: 3728141673163966265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 917
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def3c98f1b08bd8a0800000000000000
+      internalID: -6279283753569468435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 917
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c340c9515570230800000000000000
+      internalID: 3604943578033568796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_38
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 805
+        width: 126
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02de05f397992ce0800000000000000
+      internalID: -1429444744986045942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_39
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 917
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcab6e734a75d150800000000000000
+      internalID: 5896753717413915892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_40
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 915
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedd394023b33fce0800000000000000
+      internalID: -1372688375406666258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_41
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 932
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b87fbe28107a900800000000000000
+      internalID: 695526329268276026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 309
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ecbecf67674e990800000000000000
+      internalID: -7357625637795017216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 887
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5461595e9da07b10800000000000000
+      internalID: 1977271132030592095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 915
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278f0f05745ea1360800000000000000
+      internalID: 7141272253612750962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_45
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 911
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1066593caf81a03a0800000000000000
+      internalID: -6698514030457952767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_46
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 881
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb09e075bda6e9d0800000000000000
+      internalID: -2745315928040731724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_47
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 904
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34a8d03d13374be0800000000000000
+      internalID: -1493168550983457730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_48
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 893
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b328aceccec6b0670800000000000000
+      internalID: 8506012085556773435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_49
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 857
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c774360bf960cd0800000000000000
+      internalID: -2592208955576452073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_50
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 586
+        width: 661
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2ffecfa6a47aee0800000000000000
+      internalID: -1249948548201450753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_51
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 867
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7dd396f45afbc20800000000000000
+      internalID: 3224477618707224504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_52
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 872
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68b2e3a70a60a5a0800000000000000
+      internalID: -6512088480130877333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_53
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 614
+        width: 309
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4d91204c737ab40800000000000000
+      internalID: 5451387188943639743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_54
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 769
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b9055c44fb38950800000000000000
+      internalID: 6450209393413757751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_55
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 736
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2902ad8c86f05f540800000000000000
+      internalID: 5040952300631892114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 610
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa0512b505780100800000000000000
+      internalID: 74438061174622892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 624
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd30ae6f3cc57ed10800000000000000
+      internalID: 2154792943450981339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 274
+        width: 311
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f1714d53077ab20800000000000000
+      internalID: 3145606241235443506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_59
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 618
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85d6fac7e94c0f70800000000000000
+      internalID: 9154773402428822927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_60
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 345
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186d681d98175cc40800000000000000
+      internalID: 5531952554034255489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_61
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 293
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c69b4b40fde6e8b0800000000000000
+      internalID: -5123145909776181561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_62
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 592
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54db0bfba02a50f0800000000000000
+      internalID: -1127552833679535012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 607
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76cc3e7847159ec0800000000000000
+      internalID: -3560914330243512707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 590
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f33477785588a60800000000000000
+      internalID: 7676479605162852123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b1317e4401747d0800000000000000
+      internalID: -2934358744087979145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_66
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 580
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3975ce1136ee17d0800000000000000
+      internalID: -2945664007609681606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_67
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 582
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f460ceb8806b3c0800000000000000
+      internalID: -4344275393498951892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_68
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 557
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87763a3c6502d00800000000000000
+      internalID: 945851320007882920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_69
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 574
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613a0bd40e7897f20800000000000000
+      internalID: 3420914789410448150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_70
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 581
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0939c3e9420989620800000000000000
+      internalID: 2781131256849273744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 570
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ff174a17c274bd0800000000000000
+      internalID: -2646097389455016108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_72
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 568
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2839f5201aaed40800000000000000
+      internalID: 5614476917036253928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_73
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 580
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf7e016fca6b76a0800000000000000
+      internalID: -6450444602358988884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_74
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 548
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c557a9ee13c6028c0800000000000000
+      internalID: -4026099105156926116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_75
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 554
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7b304048870dfb0800000000000000
+      internalID: -4625064308911130685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 297
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dd74d5c1d4504c0800000000000000
+      internalID: -4321963483172709077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_77
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 535
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaf5f694ef39fc60800000000000000
+      internalID: 7852377676314966764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_78
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 532
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb6fe5d5904ccbb0800000000000000
+      internalID: -4914482081084511265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_79
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 531
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3057fdaec81f07810800000000000000
+      internalID: 1761173041840092419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_80
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 528
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8d26e9ba9680e10800000000000000
+      internalID: 2164095806769125559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_81
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 503
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25de1dbea542d2610800000000000000
+      internalID: 1597973415708454226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_82
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 453
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379fbd0e12b636690800000000000000
+      internalID: -7610121152075400845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_83
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 403
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc9c88a5f3eb4e90800000000000000
+      internalID: -7040282948229358349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_84
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 417
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0044f3a46a324ecc0800000000000000
+      internalID: -3682779398165019648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_85
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 413
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3d269f196153880800000000000000
+      internalID: -8631968294575614980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_86
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 417
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e470f9988167bea0800000000000000
+      internalID: -5857105551045921559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_87
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 388
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e011e22f2aa1a5b70800000000000000
+      internalID: 8888446101719224590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_88
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 372
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea7425aea6b1bd00800000000000000
+      internalID: 986770654582045420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_89
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 368
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b78967cb658fef70800000000000000
+      internalID: 9218733660204271540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_90
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 367
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34316ee51757aebe0800000000000000
+      internalID: -1447215200462302397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_91
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 375
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004a8412896a15ac0800000000000000
+      internalID: -3868127432610896896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_92
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 361
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4212ac0c3be3e050800000000000000
+      internalID: 5828760985890067020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_93
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 377
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def58e3dc4623ef60800000000000000
+      internalID: 8062329869337911277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_94
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 377
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07b56070b4659930800000000000000
+      internalID: 4149333340654515978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_95
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 375
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d46c2bbfd158260800000000000000
+      internalID: 7099113354492792212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_96
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 359
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d233b936ac0022580800000000000000
+      internalID: -8853513048202464467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_97
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 322
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff6b87934feddf90800000000000000
+      internalID: -6927117578241609733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_98
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 325
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613a5c4521a452b80800000000000000
+      internalID: -8420242485707169002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_99
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 326
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89adc9dbfc8a8f830800000000000000
+      internalID: 4105216670541077144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_100
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 268
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc796fb960eba66a0800000000000000
+      internalID: -6455138180286474289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_101
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1817f75a2a89290800000000000000
+      internalID: -7883372316020604455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_102
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 310
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c986fdb863384420800000000000000
+      internalID: 2614396108645239238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_103
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 304
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8861af78ab06c8c20800000000000000
+      internalID: 3210046988669818504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_104
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 284
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b79fa148feb0b40800000000000000
+      internalID: 5407679128255691585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_105
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19215d2f029900c60800000000000000
+      internalID: 7782388522888270481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_106
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 276
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd65618d8c1b4ff0800000000000000
+      internalID: -50915576697754125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_107
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 290
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1280bbc5763566b0800000000000000
+      internalID: -5303773106602474979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 325
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacbcbcb15adc8a90800000000000000
+      internalID: -7310228050535465814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5704f272eb2f5820800000000000000
+      internalID: 2909092135895828316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_110
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 254
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797584ca43ede6110800000000000000
+      internalID: 1256185663893034903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_111
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 256
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce88cc6f2bbbdd10800000000000000
+      internalID: 2151519059362483909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_112
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 268
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07b02358f7e42b50800000000000000
+      internalID: 6567629210345584397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_113
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 181
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef6ce4f32f08f1b0800000000000000
+      internalID: -5622727487664656411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_114
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 180
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f9c6413b85cefe0800000000000000
+      internalID: -1158453477976006809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_115
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 182
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d57e358ffdfe4f0800000000000000
+      internalID: -797172351368733328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_116
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 190
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb987f1377a6be80800000000000000
+      internalID: -8163153161671369735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_117
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 144
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6edd2a7e7acc790800000000000000
+      internalID: -7508441865421723938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_118
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 114
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af36416f8fdc105f0800000000000000
+      internalID: -792125590276381702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_119
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 108
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af844e61e7ae709e0800000000000000
+      internalID: -1655096510764529414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_120
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 95
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8c7e30024131490800000000000000
+      internalID: -7776850003801683738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_121
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 83
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2613e878b12b340b0800000000000000
+      internalID: -5745552868286516894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_122
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 85
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abcf8d200302c360800000000000000
+      internalID: 7188311254536014759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_123
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 105
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56de233d685ee9c0800000000000000
+      internalID: -3896079401595513249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_124
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 102
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e9223e30dd57de0800000000000000
+      internalID: -1335918705680146830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_125
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 75
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c6c2a24d1e70340800000000000000
+      internalID: 4830077426735016994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_126
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 71
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c19793a1fc87290800000000000000
+      internalID: -7892330635426456574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_127
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4994db5bbedaef100800000000000000
+      internalID: 143743466000435604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_128
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 65
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0322bcc12f0bf1bf0800000000000000
+      internalID: -351367691999960528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aftermath_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 52
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95475ed058b24c500800000000000000
+      internalID: 415504916088714329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aftermath_0: -1256425756917180585
+      aftermath_1: 5700219439358206800
+      aftermath_10: 7066588224472052985
+      aftermath_100: -6455138180286474289
+      aftermath_101: -7883372316020604455
+      aftermath_102: 2614396108645239238
+      aftermath_103: 3210046988669818504
+      aftermath_104: 5407679128255691585
+      aftermath_105: 7782388522888270481
+      aftermath_106: -50915576697754125
+      aftermath_107: -5303773106602474979
+      aftermath_108: -7310228050535465814
+      aftermath_109: 2909092135895828316
+      aftermath_11: 2016766172203816326
+      aftermath_110: 1256185663893034903
+      aftermath_111: 2151519059362483909
+      aftermath_112: 6567629210345584397
+      aftermath_113: -5622727487664656411
+      aftermath_114: -1158453477976006809
+      aftermath_115: -797172351368733328
+      aftermath_116: -8163153161671369735
+      aftermath_117: -7508441865421723938
+      aftermath_118: -792125590276381702
+      aftermath_119: -1655096510764529414
+      aftermath_12: 2395203904711204394
+      aftermath_120: -7776850003801683738
+      aftermath_121: -5745552868286516894
+      aftermath_122: 7188311254536014759
+      aftermath_123: -3896079401595513249
+      aftermath_124: -1335918705680146830
+      aftermath_125: 4830077426735016994
+      aftermath_126: -7892330635426456574
+      aftermath_127: 143743466000435604
+      aftermath_128: -351367691999960528
+      aftermath_129: 415504916088714329
+      aftermath_13: 2295974023065362636
+      aftermath_14: -5284124151055225252
+      aftermath_15: -2365956826943371006
+      aftermath_16: 8135503953733523487
+      aftermath_17: 24160624240815551
+      aftermath_18: -862246253235635001
+      aftermath_19: 7192140072183000826
+      aftermath_2: -5218503538215450528
+      aftermath_20: 8072217040307217452
+      aftermath_21: -2841368594069777501
+      aftermath_22: -4178891322981010900
+      aftermath_23: -9095324792116677259
+      aftermath_24: 7444200206536620998
+      aftermath_25: -9104066305414894600
+      aftermath_26: -3658688668781784281
+      aftermath_27: -6154726060151307576
+      aftermath_28: 1495840270878605041
+      aftermath_29: 6078220230178255066
+      aftermath_3: -7338070775933870020
+      aftermath_30: -2156015272574328228
+      aftermath_31: -6995328074339034307
+      aftermath_32: 5728533359555057665
+      aftermath_33: 4624286456425395727
+      aftermath_34: 568752040323630774
+      aftermath_35: 3728141673163966265
+      aftermath_36: -6279283753569468435
+      aftermath_37: 3604943578033568796
+      aftermath_38: -1429444744986045942
+      aftermath_39: 5896753717413915892
+      aftermath_4: -8402412733654245533
+      aftermath_40: -1372688375406666258
+      aftermath_41: 695526329268276026
+      aftermath_42: -7357625637795017216
+      aftermath_43: 1977271132030592095
+      aftermath_44: 7141272253612750962
+      aftermath_45: -6698514030457952767
+      aftermath_46: -2745315928040731724
+      aftermath_47: -1493168550983457730
+      aftermath_48: 8506012085556773435
+      aftermath_49: -2592208955576452073
+      aftermath_5: 5802075501305603234
+      aftermath_50: -1249948548201450753
+      aftermath_51: 3224477618707224504
+      aftermath_52: -6512088480130877333
+      aftermath_53: 5451387188943639743
+      aftermath_54: 6450209393413757751
+      aftermath_55: 5040952300631892114
+      aftermath_56: 74438061174622892
+      aftermath_57: 2154792943450981339
+      aftermath_58: 3145606241235443506
+      aftermath_59: 9154773402428822927
+      aftermath_6: 312085051359529300
+      aftermath_60: 5531952554034255489
+      aftermath_61: -5123145909776181561
+      aftermath_62: -1127552833679535012
+      aftermath_63: -3560914330243512707
+      aftermath_64: 7676479605162852123
+      aftermath_65: -2934358744087979145
+      aftermath_66: -2945664007609681606
+      aftermath_67: -4344275393498951892
+      aftermath_68: 945851320007882920
+      aftermath_69: 3420914789410448150
+      aftermath_7: -2330900213271844420
+      aftermath_70: 2781131256849273744
+      aftermath_71: -2646097389455016108
+      aftermath_72: 5614476917036253928
+      aftermath_73: -6450444602358988884
+      aftermath_74: -4026099105156926116
+      aftermath_75: -4625064308911130685
+      aftermath_76: -4321963483172709077
+      aftermath_77: 7852377676314966764
+      aftermath_78: -4914482081084511265
+      aftermath_79: 1761173041840092419
+      aftermath_8: -153543076711014365
+      aftermath_80: 2164095806769125559
+      aftermath_81: 1597973415708454226
+      aftermath_82: -7610121152075400845
+      aftermath_83: -7040282948229358349
+      aftermath_84: -3682779398165019648
+      aftermath_85: -8631968294575614980
+      aftermath_86: -5857105551045921559
+      aftermath_87: 8888446101719224590
+      aftermath_88: 986770654582045420
+      aftermath_89: 9218733660204271540
+      aftermath_9: -2040729013093838660
+      aftermath_90: -1447215200462302397
+      aftermath_91: -3868127432610896896
+      aftermath_92: 5828760985890067020
+      aftermath_93: 8062329869337911277
+      aftermath_94: 4149333340654515978
+      aftermath_95: 7099113354492792212
+      aftermath_96: -8853513048202464467
+      aftermath_97: -6927117578241609733
+      aftermath_98: -8420242485707169002
+      aftermath_99: 4105216670541077144
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

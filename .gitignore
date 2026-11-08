@@ -19,3 +19,11 @@
 *.log
 .DS_Store
 Thumbs.db
+
+# Local project history and generated IDE files
+/Backups/
+/Assets/Scenes/Backups/
+/Assets/Scenes/Backups.meta
+/Assets/Prefabs/Backups/
+/Assets/Prefabs/Backups.meta
+*.slnx

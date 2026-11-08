@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "GEN-W01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-W01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-W01.png"
+    },
+    {
+      "id": "GEN-W02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-W02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-W02.png"
+    },
+    {
+      "id": "GEN-W03",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-W03.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-W03.png"
+    },
+    {
+      "id": "GEN-W04",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-W04.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-W04.png"
+    },
+    {
+      "id": "GEN-W05",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-W05.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-W05.png"
+    },
+    {
+      "id": "GEN-W06",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-W06.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-W06.png"
+    },
+    {
+      "id": "GEN-W07",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-W07.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-W07.png"
+    },
+    {
+      "id": "GEN-W08",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-W08.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-W08.png"
+    },
+    {
+      "id": "GEN-P01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-P01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-P01.png"
+    },
+    {
+      "id": "GEN-P02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-P02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-P02.png"
+    },
+    {
+      "id": "GEN-P03",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-P03.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-P03.png"
+    },
+    {
+      "id": "GEN-P04",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-P04.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-P04.png"
+    },
+    {
+      "id": "GEN-P05",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-P05.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-P05.png"
+    },
+    {
+      "id": "GEN-G01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-G01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-G01.png"
+    },
+    {
+      "id": "GEN-G02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GEN-G02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GEN-G02.png"
+    },
+    {
+      "id": "ITM-W01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-W01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-W01.png"
+    },
+    {
+      "id": "ITM-W02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-W02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-W02.png"
+    },
+    {
+      "id": "ITM-W03",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-W03.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-W03.png"
+    },
+    {
+      "id": "ITM-W04",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-W04.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-W04.png"
+    },
+    {
+      "id": "ITM-W05",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-W05.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-W05.png"
+    },
+    {
+      "id": "ITM-W06",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-W06.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-W06.png"
+    },
+    {
+      "id": "ITM-P01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-P01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-P01.png"
+    },
+    {
+      "id": "ITM-P02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-P02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-P02.png"
+    },
+    {
+      "id": "ITM-P03",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-P03.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-P03.png"
+    },
+    {
+      "id": "ITM-P04",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-P04.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-P04.png"
+    },
+    {
+      "id": "ITM-G01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-G01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-G01.png"
+    },
+    {
+      "id": "ITM-G02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/ITM-G02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/ITM-G02.png"
+    },
+    {
+      "id": "GRD-N5-W01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-N5-W01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-N5-W01.png"
+    },
+    {
+      "id": "GRD-W01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-W01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-W01.png"
+    },
+    {
+      "id": "GRD-W02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-W02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-W02.png"
+    },
+    {
+      "id": "GRD-W03",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-W03.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-W03.png"
+    },
+    {
+      "id": "GRD-W04",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-W04.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-W04.png"
+    },
+    {
+      "id": "GRD-W05",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-W05.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-W05.png"
+    },
+    {
+      "id": "GRD-W06",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-W06.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-W06.png"
+    },
+    {
+      "id": "GRD-W07",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-W07.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-W07.png"
+    },
+    {
+      "id": "GRD-W08",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-W08.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-W08.png"
+    },
+    {
+      "id": "GRD-N5-P01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-N5-P01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-N5-P01.png"
+    },
+    {
+      "id": "GRD-P01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-P01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-P01.png"
+    },
+    {
+      "id": "GRD-P02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-P02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-P02.png"
+    },
+    {
+      "id": "GRD-P03",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-P03.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-P03.png"
+    },
+    {
+      "id": "GRD-P04",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-P04.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-P04.png"
+    },
+    {
+      "id": "GRD-P05",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-P05.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-P05.png"
+    },
+    {
+      "id": "GRD-G01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-G01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-G01.png"
+    },
+    {
+      "id": "GRD-G02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-G02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-G02.png"
+    },
+    {
+      "id": "GRD-N5-G01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/GRD-N5-G01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/GRD-N5-G01.png"
+    },
+    {
+      "id": "SCT-N5-W01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-N5-W01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-N5-W01.png"
+    },
+    {
+      "id": "SCT-W01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-W01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-W01.png"
+    },
+    {
+      "id": "SCT-W02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-W02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-W02.png"
+    },
+    {
+      "id": "SCT-W03",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-W03.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-W03.png"
+    },
+    {
+      "id": "SCT-W04",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-W04.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-W04.png"
+    },
+    {
+      "id": "SCT-W05",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-W05.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-W05.png"
+    },
+    {
+      "id": "SCT-W06",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-W06.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-W06.png"
+    },
+    {
+      "id": "SCT-W07",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-W07.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-W07.png"
+    },
+    {
+      "id": "SCT-W08",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-W08.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-W08.png"
+    },
+    {
+      "id": "SCT-N5-P01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-N5-P01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-N5-P01.png"
+    },
+    {
+      "id": "SCT-P01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-P01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-P01.png"
+    },
+    {
+      "id": "SCT-P02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-P02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-P02.png"
+    },
+    {
+      "id": "SCT-P03",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-P03.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-P03.png"
+    },
+    {
+      "id": "SCT-P04",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-P04.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-P04.png"
+    },
+    {
+      "id": "SCT-P05",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-P05.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-P05.png"
+    },
+    {
+      "id": "SCT-G01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-G01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-G01.png"
+    },
+    {
+      "id": "SCT-G02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-G02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-G02.png"
+    },
+    {
+      "id": "SCT-N5-G01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SCT-N5-G01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SCT-N5-G01.png"
+    },
+    {
+      "id": "SUP-GRD-W01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-GRD-W01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-GRD-W01.png"
+    },
+    {
+      "id": "SUP-GRD-W02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-GRD-W02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-GRD-W02.png"
+    },
+    {
+      "id": "SUP-GRD-W03",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-GRD-W03.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-GRD-W03.png"
+    },
+    {
+      "id": "SUP-GRD-W04",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-GRD-W04.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-GRD-W04.png"
+    },
+    {
+      "id": "SUP-GRD-P01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-GRD-P01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-GRD-P01.png"
+    },
+    {
+      "id": "SUP-GRD-P02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-GRD-P02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-GRD-P02.png"
+    },
+    {
+      "id": "SUP-GRD-G01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-GRD-G01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-GRD-G01.png"
+    },
+    {
+      "id": "SUP-SCT-W01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-SCT-W01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-SCT-W01.png"
+    },
+    {
+      "id": "SUP-SCT-W02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-SCT-W02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-SCT-W02.png"
+    },
+    {
+      "id": "SUP-SCT-W03",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-SCT-W03.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-SCT-W03.png"
+    },
+    {
+      "id": "SUP-SCT-W04",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-SCT-W04.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-SCT-W04.png"
+    },
+    {
+      "id": "SUP-SCT-P01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-SCT-P01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-SCT-P01.png"
+    },
+    {
+      "id": "SUP-SCT-P02",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-SCT-P02.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-SCT-P02.png"
+    },
+    {
+      "id": "SUP-SCT-G01",
+      "cardPath": "Assets/Data/RunUpgrades/Cards/SUP-SCT-G01.asset",
+      "texturePath": "Assets/Art/Upgrades/V1/SUP-SCT-G01.png"
+    }
+  ]
+}

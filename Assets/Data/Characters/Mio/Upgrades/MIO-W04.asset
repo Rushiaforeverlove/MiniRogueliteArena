@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: MIO-W04
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: MIO-W04
+  title: "\u7B46\u76F4\u7684\u7B54\u6848"
+  ownerRoleId: mio_01
+  effectKey: mio.straight_answer
+  description: "\u6BCF\u5C64\u84C4\u529B\u528D\u6C23\u984D\u5916\u7A7F\u900F 2 \u540D\u6575\u4EBA\uFF0C\u5C04\u7A0B +10%\u3002"
+  quality: 0
+  category: 2
+  icon: {fileID: 1421696012409510913, guid: e3ad5dbb5b6f4d5408361246d60b0c5e, type: 2}
+  artBrief: "\u7720\u6708\u5DE8\u528D\uFF0F\u6708\u8272\uFF0F\u62D6\u528D\u8207\u89E3\u653E\uFF1B\u5716\u96C6\u683C 3"
+  maxRank: 2
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  requiredCardIds: []
+  numbers:
+  - key: targets
+    values:
+    - 2
+    - 4
+  - key: range
+    values:
+    - 0.1
+    - 0.2

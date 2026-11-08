@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: GRD-W06
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: GRD-W06
+  title: "\u8FD1\u8EAB\u8ABF\u5F8B"
+  ownerRoleId: guard_01
+  effectKey: guard.close_shock_damage
+  description: "\u9707\u76EA\u5C0D\u8DDD\u96E2\u89D2\u8272\u4E0D\u8D85\u904E 3 \u7684\u6575\u4EBA\uFF0C\u50B7\u5BB3\u589E\u52A0 15%\uFF0F25%\uFF0F35%\u3002"
+  quality: 0
+  category: 2
+  icon: {fileID: 21300000, guid: e7eda2620b98ea14baf3653fce24dcb1, type: 3}
+  artBrief: "\u8033\u908A\u8ABF\u97F3\u65CB\u9215\u8207\u8FD1\u8DDD\u96E2\u7206\u958B\u7684\u540C\u5FC3\u9707\u7D0B"
+  maxRank: 3
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: bonuses
+    values:
+    - 0.15
+    - 0.25
+    - 0.35
+  - key: distance
+    values:
+    - 3

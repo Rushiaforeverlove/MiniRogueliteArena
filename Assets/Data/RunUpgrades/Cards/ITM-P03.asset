@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: ITM-P03
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: ITM-P03
+  title: "\u5F48\u8DF3\u9152\u6876"
+  ownerRoleId: 
+  effectKey: item.bouncing_barrel
+  description: "\u6BCF\u7B2C 3 \u6B21\u9583\u907F\u6295\u51FA\u9152\u6876\uFF0C\u5728 3\uFF0F4 \u540D\u4E0D\u540C\u6575\u4EBA\u9593\u5F48\u8DF3\uFF1B\u6BCF\u8DF3\u9020\u6210 80% \u666E\u653B\u57FA\u6E96\u50B7\u5BB3\uFF0C\u4E26\u6E1B\u901F 30% \u6301\u7E8C 2 \u79D2\u3002"
+  quality: 1
+  category: 1
+  icon: {fileID: 21300000, guid: f2f178761dc1d7943a724e068191355f, type: 3}
+  artBrief: "\u649E\u51FA\u7D2B\u8272\u8ECC\u8DE1\u3001\u6EFE\u904E\u6575\u7FA4\u7684\u8FF7\u4F60\u9152\u6876"
+  maxRank: 2
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: coefficient
+    values:
+    - 0.8
+  - key: slow
+    values:
+    - 0.3
+  - key: targets
+    values:
+    - 3
+    - 4
+  - key: dodgeThreshold
+    values:
+    - 3
+  - key: duration
+    values:
+    - 2

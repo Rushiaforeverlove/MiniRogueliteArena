@@ -1,0 +1,2264 @@
+fileFormatVersion: 2
+guid: 0a64364765d4eb84cade0d6f148aac99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3627028079834081767
+    second: riftmaw-sheet-v1_0
+  - first:
+      213: -6259410898171758718
+    second: riftmaw-sheet-v1_1
+  - first:
+      213: -6100408240236390740
+    second: riftmaw-sheet-v1_2
+  - first:
+      213: 450154354118755507
+    second: riftmaw-sheet-v1_3
+  - first:
+      213: -1650311175303440308
+    second: riftmaw-sheet-v1_4
+  - first:
+      213: 7426354945591525360
+    second: riftmaw-sheet-v1_5
+  - first:
+      213: 3064080802810254731
+    second: riftmaw-sheet-v1_6
+  - first:
+      213: 1707545548329018911
+    second: riftmaw-sheet-v1_7
+  - first:
+      213: 6165760855660338694
+    second: riftmaw-sheet-v1_8
+  - first:
+      213: 4498136769333908363
+    second: riftmaw-sheet-v1_9
+  - first:
+      213: -713338593610376538
+    second: riftmaw-sheet-v1_10
+  - first:
+      213: -3639265429289003144
+    second: riftmaw-sheet-v1_11
+  - first:
+      213: 7746686371989645371
+    second: riftmaw-sheet-v1_12
+  - first:
+      213: 3807596115592085410
+    second: riftmaw-sheet-v1_13
+  - first:
+      213: 409132771282150111
+    second: riftmaw-sheet-v1_14
+  - first:
+      213: 9146261750462268489
+    second: riftmaw-sheet-v1_15
+  - first:
+      213: -3649298816498568535
+    second: riftmaw-sheet-v1_16
+  - first:
+      213: 2805620547107261132
+    second: riftmaw-sheet-v1_17
+  - first:
+      213: -8919546238962673575
+    second: riftmaw-sheet-v1_18
+  - first:
+      213: 3681653884188153493
+    second: riftmaw-sheet-v1_19
+  - first:
+      213: 3105446712205344818
+    second: riftmaw-sheet-v1_20
+  - first:
+      213: 3174077713687766632
+    second: riftmaw-sheet-v1_21
+  - first:
+      213: 3983268599513381618
+    second: riftmaw-sheet-v1_22
+  - first:
+      213: 1537759134628025135
+    second: riftmaw-sheet-v1_23
+  - first:
+      213: 2622569825583555006
+    second: riftmaw-sheet-v1_24
+  - first:
+      213: 6531895183489300396
+    second: riftmaw-sheet-v1_25
+  - first:
+      213: -6346590032483784899
+    second: riftmaw-sheet-v1_26
+  - first:
+      213: 416199090630000417
+    second: riftmaw-sheet-v1_27
+  - first:
+      213: 4067957112144152851
+    second: riftmaw-sheet-v1_28
+  - first:
+      213: 3835240465225455475
+    second: riftmaw-sheet-v1_29
+  - first:
+      213: -8712025803372789554
+    second: riftmaw-sheet-v1_30
+  - first:
+      213: -9017507290763310659
+    second: riftmaw-sheet-v1_31
+  - first:
+      213: -1275005878224055766
+    second: riftmaw-sheet-v1_32
+  - first:
+      213: -7577174698802569448
+    second: riftmaw-sheet-v1_33
+  - first:
+      213: 1432796040991546775
+    second: riftmaw-sheet-v1_34
+  - first:
+      213: -5856894928021243598
+    second: riftmaw-sheet-v1_35
+  - first:
+      213: -2943196145316294718
+    second: riftmaw-sheet-v1_36
+  - first:
+      213: -8055861070753788559
+    second: riftmaw-sheet-v1_37
+  - first:
+      213: 6032686475022904428
+    second: riftmaw-sheet-v1_38
+  - first:
+      213: 1960570439363939985
+    second: riftmaw-sheet-v1_39
+  - first:
+      213: 6257708733214544592
+    second: riftmaw-sheet-v1_40
+  - first:
+      213: 2286111462485187
+    second: riftmaw-sheet-v1_41
+  - first:
+      213: 3151131634655976864
+    second: riftmaw-sheet-v1_42
+  - first:
+      213: 8575398577401224448
+    second: riftmaw-sheet-v1_43
+  - first:
+      213: 3645019671444691867
+    second: riftmaw-sheet-v1_44
+  - first:
+      213: -4430300969562237393
+    second: riftmaw-sheet-v1_45
+  - first:
+      213: -6876482900113097961
+    second: riftmaw-sheet-v1_46
+  - first:
+      213: -5309794671158107454
+    second: riftmaw-sheet-v1_47
+  - first:
+      213: 910941508833560772
+    second: riftmaw-sheet-v1_48
+  - first:
+      213: -1808784972849745481
+    second: riftmaw-sheet-v1_49
+  - first:
+      213: -453039137766599235
+    second: riftmaw-sheet-v1_50
+  - first:
+      213: 8949042535396357626
+    second: riftmaw-sheet-v1_51
+  - first:
+      213: 6023621384106724389
+    second: riftmaw-sheet-v1_52
+  - first:
+      213: 9013065536369131655
+    second: riftmaw-sheet-v1_53
+  - first:
+      213: -4665358207392789483
+    second: riftmaw-sheet-v1_54
+  - first:
+      213: 4269093019391378453
+    second: riftmaw-sheet-v1_55
+  - first:
+      213: 8257371324874706410
+    second: riftmaw-sheet-v1_56
+  - first:
+      213: -4114068930645166545
+    second: riftmaw-sheet-v1_57
+  - first:
+      213: -2555031144387439303
+    second: riftmaw-sheet-v1_58
+  - first:
+      213: -1985901883907186031
+    second: riftmaw-sheet-v1_59
+  - first:
+      213: 1767522167523055204
+    second: riftmaw-sheet-v1_60
+  - first:
+      213: 5855637864659259050
+    second: riftmaw-sheet-v1_61
+  - first:
+      213: 6971450382401272217
+    second: riftmaw-sheet-v1_62
+  - first:
+      213: -513901971060036130
+    second: riftmaw-sheet-v1_63
+  - first:
+      213: -2440777078565668625
+    second: riftmaw-sheet-v1_64
+  - first:
+      213: 8253182064965881965
+    second: riftmaw-sheet-v1_65
+  - first:
+      213: -3779527906426928560
+    second: riftmaw-sheet-v1_66
+  - first:
+      213: -8693366711981969345
+    second: riftmaw-sheet-v1_67
+  - first:
+      213: -1105577947489409136
+    second: riftmaw-sheet-v1_68
+  - first:
+      213: -2808830102101652230
+    second: riftmaw-sheet-v1_69
+  - first:
+      213: -6797497826149452104
+    second: riftmaw-sheet-v1_70
+  - first:
+      213: 8483242254651103460
+    second: riftmaw-sheet-v1_71
+  - first:
+      213: 5467704538813750006
+    second: riftmaw-sheet-v1_72
+  - first:
+      213: -9024331212791551736
+    second: riftmaw-sheet-v1_73
+  - first:
+      213: -980873436322565882
+    second: riftmaw-sheet-v1_74
+  - first:
+      213: 1310338512896015261
+    second: riftmaw-sheet-v1_75
+  - first:
+      213: -3484884131621776385
+    second: riftmaw-sheet-v1_76
+  - first:
+      213: -4551397972658831631
+    second: riftmaw-sheet-v1_77
+  - first:
+      213: 7257784239436891807
+    second: riftmaw-sheet-v1_78
+  - first:
+      213: 1993106470937010990
+    second: riftmaw-sheet-v1_79
+  - first:
+      213: -7582017703991988015
+    second: riftmaw-sheet-v1_80
+  - first:
+      213: -2426277356135924005
+    second: riftmaw-sheet-v1_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 221
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9a0e062dac55230800000000000000
+      internalID: 3627028079834081767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 904
+        width: 224
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287734fa3fa1229a0800000000000000
+      internalID: -6259410898171758718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1087
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca618dfd60ff65ba0800000000000000
+      internalID: -6100408240236390740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 904
+        width: 221
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4085300054f3600800000000000000
+      internalID: 450154354118755507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_4
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 906
+        width: 215
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c485e23dabae819e0800000000000000
+      internalID: -1650311175303440308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_5
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 898
+        width: 230
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffb2fbf976bf0760800000000000000
+      internalID: 7426354945591525360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_6
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 902
+        width: 205
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b855996814dc58a20800000000000000
+      internalID: 3064080802810254731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 939
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1663f511ab62b710800000000000000
+      internalID: 1707545548329018911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_8
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 948
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e94a3a4de219550800000000000000
+      internalID: 6165760855660338694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_9
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 924
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83554f3f879c6e30800000000000000
+      internalID: 4498136769333908363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 921
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aad64b1456b916f0800000000000000
+      internalID: -713338593610376538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 899
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8779edbaf5bbe7dc0800000000000000
+      internalID: -3639265429289003144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_12
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 906
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b386dcc2632c18b60800000000000000
+      internalID: 7746686371989645371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 667
+        width: 213
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aff50e5e7c47d430800000000000000
+      internalID: 3807596115592085410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 904
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd26e3a76188da500800000000000000
+      internalID: 409132771282150111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 902
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944cb036a9c0eee70800000000000000
+      internalID: 9146261750462268489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 678
+        width: 241
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2795baf061b5dc0800000000000000
+      internalID: -3649298816498568535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_17
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 902
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca8dd4d5019fe620800000000000000
+      internalID: 2805620547107261132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 904
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95855f414f7673480800000000000000
+      internalID: -8919546238962673575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 905
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596d8f093bcd71330800000000000000
+      internalID: 3681653884188153493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_20
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 894
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23087e5d453c81b20800000000000000
+      internalID: 3105446712205344818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_21
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 886
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866e7d51dd69c0c20800000000000000
+      internalID: 3174077713687766632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_22
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 684
+        width: 211
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa76fedfa9674730800000000000000
+      internalID: 3983268599513381618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 671
+        width: 205
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f239d9919c7375510800000000000000
+      internalID: 1537759134628025135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_24
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 687
+        width: 203
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1e0948c5d356420800000000000000
+      internalID: 2622569825583555006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_25
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 670
+        width: 217
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f6f9df04f5aa50800000000000000
+      internalID: 6531895183489300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_26
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 888
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37e4cabdf16ce7a0800000000000000
+      internalID: -6346590032483784899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_27
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 853
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f77d82ed2a6c500800000000000000
+      internalID: 416199090630000417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 840
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31940e6c079447830800000000000000
+      internalID: 4067957112144152851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 711
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37797f512e2893530800000000000000
+      internalID: 3835240465225455475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_30
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 723
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec08deba0baa81780800000000000000
+      internalID: -8712025803372789554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 710
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9ce8655e06bd280800000000000000
+      internalID: -9017507290763310659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_32
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 457
+        width: 457
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a229be5b8e44e4ee0800000000000000
+      internalID: -1275005878224055766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_33
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 673
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f9bccc1c778d690800000000000000
+      internalID: -7577174698802569448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_34
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 668
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d13e2786052e310800000000000000
+      internalID: 1432796040991546775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_35
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 654
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239b188181128bea0800000000000000
+      internalID: -5856894928021243598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 227
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf8f1613baa727d0800000000000000
+      internalID: -2943196145316294718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_37
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 465
+        width: 218
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d82d5b905d33090800000000000000
+      internalID: -8055861070753788559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_38
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 166
+        width: 268
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c2b01f26868b350800000000000000
+      internalID: 6032686475022904428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_39
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 430
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e4b635d68553b10800000000000000
+      internalID: 1960570439363939985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_40
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 229
+        width: 221
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2dc1720f8d7d650800000000000000
+      internalID: 6257708733214544592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_41
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 442
+        width: 240
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc63adc43f180000800000000000000
+      internalID: 2286111462485187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_42
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 463
+        width: 205
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad5a2cb6811bbb20800000000000000
+      internalID: 3151131634655976864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_43
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 424
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dd36d529fe10770800000000000000
+      internalID: 8575398577401224448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_44
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 440
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b95cb3416b59230800000000000000
+      internalID: 3645019671444691867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_45
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 441
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f269c2dadb86482c0800000000000000
+      internalID: -4430300969562237393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_46
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bf5ba4c33d190a0800000000000000
+      internalID: -6876482900113097961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 217
+        width: 209
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2eb5b01e1df46b0800000000000000
+      internalID: -5309794671158107454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_48
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 442
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8ce25d97054ac00800000000000000
+      internalID: 910941508833560772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 233
+        width: 234
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1f93a86a7e5e6e0800000000000000
+      internalID: -1808784972849745481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_50
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 420
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db59214fd4b76b9f0800000000000000
+      internalID: -453039137766599235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_51
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 419
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5392a95c2613c70800000000000000
+      internalID: 8949042535396357626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_52
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 150
+        width: 218
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc02dfbb3389350800000000000000
+      internalID: 6023621384106724389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_53
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 104
+        width: 221
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78009902a57d41d70800000000000000
+      internalID: 9013065536369131655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 369
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c4662bd61514fb0800000000000000
+      internalID: -4665358207392789483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_55
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 263
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5144ce58b7dde3b30800000000000000
+      internalID: 4269093019391378453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed47a57873189270800000000000000
+      internalID: 8257371324874706410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_57
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 211
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f267c67da14e7e6c0800000000000000
+      internalID: -4114068930645166545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_58
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 225
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9351ab816b4ba8cd0800000000000000
+      internalID: -2555031144387439303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 223
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192eee222c8a074e0800000000000000
+      internalID: -1985901883907186031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_60
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46617dfeb00878810800000000000000
+      internalID: 1767522167523055204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_61
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 200
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae87580d97634150800000000000000
+      internalID: 5855637864659259050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_62
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 192
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999f94cbf219fb060800000000000000
+      internalID: 6971450382401272217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_63
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edde79d41e04ed8f0800000000000000
+      internalID: -513901971060036130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_64
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 200
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe87d28cd2e902ed0800000000000000
+      internalID: -2440777078565668625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_65
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 195
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d609ae06c51398270800000000000000
+      internalID: 8253182064965881965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_66
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 182
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0524fb6d46b6c8bc0800000000000000
+      internalID: -3779527906426928560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_67
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 176
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30fb1ee805fa5780800000000000000
+      internalID: -8693366711981969345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_68
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 168
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0976360e6b238a0f0800000000000000
+      internalID: -1105577947489409136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_69
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 186
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc8ec967e70509d0800000000000000
+      internalID: -2808830102101652230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_70
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 172
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b63fd6edbf6aa1a0800000000000000
+      internalID: -6797497826149452104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_71
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 176
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8101c62e78ab570800000000000000
+      internalID: 8483242254651103460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_72
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 176
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fad8c41f4031eb40800000000000000
+      internalID: 5467704538813750006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_73
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 228
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809e61e239223c280800000000000000
+      internalID: -9024331212791551736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_74
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 154
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601706a7ecc3362f0800000000000000
+      internalID: -980873436322565882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_75
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 160
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b3eac5fe14f2210800000000000000
+      internalID: 1310338512896015261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_76
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 11
+        width: 442
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3d943985433afc0800000000000000
+      internalID: -3484884131621776385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_77
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 130
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1febc3088af26d0c0800000000000000
+      internalID: -4551397972658831631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_78
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 77
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f968018ff44d8b460800000000000000
+      internalID: 7257784239436891807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_79
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 63
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23abbf76cfe8ab10800000000000000
+      internalID: 1993106470937010990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_80
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 23
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0b5d8c11347c690800000000000000
+      internalID: -7582017703991988015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riftmaw-sheet-v1_81
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 17
+        width: 179
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdeb1fc7991245ed0800000000000000
+      internalID: -2426277356135924005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      riftmaw-sheet-v1_0: 3627028079834081767
+      riftmaw-sheet-v1_1: -6259410898171758718
+      riftmaw-sheet-v1_10: -713338593610376538
+      riftmaw-sheet-v1_11: -3639265429289003144
+      riftmaw-sheet-v1_12: 7746686371989645371
+      riftmaw-sheet-v1_13: 3807596115592085410
+      riftmaw-sheet-v1_14: 409132771282150111
+      riftmaw-sheet-v1_15: 9146261750462268489
+      riftmaw-sheet-v1_16: -3649298816498568535
+      riftmaw-sheet-v1_17: 2805620547107261132
+      riftmaw-sheet-v1_18: -8919546238962673575
+      riftmaw-sheet-v1_19: 3681653884188153493
+      riftmaw-sheet-v1_2: -6100408240236390740
+      riftmaw-sheet-v1_20: 3105446712205344818
+      riftmaw-sheet-v1_21: 3174077713687766632
+      riftmaw-sheet-v1_22: 3983268599513381618
+      riftmaw-sheet-v1_23: 1537759134628025135
+      riftmaw-sheet-v1_24: 2622569825583555006
+      riftmaw-sheet-v1_25: 6531895183489300396
+      riftmaw-sheet-v1_26: -6346590032483784899
+      riftmaw-sheet-v1_27: 416199090630000417
+      riftmaw-sheet-v1_28: 4067957112144152851
+      riftmaw-sheet-v1_29: 3835240465225455475
+      riftmaw-sheet-v1_3: 450154354118755507
+      riftmaw-sheet-v1_30: -8712025803372789554
+      riftmaw-sheet-v1_31: -9017507290763310659
+      riftmaw-sheet-v1_32: -1275005878224055766
+      riftmaw-sheet-v1_33: -7577174698802569448
+      riftmaw-sheet-v1_34: 1432796040991546775
+      riftmaw-sheet-v1_35: -5856894928021243598
+      riftmaw-sheet-v1_36: -2943196145316294718
+      riftmaw-sheet-v1_37: -8055861070753788559
+      riftmaw-sheet-v1_38: 6032686475022904428
+      riftmaw-sheet-v1_39: 1960570439363939985
+      riftmaw-sheet-v1_4: -1650311175303440308
+      riftmaw-sheet-v1_40: 6257708733214544592
+      riftmaw-sheet-v1_41: 2286111462485187
+      riftmaw-sheet-v1_42: 3151131634655976864
+      riftmaw-sheet-v1_43: 8575398577401224448
+      riftmaw-sheet-v1_44: 3645019671444691867
+      riftmaw-sheet-v1_45: -4430300969562237393
+      riftmaw-sheet-v1_46: -6876482900113097961
+      riftmaw-sheet-v1_47: -5309794671158107454
+      riftmaw-sheet-v1_48: 910941508833560772
+      riftmaw-sheet-v1_49: -1808784972849745481
+      riftmaw-sheet-v1_5: 7426354945591525360
+      riftmaw-sheet-v1_50: -453039137766599235
+      riftmaw-sheet-v1_51: 8949042535396357626
+      riftmaw-sheet-v1_52: 6023621384106724389
+      riftmaw-sheet-v1_53: 9013065536369131655
+      riftmaw-sheet-v1_54: -4665358207392789483
+      riftmaw-sheet-v1_55: 4269093019391378453
+      riftmaw-sheet-v1_56: 8257371324874706410
+      riftmaw-sheet-v1_57: -4114068930645166545
+      riftmaw-sheet-v1_58: -2555031144387439303
+      riftmaw-sheet-v1_59: -1985901883907186031
+      riftmaw-sheet-v1_6: 3064080802810254731
+      riftmaw-sheet-v1_60: 1767522167523055204
+      riftmaw-sheet-v1_61: 5855637864659259050
+      riftmaw-sheet-v1_62: 6971450382401272217
+      riftmaw-sheet-v1_63: -513901971060036130
+      riftmaw-sheet-v1_64: -2440777078565668625
+      riftmaw-sheet-v1_65: 8253182064965881965
+      riftmaw-sheet-v1_66: -3779527906426928560
+      riftmaw-sheet-v1_67: -8693366711981969345
+      riftmaw-sheet-v1_68: -1105577947489409136
+      riftmaw-sheet-v1_69: -2808830102101652230
+      riftmaw-sheet-v1_7: 1707545548329018911
+      riftmaw-sheet-v1_70: -6797497826149452104
+      riftmaw-sheet-v1_71: 8483242254651103460
+      riftmaw-sheet-v1_72: 5467704538813750006
+      riftmaw-sheet-v1_73: -9024331212791551736
+      riftmaw-sheet-v1_74: -980873436322565882
+      riftmaw-sheet-v1_75: 1310338512896015261
+      riftmaw-sheet-v1_76: -3484884131621776385
+      riftmaw-sheet-v1_77: -4551397972658831631
+      riftmaw-sheet-v1_78: 7257784239436891807
+      riftmaw-sheet-v1_79: 1993106470937010990
+      riftmaw-sheet-v1_8: 6165760855660338694
+      riftmaw-sheet-v1_80: -7582017703991988015
+      riftmaw-sheet-v1_81: -2426277356135924005
+      riftmaw-sheet-v1_9: 4498136769333908363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

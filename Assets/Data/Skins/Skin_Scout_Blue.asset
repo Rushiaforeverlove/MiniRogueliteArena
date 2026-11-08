@@ -16,6 +16,6 @@ MonoBehaviour:
   displayName: "\u84BC\u85CD\u88DD\u675F"
   gameplaySprite: {fileID: 21300000, guid: 60f56a28fe64da94883b589f5aa5e744, type: 3}
   seatedSprite: {fileID: 21300000, guid: 60f56a28fe64da94883b589f5aa5e744, type: 3}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: c5dd0ef9069495448a183653cfa3de69, type: 3}
   tint: {r: 0.56078434, g: 0.79607844, b: 1, a: 1}
   unlockedByDefault: 1

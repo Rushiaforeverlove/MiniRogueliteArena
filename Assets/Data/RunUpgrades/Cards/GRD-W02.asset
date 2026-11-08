@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: GRD-W02
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: GRD-W02
+  title: "\u7A69\u4F4F\u9152\u676F"
+  ownerRoleId: guard_01
+  effectKey: guard.close_resistance
+  description: "\u534A\u5F91 2.5 \u5167\u6BCF\u540D\u6575\u4EBA\u4F7F\u4F60\u7372\u5F97 3%\uFF0F4%\uFF0F5% \u6E1B\u50B7\uFF0C\u6700\u591A\u8A08\u4E09\u540D\u3002"
+  quality: 0
+  category: 2
+  icon: {fileID: 21300000, guid: dbe1b6fe7f7ce8b42be773abb3ba487d, type: 3}
+  artBrief: "\u88AB\u4E09\u96BB\u602A\u7269\u5305\u570D\u4ECD\u6C92\u6709\u7051\u51FA\u7684\u6C89\u91CD\u9152\u676F"
+  maxRank: 3
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: maxEnemies
+    values:
+    - 3
+  - key: radius
+    values:
+    - 2.5
+  - key: perEnemy
+    values:
+    - 0.03
+    - 0.04
+    - 0.05

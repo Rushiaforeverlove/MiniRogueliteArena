@@ -1,0 +1,2238 @@
+fileFormatVersion: 2
+guid: cd3b5be97735b9440a127c15a3a9c7ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3091025608715433152
+    second: hub-idle_0
+  - first:
+      213: 3955534156345728930
+    second: hub-idle_1
+  - first:
+      213: 7558512319741579331
+    second: hub-idle_2
+  - first:
+      213: -8338602869497188252
+    second: hub-idle_3
+  - first:
+      213: 3869323957991114598
+    second: hub-idle_4
+  - first:
+      213: 9171558366798567075
+    second: hub-idle_5
+  - first:
+      213: 6351300871853276551
+    second: hub-idle_6
+  - first:
+      213: 3109905300246945079
+    second: hub-idle_7
+  - first:
+      213: 4133206263424897523
+    second: hub-idle_8
+  - first:
+      213: 5956047603059061511
+    second: hub-idle_9
+  - first:
+      213: 2334304461020079839
+    second: hub-idle_10
+  - first:
+      213: -7130380362173484481
+    second: hub-idle_11
+  - first:
+      213: -3845652897762116098
+    second: hub-idle_12
+  - first:
+      213: -3810568110713666121
+    second: hub-idle_13
+  - first:
+      213: -7206247363272103533
+    second: hub-idle_14
+  - first:
+      213: -8518293585015831589
+    second: hub-idle_15
+  - first:
+      213: -649370194952983121
+    second: hub-idle_16
+  - first:
+      213: 3831425705681710185
+    second: hub-idle_17
+  - first:
+      213: 2934926600014096912
+    second: hub-idle_18
+  - first:
+      213: -2075905971181264374
+    second: hub-idle_19
+  - first:
+      213: -4521748408688771648
+    second: hub-idle_20
+  - first:
+      213: 3598572953720058364
+    second: hub-idle_21
+  - first:
+      213: -2426203642416119436
+    second: hub-idle_22
+  - first:
+      213: 949618089994860175
+    second: hub-idle_23
+  - first:
+      213: -1652457463724548960
+    second: hub-idle_24
+  - first:
+      213: -5016844514627287510
+    second: hub-idle_25
+  - first:
+      213: 6877936225362675214
+    second: hub-idle_26
+  - first:
+      213: -3274725661737861905
+    second: hub-idle_27
+  - first:
+      213: -1517831124178625418
+    second: hub-idle_28
+  - first:
+      213: -6717154499068822789
+    second: hub-idle_29
+  - first:
+      213: -624151974334474569
+    second: hub-idle_30
+  - first:
+      213: 6707562908579697104
+    second: hub-idle_31
+  - first:
+      213: -6917931785732944691
+    second: hub-idle_32
+  - first:
+      213: 806279957439911872
+    second: hub-idle_33
+  - first:
+      213: -3763020194716587571
+    second: hub-idle_34
+  - first:
+      213: -2077103514210347279
+    second: hub-idle_35
+  - first:
+      213: 2652375800776902074
+    second: hub-idle_36
+  - first:
+      213: -1650998840525967567
+    second: hub-idle_37
+  - first:
+      213: -7421332114727639776
+    second: hub-idle_38
+  - first:
+      213: -4861933932761066703
+    second: hub-idle_39
+  - first:
+      213: 3377338825564947150
+    second: hub-idle_40
+  - first:
+      213: 3686724466409204395
+    second: hub-idle_41
+  - first:
+      213: -4009667211118840618
+    second: hub-idle_42
+  - first:
+      213: -1205174217105704307
+    second: hub-idle_43
+  - first:
+      213: -8896776722835314178
+    second: hub-idle_44
+  - first:
+      213: -692533412620578486
+    second: hub-idle_45
+  - first:
+      213: 1649027906273324042
+    second: hub-idle_46
+  - first:
+      213: 8939224065577753347
+    second: hub-idle_47
+  - first:
+      213: 572588643128394251
+    second: hub-idle_48
+  - first:
+      213: -3331726724356003090
+    second: hub-idle_49
+  - first:
+      213: -592287533387143828
+    second: hub-idle_50
+  - first:
+      213: 470109096964553126
+    second: hub-idle_51
+  - first:
+      213: -3184191469846556922
+    second: hub-idle_52
+  - first:
+      213: -2716867652606340571
+    second: hub-idle_53
+  - first:
+      213: -2785265581842003357
+    second: hub-idle_54
+  - first:
+      213: 861115300679952348
+    second: hub-idle_55
+  - first:
+      213: -789374549876293390
+    second: hub-idle_56
+  - first:
+      213: 2893008653156262547
+    second: hub-idle_57
+  - first:
+      213: 3102169047682922934
+    second: hub-idle_58
+  - first:
+      213: 8611051870411024260
+    second: hub-idle_59
+  - first:
+      213: -8328810017448981572
+    second: hub-idle_60
+  - first:
+      213: 5570924009526452578
+    second: hub-idle_61
+  - first:
+      213: 8093585532805030730
+    second: hub-idle_62
+  - first:
+      213: -3711702020009256263
+    second: hub-idle_63
+  - first:
+      213: 7422975345046315111
+    second: hub-idle_64
+  - first:
+      213: -3000082038472458830
+    second: hub-idle_65
+  - first:
+      213: -7160614585565226135
+    second: hub-idle_66
+  - first:
+      213: -8150306046043570430
+    second: hub-idle_67
+  - first:
+      213: -2802733386928393487
+    second: hub-idle_68
+  - first:
+      213: -6360853087834503385
+    second: hub-idle_69
+  - first:
+      213: -443666228828321531
+    second: hub-idle_70
+  - first:
+      213: -257656066169292707
+    second: hub-idle_71
+  - first:
+      213: 1887153506382780667
+    second: hub-idle_72
+  - first:
+      213: 3263071354165640511
+    second: hub-idle_73
+  - first:
+      213: -3103940499322112478
+    second: hub-idle_74
+  - first:
+      213: 1519034585149708797
+    second: hub-idle_75
+  - first:
+      213: 2457987738338378131
+    second: hub-idle_76
+  - first:
+      213: 5335573954151591030
+    second: hub-idle_77
+  - first:
+      213: -7377084229104136972
+    second: hub-idle_78
+  - first:
+      213: -4729956239710450884
+    second: hub-idle_79
+  - first:
+      213: -5958717047353140120
+    second: hub-idle_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hub-idle_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 552
+        width: 502
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b81e8f5987a15d0800000000000000
+      internalID: -3091025608715433152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1112
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af59ed9b51e4e630800000000000000
+      internalID: 3955534156345728930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1124
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3405c9878ea35e860800000000000000
+      internalID: 7558512319741579331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_3
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 616
+        width: 558
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4603198bed4574c80800000000000000
+      internalID: -8338602869497188252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1106
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66708f4a3a992b530800000000000000
+      internalID: 3869323957991114598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 994
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a65ac9ddbbe74f70800000000000000
+      internalID: 9171558366798567075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1032
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d71780e7a542850800000000000000
+      internalID: 6351300871853276551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_7
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1075
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dd252c46a982b20800000000000000
+      internalID: 3109905300246945079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_8
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1075
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f15cdaa2391c5930800000000000000
+      internalID: 4133206263424897523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_9
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1036
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703f6ad0db128a250800000000000000
+      internalID: 5956047603059061511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1048
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd626b42a8d156020800000000000000
+      internalID: 2334304461020079839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1044
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f327a37c6dccb0d90800000000000000
+      internalID: -7130380362173484481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_12
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1043
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdff6b801f71aac0800000000000000
+      internalID: -3845652897762116098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_13
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1012
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b50b781e742e1bc0800000000000000
+      internalID: -3810568110713666121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_14
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1055
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399229414344efb90800000000000000
+      internalID: -7206247363272103533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1042
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd384a4cd11f8c980800000000000000
+      internalID: -8518293585015831589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_16
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1026
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fade91a8f39fcf6f0800000000000000
+      internalID: -649370194952983121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1018
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c657a2165fb2530800000000000000
+      internalID: 3831425705681710185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_18
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 980
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a6fab5134fab820800000000000000
+      internalID: 2934926600014096912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_19
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1006
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02e0a09486e033e0800000000000000
+      internalID: -2075905971181264374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 980
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdfa6097c58f31c0800000000000000
+      internalID: -4521748408688771648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_21
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 883
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1ffcc0903b0f130800000000000000
+      internalID: 3598572953720058364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_22
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 807
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471470d44a4645ed0800000000000000
+      internalID: -2426203642416119436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 737
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86bd6e1f98bd2d00800000000000000
+      internalID: 949618089994860175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_24
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 736
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac514c11ba4119e0800000000000000
+      internalID: -1652457463724548960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_25
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 744
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26064c8e76906ab0800000000000000
+      internalID: -5016844514627287510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_26
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 722
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06888c5e86537f50800000000000000
+      internalID: 6877936225362675214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 734
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec32436c56dd82d0800000000000000
+      internalID: -3274725661737861905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_28
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 730
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c1d4662a49feae0800000000000000
+      internalID: -1517831124178625418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_29
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 720
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaf595729fd7c2a0800000000000000
+      internalID: -6717154499068822789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 664
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b65fe316119657f0800000000000000
+      internalID: -624151974334474569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_31
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 658
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d19a7a5dec061d50800000000000000
+      internalID: 6707562908579697104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 660
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc010391b19eff90800000000000000
+      internalID: -6917931785732944691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 642
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c719b4795b703b00800000000000000
+      internalID: 806279957439911872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 640
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9eb4bf11117cbc0800000000000000
+      internalID: -3763020194716587571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_35
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 650
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6d6c9db55ac23e0800000000000000
+      internalID: -2077103514210347279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_36
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 644
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab54628ecb12fc420800000000000000
+      internalID: 2652375800776902074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 650
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f2ed94d497619e0800000000000000
+      internalID: -1650998840525967567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_38
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 636
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025e575f2c1220990800000000000000
+      internalID: -7421332114727639776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_39
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 640
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133db5809d0f68cb0800000000000000
+      internalID: -4861933932761066703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_40
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 648
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec20fe794c7bede20800000000000000
+      internalID: 3377338825564947150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 613
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaef0d7e50e92330800000000000000
+      internalID: 3686724466409204395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_42
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 620
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4fab56aecca58c0800000000000000
+      internalID: -4009667211118840618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_43
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 624
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a74f05f6c564fe0800000000000000
+      internalID: -1205174217105704307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_44
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 642
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ef6d25bc488480800000000000000
+      internalID: -8896776722835314178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_45
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 636
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4159a9c780a366f0800000000000000
+      internalID: -692533412620578486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_46
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 632
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ca022d42682e610800000000000000
+      internalID: 1649027906273324042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_47
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 620
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b9264fce08e0c70800000000000000
+      internalID: 8939224065577753347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_48
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 626
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b024714565e32f700800000000000000
+      internalID: 572588643128394251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 51
+        width: 459
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaa51a423453c1d0800000000000000
+      internalID: -3331726724356003090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_50
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 17
+        width: 526
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65219f50a5c7c7f0800000000000000
+      internalID: -592287533387143828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_51
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 614
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a97042abb9268600800000000000000
+      internalID: 470109096964553126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 524
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f87fe8aba7fc3d0800000000000000
+      internalID: -3184191469846556922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_53
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 473
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52256a8b34fbb4ad0800000000000000
+      internalID: -2716867652606340571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_54
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 496
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a8f25d5bfb859d0800000000000000
+      internalID: -2785265581842003357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_55
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 477
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7aea7bdcb43fb00800000000000000
+      internalID: 861115300679952348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_56
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 483
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0c3e777049b05f0800000000000000
+      internalID: -789374549876293390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_57
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 473
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a28fca08062820800000000000000
+      internalID: 2893008653156262547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 433
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b93a58105e1d0b20800000000000000
+      internalID: 3102169047682922934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_59
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 457
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487ef468d0a908770800000000000000
+      internalID: 8611051870411024260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_60
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 463
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb0d34ca6f1a6c80800000000000000
+      internalID: -8328810017448981572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 347
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261e482eed5ef4d40800000000000000
+      internalID: 5570924009526452578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_62
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 436
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43a5121921325070800000000000000
+      internalID: 8093585532805030730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_63
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 443
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba9f31ada26d7cc0800000000000000
+      internalID: -3711702020009256263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_64
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 433
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760e7f96fb4b30760800000000000000
+      internalID: 7422975345046315111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 411
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdb1d7f7419d56d0800000000000000
+      internalID: -3000082038472458830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_66
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 425
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b57e519f260ac90800000000000000
+      internalID: -7160614585565226135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_67
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fbad255db44ee80800000000000000
+      internalID: -8150306046043570430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 401
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2710885d0ba19d0800000000000000
+      internalID: -2802733386928393487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_69
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 411
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7278d2f51d5b9b7a0800000000000000
+      internalID: -6360853087834503385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_70
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 376
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509c9df5ae7c7d9f0800000000000000
+      internalID: -443666228828321531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_71
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 345
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5831c54c2f9c6cf0800000000000000
+      internalID: -257656066169292707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_72
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf814909d14803a10800000000000000
+      internalID: 1887153506382780667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_73
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 400
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dbbcdab12c84d20800000000000000
+      internalID: 3263071354165640511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_74
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 385
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226f4fdaf869ce4d0800000000000000
+      internalID: -3103940499322112478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_75
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 200
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9916138e1b41510800000000000000
+      internalID: 1519034585149708797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_76
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 179
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391cce533d68c1220800000000000000
+      internalID: 2457987738338378131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_77
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 187
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c28020e34cb0a40800000000000000
+      internalID: 5335573954151591030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_78
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 71
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc8c16aaf45f9990800000000000000
+      internalID: -7377084229104136972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_79
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b8ae04cd1db5eb0800000000000000
+      internalID: -4729956239710450884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hub-idle_80
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c93738a626e4da0800000000000000
+      internalID: -5958717047353140120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hub-idle_0: -3091025608715433152
+      hub-idle_1: 3955534156345728930
+      hub-idle_10: 2334304461020079839
+      hub-idle_11: -7130380362173484481
+      hub-idle_12: -3845652897762116098
+      hub-idle_13: -3810568110713666121
+      hub-idle_14: -7206247363272103533
+      hub-idle_15: -8518293585015831589
+      hub-idle_16: -649370194952983121
+      hub-idle_17: 3831425705681710185
+      hub-idle_18: 2934926600014096912
+      hub-idle_19: -2075905971181264374
+      hub-idle_2: 7558512319741579331
+      hub-idle_20: -4521748408688771648
+      hub-idle_21: 3598572953720058364
+      hub-idle_22: -2426203642416119436
+      hub-idle_23: 949618089994860175
+      hub-idle_24: -1652457463724548960
+      hub-idle_25: -5016844514627287510
+      hub-idle_26: 6877936225362675214
+      hub-idle_27: -3274725661737861905
+      hub-idle_28: -1517831124178625418
+      hub-idle_29: -6717154499068822789
+      hub-idle_3: -8338602869497188252
+      hub-idle_30: -624151974334474569
+      hub-idle_31: 6707562908579697104
+      hub-idle_32: -6917931785732944691
+      hub-idle_33: 806279957439911872
+      hub-idle_34: -3763020194716587571
+      hub-idle_35: -2077103514210347279
+      hub-idle_36: 2652375800776902074
+      hub-idle_37: -1650998840525967567
+      hub-idle_38: -7421332114727639776
+      hub-idle_39: -4861933932761066703
+      hub-idle_4: 3869323957991114598
+      hub-idle_40: 3377338825564947150
+      hub-idle_41: 3686724466409204395
+      hub-idle_42: -4009667211118840618
+      hub-idle_43: -1205174217105704307
+      hub-idle_44: -8896776722835314178
+      hub-idle_45: -692533412620578486
+      hub-idle_46: 1649027906273324042
+      hub-idle_47: 8939224065577753347
+      hub-idle_48: 572588643128394251
+      hub-idle_49: -3331726724356003090
+      hub-idle_5: 9171558366798567075
+      hub-idle_50: -592287533387143828
+      hub-idle_51: 470109096964553126
+      hub-idle_52: -3184191469846556922
+      hub-idle_53: -2716867652606340571
+      hub-idle_54: -2785265581842003357
+      hub-idle_55: 861115300679952348
+      hub-idle_56: -789374549876293390
+      hub-idle_57: 2893008653156262547
+      hub-idle_58: 3102169047682922934
+      hub-idle_59: 8611051870411024260
+      hub-idle_6: 6351300871853276551
+      hub-idle_60: -8328810017448981572
+      hub-idle_61: 5570924009526452578
+      hub-idle_62: 8093585532805030730
+      hub-idle_63: -3711702020009256263
+      hub-idle_64: 7422975345046315111
+      hub-idle_65: -3000082038472458830
+      hub-idle_66: -7160614585565226135
+      hub-idle_67: -8150306046043570430
+      hub-idle_68: -2802733386928393487
+      hub-idle_69: -6360853087834503385
+      hub-idle_7: 3109905300246945079
+      hub-idle_70: -443666228828321531
+      hub-idle_71: -257656066169292707
+      hub-idle_72: 1887153506382780667
+      hub-idle_73: 3263071354165640511
+      hub-idle_74: -3103940499322112478
+      hub-idle_75: 1519034585149708797
+      hub-idle_76: 2457987738338378131
+      hub-idle_77: 5335573954151591030
+      hub-idle_78: -7377084229104136972
+      hub-idle_79: -4729956239710450884
+      hub-idle_8: 4133206263424897523
+      hub-idle_80: -5958717047353140120
+      hub-idle_9: 5956047603059061511
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

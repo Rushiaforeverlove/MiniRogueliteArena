@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: MIO-W08
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: MIO-W08
+  title: "\u5200\u80CC\u7684\u9918\u6EAB"
+  ownerRoleId: mio_01
+  effectKey: mio.warm_blade
+  description: "\u9EDE\u6309\u65AC\u64CA\u547D\u4E2D\u81F3\u5C11 3 \u540D\u6575\u4EBA\u6642\uFF0C\u7372\u5F97\u6700\u5927\u751F\u547D 3% \u8B77\u76FE\uFF0C\u6301\u7E8C 3 \u79D2\uFF0C\u51B7\u537B 5 \u79D2\u3002"
+  quality: 0
+  category: 2
+  icon: {fileID: 3437882928554817066, guid: e3ad5dbb5b6f4d5408361246d60b0c5e, type: 2}
+  artBrief: "\u7720\u6708\u5DE8\u528D\uFF0F\u6708\u8272\uFF0F\u62D6\u528D\u8207\u89E3\u653E\uFF1B\u5716\u96C6\u683C 7"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  requiredCardIds: []
+  numbers:
+  - key: fraction
+    values:
+    - 0.03
+  - key: duration
+    values:
+    - 3
+  - key: cooldown
+    values:
+    - 5
+  - key: count
+    values:
+    - 3

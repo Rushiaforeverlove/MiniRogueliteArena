@@ -1,0 +1,2946 @@
+{
+  "version": "1",
+  "cards": [
+    {
+      "id": "GEN-W01",
+      "title": "續杯生命",
+      "description": "每級最大生命 +100，並立即回復 100 生命。",
+      "ownerRoleId": null,
+      "effectKey": "stat.max_health",
+      "category": 0,
+      "quality": 0,
+      "maxRank": 0,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "裂紋酒杯旁，一顆紅色生命糖被重新添滿",
+      "numbers": [
+        {
+          "key": "healPerRank",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "healthPerRank",
+          "values": [
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-W02",
+      "title": "扳機保養",
+      "description": "每級普攻攻速 +8%；以每秒攻擊次數計算，不縮短 E／Q 冷卻。",
+      "ownerRoleId": null,
+      "effectKey": "stat.attack_speed",
+      "category": 0,
+      "quality": 0,
+      "maxRank": 0,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "沾著機油的刷子與拋光槍機",
+      "numbers": [
+        {
+          "key": "fractionPerRank",
+          "values": [
+            0.08
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-W03",
+      "title": "靴底換新",
+      "description": "每級移動速度 +3%。",
+      "ownerRoleId": null,
+      "effectKey": "stat.move_speed",
+      "category": 0,
+      "quality": 0,
+      "maxRank": 0,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "酒吧地板上，一雙貼著新防滑底的短靴",
+      "numbers": [
+        {
+          "key": "fractionPerRank",
+          "values": [
+            0.03
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-W04",
+      "title": "火力加料",
+      "description": "每級所有傷害 +10%。採小數傷害累計，避免低傷害時升級無效。",
+      "ownerRoleId": null,
+      "effectKey": "stat.all_damage",
+      "category": 0,
+      "quality": 0,
+      "maxRank": 0,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "把橙色火藥香料灑進彈殼的小量匙",
+      "numbers": [
+        {
+          "key": "fractionPerRank",
+          "values": [
+            0.1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-W05",
+      "title": "磁吸杯墊",
+      "description": "經驗吸附半徑 +20%／40%／60%。",
+      "ownerRoleId": null,
+      "effectKey": "stat.pickup_radius",
+      "category": 0,
+      "quality": 0,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "吸住綠色經驗寶石的磁性杯墊",
+      "numbers": [
+        {
+          "key": "fractions",
+          "values": [
+            0.2,
+            0.4,
+            0.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-W06",
+      "title": "冷卻冰塊",
+      "description": "E 充能時間縮短 5%／10%／15%。",
+      "ownerRoleId": null,
+      "effectKey": "stat.e_recharge",
+      "category": 0,
+      "quality": 0,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "封著一枚發藍光彈殼的透明冰塊",
+      "numbers": [
+        {
+          "key": "reductions",
+          "values": [
+            0.05,
+            0.1,
+            0.15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-W07",
+      "title": "緩速苦酒",
+      "description": "普攻命中有 10%／20%／30% 機率使敵人減速 20%，持續 1 秒；同敵人每 0.2 秒至多判定一次。",
+      "ownerRoleId": null,
+      "effectKey": "proc.slow_on_attack",
+      "category": 0,
+      "quality": 0,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "紫色苦酒沿敵人的靴邊結成冰線",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "slow",
+          "values": [
+            0.2
+          ]
+        },
+        {
+          "key": "chances",
+          "values": [
+            0.1,
+            0.2,
+            0.3
+          ]
+        },
+        {
+          "key": "targetIcd",
+          "values": [
+            0.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-W08",
+      "title": "閃身調息",
+      "description": "閃避結束後，獲得 10%／20% 減傷，持續 1.5 秒；重複觸發刷新，不相加。",
+      "ownerRoleId": null,
+      "effectKey": "buff.after_dodge",
+      "category": 0,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "閃避殘影旁，一只緩緩平穩的酒杯",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            1.5
+          ]
+        },
+        {
+          "key": "reductions",
+          "values": [
+            0.1,
+            0.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-P01",
+      "title": "雙重扳機",
+      "description": "普攻額外彈數 +1／+2；每顆額外彈造成 60% 普攻基準傷害，整次射擊仍算一個動作。",
+      "ownerRoleId": null,
+      "effectKey": "attack.extra_projectiles",
+      "category": 0,
+      "quality": 1,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "一把手槍的扳機分出兩道紫色火線",
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            0.6
+          ]
+        },
+        {
+          "key": "extraCounts",
+          "values": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-P02",
+      "title": "備用彈匣",
+      "description": "E 最大充能 +1。各格依序恢復，取得時補滿新增的一格。",
+      "ownerRoleId": null,
+      "effectKey": "charge.add_e",
+      "category": 0,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "標著 E 形凹槽的戰術備用彈匣",
+      "numbers": [
+        {
+          "key": "charges",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-P03",
+      "title": "緊急滑步",
+      "description": "閃避最大充能 +1。取得時補滿新增的一格；不改變距離與免傷時間。",
+      "ownerRoleId": null,
+      "effectKey": "charge.add_dodge",
+      "category": 0,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "兩枚腳步箭頭扣在同一條腰帶上",
+      "numbers": [
+        {
+          "key": "charges",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-P04",
+      "title": "血色回甘",
+      "description": "累積造成 2,000 點直接傷害時回復 100 生命，計數歸零；最多每秒一次。道具與自動追加傷害不計入。",
+      "ownerRoleId": null,
+      "effectKey": "heal.damage_counter",
+      "category": 0,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "一滴紅光沿酒杯杯腳回流成心形",
+      "numbers": [
+        {
+          "key": "heal",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "icd",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "damageThreshold",
+          "values": [
+            2000
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-P05",
+      "title": "閉店節拍",
+      "description": "每實際消耗 3 次 E 充能，讓目前恢復中的 Q 充能快轉 1.5 秒；回聲與免費 E 不增加計數。",
+      "ownerRoleId": null,
+      "effectKey": "charge.e_to_q",
+      "category": 0,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "artBrief": "吧檯節拍器把三枚 E 彈殼推向一枚 Q 徽章",
+      "numbers": [
+        {
+          "key": "advanceSeconds",
+          "values": [
+            1.5
+          ]
+        },
+        {
+          "key": "eSpends",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-G01",
+      "title": "最後一杯",
+      "description": "每局一次，致命傷害改為保留 100 生命，再回復最大生命 30%、免傷 2 秒，E／Q／閃避目前恢復中的一格各快轉 3 秒。",
+      "ownerRoleId": null,
+      "effectKey": "survival.last_drink",
+      "category": 0,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "黑暗中仍亮著的最後一杯金色酒液",
+      "numbers": [
+        {
+          "key": "uses",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "invulnerability",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "healthFraction",
+          "values": [
+            0.3
+          ]
+        },
+        {
+          "key": "advanceSeconds",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "survivalHealthFloor",
+          "values": [
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GEN-G02",
+      "title": "安可指令",
+      "description": "Q 最大充能 +1，取得時補滿新增格；每次實際消耗 Q 充能，恢復 1 格 E，內置冷卻 3 秒。",
+      "ownerRoleId": null,
+      "effectKey": "charge.q_encore",
+      "category": 0,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "artBrief": "兩枚金色 Q 票根與被點亮的 E 彈匣",
+      "numbers": [
+        {
+          "key": "restoreE",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "qCharges",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "icd",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-W01",
+      "title": "燙口特調",
+      "description": "每第 8／7／6 次普攻動作，向最近敵人投出一瓶燃燒瓶；半徑 1.2、持續 3 秒，每 0.5 秒造成 20% 普攻基準傷害。",
+      "ownerRoleId": null,
+      "effectKey": "item.molotov",
+      "category": 1,
+      "quality": 0,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "綁著吧檯餐巾、瓶口燃燒的琥珀酒瓶",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "attackThresholds",
+          "values": [
+            8,
+            7,
+            6
+          ]
+        },
+        {
+          "key": "tick",
+          "values": [
+            0.5
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            0.2
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            1.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-W02",
+      "title": "冰桶失手",
+      "description": "每次閃避在起點留下冰桶，形成半徑 1.5 的冰面，減速 25%，持續 2／3 秒。",
+      "ownerRoleId": null,
+      "effectKey": "item.ice_bucket",
+      "category": 1,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "翻倒的冰桶與滑出來的冰塊",
+      "numbers": [
+        {
+          "key": "durations",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            1.5
+          ]
+        },
+        {
+          "key": "slow",
+          "values": [
+            0.25
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-W03",
+      "title": "碎杯警報",
+      "description": "生命實際受傷時向四周射出 8／12 片碎玻璃，每片造成 40% 普攻基準傷害；內置冷卻 2 秒。",
+      "ownerRoleId": null,
+      "effectKey": "item.glass_shards",
+      "category": 1,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "碎裂高腳杯圍成放射狀的紅色警報圈",
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            0.4
+          ]
+        },
+        {
+          "key": "icd",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "counts",
+          "values": [
+            8,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-W04",
+      "title": "應急點心",
+      "description": "每擊殺 12／9 名敵人，掉落一份點心，拾取回復 100 生命；點心 5 秒後消失。",
+      "ownerRoleId": null,
+      "effectKey": "item.snack",
+      "category": 1,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "包在油紙裡、旁邊別著急救貼的熱三明治",
+      "numbers": [
+        {
+          "key": "killThresholds",
+          "values": [
+            12,
+            9
+          ]
+        },
+        {
+          "key": "heal",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "lifetime",
+          "values": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-W05",
+      "title": "閃光杯墊",
+      "description": "每次實際消耗 E 充能，向最近敵人擲出閃光杯墊，造成 60% 普攻基準傷害並暈眩 0.3／0.5 秒；內置冷卻 4 秒。",
+      "ownerRoleId": null,
+      "effectKey": "item.flash_coaster",
+      "category": 1,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "翻起瞬間炸出白光的金屬杯墊",
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            0.6
+          ]
+        },
+        {
+          "key": "icd",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "stuns",
+          "values": [
+            0.3,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-P01",
+      "title": "護送無人機",
+      "description": "每 10 秒召喚一台無人機，先給 100 點屏障，接著在 4 秒內射出 4 發支援彈，每發造成 60% 普攻基準傷害。",
+      "ownerRoleId": null,
+      "effectKey": "item.escort_drone",
+      "category": 1,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "托著小酒盤與醫療燈的浮游無人機",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "shots",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "interval",
+          "values": [
+            10
+          ]
+        },
+        {
+          "key": "shield",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            0.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-P02",
+      "title": "倒置磁鐵",
+      "description": "實際消耗 Q 充能時，在施放位置留下磁力裝置 3 秒；每 0.5 秒將半徑 3 內敵人拉近 0.4，結束爆炸造成 150% 普攻基準傷害。每人同時一台。",
+      "ownerRoleId": null,
+      "effectKey": "item.magnetic_device",
+      "category": 1,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "artBrief": "倒掛在酒架下、把敵人剪影拉成漩渦的磁鐵",
+      "numbers": [
+        {
+          "key": "tick",
+          "values": [
+            0.5
+          ]
+        },
+        {
+          "key": "pull",
+          "values": [
+            0.4
+          ]
+        },
+        {
+          "key": "duration",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            1.5
+          ]
+        },
+        {
+          "key": "activeLimit",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-P03",
+      "title": "彈跳酒桶",
+      "description": "每第 3 次閃避投出酒桶，在 3／4 名不同敵人間彈跳；每跳造成 80% 普攻基準傷害，並減速 30% 持續 2 秒。",
+      "ownerRoleId": null,
+      "effectKey": "item.bouncing_barrel",
+      "category": 1,
+      "quality": 1,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "撞出紫色軌跡、滾過敵群的迷你酒桶",
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            0.8
+          ]
+        },
+        {
+          "key": "slow",
+          "values": [
+            0.3
+          ]
+        },
+        {
+          "key": "targets",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "key": "dodgeThreshold",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "duration",
+          "values": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-G01",
+      "title": "不打烊機台",
+      "description": "實際消耗 Q 充能時，在原地架設 6 秒自動炮台，每 0.5 秒射擊一次、造成 80% 普攻基準傷害；期間消耗 E 會讓炮台加射一輪，最多每秒一次。每人同時一台。",
+      "ownerRoleId": null,
+      "effectKey": "item.all_night_turret",
+      "category": 1,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "artBrief": "由收銀機改裝、閃著金燈的雙管吧檯炮台",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            6
+          ]
+        },
+        {
+          "key": "extraRoundIcd",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "activeLimit",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "interval",
+          "values": [
+            0.5
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            0.8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-G02",
+      "title": "緊急清場鈴",
+      "description": "生命受傷且降至 40% 以下時，召出清場鈴：擊退半徑 4 內敵人 2 單位、暈眩 1 秒，並掉落 3 份各回復 100 生命的急救包；冷卻 20 秒。",
+      "ownerRoleId": null,
+      "effectKey": "item.emergency_bell",
+      "category": 1,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "酒吧服務鈴化成巨大的金色衝擊波",
+      "numbers": [
+        {
+          "key": "healthThreshold",
+          "values": [
+            0.4
+          ]
+        },
+        {
+          "key": "stun",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "knockback",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "healPerPack",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "packs",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "cooldown",
+          "values": [
+            20
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-W01",
+      "title": "先遣記錄",
+      "description": "普攻命中的敵人獲得偵察標記，持續 4／6 秒；標記使其受到你的直接傷害增加 10%，刷新不疊層。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.scouting_attack",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "攤開的偵察筆記上，一枚準星圈住敵人素描",
+      "numbers": [
+        {
+          "key": "vulnerability",
+          "values": [
+            0.1
+          ]
+        },
+        {
+          "key": "durations",
+          "values": [
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-W02",
+      "title": "細長彈芯",
+      "description": "普攻與 E 的每發命中上限 +1／+2；爆裂彈維持一名，改為爆炸半徑 +0.15／+0.30。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.projectile_extension",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "細長彈芯依序穿過三張紙靶",
+      "numbers": [
+        {
+          "key": "explosionRadiusBonus",
+          "values": [
+            0.15,
+            0.3
+          ]
+        },
+        {
+          "key": "extraTargets",
+          "values": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-W03",
+      "title": "長街校準",
+      "description": "距離角色至少 4 單位的敵人，受到你的直接傷害增加 20%／30%／40%。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.long_range_damage",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "夜色長街盡頭的琥珀準星與測距刻線",
+      "numbers": [
+        {
+          "key": "bonuses",
+          "values": [
+            0.2,
+            0.3,
+            0.4
+          ]
+        },
+        {
+          "key": "minimumDistance",
+          "values": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-W04",
+      "title": "戰術換彈",
+      "description": "閃避後 2 秒內的下一次普攻動作，傷害提高 60%／90%／120%；重複閃避刷新機會，不累存。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.dodge_reload",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "翻身時甩出空彈匣、另一手已推入新彈匣",
+      "numbers": [
+        {
+          "key": "bonuses",
+          "values": [
+            0.6,
+            0.9,
+            1.2
+          ]
+        },
+        {
+          "key": "window",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "storedAttacks",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-W05",
+      "title": "擦肩記號",
+      "description": "閃避路徑附近 1.5 單位內的敵人被偵察 4 秒；閃避結束後移速 +5%／8%，持續 2 秒。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.close_pass",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "少女側身掠過怪物，粉筆準星留在其肩上",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "markDuration",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "speedBonuses",
+          "values": [
+            0.05,
+            0.08
+          ]
+        },
+        {
+          "key": "pathRadius",
+          "values": [
+            1.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-W06",
+      "title": "測距鏡片",
+      "description": "每級普攻子彈射程與 E 索敵距離各 +1，最多三級。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.range_lens",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "裂開的護目鏡裝上一枚清澈新鏡片",
+      "numbers": [
+        {
+          "key": "rangePerRank",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-W07",
+      "title": "折線步法",
+      "description": "持續移動 0.8 秒後轉向至少 90 度，向最近敵人射出一枚 70%／100% 普攻基準傷害的折線彈；冷卻 4 秒。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.turning_shot",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "鞋印拐成銳角，拐角飛出一枚藍色彈頭",
+      "numbers": [
+        {
+          "key": "coefficients",
+          "values": [
+            0.7,
+            1.0
+          ]
+        },
+        {
+          "key": "cooldown",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "turnDegrees",
+          "values": [
+            90
+          ]
+        },
+        {
+          "key": "moveTime",
+          "values": [
+            0.8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-W08",
+      "title": "破綻筆記",
+      "description": "對同一敵人連續命中三個普攻動作時，第三次追加 100%／150% 普攻基準傷害；3 秒未命中則重置，同次多彈不重複計數。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.focus_counter",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "筆記上的三道劃痕，最後一道亮起紅色破綻",
+      "numbers": [
+        {
+          "key": "coefficients",
+          "values": [
+            1,
+            1.5
+          ]
+        },
+        {
+          "key": "attackHits",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "resetAfter",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-P01",
+      "title": "交叉校射",
+      "description": "每次 E 的首名命中敵人先被偵察；E 命中偵察敵人時，向左右各射出一枚 100% E 單發基準傷害的側射彈。每敵人每次 E 一次，側射彈不再觸發校射。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.crossfire",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "正面彈道與左右紅線在準星上交叉",
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "perTargetPerCast",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "sideShots",
+          "values": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-P02",
+      "title": "掃描快門",
+      "description": "實際消耗 Q 時，先偵察半徑 8 內敵人 6 秒；該次 Q 對偵察敵人額外增傷 25%。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.scan_shutter",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "artBrief": "相機快門張開，一圈紫色掃描線照亮怪物",
+      "numbers": [
+        {
+          "key": "markDuration",
+          "values": [
+            6
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            8
+          ]
+        },
+        {
+          "key": "damageBonus",
+          "values": [
+            0.25
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-P03",
+      "title": "穿射回收",
+      "description": "普攻每發命中上限 +1；普攻或 E 穿過第二名敵人時，E 當前充能快轉 1 秒。每動作最多一次，內置冷卻 1 秒。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.pierce_recharge",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "穿過第二張靶紙的彈頭拉回一條充能纜線",
+      "numbers": [
+        {
+          "key": "perActionLimit",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "icd",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "extraAttackTargets",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "advanceSeconds",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-P04",
+      "title": "移動射界",
+      "description": "閃避起終點之間留下 3 秒、寬 0.6 的火線；線上敵人立即被偵察。你的直接子彈首次穿過火線後傷害 +20%，同一發不重複加成。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.firing_lane",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "兩枚粉筆路標之間架起發光的低位火線",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "markDuration",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "width",
+          "values": [
+            0.6
+          ]
+        },
+        {
+          "key": "damageBonus",
+          "values": [
+            0.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-P05",
+      "title": "遠點報告",
+      "description": "每擊殺 4 名距離至少 4 的敵人，獲一枚通行證，上限 3；下一次 E 自動消耗一枚，使該次不消耗充能。取得卡片時先給一枚。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.distance_pass",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "印著遠距準星的通行證，被夾在酒吧帳本裡",
+      "numbers": [
+        {
+          "key": "minimumDistance",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "killThreshold",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "capacity",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "initialTokens",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-G01",
+      "title": "天網開圖",
+      "description": "實際消耗 Q 時偵察最近三名敵人，召喚三枚衛星 6 秒；每枚每秒優先射擊偵察敵人，造成 70% 普攻基準傷害；無標記目標時先偵察最近敵人再射擊。期間擊殺偵察敵人延長 0.5 秒，總時長最多 9 秒。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.satellite_network",
+      "category": 2,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "artBrief": "三枚迷你偵察衛星在少女上方組成金色星圖",
+      "numbers": [
+        {
+          "key": "shotInterval",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "initialMarks",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "killExtension",
+          "values": [
+            0.5
+          ]
+        },
+        {
+          "key": "maxDuration",
+          "values": [
+            9
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            0.7
+          ]
+        },
+        {
+          "key": "duration",
+          "values": [
+            6
+          ]
+        },
+        {
+          "key": "satellites",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-G02",
+      "title": "零號航線",
+      "description": "每次閃避留下 3 秒火線，並偵察路徑附近敵人；站在火線上普攻或用 E，可向最多兩名偵察敵人追加各一枚 60% 普攻基準傷害的導引彈，內置冷卻 1 秒。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.route_zero",
+      "category": 2,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "金色航線從靴邊延伸，兩枚導引彈沿線轉彎",
+      "numbers": [
+        {
+          "key": "markDuration",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "icd",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "targets",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "duration",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "pathRadius",
+          "values": [
+            1.5
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            0.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-N5-W01",
+      "title": "補註腳",
+      "description": "首次命中滿血敵人時將其偵察；擊殺偵察敵人掉一枚情報碎片。拾取後下一次普攻射程 +2、傷害 +30%，不累存，每 2 秒至多拾取一次。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.field_notes",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": true,
+      "artBrief": "貼在筆記邊緣的發光註腳與小小情報晶片",
+      "numbers": [
+        {
+          "key": "markDuration",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "pickupIcd",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "nextDamageBonus",
+          "values": [
+            0.3
+          ]
+        },
+        {
+          "key": "storedAttacks",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "nextRange",
+          "values": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-N5-P01",
+      "title": "延時曝光",
+      "description": "E 首次命中敵人後，0.8 秒於該敵人當時的位置落下一次精準射擊，造成 150% E 單發基準傷害；若目標仍被偵察則為 200%。每次 E 最多標定三名。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.delayed_exposure",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": true,
+      "artBrief": "先亮起紫色快門框，延後落下金色細光柱",
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            1.5
+          ]
+        },
+        {
+          "key": "delay",
+          "values": [
+            0.8
+          ]
+        },
+        {
+          "key": "markedCoefficient",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "targetsPerCast",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SCT-N5-G01",
+      "title": "黎明觀測",
+      "description": "實際消耗 Q 時偵察半徑 8，立即向最遠敵人發射一道 300% 普攻基準傷害、最多穿五名的雷射；之後 6 秒內擊殺偵察敵人可再發射，最多每秒一次。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "scout.dawn_observation",
+      "category": 2,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": true,
+      "artBrief": "酒吧通風口透出的第一束晨光化成貫穿雷射",
+      "numbers": [
+        {
+          "key": "markDuration",
+          "values": [
+            6
+          ]
+        },
+        {
+          "key": "markRadius",
+          "values": [
+            8
+          ]
+        },
+        {
+          "key": "icd",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "immediateShot",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "maxTargets",
+          "values": [
+            5
+          ]
+        },
+        {
+          "key": "window",
+          "values": [
+            6
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-W01",
+      "title": "吧檯護板",
+      "description": "每次實際消耗 E 充能，獲得 100／200／300 點屏障，持續 6 秒。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.e_barrier",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "從吧檯拆下的鋼板，被重新扣上手臂",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            6
+          ]
+        },
+        {
+          "key": "amounts",
+          "values": [
+            100,
+            200,
+            300
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-W02",
+      "title": "穩住酒杯",
+      "description": "半徑 2.5 內每名敵人使你獲得 3%／4%／5% 減傷，最多計三名。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.close_resistance",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "被三隻怪物包圍仍沒有灑出的沉重酒杯",
+      "numbers": [
+        {
+          "key": "maxEnemies",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            2.5
+          ]
+        },
+        {
+          "key": "perEnemy",
+          "values": [
+            0.03,
+            0.04,
+            0.05
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-W03",
+      "title": "重槌節拍",
+      "description": "每第 4／3 次普攻動作，使首個命中目標被擊退 0.6 並暈眩 0.2 秒。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.heavy_beat",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "沉重槍柄敲在吧檯上，震起四枚杯墊",
+      "numbers": [
+        {
+          "key": "knockback",
+          "values": [
+            0.6
+          ]
+        },
+        {
+          "key": "attackThresholds",
+          "values": [
+            4,
+            3
+          ]
+        },
+        {
+          "key": "stun",
+          "values": [
+            0.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-W04",
+      "title": "震後餘溫",
+      "description": "E／Q 每個動作的第一次震盪，使命中敵人失衡 2／3 秒，敵人造成的傷害降低 15%。後續震盪不疊層。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.shock_stagger",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "震波過後，怪物輪廓上浮著橙色裂紋",
+      "numbers": [
+        {
+          "key": "durations",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "key": "enemyDamageReduction",
+          "values": [
+            0.15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-W05",
+      "title": "加厚靴跟",
+      "description": "閃避距離 +0.5／+1；落地後免疫擊退 0.5／1 秒，不提供額外免傷。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.steady_boots",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "加上鋼製鞋跟的靴子把地板踩出細裂紋",
+      "numbers": [
+        {
+          "key": "stabilityDurations",
+          "values": [
+            0.5,
+            1
+          ]
+        },
+        {
+          "key": "distanceBonuses",
+          "values": [
+            0.5,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-W06",
+      "title": "近身調律",
+      "description": "震盪對距離角色不超過 3 的敵人，傷害增加 15%／25%／35%。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.close_shock_damage",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "耳邊調音旋鈕與近距離爆開的同心震紋",
+      "numbers": [
+        {
+          "key": "bonuses",
+          "values": [
+            0.15,
+            0.25,
+            0.35
+          ]
+        },
+        {
+          "key": "distance",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-W07",
+      "title": "盾緣磨亮",
+      "description": "每 8 秒獲得 100 點屏障；有屏障時普攻傷害 +15%／25%。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.polished_guard",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "擦亮的盾緣反射出槍口火光",
+      "numbers": [
+        {
+          "key": "interval",
+          "values": [
+            8
+          ]
+        },
+        {
+          "key": "shield",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "damageBonuses",
+          "values": [
+            0.15,
+            0.25
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-W08",
+      "title": "門前止步",
+      "description": "震盪命中距離你 1.5 內的敵人時，將其推離 0.8，減速 30% 持續 1 秒；同敵人每秒至多一次。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.keep_out",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "酒吧門檻上的靴尖，前方是一圈禁止靠近的震紋",
+      "numbers": [
+        {
+          "key": "knockback",
+          "values": [
+            0.8
+          ]
+        },
+        {
+          "key": "slow",
+          "values": [
+            0.3
+          ]
+        },
+        {
+          "key": "duration",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "distance",
+          "values": [
+            1.5
+          ]
+        },
+        {
+          "key": "targetIcd",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-P01",
+      "title": "反撞條款",
+      "description": "每 6 秒獲 100 點屏障；屏障被敵人完全打空時，釋放半徑 3、200% 普攻基準傷害的反擊震波並擊退 1，冷卻 3 秒。自然到期不觸發。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.barrier_counter",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "被撞裂的盾面翻出一枚紫色反擊印章",
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "knockback",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "cooldown",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "shield",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "shieldInterval",
+          "values": [
+            6
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-P02",
+      "title": "回聲地板",
+      "description": "E／Q 每個動作的第一震留下半徑 1.8、持續 3 秒的回聲區；期滿造成該震 35% 基準傷害。若先被另一個直接震盪碰到，提早引爆為 70%，每區僅一次。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.echo_floor",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "地板裂紋裡存著一圈等待被敲醒的紫色回聲",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            1.8
+          ]
+        },
+        {
+          "key": "normalCoefficient",
+          "values": [
+            0.35
+          ]
+        },
+        {
+          "key": "comboCoefficient",
+          "values": [
+            0.7
+          ]
+        },
+        {
+          "key": "zonesPerCast",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-P03",
+      "title": "壓陣半徑",
+      "description": "震盪半徑 +20%；最外側 20% 範圍的敵人額外受到 20% 震盪傷害，並被擊退 0.8。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.outer_ring",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "重型靴子踩亮地面上擴大的紫色外環",
+      "numbers": [
+        {
+          "key": "knockback",
+          "values": [
+            0.8
+          ]
+        },
+        {
+          "key": "radiusBonus",
+          "values": [
+            0.2
+          ]
+        },
+        {
+          "key": "outerFraction",
+          "values": [
+            0.2
+          ]
+        },
+        {
+          "key": "outerDamageBonus",
+          "values": [
+            0.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-P04",
+      "title": "代班門神",
+      "description": "閃避結束後建立半徑 2、持續 2 秒的防線；你在其中獲得 15% 減傷。敵人首次跨入時失衡 2 秒，每區每敵人一次。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.dodge_line",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "少女停在門口，背後亮起一扇紫色防線",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "staggerDuration",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "damageReduction",
+          "values": [
+            0.15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-P05",
+      "title": "碎盾換檔",
+      "description": "每次實際消耗 Q 充能先獲 200 點屏障；屏障每累積吸收 100 傷害，使 E 當前充能快轉 0.5 秒，每秒至多一次。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.shield_recharge",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "artBrief": "碎盾片落入齒輪，轉成發亮的 E 充能刻度",
+      "numbers": [
+        {
+          "key": "icd",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "shield",
+          "values": [
+            200
+          ]
+        },
+        {
+          "key": "absorbedThreshold",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "advanceSeconds",
+          "values": [
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-G01",
+      "title": "拒絕退場",
+      "description": "實際消耗 Q 時獲最大生命 40% 的屏障，持續 4 秒；有屏障時，每個直接 E／Q 動作首次命中可再補 100 屏障。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.refuse_exit",
+      "category": 2,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "artBrief": "少女用盾抵住深淵巨手，身後酒吧燈仍亮著",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "shieldHealthFraction",
+          "values": [
+            0.4
+          ]
+        },
+        {
+          "key": "shieldPerAction",
+          "values": [
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-G02",
+      "title": "終場重拍",
+      "description": "每次直接 Q 最後一震結束 0.35 秒後，再追加一記聚怪終震：半徑 +25%，傷害為該次 Q 設定總基礎傷害的 75%，先拉近 0.8 再傷害。追加震不再觸發追加。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.final_downbeat",
+      "category": 2,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "artBrief": "三圈震紋收束成一記金色重拍，酒瓶全部懸空",
+      "numbers": [
+        {
+          "key": "totalBaseCoefficient",
+          "values": [
+            0.75
+          ]
+        },
+        {
+          "key": "delay",
+          "values": [
+            0.35
+          ]
+        },
+        {
+          "key": "pull",
+          "values": [
+            0.8
+          ]
+        },
+        {
+          "key": "radiusBonus",
+          "values": [
+            0.25
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-N5-W01",
+      "title": "晚班巡檢",
+      "description": "每擊殺 18／14 名敵人，回復 100 生命並獲 100 點屏障。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.night_inspection",
+      "category": 2,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": true,
+      "artBrief": "巡檢表旁放著熱飲與一片備用護板",
+      "numbers": [
+        {
+          "key": "killThresholds",
+          "values": [
+            18,
+            14
+          ]
+        },
+        {
+          "key": "heal",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "shield",
+          "values": [
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-N5-P01",
+      "title": "避難口令",
+      "description": "實際消耗 Q 時，先讓半徑 5 內敵人失衡 2 秒；該次 Q 命中失衡敵人可掉護片，拾取獲 100 屏障，每敵人一次、每次 Q 最多三片。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.shelter_code",
+      "category": 2,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": true,
+      "artBrief": "橙色口令波中，敵人腳邊落下三片小護盾",
+      "numbers": [
+        {
+          "key": "radius",
+          "values": [
+            5
+          ]
+        },
+        {
+          "key": "shieldPerPickup",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "staggerDuration",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "maxPickupsPerCast",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GRD-N5-G01",
+      "title": "要塞開門",
+      "description": "實際消耗 Q 時建立半徑 3、持續 5 秒的避難領域；你在其中每秒獲 100 屏障，並且每個直接 E 動作追加一次 50% E 基準傷害震盪。同時一區，重新施放替換。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "guard.open_fortress",
+      "category": 2,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": true,
+      "artBrief": "地下酒吧的鋼門打開，金色光圈罩住前線少女",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            5
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "activeLimit",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "shieldPerSecond",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "extraECoefficient",
+          "values": [
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-SCT-W01",
+      "title": "斥候便條",
+      "description": "每 6 秒偵察最遠的一名可索敵敵人，持續 4 秒。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "support.scout_note",
+      "category": 3,
+      "quality": 0,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "斥候留在杯底的手寫位置便條",
+      "numbers": [
+        {
+          "key": "interval",
+          "values": [
+            6
+          ]
+        },
+        {
+          "key": "markDuration",
+          "values": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-SCT-W02",
+      "title": "快拆瞄具",
+      "description": "每第 5／4 次普攻動作，額外射一枚造成 70% 普攻基準傷害、最多穿三名的偵察彈。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "support.scout_sight",
+      "category": 3,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "借來的快拆瞄具與一枚藍色穿射彈",
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            0.7
+          ]
+        },
+        {
+          "key": "attackThresholds",
+          "values": [
+            5,
+            4
+          ]
+        },
+        {
+          "key": "maxTargets",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-SCT-W03",
+      "title": "輕裝借用證",
+      "description": "連續移動 1.5 秒後，下一次 E 的傷害與範圍／索敵距離各 +15%；施放後重新累積。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "support.scout_light_kit",
+      "category": 3,
+      "quality": 0,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "掛在輕便肩帶上的借用證和小型指南針",
+      "numbers": [
+        {
+          "key": "rangeBonus",
+          "values": [
+            0.15
+          ]
+        },
+        {
+          "key": "moveTime",
+          "values": [
+            1.5
+          ]
+        },
+        {
+          "key": "damageBonus",
+          "values": [
+            0.15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-SCT-W04",
+      "title": "路線粉筆",
+      "description": "閃避結束時，偵察最近 1／2 名敵人 4 秒，並讓經驗吸附半徑 +20% 持續 2 秒。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "support.scout_chalk",
+      "category": 3,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "地板上兩道通往經驗寶石的藍色粉筆箭頭",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "markDuration",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "targets",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "key": "pickupBonus",
+          "values": [
+            0.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-SCT-P01",
+      "title": "遠端報點",
+      "description": "實際消耗 Q 時，斥候向最遠兩名敵人各提供一發狙擊，先偵察再造成 150% 普攻基準傷害。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "support.scout_callout",
+      "category": 3,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "artBrief": "通訊耳機裡傳來報點，兩條紫色狙擊線切入畫面",
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            1.5
+          ]
+        },
+        {
+          "key": "markDuration",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "targets",
+          "values": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-SCT-P02",
+      "title": "穿線聯絡",
+      "description": "每個直接 E 的首次命中，從目標背後向你射回一枚支援彈，造成 100% E 基準傷害、最多穿三名，命中施加偵察；冷卻 3 秒。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "support.scout_return_fire",
+      "category": 3,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "敵群後方亮起紫色回傳線，一枚支援彈沿線穿回",
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "markDuration",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "maxTargets",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "cooldown",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-SCT-G01",
+      "title": "斥候的開路信號",
+      "description": "每擊殺 20 名敵人，偵察半徑 8 內敵人 6 秒，獲一次免費 E；使用該次 E 時再加入四發各 100% 普攻基準傷害的交叉支援彈。免費機會不累存。",
+      "ownerRoleId": "scout_01",
+      "effectKey": "support.scout_pathfinder",
+      "category": 3,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "酒吧天線升起金色信號彈，四條支援射線交會",
+      "numbers": [
+        {
+          "key": "freeECapacity",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "markDuration",
+          "values": [
+            6
+          ]
+        },
+        {
+          "key": "killThreshold",
+          "values": [
+            20
+          ]
+        },
+        {
+          "key": "supportShots",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-GRD-W01",
+      "title": "重裝隊員的杯套",
+      "description": "生命實際受傷後獲 100／200 點屏障，冷卻 4 秒；致命傷後不生效。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "support.guard_sleeve",
+      "category": 3,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "包著厚鋼杯套的熱飲，旁邊是外援徽章",
+      "numbers": [
+        {
+          "key": "cooldown",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "shields",
+          "values": [
+            100,
+            200
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-GRD-W02",
+      "title": "門口那盞燈",
+      "description": "每個直接 E／Q 動作首次命中的近身敵人，若距離你不超過 2.5，失衡 2 秒。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "support.guard_lamp",
+      "category": 3,
+      "quality": 0,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "酒吧門燈照亮怪物腳邊的橙色警戒圈",
+      "numbers": [
+        {
+          "key": "staggerDuration",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "distance",
+          "values": [
+            2.5
+          ]
+        },
+        {
+          "key": "targetsPerAction",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-GRD-W03",
+      "title": "借來的防滑靴",
+      "description": "閃避結束後 2 秒內，下一次受到的傷害減少 20%／30%；只抵擋一次，重複閃避刷新不累存。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "support.guard_boots",
+      "category": 3,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "鞋帶上別著重裝隊員借物標籤的防滑靴",
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "reductions",
+          "values": [
+            0.2,
+            0.3
+          ]
+        },
+        {
+          "key": "hits",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-GRD-W04",
+      "title": "沉穩敲杯",
+      "description": "每第 4／3 次普攻動作，在首個命中位置追加半徑 1、50% 普攻基準傷害的小震波。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "support.guard_tap",
+      "category": 3,
+      "quality": 0,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "沉重杯底敲出一圈小小橙色震紋",
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            0.5
+          ]
+        },
+        {
+          "key": "attackThresholds",
+          "values": [
+            4,
+            3
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-GRD-P01",
+      "title": "護送口令",
+      "description": "實際消耗 E 時，獲 200 屏障並免疫擊退 1 秒；冷卻 4 秒。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "support.guard_escort",
+      "category": 3,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "通訊徽章亮起，一片紫色護板擋在角色前方",
+      "numbers": [
+        {
+          "key": "stability",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "shield",
+          "values": [
+            200
+          ]
+        },
+        {
+          "key": "cooldown",
+          "values": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-GRD-P02",
+      "title": "維修員到場",
+      "description": "每第三次生命受傷事件，解除減速、恢復 1 格閃避並獲 100 屏障；受傷計數最多每秒一次。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "support.guard_repair",
+      "category": 3,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "工具箱滑到腳邊，扳手拎起一枚發亮的閃避扣環",
+      "numbers": [
+        {
+          "key": "countIcd",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "hurtEvents",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "dodgeCharges",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "shield",
+          "values": [
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-GRD-G01",
+      "title": "防衛隊員的守夜令",
+      "description": "實際消耗 Q 時，外援守衛在原地守護 4 秒，於 0、1、2、3 秒各發半徑 2.5、80% 普攻基準傷害的震波；你在範圍內每次獲 100 屏障。同時一名，重新召喚替換。",
+      "ownerRoleId": "guard_01",
+      "effectKey": "support.guard_nightwatch",
+      "category": 3,
+      "quality": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "artBrief": "金色守衛剪影站在酒吧門前，四圈暖光護住隊友",
+      "numbers": [
+        {
+          "key": "activeLimit",
+          "values": [
+            1
+          ]
+        },
+        {
+          "key": "pulseTimes",
+          "values": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "key": "duration",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            0.8
+          ]
+        },
+        {
+          "key": "shieldPerPulse",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            2.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-W06",
+      "title": "環身酒刃",
+      "description": "獲得 1／2／3 枚環身酒刃，等角度環繞，半徑 1.4、每圈 2.4 秒；接觸敵人造成 60% 普攻基準傷害。同一敵人每 0.5 秒最多承受本卡一次接觸傷害。",
+      "ownerRoleId": null,
+      "effectKey": "item.orbiting_blades",
+      "category": 1,
+      "quality": 0,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "鋼製杯墊邊緣展開成酒刃，在少女身旁畫出三段銀色圓弧",
+      "numbers": [
+        {
+          "key": "counts",
+          "values": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "key": "orbitRadius",
+          "values": [
+            1.4
+          ]
+        },
+        {
+          "key": "orbitPeriod",
+          "values": [
+            2.4
+          ]
+        },
+        {
+          "key": "hitRadius",
+          "values": [
+            0.25
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            0.6
+          ]
+        },
+        {
+          "key": "sharedTargetIcd",
+          "values": [
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ITM-P04",
+      "title": "公轉酒櫃",
+      "description": "三瓶酒以半徑 2.1、每圈 3 秒公轉，接觸各造成 40% 普攻基準傷害：烈酒附加 2 秒燃燒、每 0.5 秒再傷 20%；冰酒減速 25% 持續 1.5 秒；護酒命中給 100 屏障、冷卻 5 秒。閃避後本卡與環身酒刃公轉加速 40%，持續 2 秒。",
+      "ownerRoleId": null,
+      "effectKey": "item.orbiting_bottles",
+      "category": 1,
+      "quality": 1,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "artBrief": "紅色烈酒、藍色冰酒、琥珀護酒環繞一座懸浮小酒架，瓶尾拖出三色星軌",
+      "numbers": [
+        {
+          "key": "count",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "orbitRadius",
+          "values": [
+            2.1
+          ]
+        },
+        {
+          "key": "orbitPeriod",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "hitRadius",
+          "values": [
+            0.25
+          ]
+        },
+        {
+          "key": "contactCoefficient",
+          "values": [
+            0.4
+          ]
+        },
+        {
+          "key": "perBottleTargetIcd",
+          "values": [
+            0.8
+          ]
+        },
+        {
+          "key": "burnCoefficient",
+          "values": [
+            0.2
+          ]
+        },
+        {
+          "key": "burnDuration",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "burnInterval",
+          "values": [
+            0.5
+          ]
+        },
+        {
+          "key": "slow",
+          "values": [
+            0.25
+          ]
+        },
+        {
+          "key": "slowDuration",
+          "values": [
+            1.5
+          ]
+        },
+        {
+          "key": "shield",
+          "values": [
+            100
+          ]
+        },
+        {
+          "key": "shieldIcd",
+          "values": [
+            5
+          ]
+        },
+        {
+          "key": "dodgeOrbitSpeedBonus",
+          "values": [
+            0.4
+          ]
+        },
+        {
+          "key": "speedDuration",
+          "values": [
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

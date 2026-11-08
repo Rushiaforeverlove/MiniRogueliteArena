@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: SCT-P04
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: SCT-P04
+  title: "\u79FB\u52D5\u5C04\u754C"
+  ownerRoleId: scout_01
+  effectKey: scout.firing_lane
+  description: "\u9583\u907F\u8D77\u7D42\u9EDE\u4E4B\u9593\u7559\u4E0B 3 \u79D2\u3001\u5BEC 0.6 \u7684\u706B\u7DDA\uFF1B\u7DDA\u4E0A\u6575\u4EBA\u7ACB\u5373\u88AB\u5075\u5BDF\u3002\u4F60\u7684\u76F4\u63A5\u5B50\u5F48\u9996\u6B21\u7A7F\u904E\u706B\u7DDA\u5F8C\u50B7\u5BB3 +20%\uFF0C\u540C\u4E00\u767C\u4E0D\u91CD\u8907\u52A0\u6210\u3002"
+  quality: 1
+  category: 2
+  icon: {fileID: 21300000, guid: 930550d18bbbffa4991d8a14e9d5fedd, type: 3}
+  artBrief: "\u5169\u679A\u7C89\u7B46\u8DEF\u6A19\u4E4B\u9593\u67B6\u8D77\u767C\u5149\u7684\u4F4E\u4F4D\u706B\u7DDA"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: duration
+    values:
+    - 3
+  - key: markDuration
+    values:
+    - 4
+  - key: width
+    values:
+    - 0.6
+  - key: damageBonus
+    values:
+    - 0.2

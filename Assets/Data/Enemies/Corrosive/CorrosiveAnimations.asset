@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e934657ce6c876342922e02ef1c4a966, type: 3}
+  m_Name: CorrosiveAnimations
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.EnemyAnimations.CorrosiveAnimationSet
+  common: {fileID: 11400000, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+  inflate:
+    frames:
+    - {fileID: 3673819277782277573, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -5655360391784854865, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -8047387488497084307, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 3532776821046529059, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 4650832320204285673, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 8354255392407787542, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    fps: 10
+    impactFrame: 4
+  burst:
+    frames:
+    - {fileID: 2173636014020538364, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 1042977547690691363, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -3889462085320182315, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 1314402497235412861, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 4572318629231994947, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -3994126470628396697, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    fps: 12
+    impactFrame: 4
+  formation:
+    frames:
+    - {fileID: -3606180686653785465, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -5624727959796419332, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -2189503119344651451, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 7998124476087346406, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 8744757397748902999, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 2709690126402028229, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    fps: 12
+    impactFrame: 4
+  bubbling:
+    frames:
+    - {fileID: 1886246690417538374, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -8798479728028985361, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -1634879204966542114, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 2421674719979578900, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 3837843430239835286, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 4223286834024653899, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    fps: 8
+    impactFrame: 4
+  dissolve:
+    frames:
+    - {fileID: -3822526608198507515, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -8880699398241603609, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -3417059839858553146, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: 4291272834983359262, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -7387073641504786925, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    - {fileID: -2000676230745250043, guid: f47d8e70e5e481e45925a12b44d33e60, type: 2}
+    fps: 12
+    impactFrame: 4

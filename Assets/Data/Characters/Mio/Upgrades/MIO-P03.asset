@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: MIO-P03
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: MIO-P03
+  title: "\u7A7F\u9663\u63DB\u624B"
+  ownerRoleId: mio_01
+  effectKey: mio.cross_step
+  description: "\u84C4\u6EFF\u72C0\u614B\u53EF\u8DE8\u8D8A E \u4FDD\u7559 2 \u79D2\uFF1BE \u4E2D\u653E\u958B\u5DE6\u9375\uFF0C\u6703\u5728\u52D5\u4F5C\u5B8C\u6210\u5F8C\u91CB\u653E\u528D\u6C23\u3002"
+  quality: 1
+  category: 2
+  icon: {fileID: 339120042164805837, guid: e3ad5dbb5b6f4d5408361246d60b0c5e, type: 2}
+  artBrief: "\u7720\u6708\u5DE8\u528D\uFF0F\u6708\u8272\uFF0F\u62D6\u528D\u8207\u89E3\u653E\uFF1B\u5716\u96C6\u683C 10"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  requiredCardIds: []
+  numbers:
+  - key: window
+    values:
+    - 2

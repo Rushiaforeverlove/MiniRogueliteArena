@@ -1,0 +1,1848 @@
+fileFormatVersion: 2
+guid: b8b4ce0a9cbc18740827913fe18f4d92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1182575596803879931
+    second: station-props-atlas-v1_0
+  - first:
+      213: 5913077498591087181
+    second: station-props-atlas-v1_1
+  - first:
+      213: -3513412168640158650
+    second: station-props-atlas-v1_2
+  - first:
+      213: 4859651858111996668
+    second: station-props-atlas-v1_3
+  - first:
+      213: 1279501921310233255
+    second: station-props-atlas-v1_4
+  - first:
+      213: -8608731388425920733
+    second: station-props-atlas-v1_5
+  - first:
+      213: -5036411199324252912
+    second: station-props-atlas-v1_6
+  - first:
+      213: 5029504553398130969
+    second: station-props-atlas-v1_7
+  - first:
+      213: 2471310783355398541
+    second: station-props-atlas-v1_8
+  - first:
+      213: -6018507357310197263
+    second: station-props-atlas-v1_9
+  - first:
+      213: 630306641618765519
+    second: station-props-atlas-v1_10
+  - first:
+      213: 7298548980866781329
+    second: station-props-atlas-v1_11
+  - first:
+      213: 9115433160460225362
+    second: station-props-atlas-v1_12
+  - first:
+      213: 4431120559608784298
+    second: station-props-atlas-v1_13
+  - first:
+      213: -5269735808757768479
+    second: station-props-atlas-v1_14
+  - first:
+      213: -5658792189378346385
+    second: station-props-atlas-v1_15
+  - first:
+      213: 2165332895846319907
+    second: station-props-atlas-v1_16
+  - first:
+      213: -9074440302861850940
+    second: station-props-atlas-v1_17
+  - first:
+      213: -598125916246714034
+    second: station-props-atlas-v1_18
+  - first:
+      213: 538770985499790017
+    second: station-props-atlas-v1_19
+  - first:
+      213: -7082119252695863717
+    second: station-props-atlas-v1_20
+  - first:
+      213: -3301678763011643317
+    second: station-props-atlas-v1_21
+  - first:
+      213: -2599040936957891452
+    second: station-props-atlas-v1_22
+  - first:
+      213: -7428023327399800302
+    second: station-props-atlas-v1_23
+  - first:
+      213: -2781835742185675017
+    second: station-props-atlas-v1_24
+  - first:
+      213: -6684732729933590238
+    second: station-props-atlas-v1_25
+  - first:
+      213: -3129671005461576180
+    second: station-props-atlas-v1_26
+  - first:
+      213: -7096200862242790015
+    second: station-props-atlas-v1_27
+  - first:
+      213: -562280545616278772
+    second: station-props-atlas-v1_28
+  - first:
+      213: -1530999057302389273
+    second: station-props-atlas-v1_29
+  - first:
+      213: -3132383653321412078
+    second: station-props-atlas-v1_30
+  - first:
+      213: -5295493895096392004
+    second: station-props-atlas-v1_31
+  - first:
+      213: 4515150859025545903
+    second: station-props-atlas-v1_32
+  - first:
+      213: 6947505841099021582
+    second: station-props-atlas-v1_33
+  - first:
+      213: 2642078872418139780
+    second: station-props-atlas-v1_34
+  - first:
+      213: 7536908604050218419
+    second: station-props-atlas-v1_35
+  - first:
+      213: 6736674698395339098
+    second: station-props-atlas-v1_36
+  - first:
+      213: 9081455469959552066
+    second: station-props-atlas-v1_37
+  - first:
+      213: -2102473395965409714
+    second: station-props-atlas-v1_38
+  - first:
+      213: -7531544183014343959
+    second: station-props-atlas-v1_39
+  - first:
+      213: 5376934053763451247
+    second: station-props-atlas-v1_40
+  - first:
+      213: -3176749271480227823
+    second: station-props-atlas-v1_41
+  - first:
+      213: 6327446311367817128
+    second: station-props-atlas-v1_42
+  - first:
+      213: 3432096326540043853
+    second: station-props-atlas-v1_43
+  - first:
+      213: 3311858636297210364
+    second: station-props-atlas-v1_44
+  - first:
+      213: 173293905335020614
+    second: station-props-atlas-v1_45
+  - first:
+      213: -8249382217303402164
+    second: station-props-atlas-v1_46
+  - first:
+      213: 2707798632222559958
+    second: station-props-atlas-v1_47
+  - first:
+      213: 2727188773573576961
+    second: station-props-atlas-v1_48
+  - first:
+      213: -1810535530318037505
+    second: station-props-atlas-v1_49
+  - first:
+      213: -3466056071210247742
+    second: station-props-atlas-v1_50
+  - first:
+      213: 4204163444943161849
+    second: station-props-atlas-v1_51
+  - first:
+      213: -4586467421460227406
+    second: station-props-atlas-v1_52
+  - first:
+      213: 4357892502178440520
+    second: station-props-atlas-v1_53
+  - first:
+      213: 2288948001143619990
+    second: station-props-atlas-v1_54
+  - first:
+      213: 6670417677421940968
+    second: station-props-atlas-v1_55
+  - first:
+      213: -5950465824990411236
+    second: station-props-atlas-v1_56
+  - first:
+      213: -4878724216819433417
+    second: station-props-atlas-v1_57
+  - first:
+      213: 4785585774329362062
+    second: station-props-atlas-v1_58
+  - first:
+      213: -5096625421561498303
+    second: station-props-atlas-v1_59
+  - first:
+      213: -8397430489040679919
+    second: station-props-atlas-v1_60
+  - first:
+      213: 3055758691918981953
+    second: station-props-atlas-v1_61
+  - first:
+      213: -6206819046423206474
+    second: station-props-atlas-v1_62
+  - first:
+      213: 5305354824030937243
+    second: station-props-atlas-v1_63
+  - first:
+      213: -306066496426908594
+    second: station-props-atlas-v1_64
+  - first:
+      213: -3326455787146163194
+    second: station-props-atlas-v1_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: station-props-atlas-v1_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 29
+        width: 735
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c8570a2c5a69fe0800000000000000
+      internalID: -1182575596803879931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1098
+        width: 166
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a80e8f7a87f0250800000000000000
+      internalID: 5913077498591087181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1087
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6442baa5f3add3fc0800000000000000
+      internalID: -3513412168640158650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1082
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf225de0e93f07340800000000000000
+      internalID: 4859651858111996668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1068
+        width: 345
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a25025e734b1c110800000000000000
+      internalID: 1279501921310233255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 491
+        width: 516
+        height: 697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f1e1ac964a78880800000000000000
+      internalID: -8608731388425920733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_6
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1133
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0159a71c2b21b1ab0800000000000000
+      internalID: -5036411199324252912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_7
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1052
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919518d6eb36cc540800000000000000
+      internalID: 5029504553398130969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1018
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89ad7b501cdb4220800000000000000
+      internalID: 2471310783355398541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_9
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 996
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f163792277f97ca0800000000000000
+      internalID: -6018507357310197263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1010
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc681411d8c4fb800800000000000000
+      internalID: 630306641618765519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 821
+        width: 67
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1909a54f0a7a94560800000000000000
+      internalID: 7298548980866781329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_12
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 775
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b4c0fe926808e70800000000000000
+      internalID: 9115433160460225362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_13
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 744
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa569600ca08e7d30800000000000000
+      internalID: 4431120559608784298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_14
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 698
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee56d2c3332ed6b0800000000000000
+      internalID: -5269735808757768479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 638
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62495e3c7ee771b0800000000000000
+      internalID: -5658792189378346385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 633
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327436ddbcecc0e10800000000000000
+      internalID: 2165332895846319907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 626
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c66e6c7f9c111280800000000000000
+      internalID: -9074440302861850940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 580
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49d82fe5a703b7f0800000000000000
+      internalID: -598125916246714034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 586
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca80065b591a7700800000000000000
+      internalID: 538770985499790017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 62
+        width: 379
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eab16ff0247bd90800000000000000
+      internalID: -7082119252695863717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_21
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 595
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b486d3878a41e22d0800000000000000
+      internalID: -3301678763011643317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 580
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c2de3c90a5eebd0800000000000000
+      internalID: -2599040936957891452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_23
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 548
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212150b932c5ae890800000000000000
+      internalID: -7428023327399800302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 502
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6a98b912fe469d0800000000000000
+      internalID: -2781835742185675017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 499
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22191e5dffe0b33a0800000000000000
+      internalID: -6684732729933590238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_26
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 497
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c068f9f5dcc2194d0800000000000000
+      internalID: -3129671005461576180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 476
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185a23fb9ea358d90800000000000000
+      internalID: -7096200862242790015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_28
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 483
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bcd66a2d06238f0800000000000000
+      internalID: -562280545616278772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 457
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed780e087cc0cae0800000000000000
+      internalID: -1530999057302389273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_30
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 465
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2127983d9a98784d0800000000000000
+      internalID: -3132383653321412078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 424
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6a780fb50a286b0800000000000000
+      internalID: -5295493895096392004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 449
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa7483b8c909ae30800000000000000
+      internalID: 4515150859025545903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 425
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d98a5c0cf7a6060800000000000000
+      internalID: 6947505841099021582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 433
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e3c037cbc8aa420800000000000000
+      internalID: 2642078872418139780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 421
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd9ff0717a789860800000000000000
+      internalID: 7536908604050218419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_36
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 435
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59473d12f97d7d50800000000000000
+      internalID: 6736674698395339098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_37
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 403
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c977262afc70e70800000000000000
+      internalID: 9081455469959552066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 409
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46c5c3f59382d2e0800000000000000
+      internalID: -2102473395965409714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 409
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea354928749a7790800000000000000
+      internalID: -7531544183014343959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_40
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 383
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69854f9805be9a40800000000000000
+      internalID: 5376934053763451247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 126
+        width: 470
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118a0f46e5be9e3d0800000000000000
+      internalID: -3176749271480227823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 369
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a73f6c55ea9fc750800000000000000
+      internalID: 6327446311367817128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_43
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 369
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46a75acc6141af20800000000000000
+      internalID: 3432096326540043853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_44
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 276
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf90ecaf1e516fd20800000000000000
+      internalID: 3311858636297210364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_45
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 224
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ceb3583e9a76200800000000000000
+      internalID: 173293905335020614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_46
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 280
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49d439949e448d80800000000000000
+      internalID: -8249382217303402164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_47
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 256
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de0aec6288049520800000000000000
+      internalID: 2707798632222559958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_48
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 235
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10949448dbbe8d520800000000000000
+      internalID: 2727188773573576961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_49
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 133
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd7b2e178fafd6e0800000000000000
+      internalID: -1810535530318037505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_50
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 138
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c95deffd5816efc0800000000000000
+      internalID: -3466056071210247742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 97
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f90589e060385a30800000000000000
+      internalID: 4204163444943161849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 101
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba16f92e289950c0800000000000000
+      internalID: -4586467421460227406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_53
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 97
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8452fa144285a7c30800000000000000
+      internalID: 4357892502178440520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_54
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 95
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918185641af3cf10800000000000000
+      internalID: 2288948001143619990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_55
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 103
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e098364985129c50800000000000000
+      internalID: 6670417677421940968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_56
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 87
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16485debd2bb6da0800000000000000
+      internalID: -5950465824990411236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_57
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730c1636c2a4b4cb0800000000000000
+      internalID: -4878724216819433417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_58
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 69
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86701918e0d96240800000000000000
+      internalID: 4785585774329362062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_59
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145f992ae262549b0800000000000000
+      internalID: -5096625421561498303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_60
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 45
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c02b23675567b80800000000000000
+      internalID: -8397430489040679919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ba427175c386a20800000000000000
+      internalID: 3055758691918981953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_62
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 21
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5e0d066f2fcd9a0800000000000000
+      internalID: -6206819046423206474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_63
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90e4cd7a1860a940800000000000000
+      internalID: 5305354824030937243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_64
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 14
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4463d2a422a0cbf0800000000000000
+      internalID: -306066496426908594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station-props-atlas-v1_65
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 0
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c4c1ef51e06d1d0800000000000000
+      internalID: -3326455787146163194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      station-props-atlas-v1_0: -1182575596803879931
+      station-props-atlas-v1_1: 5913077498591087181
+      station-props-atlas-v1_10: 630306641618765519
+      station-props-atlas-v1_11: 7298548980866781329
+      station-props-atlas-v1_12: 9115433160460225362
+      station-props-atlas-v1_13: 4431120559608784298
+      station-props-atlas-v1_14: -5269735808757768479
+      station-props-atlas-v1_15: -5658792189378346385
+      station-props-atlas-v1_16: 2165332895846319907
+      station-props-atlas-v1_17: -9074440302861850940
+      station-props-atlas-v1_18: -598125916246714034
+      station-props-atlas-v1_19: 538770985499790017
+      station-props-atlas-v1_2: -3513412168640158650
+      station-props-atlas-v1_20: -7082119252695863717
+      station-props-atlas-v1_21: -3301678763011643317
+      station-props-atlas-v1_22: -2599040936957891452
+      station-props-atlas-v1_23: -7428023327399800302
+      station-props-atlas-v1_24: -2781835742185675017
+      station-props-atlas-v1_25: -6684732729933590238
+      station-props-atlas-v1_26: -3129671005461576180
+      station-props-atlas-v1_27: -7096200862242790015
+      station-props-atlas-v1_28: -562280545616278772
+      station-props-atlas-v1_29: -1530999057302389273
+      station-props-atlas-v1_3: 4859651858111996668
+      station-props-atlas-v1_30: -3132383653321412078
+      station-props-atlas-v1_31: -5295493895096392004
+      station-props-atlas-v1_32: 4515150859025545903
+      station-props-atlas-v1_33: 6947505841099021582
+      station-props-atlas-v1_34: 2642078872418139780
+      station-props-atlas-v1_35: 7536908604050218419
+      station-props-atlas-v1_36: 6736674698395339098
+      station-props-atlas-v1_37: 9081455469959552066
+      station-props-atlas-v1_38: -2102473395965409714
+      station-props-atlas-v1_39: -7531544183014343959
+      station-props-atlas-v1_4: 1279501921310233255
+      station-props-atlas-v1_40: 5376934053763451247
+      station-props-atlas-v1_41: -3176749271480227823
+      station-props-atlas-v1_42: 6327446311367817128
+      station-props-atlas-v1_43: 3432096326540043853
+      station-props-atlas-v1_44: 3311858636297210364
+      station-props-atlas-v1_45: 173293905335020614
+      station-props-atlas-v1_46: -8249382217303402164
+      station-props-atlas-v1_47: 2707798632222559958
+      station-props-atlas-v1_48: 2727188773573576961
+      station-props-atlas-v1_49: -1810535530318037505
+      station-props-atlas-v1_5: -8608731388425920733
+      station-props-atlas-v1_50: -3466056071210247742
+      station-props-atlas-v1_51: 4204163444943161849
+      station-props-atlas-v1_52: -4586467421460227406
+      station-props-atlas-v1_53: 4357892502178440520
+      station-props-atlas-v1_54: 2288948001143619990
+      station-props-atlas-v1_55: 6670417677421940968
+      station-props-atlas-v1_56: -5950465824990411236
+      station-props-atlas-v1_57: -4878724216819433417
+      station-props-atlas-v1_58: 4785585774329362062
+      station-props-atlas-v1_59: -5096625421561498303
+      station-props-atlas-v1_6: -5036411199324252912
+      station-props-atlas-v1_60: -8397430489040679919
+      station-props-atlas-v1_61: 3055758691918981953
+      station-props-atlas-v1_62: -6206819046423206474
+      station-props-atlas-v1_63: 5305354824030937243
+      station-props-atlas-v1_64: -306066496426908594
+      station-props-atlas-v1_65: -3326455787146163194
+      station-props-atlas-v1_7: 5029504553398130969
+      station-props-atlas-v1_8: 2471310783355398541
+      station-props-atlas-v1_9: -6018507357310197263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

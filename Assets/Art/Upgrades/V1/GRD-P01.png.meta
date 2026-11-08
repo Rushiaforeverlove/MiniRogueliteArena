@@ -1,0 +1,3200 @@
+fileFormatVersion: 2
+guid: 95f9ac1dfebef0f47a4bf2da30705163
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5327425795558030367
+    second: GRD-P01_0
+  - first:
+      213: 6981753604254839002
+    second: GRD-P01_1
+  - first:
+      213: 8864176784988109711
+    second: GRD-P01_2
+  - first:
+      213: 1497365836187173736
+    second: GRD-P01_3
+  - first:
+      213: -6891747174625930419
+    second: GRD-P01_4
+  - first:
+      213: -1430466180238528496
+    second: GRD-P01_5
+  - first:
+      213: -7400538092081617046
+    second: GRD-P01_6
+  - first:
+      213: -1078416158149478206
+    second: GRD-P01_7
+  - first:
+      213: -3400730417233085177
+    second: GRD-P01_8
+  - first:
+      213: 6076775268476942025
+    second: GRD-P01_9
+  - first:
+      213: 2356097759319576737
+    second: GRD-P01_10
+  - first:
+      213: 2416159721915495883
+    second: GRD-P01_11
+  - first:
+      213: 7934537799525070601
+    second: GRD-P01_12
+  - first:
+      213: 638203272512528437
+    second: GRD-P01_13
+  - first:
+      213: -2944973483265205023
+    second: GRD-P01_14
+  - first:
+      213: -6325818728002232177
+    second: GRD-P01_15
+  - first:
+      213: 390059389134125815
+    second: GRD-P01_16
+  - first:
+      213: -1950377474895395440
+    second: GRD-P01_17
+  - first:
+      213: 1949472355047603154
+    second: GRD-P01_18
+  - first:
+      213: -3972085719721361045
+    second: GRD-P01_19
+  - first:
+      213: -7999102949244196456
+    second: GRD-P01_20
+  - first:
+      213: -1167045893639302287
+    second: GRD-P01_21
+  - first:
+      213: -1664574230808635201
+    second: GRD-P01_22
+  - first:
+      213: -2271857299231801745
+    second: GRD-P01_23
+  - first:
+      213: -792988529831699908
+    second: GRD-P01_24
+  - first:
+      213: -5198642740057661048
+    second: GRD-P01_25
+  - first:
+      213: 4042124664154945680
+    second: GRD-P01_26
+  - first:
+      213: -579719738530506448
+    second: GRD-P01_27
+  - first:
+      213: -3754244907397350883
+    second: GRD-P01_28
+  - first:
+      213: 1979537054007873515
+    second: GRD-P01_29
+  - first:
+      213: 6728094221320695566
+    second: GRD-P01_30
+  - first:
+      213: 4722155318826330407
+    second: GRD-P01_31
+  - first:
+      213: 6732598752786128242
+    second: GRD-P01_32
+  - first:
+      213: 6562111699800466366
+    second: GRD-P01_33
+  - first:
+      213: -2961085615384396377
+    second: GRD-P01_34
+  - first:
+      213: 7658761655265373872
+    second: GRD-P01_35
+  - first:
+      213: -4663805287601460650
+    second: GRD-P01_36
+  - first:
+      213: -1179156053551126584
+    second: GRD-P01_37
+  - first:
+      213: 8477339102853628609
+    second: GRD-P01_38
+  - first:
+      213: 3186585340352057403
+    second: GRD-P01_39
+  - first:
+      213: 4869237078243824859
+    second: GRD-P01_40
+  - first:
+      213: -3068791131968191317
+    second: GRD-P01_41
+  - first:
+      213: -699609319477743626
+    second: GRD-P01_42
+  - first:
+      213: -8437845874862747058
+    second: GRD-P01_43
+  - first:
+      213: -6999891822966275
+    second: GRD-P01_44
+  - first:
+      213: -5249051732457025444
+    second: GRD-P01_45
+  - first:
+      213: 3529231215957856807
+    second: GRD-P01_46
+  - first:
+      213: -2479736970086583391
+    second: GRD-P01_47
+  - first:
+      213: 2453305952286195327
+    second: GRD-P01_48
+  - first:
+      213: 3524513062006764465
+    second: GRD-P01_49
+  - first:
+      213: 3379745883478316800
+    second: GRD-P01_50
+  - first:
+      213: -2394280774009834456
+    second: GRD-P01_51
+  - first:
+      213: 3887765388436172931
+    second: GRD-P01_52
+  - first:
+      213: -8458277328434772154
+    second: GRD-P01_53
+  - first:
+      213: 3395600509252935547
+    second: GRD-P01_54
+  - first:
+      213: -7316282120585041478
+    second: GRD-P01_55
+  - first:
+      213: -8491874649952187810
+    second: GRD-P01_56
+  - first:
+      213: -1374954112298572920
+    second: GRD-P01_57
+  - first:
+      213: 3323234894020770708
+    second: GRD-P01_58
+  - first:
+      213: 1748203502259078553
+    second: GRD-P01_59
+  - first:
+      213: 6406502931356356128
+    second: GRD-P01_60
+  - first:
+      213: 4934969756851984250
+    second: GRD-P01_61
+  - first:
+      213: 946030202507651469
+    second: GRD-P01_62
+  - first:
+      213: -3706604719078781656
+    second: GRD-P01_63
+  - first:
+      213: -2574965181192886771
+    second: GRD-P01_64
+  - first:
+      213: 4878501655454410711
+    second: GRD-P01_65
+  - first:
+      213: 1987430056668782941
+    second: GRD-P01_66
+  - first:
+      213: -1923201262917123865
+    second: GRD-P01_67
+  - first:
+      213: -4019148993354370429
+    second: GRD-P01_68
+  - first:
+      213: -1178935482355695209
+    second: GRD-P01_69
+  - first:
+      213: -7593134403444553330
+    second: GRD-P01_70
+  - first:
+      213: -6577220491415409593
+    second: GRD-P01_71
+  - first:
+      213: 2198461810905184815
+    second: GRD-P01_72
+  - first:
+      213: 9125488782516284365
+    second: GRD-P01_73
+  - first:
+      213: 7052204389506789722
+    second: GRD-P01_74
+  - first:
+      213: 3380046482804394739
+    second: GRD-P01_75
+  - first:
+      213: 8124245813206718447
+    second: GRD-P01_76
+  - first:
+      213: -325378606330787930
+    second: GRD-P01_77
+  - first:
+      213: -4618845356451251832
+    second: GRD-P01_78
+  - first:
+      213: -5788684940829740870
+    second: GRD-P01_79
+  - first:
+      213: -7652826369641355621
+    second: GRD-P01_80
+  - first:
+      213: -729314194587823726
+    second: GRD-P01_81
+  - first:
+      213: 5921727947365454464
+    second: GRD-P01_82
+  - first:
+      213: -3857690485992229435
+    second: GRD-P01_83
+  - first:
+      213: 3540629922165811016
+    second: GRD-P01_84
+  - first:
+      213: -2864898431818138007
+    second: GRD-P01_85
+  - first:
+      213: -8279249617344970261
+    second: GRD-P01_86
+  - first:
+      213: 900471426629567207
+    second: GRD-P01_87
+  - first:
+      213: -8699432890177782224
+    second: GRD-P01_88
+  - first:
+      213: -3695481886728809446
+    second: GRD-P01_89
+  - first:
+      213: 2387714338367189888
+    second: GRD-P01_90
+  - first:
+      213: 5396929323466894831
+    second: GRD-P01_91
+  - first:
+      213: -1317316856586099386
+    second: GRD-P01_92
+  - first:
+      213: 3787612382425982594
+    second: GRD-P01_93
+  - first:
+      213: -3840742165580572244
+    second: GRD-P01_94
+  - first:
+      213: 2024171165603687705
+    second: GRD-P01_95
+  - first:
+      213: -1500255573713509641
+    second: GRD-P01_96
+  - first:
+      213: 7047031190709117651
+    second: GRD-P01_97
+  - first:
+      213: 4522165437079319441
+    second: GRD-P01_98
+  - first:
+      213: -5294856982954065454
+    second: GRD-P01_99
+  - first:
+      213: 6860556591423994858
+    second: GRD-P01_100
+  - first:
+      213: -4680756190979232803
+    second: GRD-P01_101
+  - first:
+      213: -1718904155892012086
+    second: GRD-P01_102
+  - first:
+      213: 3550310016760752670
+    second: GRD-P01_103
+  - first:
+      213: -1257270522229231834
+    second: GRD-P01_104
+  - first:
+      213: 6490679261271416866
+    second: GRD-P01_105
+  - first:
+      213: 2029015575110684507
+    second: GRD-P01_106
+  - first:
+      213: -5112301774177456829
+    second: GRD-P01_107
+  - first:
+      213: 3325096250816858715
+    second: GRD-P01_108
+  - first:
+      213: 3591812831407162888
+    second: GRD-P01_109
+  - first:
+      213: -5036894453582357546
+    second: GRD-P01_110
+  - first:
+      213: -1058212649280194937
+    second: GRD-P01_111
+  - first:
+      213: -8816802232204576952
+    second: GRD-P01_112
+  - first:
+      213: 7696726623005872101
+    second: GRD-P01_113
+  - first:
+      213: 5349730882815898179
+    second: GRD-P01_114
+  - first:
+      213: -6101849558913630443
+    second: GRD-P01_115
+  - first:
+      213: -4465483861357896045
+    second: GRD-P01_116
+  - first:
+      213: -1202561090455277651
+    second: GRD-P01_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GRD-P01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c3d7ff881dee940800000000000000
+      internalID: 5327425795558030367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1225
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0b9e289eb24e060800000000000000
+      internalID: 6981753604254839002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1223
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bfa7f42d1e30b70800000000000000
+      internalID: 8864176784988109711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1221
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8630ebc6b46b7c410800000000000000
+      internalID: 1497365836187173736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1156
+        width: 136
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d439e9e65789b50a0800000000000000
+      internalID: -6891747174625930419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_5
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 980
+        width: 401
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0103ca78696f52ce0800000000000000
+      internalID: -1430466180238528496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 962
+        width: 445
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a676ab2a0d10c4990800000000000000
+      internalID: -7400538092081617046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1211
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c87575c732b801f0800000000000000
+      internalID: -1078416158149478206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1211
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70db4ff04bd2ec0d0800000000000000
+      internalID: -3400730417233085177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6727919ea055450800000000000000
+      internalID: 6076775268476942025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1171
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a05650dd6a82b020800000000000000
+      internalID: 2356097759319576737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1014
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc53169377ce78120800000000000000
+      internalID: 2416159721915495883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_12
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1002
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907f995f6142d1e60800000000000000
+      internalID: 7934537799525070601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 11
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530e998be7a5bd800800000000000000
+      internalID: 638203272512528437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec5809583a5127d0800000000000000
+      internalID: -2944973483265205023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 948
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e9ebe16d2638a0800000000000000
+      internalID: -6325818728002232177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 947
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa35a2a2f4c96500800000000000000
+      internalID: 390059389134125815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 947
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095cfe6250edee4e0800000000000000
+      internalID: -1950377474895395440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 949
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db7e0637caed0b10800000000000000
+      internalID: 1949472355047603154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_19
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 895
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b614b9a351150e8c0800000000000000
+      internalID: -3972085719721361045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 873
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899258caf3a7df090800000000000000
+      internalID: -7999102949244196456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1731d0961f1ddcfe0800000000000000
+      internalID: -1167045893639302287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 861
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d16e6e8e36e8e0800000000000000
+      internalID: -1664574230808635201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 856
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ef8eab2ddb870e0800000000000000
+      internalID: -2271857299231801745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_24
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 827
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a1c60322dbef4f0800000000000000
+      internalID: -792988529831699908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_25
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 799
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88123b4b8f5bad7b0800000000000000
+      internalID: -5198642740057661048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_26
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 791
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098fcc847f2881830800000000000000
+      internalID: 4042124664154945680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_27
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 810
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0395b9328fb64f7f0800000000000000
+      internalID: -579719738530506448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_28
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 789
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1af2c6c52e36ebc0800000000000000
+      internalID: -3754244907397350883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_29
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 789
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befccdb667ab87b10800000000000000
+      internalID: 1979537054007873515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_30
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 775
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fad2d1c0efe5d50800000000000000
+      internalID: 6728094221320695566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_31
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 762
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7296dd05e37788140800000000000000
+      internalID: 4722155318826330407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_32
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 766
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d1e0315eefe6d50800000000000000
+      internalID: 6732598752786128242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3aa0bc2dd411b50800000000000000
+      internalID: 6562111699800466366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 726
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad7e71425c18e6d0800000000000000
+      internalID: -2961085615384396377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 753
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bea979c523694a60800000000000000
+      internalID: 7658761655265373872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 728
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a2de20dc5d64fb0800000000000000
+      internalID: -4663805287601460650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_37
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 712
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7655511dbc2afe0800000000000000
+      internalID: -1179156053551126584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_38
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 724
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c28e1acffe85a570800000000000000
+      internalID: 8477339102853628609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_39
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 712
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30d62adb76093c20800000000000000
+      internalID: 3186585340352057403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_40
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 670
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd452e70351039340800000000000000
+      internalID: 4869237078243824859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_41
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 608
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4ca2189b67965d0800000000000000
+      internalID: -3068791131968191317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffe9f6d70d7a46f0800000000000000
+      internalID: -699609319477743626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_43
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 347
+        width: 228
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e429f47e1efb6ea80800000000000000
+      internalID: -8437845874862747058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df90d6ea2a127eff0800000000000000
+      internalID: -6999891822966275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 526
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50104f824f9727b0800000000000000
+      internalID: -5249051732457025444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722536d97195af030800000000000000
+      internalID: 3529231215957856807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 489
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3f5992d54369dd0800000000000000
+      internalID: -2479736970086583391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_48
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 405
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ebe53f3c4eb0220800000000000000
+      internalID: 2453305952286195327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 33
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3332bc4f599e030800000000000000
+      internalID: 3524513062006764465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 345
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00750df69f447ee20800000000000000
+      internalID: 3379745883478316800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 335
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824b89c425ec5ced0800000000000000
+      internalID: -2394280774009834456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_52
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 345
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380fbc3c50e14f530800000000000000
+      internalID: 3887765388436172931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647c7ea65992e9a80800000000000000
+      internalID: -8458277328434772154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_54
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 326
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f18292ca89f1f20800000000000000
+      internalID: 3395600509252935547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_55
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 328
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9acf5bc28577a90800000000000000
+      internalID: -7316282120585041478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_56
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 329
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a847c6ffcc62a80800000000000000
+      internalID: -8491874649952187810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_57
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 322
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8832bf9058e2bece0800000000000000
+      internalID: -1374954112298572920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_58
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 288
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b7a4367808e1e20800000000000000
+      internalID: 3323234894020770708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 173
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9950f3ba2ddd24810800000000000000
+      internalID: 1748203502259078553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_60
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 240
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e8ef3197878e850800000000000000
+      internalID: 6406502931356356128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_61
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 239
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a775576e8d88c7440800000000000000
+      internalID: 4934969756851984250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_62
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 182
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d896247f479f02d00800000000000000
+      internalID: 946030202507651469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_63
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 191
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dc58c75ae7f8cc0800000000000000
+      internalID: -3706604719078781656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_64
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 154
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06aff97fc2e34cd0800000000000000
+      internalID: -2574965181192886771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_65
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 164
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e381886be3b340800000000000000
+      internalID: 4878501655454410711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_66
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 136
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d516daf4b15c49b10800000000000000
+      internalID: 1987430056668782941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_67
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 166
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e00e3414aa6f45e0800000000000000
+      internalID: -1923201262917123865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_68
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 144
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3827ebfe84d1938c0800000000000000
+      internalID: -4019148993354370429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 113
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791c511dc6493afe0800000000000000
+      internalID: -1178935482355695209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_70
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 35
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89c3ee7d74cf9690800000000000000
+      internalID: -7593134403444553330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_71
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 69
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ca3c78fc409b4a0800000000000000
+      internalID: -6577220491415409593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_72
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 105
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2af34b7e51828e10800000000000000
+      internalID: 2198461810905184815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_73
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 113
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbe1b3e2bf34ae70800000000000000
+      internalID: 9125488782516284365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 82
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51b00037867ed160800000000000000
+      internalID: 7052204389506789722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_75
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa4ddb2e5658ee20800000000000000
+      internalID: 3380046482804394739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_76
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 55
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe71424e58e1fb070800000000000000
+      internalID: 8124245813206718447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_77
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 97
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a74428a1e50c7bf0800000000000000
+      internalID: -325378606330787930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_78
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889b248be9096efb0800000000000000
+      internalID: -4618845356451251832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_79
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 69
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0b03157b57aafa0800000000000000
+      internalID: -5788684940829740870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_80
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96e8c596f2bbc590800000000000000
+      internalID: -7652826369641355621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_81
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 65
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29151f5aa94f0e5f0800000000000000
+      internalID: -729314194587823726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_82
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 21
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082983781343e2250800000000000000
+      internalID: 5921727947365454464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_83
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 63
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5770121fab67ac0800000000000000
+      internalID: -3857690485992229435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_84
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 42
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847efc7b728d22130800000000000000
+      internalID: 3540629922165811016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_85
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 47
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ef7ed1e06dd38d0800000000000000
+      internalID: -2864898431818138007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_86
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be14d5f96523a1d80800000000000000
+      internalID: -8279249617344970261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_87
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e205aaddfd1f7c00800000000000000
+      internalID: 900471426629567207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_88
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 53
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e7a91c0e7654780800000000000000
+      internalID: -8699432890177782224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_89
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 38
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1493a3bdc207bcc0800000000000000
+      internalID: -3695481886728809446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_90
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 10
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083bb734a8dd22120800000000000000
+      internalID: 2387714338367189888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_91
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed222320aeb5ea40800000000000000
+      internalID: 5396929323466894831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_92
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 51
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6452d826c43f7bde0800000000000000
+      internalID: -1317316856586099386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_93
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 7
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2862f59e46d409430800000000000000
+      internalID: 3787612382425982594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_94
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 9
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca994ba7951f2bac0800000000000000
+      internalID: -3840742165580572244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_95
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d656a53fc471c10800000000000000
+      internalID: 2024171165603687705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_96
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 45
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2a18021850e2be0800000000000000
+      internalID: -1500255573713509641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_97
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 47
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2a05bf7851cc160800000000000000
+      internalID: 7047031190709117651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_98
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 33
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19379ac6185f1ce30800000000000000
+      internalID: 4522165437079319441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 21
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1c68a90a3e486b0800000000000000
+      internalID: -5294856982954065454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_100
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 91
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebba410fd7953f50800000000000000
+      internalID: 6860556591423994858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_101
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 29
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbe8744b0d9a0fb0800000000000000
+      internalID: -4680756190979232803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_102
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 23
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb2d1107c93528e0800000000000000
+      internalID: -1718904155892012086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_103
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 39
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a298f562c354130800000000000000
+      internalID: 3550310016760752670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_104
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 37
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fe4ff0f174d8ee0800000000000000
+      internalID: -1257270522229231834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_105
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220e3172666831a50800000000000000
+      internalID: 6490679261271416866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_106
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 31
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f05365ae2882c10800000000000000
+      internalID: 2029015575110684507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_107
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 29
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dad8d5f947d09b0800000000000000
+      internalID: -5112301774177456829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_108
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 17
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a0ce94c6d152e20800000000000000
+      internalID: 3325096250816858715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_109
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 23
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806c6bb6dbea8d130800000000000000
+      internalID: 3591812831407162888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_110
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db961b5e2b591ab0800000000000000
+      internalID: -5036894453582357546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_111
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 15
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78634deb3397051f0800000000000000
+      internalID: -1058212649280194937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_112
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 23
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847339e451d64a580800000000000000
+      internalID: -8816802232204576952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_113
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef8e89a51440da60800000000000000
+      internalID: 7696726623005872101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_114
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342bd22d4ef0e3a40800000000000000
+      internalID: 5349730882815898179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_115
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 11
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f3418b720e15ba0800000000000000
+      internalID: -6101849558913630443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_116
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 7
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ed585561a6702c0800000000000000
+      internalID: -4465483861357896045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-P01_117
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafe4b64f05af4fe0800000000000000
+      internalID: -1202561090455277651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GRD-P01_0: 5327425795558030367
+      GRD-P01_1: 6981753604254839002
+      GRD-P01_10: 2356097759319576737
+      GRD-P01_100: 6860556591423994858
+      GRD-P01_101: -4680756190979232803
+      GRD-P01_102: -1718904155892012086
+      GRD-P01_103: 3550310016760752670
+      GRD-P01_104: -1257270522229231834
+      GRD-P01_105: 6490679261271416866
+      GRD-P01_106: 2029015575110684507
+      GRD-P01_107: -5112301774177456829
+      GRD-P01_108: 3325096250816858715
+      GRD-P01_109: 3591812831407162888
+      GRD-P01_11: 2416159721915495883
+      GRD-P01_110: -5036894453582357546
+      GRD-P01_111: -1058212649280194937
+      GRD-P01_112: -8816802232204576952
+      GRD-P01_113: 7696726623005872101
+      GRD-P01_114: 5349730882815898179
+      GRD-P01_115: -6101849558913630443
+      GRD-P01_116: -4465483861357896045
+      GRD-P01_117: -1202561090455277651
+      GRD-P01_12: 7934537799525070601
+      GRD-P01_13: 638203272512528437
+      GRD-P01_14: -2944973483265205023
+      GRD-P01_15: -6325818728002232177
+      GRD-P01_16: 390059389134125815
+      GRD-P01_17: -1950377474895395440
+      GRD-P01_18: 1949472355047603154
+      GRD-P01_19: -3972085719721361045
+      GRD-P01_2: 8864176784988109711
+      GRD-P01_20: -7999102949244196456
+      GRD-P01_21: -1167045893639302287
+      GRD-P01_22: -1664574230808635201
+      GRD-P01_23: -2271857299231801745
+      GRD-P01_24: -792988529831699908
+      GRD-P01_25: -5198642740057661048
+      GRD-P01_26: 4042124664154945680
+      GRD-P01_27: -579719738530506448
+      GRD-P01_28: -3754244907397350883
+      GRD-P01_29: 1979537054007873515
+      GRD-P01_3: 1497365836187173736
+      GRD-P01_30: 6728094221320695566
+      GRD-P01_31: 4722155318826330407
+      GRD-P01_32: 6732598752786128242
+      GRD-P01_33: 6562111699800466366
+      GRD-P01_34: -2961085615384396377
+      GRD-P01_35: 7658761655265373872
+      GRD-P01_36: -4663805287601460650
+      GRD-P01_37: -1179156053551126584
+      GRD-P01_38: 8477339102853628609
+      GRD-P01_39: 3186585340352057403
+      GRD-P01_4: -6891747174625930419
+      GRD-P01_40: 4869237078243824859
+      GRD-P01_41: -3068791131968191317
+      GRD-P01_42: -699609319477743626
+      GRD-P01_43: -8437845874862747058
+      GRD-P01_44: -6999891822966275
+      GRD-P01_45: -5249051732457025444
+      GRD-P01_46: 3529231215957856807
+      GRD-P01_47: -2479736970086583391
+      GRD-P01_48: 2453305952286195327
+      GRD-P01_49: 3524513062006764465
+      GRD-P01_5: -1430466180238528496
+      GRD-P01_50: 3379745883478316800
+      GRD-P01_51: -2394280774009834456
+      GRD-P01_52: 3887765388436172931
+      GRD-P01_53: -8458277328434772154
+      GRD-P01_54: 3395600509252935547
+      GRD-P01_55: -7316282120585041478
+      GRD-P01_56: -8491874649952187810
+      GRD-P01_57: -1374954112298572920
+      GRD-P01_58: 3323234894020770708
+      GRD-P01_59: 1748203502259078553
+      GRD-P01_6: -7400538092081617046
+      GRD-P01_60: 6406502931356356128
+      GRD-P01_61: 4934969756851984250
+      GRD-P01_62: 946030202507651469
+      GRD-P01_63: -3706604719078781656
+      GRD-P01_64: -2574965181192886771
+      GRD-P01_65: 4878501655454410711
+      GRD-P01_66: 1987430056668782941
+      GRD-P01_67: -1923201262917123865
+      GRD-P01_68: -4019148993354370429
+      GRD-P01_69: -1178935482355695209
+      GRD-P01_7: -1078416158149478206
+      GRD-P01_70: -7593134403444553330
+      GRD-P01_71: -6577220491415409593
+      GRD-P01_72: 2198461810905184815
+      GRD-P01_73: 9125488782516284365
+      GRD-P01_74: 7052204389506789722
+      GRD-P01_75: 3380046482804394739
+      GRD-P01_76: 8124245813206718447
+      GRD-P01_77: -325378606330787930
+      GRD-P01_78: -4618845356451251832
+      GRD-P01_79: -5788684940829740870
+      GRD-P01_8: -3400730417233085177
+      GRD-P01_80: -7652826369641355621
+      GRD-P01_81: -729314194587823726
+      GRD-P01_82: 5921727947365454464
+      GRD-P01_83: -3857690485992229435
+      GRD-P01_84: 3540629922165811016
+      GRD-P01_85: -2864898431818138007
+      GRD-P01_86: -8279249617344970261
+      GRD-P01_87: 900471426629567207
+      GRD-P01_88: -8699432890177782224
+      GRD-P01_89: -3695481886728809446
+      GRD-P01_9: 6076775268476942025
+      GRD-P01_90: 2387714338367189888
+      GRD-P01_91: 5396929323466894831
+      GRD-P01_92: -1317316856586099386
+      GRD-P01_93: 3787612382425982594
+      GRD-P01_94: -3840742165580572244
+      GRD-P01_95: 2024171165603687705
+      GRD-P01_96: -1500255573713509641
+      GRD-P01_97: 7047031190709117651
+      GRD-P01_98: 4522165437079319441
+      GRD-P01_99: -5294856982954065454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

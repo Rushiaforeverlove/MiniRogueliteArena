@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fd1a10780c4f9843916faa6d2e38ba3, type: 3}
+  m_Name: Mio
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterId: mio_01
+  displayName: "\u5982\u6708 \u6FAA"
+  identityProfile: {fileID: 11400000, guid: ca827e43cf9858d49bb8267e8de17e55, type: 2}
+  unlockedByDefault: 0
+  unlockCost: 500
+  portrait: {fileID: 21300000, guid: 3b9f42e302da02c4fa0aba77cc8d69a1, type: 3}
+  gameplaySprite: {fileID: 2431374695632487229, guid: e3ad5dbb5b6f4d5408361246d60b0c5e, type: 2}
+  skins:
+  - {fileID: 11400000, guid: c49e8e0899aa20a4387ba4c19de0fc0b, type: 2}
+  - {fileID: 11400000, guid: 11b3ee27cdb4ebe48a4f627b1f2b81b6, type: 2}
+  baseMaxHealth: 8
+  baseMoveSpeed: 4.2
+  startingWeapon: {fileID: 11400000, guid: 040ecbed623f7e840a2c2888a4eb3600, type: 2}
+  startingESkill: {fileID: 11400000, guid: 1ec326351bc4c444e92ae7debc716fdb, type: 2}
+  ultimateQSkill: {fileID: 11400000, guid: 13a3831904d7a8646bd5094caec67e7e, type: 2}
+  qUnlockCost: 100
+  statTrainingSteps:
+  - kind: 0
+    amount: 2
+    cost: 60
+  - kind: 4
+    amount: 0.1
+    cost: 90
+  - kind: 5
+    amount: 0.15
+    cost: 120
+  eEnhanceCost: 150
+  enhancedESkill: {fileID: 11400000, guid: 6f502809a237bf747978d248b4cadc89, type: 2}
+  qEnhanceCost: 200
+  enhancedQSkill: {fileID: 11400000, guid: 9bfcefcabc073e74d8258d2f1f5c1c1e, type: 2}
+  nodeFiveCost: 250
+  masteryRewardSkin: {fileID: 11400000, guid: 11b3ee27cdb4ebe48a4f627b1f2b81b6, type: 2}

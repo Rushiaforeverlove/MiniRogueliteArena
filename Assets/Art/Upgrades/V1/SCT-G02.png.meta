@@ -1,0 +1,1042 @@
+fileFormatVersion: 2
+guid: 9d091e46cbc1ce144ad6bac650aed7f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2112405372063782716
+    second: SCT-G02_0
+  - first:
+      213: -3820919301826265461
+    second: SCT-G02_1
+  - first:
+      213: -2473681540555160737
+    second: SCT-G02_2
+  - first:
+      213: -1782400192056560579
+    second: SCT-G02_3
+  - first:
+      213: 305860631492407129
+    second: SCT-G02_4
+  - first:
+      213: 3619227719525518838
+    second: SCT-G02_5
+  - first:
+      213: 2687829640681772466
+    second: SCT-G02_6
+  - first:
+      213: 8352950387602890976
+    second: SCT-G02_7
+  - first:
+      213: 7621115099201249525
+    second: SCT-G02_8
+  - first:
+      213: 5321991531990319797
+    second: SCT-G02_9
+  - first:
+      213: 4856401719888173679
+    second: SCT-G02_10
+  - first:
+      213: -4737802126318888445
+    second: SCT-G02_11
+  - first:
+      213: -6671144163346401483
+    second: SCT-G02_12
+  - first:
+      213: 1559498461653190937
+    second: SCT-G02_13
+  - first:
+      213: 3001389783908528195
+    second: SCT-G02_14
+  - first:
+      213: -8636137613109926175
+    second: SCT-G02_15
+  - first:
+      213: 3216857280494116560
+    second: SCT-G02_16
+  - first:
+      213: -2934543549591687075
+    second: SCT-G02_17
+  - first:
+      213: -602599363018273662
+    second: SCT-G02_18
+  - first:
+      213: -5599354865584194345
+    second: SCT-G02_19
+  - first:
+      213: -2080502285796997737
+    second: SCT-G02_20
+  - first:
+      213: -6337840164242522415
+    second: SCT-G02_21
+  - first:
+      213: 4296995163492192579
+    second: SCT-G02_22
+  - first:
+      213: -7186309966893904872
+    second: SCT-G02_23
+  - first:
+      213: -4376874451831822426
+    second: SCT-G02_24
+  - first:
+      213: -2713190205680960157
+    second: SCT-G02_25
+  - first:
+      213: -3337121300137704986
+    second: SCT-G02_26
+  - first:
+      213: 7777647074280989449
+    second: SCT-G02_27
+  - first:
+      213: -1062934844873467227
+    second: SCT-G02_28
+  - first:
+      213: 8451822802375885784
+    second: SCT-G02_29
+  - first:
+      213: 7852913824017347796
+    second: SCT-G02_30
+  - first:
+      213: 2325264093027420516
+    second: SCT-G02_31
+  - first:
+      213: 4122021453836956975
+    second: SCT-G02_32
+  - first:
+      213: 4814784650063649954
+    second: SCT-G02_33
+  - first:
+      213: -1434144880362575432
+    second: SCT-G02_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SCT-G02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1249
+        height: 1219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c371d7f6e75c05d10800000000000000
+      internalID: 2112405372063782716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1173
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e363b932e59fac0800000000000000
+      internalID: -3820919301826265461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1146
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53c4c7beb7bbadd0800000000000000
+      internalID: -2473681540555160737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1175
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3471e80874a347e0800000000000000
+      internalID: -1782400192056560579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_4
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1191
+        width: 138
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fa1e2bf92ae3400800000000000000
+      internalID: 305860631492407129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_5
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1092
+        width: 100
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdc0977f641a3230800000000000000
+      internalID: 3619227719525518838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1173
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b55a9541d61d4520800000000000000
+      internalID: 2687829640681772466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e028872f14abe370800000000000000
+      internalID: 8352950387602890976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_8
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1165
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0a148edc3a3c960800000000000000
+      internalID: 7621115099201249525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1124
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b28be9e9138bd940800000000000000
+      internalID: 5321991531990319797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1054
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ad78842a7656340800000000000000
+      internalID: 4856401719888173679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1122
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a1cac6112ff3eb0800000000000000
+      internalID: -4737802126318888445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 993
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537315a8ab55b63a0800000000000000
+      internalID: -6671144163346401483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1010
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9194b9a969374a510800000000000000
+      internalID: 1559498461653190937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_14
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1036
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340ba5e3b1417a920800000000000000
+      internalID: 3001389783908528195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_15
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 970
+        width: 47
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6613bd896462880800000000000000
+      internalID: -8636137613109926175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 866
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de1bf827a294ac20800000000000000
+      internalID: 3216857280494116560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_17
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 851
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d507ca480386647d0800000000000000
+      internalID: -2934543549591687075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 831
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c4b61721323a7f0800000000000000
+      internalID: -602599363018273662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 779
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcbf799a681b42b0800000000000000
+      internalID: -5599354865584194345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 729
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7958eaca1329023e0800000000000000
+      internalID: -2080502285796997737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_21
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 449
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1defe1f23f77b08a0800000000000000
+      internalID: -6337840164242522415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_22
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 225
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3411681b55ef1ab30800000000000000
+      internalID: 4296995163492192579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_23
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 199
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c8079e829154c90800000000000000
+      internalID: -7186309966893904872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_24
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 117
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7e41030e73243c0800000000000000
+      internalID: -4376874451831822426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_25
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 138
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d315e02efc85ad0800000000000000
+      internalID: -2713190205680960157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_26
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 115
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e107ecbbd920b1d0800000000000000
+      internalID: -3337121300137704986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_27
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 114
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903efda6ec0cfeb60800000000000000
+      internalID: 7777647074280989449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_28
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 120
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa9ee7e362bf31f0800000000000000
+      internalID: -1062934844873467227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_29
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 64
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d349202f08ea4570800000000000000
+      internalID: 8451822802375885784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4fe4434872bfc60800000000000000
+      internalID: 7852913824017347796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469ced17f5ff44020800000000000000
+      internalID: 2325264093027420516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 13
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25bd704cac543930800000000000000
+      internalID: 4122021453836956975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 21
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac1c01212d81d240800000000000000
+      internalID: 4814784650063649954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCT-G02_34
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b92b8964d4e81ce0800000000000000
+      internalID: -1434144880362575432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SCT-G02_0: 2112405372063782716
+      SCT-G02_1: -3820919301826265461
+      SCT-G02_10: 4856401719888173679
+      SCT-G02_11: -4737802126318888445
+      SCT-G02_12: -6671144163346401483
+      SCT-G02_13: 1559498461653190937
+      SCT-G02_14: 3001389783908528195
+      SCT-G02_15: -8636137613109926175
+      SCT-G02_16: 3216857280494116560
+      SCT-G02_17: -2934543549591687075
+      SCT-G02_18: -602599363018273662
+      SCT-G02_19: -5599354865584194345
+      SCT-G02_2: -2473681540555160737
+      SCT-G02_20: -2080502285796997737
+      SCT-G02_21: -6337840164242522415
+      SCT-G02_22: 4296995163492192579
+      SCT-G02_23: -7186309966893904872
+      SCT-G02_24: -4376874451831822426
+      SCT-G02_25: -2713190205680960157
+      SCT-G02_26: -3337121300137704986
+      SCT-G02_27: 7777647074280989449
+      SCT-G02_28: -1062934844873467227
+      SCT-G02_29: 8451822802375885784
+      SCT-G02_3: -1782400192056560579
+      SCT-G02_30: 7852913824017347796
+      SCT-G02_31: 2325264093027420516
+      SCT-G02_32: 4122021453836956975
+      SCT-G02_33: 4814784650063649954
+      SCT-G02_34: -1434144880362575432
+      SCT-G02_4: 305860631492407129
+      SCT-G02_5: 3619227719525518838
+      SCT-G02_6: 2687829640681772466
+      SCT-G02_7: 8352950387602890976
+      SCT-G02_8: 7621115099201249525
+      SCT-G02_9: 5321991531990319797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: GRD-P05
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: GRD-P05
+  title: "\u788E\u76FE\u63DB\u6A94"
+  ownerRoleId: guard_01
+  effectKey: guard.shield_recharge
+  description: "\u6BCF\u6B21\u5BE6\u969B\u6D88\u8017 Q \u5145\u80FD\u5148\u7372 200 \u9EDE\u5C4F\u969C\uFF1B\u5C4F\u969C\u6BCF\u7D2F\u7A4D\u5438\u6536 100 \u50B7\u5BB3\uFF0C\u4F7F E \u7576\u524D\u5145\u80FD\u5FEB\u8F49 0.5 \u79D2\uFF0C\u6BCF\u79D2\u81F3\u591A\u4E00\u6B21\u3002"
+  quality: 1
+  category: 2
+  icon: {fileID: 21300000, guid: aad8bba33f14ad64cb2cbe22a5565a98, type: 3}
+  artBrief: "\u788E\u76FE\u7247\u843D\u5165\u9F52\u8F2A\uFF0C\u8F49\u6210\u767C\u4EAE\u7684 E \u5145\u80FD\u523B\u5EA6"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 1
+  requiresNodeFive: 0
+  numbers:
+  - key: icd
+    values:
+    - 1
+  - key: shield
+    values:
+    - 200
+  - key: absorbedThreshold
+    values:
+    - 100
+  - key: advanceSeconds
+    values:
+    - 0.5

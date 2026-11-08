@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1fae4f5b2dfd934786a4ce4f338c4fa, type: 3}
+  m_Name: StationArena
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Maps.ArenaMapData
+  mapId: station_plaza_01
+  displayName: "\u5730\u8868\u5EE2\u68C4\u8ECA\u7AD9\u5EE3\u5834"
+  background: {fileID: 21300000, guid: ea19099e5a648e64888aae167cf5f146, type: 3}
+  spriteMaterial: {fileID: 2100000, guid: c67ae4f827863e345a780e756562e44b, type: 2}
+  playableSize: {x: 47, y: 27}
+  artworkPlayableUv:
+    serializedVersion: 2
+    x: 0.08439898
+    y: 0.15904573
+    width: 0.8286445
+    height: 0.68687874
+  wallThickness: 1
+  spawnClearance: 0.6
+  spawnViewMargin: 1.2
+  minimumSpawnDistance: 6
+  decorations:
+  - id: west_supply
+    sprite: {fileID: 4785983299506794735, guid: bf517810c6f7d9d4698b4dfbfaf96df6, type: 2}
+    position: {x: -20, y: 5}
+    width: 3
+    blocksMovement: 1
+    collisionSize: {x: 2, y: 0.5}
+    collisionOffset: {x: 0, y: 0.2}
+  - id: east_barrels
+    sprite: {fileID: 6374610977430067742, guid: bf517810c6f7d9d4698b4dfbfaf96df6, type: 2}
+    position: {x: 16, y: -10}
+    width: 2.5
+    blocksMovement: 1
+    collisionSize: {x: 1.8, y: 0.5}
+    collisionOffset: {x: 0, y: 0.2}
+  - id: south_barricade
+    sprite: {fileID: 3144231520373251593, guid: bf517810c6f7d9d4698b4dfbfaf96df6, type: 2}
+    position: {x: -12, y: -12}
+    width: 4
+    blocksMovement: 1
+    collisionSize: {x: 3.2, y: 0.5}
+    collisionOffset: {x: 0, y: 0.2}
+  - id: south_lamp
+    sprite: {fileID: 5370504142969688516, guid: bf517810c6f7d9d4698b4dfbfaf96df6, type: 2}
+    position: {x: 18, y: 10}
+    width: 1.6
+    blocksMovement: 1
+    collisionSize: {x: 0.8, y: 0.4}
+    collisionOffset: {x: -0.2, y: 0.2}

@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: b150bc5e7ad4d5b44a45a852d579c34e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4475550525071781398
+    second: ITM-W04_0
+  - first:
+      213: -3182053273443579735
+    second: ITM-W04_1
+  - first:
+      213: 5202778555585729023
+    second: ITM-W04_2
+  - first:
+      213: -4712599353489119694
+    second: ITM-W04_3
+  - first:
+      213: 4714228671413539408
+    second: ITM-W04_4
+  - first:
+      213: -6034366071998566266
+    second: ITM-W04_5
+  - first:
+      213: -4012410680616518174
+    second: ITM-W04_6
+  - first:
+      213: 9121431228552799647
+    second: ITM-W04_7
+  - first:
+      213: -8617042425719018625
+    second: ITM-W04_8
+  - first:
+      213: -6021487722434192126
+    second: ITM-W04_9
+  - first:
+      213: 1938546852125570005
+    second: ITM-W04_10
+  - first:
+      213: 3692056589581424975
+    second: ITM-W04_11
+  - first:
+      213: 3380345696196793221
+    second: ITM-W04_12
+  - first:
+      213: -6743515629426839021
+    second: ITM-W04_13
+  - first:
+      213: -172561366198504817
+    second: ITM-W04_14
+  - first:
+      213: -1903528539534842982
+    second: ITM-W04_15
+  - first:
+      213: -1470622390948060269
+    second: ITM-W04_16
+  - first:
+      213: -8502585808193185919
+    second: ITM-W04_17
+  - first:
+      213: -6355196019976742237
+    second: ITM-W04_18
+  - first:
+      213: 2859549229957952540
+    second: ITM-W04_19
+  - first:
+      213: 6742712753780194553
+    second: ITM-W04_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ITM-W04_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 735
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae198ca8286a3e1c0800000000000000
+      internalID: -4475550525071781398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_1
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1060
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8c604386317d3d0800000000000000
+      internalID: -3182053273443579735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1028
+        width: 39
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff115b2e78bf33840800000000000000
+      internalID: 5202778555585729023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 852
+        width: 389
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236ab8e3bdb799eb0800000000000000
+      internalID: -4712599353489119694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 933
+        width: 27
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052d095effd4c6140800000000000000
+      internalID: 4714228671413539408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_5
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1042
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6803bd96700a14ca0800000000000000
+      internalID: -6034366071998566266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1041
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed7ed0aebd0158c0800000000000000
+      internalID: -4012410680616518174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 848
+        width: 101
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f956b0dff55d59e70800000000000000
+      internalID: 9121431228552799647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_8
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1005
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b2c80a19d1a6880800000000000000
+      internalID: -8617042425719018625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_9
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 963
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d1fe4d1d06f6ca0800000000000000
+      internalID: -6021487722434192126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 1020
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d37565571a17ea10800000000000000
+      internalID: 1938546852125570005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 872
+        width: 7
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4914a828e1dc3330800000000000000
+      internalID: 3692056589581424975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 892
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58394d7308669ee20800000000000000
+      internalID: 3380345696196793221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 754
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312f7b283483a62a0800000000000000
+      internalID: -6743515629426839021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_14
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 355
+        width: 140
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8238c90a50fa9df0800000000000000
+      internalID: -172561366198504817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_15
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 696
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93253de0ee4595e0800000000000000
+      internalID: -1903528539534842982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_16
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 124
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3932ec42abc479be0800000000000000
+      internalID: -1470622390948060269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_17
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 122
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1871e5e814fb00a80800000000000000
+      internalID: -8502585808193185919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_18
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 111
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa5f4f14eecdc7a0800000000000000
+      internalID: -6355196019976742237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 101
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14b265cfd82fa720800000000000000
+      internalID: 2859549229957952540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-W04_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 83
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc709f668de29d50800000000000000
+      internalID: 6742712753780194553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ITM-W04_0: -4475550525071781398
+      ITM-W04_1: -3182053273443579735
+      ITM-W04_10: 1938546852125570005
+      ITM-W04_11: 3692056589581424975
+      ITM-W04_12: 3380345696196793221
+      ITM-W04_13: -6743515629426839021
+      ITM-W04_14: -172561366198504817
+      ITM-W04_15: -1903528539534842982
+      ITM-W04_16: -1470622390948060269
+      ITM-W04_17: -8502585808193185919
+      ITM-W04_18: -6355196019976742237
+      ITM-W04_19: 2859549229957952540
+      ITM-W04_2: 5202778555585729023
+      ITM-W04_20: 6742712753780194553
+      ITM-W04_3: -4712599353489119694
+      ITM-W04_4: 4714228671413539408
+      ITM-W04_5: -6034366071998566266
+      ITM-W04_6: -4012410680616518174
+      ITM-W04_7: 9121431228552799647
+      ITM-W04_8: -8617042425719018625
+      ITM-W04_9: -6021487722434192126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

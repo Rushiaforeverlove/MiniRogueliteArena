@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {
+      "characterId": "scout_01",
+      "profileAsset": "Profile_Scout",
+      "profile": {
+        "characterName": "朝霧 凜",
+        "roleTitle": "偵察員",
+        "combatRole": "機動遠程・掃線射手",
+        "summary": "負責替酒吧尋找重返地面的路。她擅長保持距離，以靈活走位把敵群引進火線。",
+        "specialties": ["高機動", "扇形壓制", "彈幕爆發", "穿透成長"],
+        "strength": "移動快、容易調整射線；培養後的穿透 E 與爆裂 Q 適合對付密集敵群。",
+        "caution": "生命較低，避免被包圍。保留閃避，利用走位取得射擊空間。",
+        "baseEHint": "發射扇形子彈，壓制同方向的敵人。",
+        "enhancedEHint": "扇形子彈可穿透敵人，適合沿密集敵群掃線。",
+        "baseQHint": "向四周發射環狀彈幕，對周圍敵人展開爆發攻勢。",
+        "enhancedQHint": "環狀彈幕命中敵人後爆裂，擴大對密集敵群的傷害。"
+      }
+    },
+    {
+      "characterId": "guard_01",
+      "profileAsset": "Profile_Guard",
+      "profile": {
+        "characterName": "御影 千歲",
+        "roleTitle": "防衛隊員",
+        "combatRole": "近身範圍・震爆重砲",
+        "summary": "她守住的不只是一扇門，也是酒吧裡每個人回家的路。以厚實體力與周身震爆承擔前線壓力。",
+        "specialties": ["高生命", "重型射擊", "周身震爆", "連續爆發"],
+        "strength": "初始生命較高；E 與 Q 可攻擊周圍敵人，培養後以連續震爆處理近身敵群。",
+        "caution": "移動較慢，高生命不代表能站著承受攻擊。提早離開預警圈，避免被遠程火力消耗。",
+        "baseEHint": "以自身為中心釋放震盪衝擊，傷害附近敵人。",
+        "enhancedEHint": "震盪衝擊的傷害與範圍提升，處理更大範圍的近身敵群。",
+        "baseQHint": "釋放大範圍深層震爆，對周圍敵人造成高額傷害。",
+        "enhancedQHint": "連續釋放三次震爆，間隔 0.5 秒，形成持續的範圍爆發。"
+      }
+    }
+  ]
+}

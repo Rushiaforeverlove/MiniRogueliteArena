@@ -1,0 +1,6060 @@
+fileFormatVersion: 2
+guid: 218759f0795ec4449b57b32b1ea41406
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1371781812152643952
+    second: runner-sheet-v1_0
+  - first:
+      213: -8562774257253025771
+    second: runner-sheet-v1_1
+  - first:
+      213: -3605316113028093001
+    second: runner-sheet-v1_2
+  - first:
+      213: -1263271472474991893
+    second: runner-sheet-v1_3
+  - first:
+      213: -8616935468265909559
+    second: runner-sheet-v1_4
+  - first:
+      213: 7921663080289899459
+    second: runner-sheet-v1_5
+  - first:
+      213: 5551776383320606786
+    second: runner-sheet-v1_6
+  - first:
+      213: -8152358041490556802
+    second: runner-sheet-v1_7
+  - first:
+      213: -5468884919366285976
+    second: runner-sheet-v1_8
+  - first:
+      213: -8957601889816220785
+    second: runner-sheet-v1_9
+  - first:
+      213: -8694191841850236085
+    second: runner-sheet-v1_10
+  - first:
+      213: 5344909411259482375
+    second: runner-sheet-v1_11
+  - first:
+      213: -7709812496196941463
+    second: runner-sheet-v1_12
+  - first:
+      213: 2803869247739422594
+    second: runner-sheet-v1_13
+  - first:
+      213: 4932102074074076830
+    second: runner-sheet-v1_14
+  - first:
+      213: 5403395752963586009
+    second: runner-sheet-v1_15
+  - first:
+      213: 5166593612139812331
+    second: runner-sheet-v1_16
+  - first:
+      213: 9194637345250323824
+    second: runner-sheet-v1_17
+  - first:
+      213: -4104305105700670905
+    second: runner-sheet-v1_18
+  - first:
+      213: 3925751692164771901
+    second: runner-sheet-v1_19
+  - first:
+      213: -8848023529093885075
+    second: runner-sheet-v1_20
+  - first:
+      213: 9098925773404273586
+    second: runner-sheet-v1_21
+  - first:
+      213: 4464929398935055745
+    second: runner-sheet-v1_22
+  - first:
+      213: 939946533969040193
+    second: runner-sheet-v1_23
+  - first:
+      213: 5984169694834820431
+    second: runner-sheet-v1_24
+  - first:
+      213: 3472237659085490415
+    second: runner-sheet-v1_25
+  - first:
+      213: -9101880039984805993
+    second: runner-sheet-v1_26
+  - first:
+      213: -8606417113798143219
+    second: runner-sheet-v1_27
+  - first:
+      213: 7073320856958614721
+    second: runner-sheet-v1_28
+  - first:
+      213: 5416204575571691644
+    second: runner-sheet-v1_29
+  - first:
+      213: 1056658285397909393
+    second: runner-sheet-v1_30
+  - first:
+      213: 1192935783238873925
+    second: runner-sheet-v1_31
+  - first:
+      213: -4180477325821113691
+    second: runner-sheet-v1_32
+  - first:
+      213: 3219720944377507297
+    second: runner-sheet-v1_33
+  - first:
+      213: 3582754952284415417
+    second: runner-sheet-v1_34
+  - first:
+      213: 1052629433092659172
+    second: runner-sheet-v1_35
+  - first:
+      213: -8613024506455100120
+    second: runner-sheet-v1_36
+  - first:
+      213: -7009297119968197649
+    second: runner-sheet-v1_37
+  - first:
+      213: -6775912037879778070
+    second: runner-sheet-v1_38
+  - first:
+      213: -4445600095900732329
+    second: runner-sheet-v1_39
+  - first:
+      213: -4374707569778837872
+    second: runner-sheet-v1_40
+  - first:
+      213: 7859911496776611867
+    second: runner-sheet-v1_41
+  - first:
+      213: -2276101735147431540
+    second: runner-sheet-v1_42
+  - first:
+      213: -4046817481474131286
+    second: runner-sheet-v1_43
+  - first:
+      213: -4598489016283180566
+    second: runner-sheet-v1_44
+  - first:
+      213: -1045540658983029269
+    second: runner-sheet-v1_45
+  - first:
+      213: 5421554522745831698
+    second: runner-sheet-v1_46
+  - first:
+      213: 5937394841669252855
+    second: runner-sheet-v1_47
+  - first:
+      213: 8814281183718869671
+    second: runner-sheet-v1_48
+  - first:
+      213: -1013225414358967461
+    second: runner-sheet-v1_49
+  - first:
+      213: -7774820493851935042
+    second: runner-sheet-v1_50
+  - first:
+      213: -8467636140078879976
+    second: runner-sheet-v1_51
+  - first:
+      213: -7365587612541863625
+    second: runner-sheet-v1_52
+  - first:
+      213: 133133836170298551
+    second: runner-sheet-v1_53
+  - first:
+      213: -6968242445096018768
+    second: runner-sheet-v1_54
+  - first:
+      213: 1596323520449598490
+    second: runner-sheet-v1_55
+  - first:
+      213: 5061886406715296917
+    second: runner-sheet-v1_56
+  - first:
+      213: 2862838324671928089
+    second: runner-sheet-v1_57
+  - first:
+      213: -5602872697231437822
+    second: runner-sheet-v1_58
+  - first:
+      213: -5490320102624770708
+    second: runner-sheet-v1_59
+  - first:
+      213: 8656383208324921250
+    second: runner-sheet-v1_60
+  - first:
+      213: -8187489521600779279
+    second: runner-sheet-v1_61
+  - first:
+      213: -3498933550064221221
+    second: runner-sheet-v1_62
+  - first:
+      213: 2025240956695645712
+    second: runner-sheet-v1_63
+  - first:
+      213: 7376271692756502761
+    second: runner-sheet-v1_64
+  - first:
+      213: 4893386522869977991
+    second: runner-sheet-v1_65
+  - first:
+      213: 6312299230875499823
+    second: runner-sheet-v1_66
+  - first:
+      213: -2622399938931635301
+    second: runner-sheet-v1_67
+  - first:
+      213: 5742586155632754320
+    second: runner-sheet-v1_68
+  - first:
+      213: -5388045277649477129
+    second: runner-sheet-v1_69
+  - first:
+      213: 2348017160577296967
+    second: runner-sheet-v1_70
+  - first:
+      213: 7086028018444255843
+    second: runner-sheet-v1_71
+  - first:
+      213: 7544662747290724566
+    second: runner-sheet-v1_72
+  - first:
+      213: 3339654490208662163
+    second: runner-sheet-v1_73
+  - first:
+      213: -4946938797254791755
+    second: runner-sheet-v1_74
+  - first:
+      213: -7471910085162790276
+    second: runner-sheet-v1_75
+  - first:
+      213: 4353597011314222052
+    second: runner-sheet-v1_76
+  - first:
+      213: -1803180794969276768
+    second: runner-sheet-v1_77
+  - first:
+      213: 1388042544879633781
+    second: runner-sheet-v1_78
+  - first:
+      213: -4533933118211132258
+    second: runner-sheet-v1_79
+  - first:
+      213: 910871458735639369
+    second: runner-sheet-v1_80
+  - first:
+      213: 1189680056097584699
+    second: runner-sheet-v1_81
+  - first:
+      213: 848325293481885155
+    second: runner-sheet-v1_82
+  - first:
+      213: -3222682747694627934
+    second: runner-sheet-v1_83
+  - first:
+      213: -8294372247395830796
+    second: runner-sheet-v1_84
+  - first:
+      213: 2849798640609486270
+    second: runner-sheet-v1_85
+  - first:
+      213: -5290262460370639537
+    second: runner-sheet-v1_86
+  - first:
+      213: 2377635008320827208
+    second: runner-sheet-v1_87
+  - first:
+      213: 5050612754357321292
+    second: runner-sheet-v1_88
+  - first:
+      213: -9039465812996512894
+    second: runner-sheet-v1_89
+  - first:
+      213: 3902015899504269808
+    second: runner-sheet-v1_90
+  - first:
+      213: 4115203705263299691
+    second: runner-sheet-v1_91
+  - first:
+      213: 2111779645583988915
+    second: runner-sheet-v1_92
+  - first:
+      213: -4836753114405860850
+    second: runner-sheet-v1_93
+  - first:
+      213: -8557062143363595397
+    second: runner-sheet-v1_94
+  - first:
+      213: 1479888274902800374
+    second: runner-sheet-v1_95
+  - first:
+      213: 5187430947387816255
+    second: runner-sheet-v1_96
+  - first:
+      213: -3436014674827074840
+    second: runner-sheet-v1_97
+  - first:
+      213: 3478566268164884684
+    second: runner-sheet-v1_98
+  - first:
+      213: 758576560438339743
+    second: runner-sheet-v1_99
+  - first:
+      213: -6612320054403170886
+    second: runner-sheet-v1_100
+  - first:
+      213: -6379262197849585064
+    second: runner-sheet-v1_101
+  - first:
+      213: 8349888661900694637
+    second: runner-sheet-v1_102
+  - first:
+      213: -5868726001300050523
+    second: runner-sheet-v1_103
+  - first:
+      213: 8483694185012951953
+    second: runner-sheet-v1_104
+  - first:
+      213: -1922513965319482256
+    second: runner-sheet-v1_105
+  - first:
+      213: -6811885539226726584
+    second: runner-sheet-v1_106
+  - first:
+      213: 9205803381815779322
+    second: runner-sheet-v1_107
+  - first:
+      213: -4186718140174604260
+    second: runner-sheet-v1_108
+  - first:
+      213: -5505034940638355777
+    second: runner-sheet-v1_109
+  - first:
+      213: 8731730564913431257
+    second: runner-sheet-v1_110
+  - first:
+      213: 1329728048214697974
+    second: runner-sheet-v1_111
+  - first:
+      213: 7506371682830274516
+    second: runner-sheet-v1_112
+  - first:
+      213: 2725567694265847904
+    second: runner-sheet-v1_113
+  - first:
+      213: -3614986557753999374
+    second: runner-sheet-v1_114
+  - first:
+      213: 1897944323206451108
+    second: runner-sheet-v1_115
+  - first:
+      213: -1878295875945138416
+    second: runner-sheet-v1_116
+  - first:
+      213: -5199845740006452520
+    second: runner-sheet-v1_117
+  - first:
+      213: -3281525115602951389
+    second: runner-sheet-v1_118
+  - first:
+      213: 3716790998236221567
+    second: runner-sheet-v1_119
+  - first:
+      213: -621373978410242410
+    second: runner-sheet-v1_120
+  - first:
+      213: 3945175530728887786
+    second: runner-sheet-v1_121
+  - first:
+      213: 3338631665604801519
+    second: runner-sheet-v1_122
+  - first:
+      213: -3758949765317772327
+    second: runner-sheet-v1_123
+  - first:
+      213: -1667639840764418945
+    second: runner-sheet-v1_124
+  - first:
+      213: 2067070327171079647
+    second: runner-sheet-v1_125
+  - first:
+      213: 343974849853984532
+    second: runner-sheet-v1_126
+  - first:
+      213: 4101757736817381539
+    second: runner-sheet-v1_127
+  - first:
+      213: 7008593375095285766
+    second: runner-sheet-v1_128
+  - first:
+      213: 3140275343194784973
+    second: runner-sheet-v1_129
+  - first:
+      213: -3730247332601639355
+    second: runner-sheet-v1_130
+  - first:
+      213: 4482285050270380844
+    second: runner-sheet-v1_131
+  - first:
+      213: 6678724712679466394
+    second: runner-sheet-v1_132
+  - first:
+      213: -7290412236657551
+    second: runner-sheet-v1_133
+  - first:
+      213: 2942614093502505532
+    second: runner-sheet-v1_134
+  - first:
+      213: -2061054343412389686
+    second: runner-sheet-v1_135
+  - first:
+      213: 5990488147059612006
+    second: runner-sheet-v1_136
+  - first:
+      213: -5716935059826665522
+    second: runner-sheet-v1_137
+  - first:
+      213: 4928654614772168804
+    second: runner-sheet-v1_138
+  - first:
+      213: -6183158077872376655
+    second: runner-sheet-v1_139
+  - first:
+      213: 8966207079616672170
+    second: runner-sheet-v1_140
+  - first:
+      213: 1723447539068107842
+    second: runner-sheet-v1_141
+  - first:
+      213: 1353521495576240822
+    second: runner-sheet-v1_142
+  - first:
+      213: 2058417536257186879
+    second: runner-sheet-v1_143
+  - first:
+      213: -2456315054111913739
+    second: runner-sheet-v1_144
+  - first:
+      213: -4898126532988454428
+    second: runner-sheet-v1_145
+  - first:
+      213: 2446812984917848620
+    second: runner-sheet-v1_146
+  - first:
+      213: -239290518410159420
+    second: runner-sheet-v1_147
+  - first:
+      213: 4037578656427026081
+    second: runner-sheet-v1_148
+  - first:
+      213: -515506012000545015
+    second: runner-sheet-v1_149
+  - first:
+      213: -7069340789998747629
+    second: runner-sheet-v1_150
+  - first:
+      213: -3119778111881353958
+    second: runner-sheet-v1_151
+  - first:
+      213: -2373753510794160406
+    second: runner-sheet-v1_152
+  - first:
+      213: -1931242222632026521
+    second: runner-sheet-v1_153
+  - first:
+      213: 675180722423474493
+    second: runner-sheet-v1_154
+  - first:
+      213: -861012670813086144
+    second: runner-sheet-v1_155
+  - first:
+      213: -8861032120358196451
+    second: runner-sheet-v1_156
+  - first:
+      213: -5948277418800039618
+    second: runner-sheet-v1_157
+  - first:
+      213: 7007267253046677444
+    second: runner-sheet-v1_158
+  - first:
+      213: 2347620494030834340
+    second: runner-sheet-v1_159
+  - first:
+      213: -3909975042930791939
+    second: runner-sheet-v1_160
+  - first:
+      213: -4790558616930561038
+    second: runner-sheet-v1_161
+  - first:
+      213: -3093470295446716418
+    second: runner-sheet-v1_162
+  - first:
+      213: 5290004178349096317
+    second: runner-sheet-v1_163
+  - first:
+      213: 297708575206704579
+    second: runner-sheet-v1_164
+  - first:
+      213: 5857679479144418826
+    second: runner-sheet-v1_165
+  - first:
+      213: 7388769187317790704
+    second: runner-sheet-v1_166
+  - first:
+      213: 2254712195437883652
+    second: runner-sheet-v1_167
+  - first:
+      213: -7089486515884300669
+    second: runner-sheet-v1_168
+  - first:
+      213: 6813044163948712846
+    second: runner-sheet-v1_169
+  - first:
+      213: 8001508831036433487
+    second: runner-sheet-v1_170
+  - first:
+      213: -1267617100333305499
+    second: runner-sheet-v1_171
+  - first:
+      213: -1734232556022782887
+    second: runner-sheet-v1_172
+  - first:
+      213: -4029303795380404934
+    second: runner-sheet-v1_173
+  - first:
+      213: -1308712676663687693
+    second: runner-sheet-v1_174
+  - first:
+      213: 4069559917536415423
+    second: runner-sheet-v1_175
+  - first:
+      213: 6218832086685365928
+    second: runner-sheet-v1_176
+  - first:
+      213: 2264779428153234678
+    second: runner-sheet-v1_177
+  - first:
+      213: 2554352747556451290
+    second: runner-sheet-v1_178
+  - first:
+      213: -2498709315230789725
+    second: runner-sheet-v1_179
+  - first:
+      213: 1969374111730763883
+    second: runner-sheet-v1_180
+  - first:
+      213: 8531877922517141020
+    second: runner-sheet-v1_181
+  - first:
+      213: -7417724081816110122
+    second: runner-sheet-v1_182
+  - first:
+      213: 4553795330559723195
+    second: runner-sheet-v1_183
+  - first:
+      213: 2700098968205137797
+    second: runner-sheet-v1_184
+  - first:
+      213: -2176682746016113706
+    second: runner-sheet-v1_185
+  - first:
+      213: 8476338925856061587
+    second: runner-sheet-v1_186
+  - first:
+      213: 7567654884321462937
+    second: runner-sheet-v1_187
+  - first:
+      213: -2310794748764437242
+    second: runner-sheet-v1_188
+  - first:
+      213: -4633146194009765046
+    second: runner-sheet-v1_189
+  - first:
+      213: 4483748429085765327
+    second: runner-sheet-v1_190
+  - first:
+      213: 2682838937985689882
+    second: runner-sheet-v1_191
+  - first:
+      213: -7586291625979952210
+    second: runner-sheet-v1_192
+  - first:
+      213: 6343397710936911230
+    second: runner-sheet-v1_193
+  - first:
+      213: -4135899881943803360
+    second: runner-sheet-v1_194
+  - first:
+      213: 7482542355772782682
+    second: runner-sheet-v1_195
+  - first:
+      213: 4029926989201650857
+    second: runner-sheet-v1_196
+  - first:
+      213: 3235264321596571541
+    second: runner-sheet-v1_197
+  - first:
+      213: 8693255978401020883
+    second: runner-sheet-v1_198
+  - first:
+      213: -5575100029186756078
+    second: runner-sheet-v1_199
+  - first:
+      213: 2913715365114631806
+    second: runner-sheet-v1_200
+  - first:
+      213: 1858688831621281212
+    second: runner-sheet-v1_201
+  - first:
+      213: -5518815595994893483
+    second: runner-sheet-v1_202
+  - first:
+      213: -2520832835996934691
+    second: runner-sheet-v1_203
+  - first:
+      213: -8177580311570292337
+    second: runner-sheet-v1_204
+  - first:
+      213: -3209672107841258433
+    second: runner-sheet-v1_205
+  - first:
+      213: -3353253660680573843
+    second: runner-sheet-v1_206
+  - first:
+      213: -3206371558167703269
+    second: runner-sheet-v1_207
+  - first:
+      213: -6269684540775882624
+    second: runner-sheet-v1_208
+  - first:
+      213: 4912160411664441242
+    second: runner-sheet-v1_209
+  - first:
+      213: 4063002223702059442
+    second: runner-sheet-v1_210
+  - first:
+      213: -2893383161305499795
+    second: runner-sheet-v1_211
+  - first:
+      213: -4621675692061395907
+    second: runner-sheet-v1_212
+  - first:
+      213: 7726281041373949440
+    second: runner-sheet-v1_213
+  - first:
+      213: 3281015166088926275
+    second: runner-sheet-v1_214
+  - first:
+      213: -2369965265946540259
+    second: runner-sheet-v1_215
+  - first:
+      213: 8584007772193525992
+    second: runner-sheet-v1_216
+  - first:
+      213: -6442927196780783666
+    second: runner-sheet-v1_217
+  - first:
+      213: 4118723357845265248
+    second: runner-sheet-v1_218
+  - first:
+      213: -1070925320726188724
+    second: runner-sheet-v1_219
+  - first:
+      213: 3697219722649184201
+    second: runner-sheet-v1_220
+  - first:
+      213: 6577879776251025293
+    second: runner-sheet-v1_221
+  - first:
+      213: 389745939261916727
+    second: runner-sheet-v1_222
+  - first:
+      213: 1803096520067836056
+    second: runner-sheet-v1_223
+  - first:
+      213: 1796044702742267119
+    second: runner-sheet-v1_224
+  - first:
+      213: -9150141904253318600
+    second: runner-sheet-v1_225
+  - first:
+      213: 3220830388540372955
+    second: runner-sheet-v1_226
+  - first:
+      213: 5945122669334917242
+    second: runner-sheet-v1_227
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: runner-sheet-v1_0
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 862
+        width: 227
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ecc49b5b376fce0800000000000000
+      internalID: -1371781812152643952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_1
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f2983e2aea2980800000000000000
+      internalID: -8562774257253025771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1083
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbe7f3d81857fdc0800000000000000
+      internalID: -3605316113028093001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1067
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be25e34f945f77ee0800000000000000
+      internalID: -1263271472474991893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 870
+        width: 232
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2db8998de7a6880800000000000000
+      internalID: -8616935468265909559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1083
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3910bc9966fed60800000000000000
+      internalID: 7921663080289899459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1079
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2484a30c43fdb0d40800000000000000
+      internalID: 5551776383320606786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1085
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78f727ed810dde80800000000000000
+      internalID: -8152358041490556802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 856
+        width: 217
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8658ea7242e9a14b0800000000000000
+      internalID: -5468884919366285976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1085
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8be2266a8430b380800000000000000
+      internalID: -8957601889816220785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1083
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43ea696596085780800000000000000
+      internalID: -8694191841850236085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_11
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1067
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70183ce7aceec2a40800000000000000
+      internalID: 5344909411259482375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_12
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 860
+        width: 212
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969405f026e310590800000000000000
+      internalID: -7709812496196941463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_13
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1066
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287662ca93859e620800000000000000
+      internalID: 2803869247739422594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_14
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 842
+        width: 238
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96172974b8527440800000000000000
+      internalID: 4932102074074076830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_15
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1081
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7bf341fc7bcfa40800000000000000
+      internalID: 5403395752963586009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_16
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1082
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be55566348d63b740800000000000000
+      internalID: 5166593612139812331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_17
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1082
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07daf2243f9e99f70800000000000000
+      internalID: 9194637345250323824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 217
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742b3ec70449a07c0800000000000000
+      internalID: -4104305105700670905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1069
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30bedf4d521b7630800000000000000
+      internalID: 3925751692164771901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1065
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d639f08aa71853580800000000000000
+      internalID: -8848023529093885075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_21
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1037
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb786168c0e54e70800000000000000
+      internalID: 9098925773404273586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 906
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18de8b2d1ad96fd30800000000000000
+      internalID: 4464929398935055745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_23
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 936
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1439511846c5b0d00800000000000000
+      internalID: 939946533969040193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 904
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f458948c1aa0c0350800000000000000
+      internalID: 5984169694834820431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 904
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8468511cddf2030800000000000000
+      internalID: 3472237659085490415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_26
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 908
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797cc74d350afa180800000000000000
+      internalID: -9101880039984805993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 900
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d031837db3ddf8880800000000000000
+      internalID: -8606417113798143219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_28
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 885
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc3165e7db792260800000000000000
+      internalID: 7073320856958614721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_29
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 908
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78cbcd7d593a2b40800000000000000
+      internalID: 5416204575571691644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_30
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 878
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f9d16bc110aae00800000000000000
+      internalID: 1056658285397909393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_31
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 885
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433ecf36c82e8010800000000000000
+      internalID: 1192935783238873925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_32
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 875
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa8bd27506fbf5c0800000000000000
+      internalID: -4180477325821113691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_33
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 884
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eda18dd32fbeac20800000000000000
+      internalID: 3219720944377507297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_34
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 886
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b52f2895a088b130800000000000000
+      internalID: 3582754952284415417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_35
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 887
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7db9f64e0bb9e00800000000000000
+      internalID: 1052629433092659172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 858
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825720b58d3687880800000000000000
+      internalID: -8613024506455100120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_37
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 854
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3802ff769f9be90800000000000000
+      internalID: -7009297119968197649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_38
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 868
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4f1e0e6ef17f1a0800000000000000
+      internalID: -6775912037879778070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 232
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754f46e344e0e42c0800000000000000
+      internalID: -4445600095900732329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_40
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 641
+        width: 224
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096be1bb4aae943c0800000000000000
+      internalID: -4374707569778837872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_41
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 833
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18f06bdcd3041d60800000000000000
+      internalID: 7859911496776611867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_42
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 821
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8913ebf789a960e0800000000000000
+      internalID: -2276101735147431540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 604
+        width: 223
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaab4e901f0d6d7c0800000000000000
+      internalID: -4046817481474131286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_44
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 638
+        width: 227
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1d7e08a92ee20c0800000000000000
+      internalID: -4598489016283180566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_45
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 662
+        width: 221
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5b6176f4e7d71f0800000000000000
+      internalID: -1045540658983029269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_46
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 835
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2118da22d1b3d3b40800000000000000
+      internalID: 5421554522745831698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_47
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 618
+        width: 225
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6beec962dd56250800000000000000
+      internalID: 5937394841669252855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_48
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 725
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa09f9590e925a70800000000000000
+      internalID: 8814281183718869671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_49
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 729
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b5cbb9adc40f1f0800000000000000
+      internalID: -1013225414358967461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_50
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 739
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe378f14f94a1490800000000000000
+      internalID: -7774820493851935042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_51
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 731
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ba6574bc9ec7a80800000000000000
+      internalID: -8467636140078879976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_52
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 717
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739bc68471d28c990800000000000000
+      internalID: -7365587612541863625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_53
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 721
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b40484c48cf8d100800000000000000
+      internalID: 133133836170298551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_54
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 708
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc904f5a64db4f90800000000000000
+      internalID: -6968242445096018768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_55
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 698
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14dffeb8c7472610800000000000000
+      internalID: 1596323520449598490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_56
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 702
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cc4ad2ede6f3640800000000000000
+      internalID: 5061886406715296917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_57
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 672
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917d17fc948dab720800000000000000
+      internalID: 2862838324671928089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_58
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 684
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20019c797f89e32b0800000000000000
+      internalID: -5602872697231437822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_59
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 692
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c654dd3a4f67ec3b0800000000000000
+      internalID: -5490320102624770708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_60
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 676
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7fcdb1aa6a12870800000000000000
+      internalID: 8656383208324921250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_61
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 640
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fba0c6c8a1306e80800000000000000
+      internalID: -8187489521600779279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_62
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 662
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3c9bf697a417fc0800000000000000
+      internalID: -3498933550064221221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_63
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 682
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e8a608be91b1c10800000000000000
+      internalID: 2025240956695645712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_64
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 674
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8458df508cd5660800000000000000
+      internalID: 7376271692756502761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_65
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 686
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7835954cd1dc8e340800000000000000
+      internalID: 4893386522869977991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_66
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 666
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d3e4cd4bac99750800000000000000
+      internalID: 6312299230875499823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_67
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 680
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b49fc462d5b9bd0800000000000000
+      internalID: -2622399938931635301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_68
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 684
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ef09adea3c1bf40800000000000000
+      internalID: 5742586155632754320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 666
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f16bf7fd51d935b0800000000000000
+      internalID: -5388045277649477129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_70
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 662
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a2bbeca25d59020800000000000000
+      internalID: 2348017160577296967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_71
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 668
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362c5db70f0a65260800000000000000
+      internalID: 7086028018444255843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_72
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 670
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8e26a9bc604b860800000000000000
+      internalID: 7544662747290724566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_73
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 636
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392fc698016d85e20800000000000000
+      internalID: 3339654490208662163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_74
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 662
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bda708bf51f85bb0800000000000000
+      internalID: -4946938797254791755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_75
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 672
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72963c8d517e4890800000000000000
+      internalID: -7471910085162790276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_76
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 675
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3269a5a651b6c30800000000000000
+      internalID: 4353597011314222052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_77
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 676
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aebc02ee90d9f6e0800000000000000
+      internalID: -1803180794969276768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_78
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 660
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750ea42751534310800000000000000
+      internalID: 1388042544879633781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_79
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 633
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9475adc9db3411c0800000000000000
+      internalID: -4533933118211132258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_80
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 646
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bcaf504c014ac00800000000000000
+      internalID: 910871458735639369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_81
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 652
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36301435b7928010800000000000000
+      internalID: 1189680056097584699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_82
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 651
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed77fb1c5bd5cb00800000000000000
+      internalID: 848325293481885155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_83
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 662
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3c1ef8d1bb643d0800000000000000
+      internalID: -3222682747694627934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_84
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 655
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3fc1fe26874ec80800000000000000
+      internalID: -8294372247395830796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_85
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 626
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb56be6c3c48c8720800000000000000
+      internalID: 2849798640609486270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_86
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 646
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45260142563596b0800000000000000
+      internalID: -5290262460370639537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_87
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 592
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fee7c517e0ff020800000000000000
+      internalID: 2377635008320827208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_88
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 634
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e76817a81671640800000000000000
+      internalID: 5050612754357321292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_89
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 633
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2832e097cbd5d8280800000000000000
+      internalID: -9039465812996512894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_90
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 632
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9d0ed69ceb62630800000000000000
+      internalID: 3902015899504269808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_91
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 619
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c179677f32c1930800000000000000
+      internalID: 4115203705263299691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_92
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 376
+        width: 456
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b81fe2266c8e4d10800000000000000
+      internalID: 2111779645583988915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_93
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 640
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a039d2ba660ecb0800000000000000
+      internalID: -4836753114405860850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_94
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 630
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73cedf51553f3980800000000000000
+      internalID: -8557062143363595397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_95
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 606
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7d8d49b8e998410800000000000000
+      internalID: 1479888274902800374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_96
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 612
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f393be366f47df740800000000000000
+      internalID: 5187430947387816255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_97
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 626
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e227e7abd2d050d0800000000000000
+      internalID: -3436014674827074840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_98
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 610
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8cf953799564030800000000000000
+      internalID: 3478566268164884684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_99
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 631
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f986dd3dc51078a00800000000000000
+      internalID: 758576560438339743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 225
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd7b10b1f15c34a0800000000000000
+      internalID: -6612320054403170886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 586
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a091074de4877a0800000000000000
+      internalID: -6379262197849585064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 397
+        width: 230
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6417a69f73c0e370800000000000000
+      internalID: 8349888661900694637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_103
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 416
+        width: 222
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad6960bbc81e8ea0800000000000000
+      internalID: -5868726001300050523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_104
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 595
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b7eb8a9e22cb570800000000000000
+      internalID: 8483694185012951953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_105
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 579
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07497650cbbd155e0800000000000000
+      internalID: -1922513965319482256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_106
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 577
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f45c761325771a0800000000000000
+      internalID: -6811885539226726584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_107
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 586
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff183db66591cf70800000000000000
+      internalID: 9205803381815779322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_108
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 584
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c186530a80ac5e5c0800000000000000
+      internalID: -4186718140174604260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_109
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 585
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe132f63ef2a93b0800000000000000
+      internalID: -5505034940638355777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_110
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 459
+        width: 217
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d20614afa65d2970800000000000000
+      internalID: 8731730564913431257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_111
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 579
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7e5b95d94247210800000000000000
+      internalID: 1329728048214697974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_112
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 470
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df462b664dfb2860800000000000000
+      internalID: 7506371682830274516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_113
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 438
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0601ff3906923d520800000000000000
+      internalID: 2725567694265847904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_114
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 434
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffb245f0ecf4ddc0800000000000000
+      internalID: -3614986557753999374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_115
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 436
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af80346e4ad65a10800000000000000
+      internalID: 1897944323206451108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_116
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 450
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017753b3ad3fee5e0800000000000000
+      internalID: -1878295875945138416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_117
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 453
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2561479df66d7b0800000000000000
+      internalID: -5199845740006452520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_118
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 436
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323a6fa2b4ea572d0800000000000000
+      internalID: -3281525115602951389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_119
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 442
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f705d3278b1b49330800000000000000
+      internalID: 3716790998236221567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_120
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 434
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eaf28a8af6067f0800000000000000
+      internalID: -621373978410242410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_121
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 442
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae598a52e3410c630800000000000000
+      internalID: 3945175530728887786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_122
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 442
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3be30afc3355e20800000000000000
+      internalID: 3338631665604801519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_123
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 394
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db32bdaa1785dbc0800000000000000
+      internalID: -3758949765317772327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_124
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 438
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a2fd766a5bd8e0800000000000000
+      internalID: -1667639840764418945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_125
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 426
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd58c0c285bfac10800000000000000
+      internalID: 2067070327171079647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_126
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 426
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0731bd4b06c400800000000000000
+      internalID: 343974849853984532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_127
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 407
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0d5b9fdee5ce830800000000000000
+      internalID: 4101757736817381539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_128
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 437
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608e5b1aa86834160800000000000000
+      internalID: 7008593375095285766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_129
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 428
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc40b0869cf749b20800000000000000
+      internalID: 3140275343194784973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_130
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 434
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e4eef80df7b3cc0800000000000000
+      internalID: -3730247332601639355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_131
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 402
+        width: 84
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23f86b4186443e30800000000000000
+      internalID: 4482285050270380844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_132
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 410
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95e1e3adb89fac50800000000000000
+      internalID: 6678724712679466394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_133
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 421
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c2e50a86916eff0800000000000000
+      internalID: -7290412236657551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_134
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 410
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32664a6de346d820800000000000000
+      internalID: 2942614093502505532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_135
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 409
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8e02e9ef9a563e0800000000000000
+      internalID: -2061054343412389686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 410
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6691da41b3d722350800000000000000
+      internalID: 5990488147059612006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_137
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 410
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec71e0b4add59a0b0800000000000000
+      internalID: -5716935059826665522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_138
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 394
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468b51e4249166440800000000000000
+      internalID: 4928654614772168804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_139
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 404
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4745aec72013aa0800000000000000
+      internalID: -6183158077872376655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_140
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 395
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1f42b75dd5e6c70800000000000000
+      internalID: 8966207079616672170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 227
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cfc23d76aeae710800000000000000
+      internalID: 1723447539068107842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_142
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 386
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b26da301aca8c210800000000000000
+      internalID: 1353521495576240822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_143
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 395
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c5b00e7d7f09c10800000000000000
+      internalID: 2058417536257186879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_144
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 394
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8073fe87a69edd0800000000000000
+      internalID: -2456315054111913739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_145
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 108
+        width: 253
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9be40aedb560cb0800000000000000
+      internalID: -4898126532988454428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_146
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 384
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2277dd2273d4f120800000000000000
+      internalID: 2446812984917848620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_147
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 390
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca1b049a8eddacf0800000000000000
+      internalID: -239290518410159420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_148
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 136
+        width: 218
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a62801656c580830800000000000000
+      internalID: 4037578656427026081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_149
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 241
+        width: 201
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907112b630e88d8f0800000000000000
+      internalID: -515506012000545015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_150
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 217
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31002f7a108a4ed90800000000000000
+      internalID: -7069340789998747629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_151
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 211
+        width: 236
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15e547265254b4d0800000000000000
+      internalID: -3119778111881353958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_152
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 374
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae617c432cbbe0fd0800000000000000
+      internalID: -2373753510794160406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_153
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 332
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e38c04e69d235e0800000000000000
+      internalID: -1931242222632026521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_154
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 246
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d392e3f2a49be5900800000000000000
+      internalID: 675180722423474493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_155
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 247
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e5319a9811d04f0800000000000000
+      internalID: -861012670813086144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_156
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 241
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b29bafb3a470580800000000000000
+      internalID: -8861032120358196451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_157
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 233
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3932f2f339737da0800000000000000
+      internalID: -5948277418800039618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_158
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 227
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf0318c070de3160800000000000000
+      internalID: 7007267253046677444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_159
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 223
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa822ea66c649020800000000000000
+      internalID: 2347620494030834340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_160
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 227
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9a7751a6afcb9c0800000000000000
+      internalID: -3909975042930791939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_161
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 111
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3da22c154848db0800000000000000
+      internalID: -4790558616930561038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_162
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 213
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efffcacf729c115d0800000000000000
+      internalID: -3093470295446716418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_163
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 156
+        width: 22
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d74d6c5ced96940800000000000000
+      internalID: 5290004178349096317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c588cf2f5ca12400800000000000000
+      internalID: 297708575206704579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_165
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e8f727378aa4150800000000000000
+      internalID: 5857679479144418826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_166
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 199
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7bd61bd6e2a8660800000000000000
+      internalID: 7388769187317790704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_167
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 184
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401f0d7bbc85a4f10800000000000000
+      internalID: 2254712195437883652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_168
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 192
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3866bc453951d9d90800000000000000
+      internalID: -7089486515884300669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_169
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 200
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83163fe19bcc8e50800000000000000
+      internalID: 6813044163948712846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_170
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 190
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44e31553e11b0f60800000000000000
+      internalID: 8001508831036433487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_171
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 110
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5613c6f96f4886ee0800000000000000
+      internalID: -1267617100333305499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_172
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 158
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954285cbda4cee7e0800000000000000
+      internalID: -1734232556022782887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_173
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 176
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3db738db890518c0800000000000000
+      internalID: -4029303795380404934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_174
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 107
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5096221c486dde0800000000000000
+      internalID: -1308712676663687693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_175
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 180
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe0decfe2bf97830800000000000000
+      internalID: 4069559917536415423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_176
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 172
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6bea485dabd4650800000000000000
+      internalID: 6218832086685365928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_177
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 178
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f49fadf3ec1e6f10800000000000000
+      internalID: 2264779428153234678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_178
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 152
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad335255a42e27320800000000000000
+      internalID: 2554352747556451290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_179
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 178
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af85b4dd1dc25dd0800000000000000
+      internalID: -2498709315230789725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_180
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 160
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b680097025f945b10800000000000000
+      internalID: 1969374111730763883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_181
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 165
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16c1a644c1576670800000000000000
+      internalID: 8531877922517141020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_182
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 162
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db7d759f33fe0990800000000000000
+      internalID: -7417724081816110122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_183
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 160
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb648d1e9b4523f30800000000000000
+      internalID: 4553795330559723195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_184
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 176
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5871442b4bda87520800000000000000
+      internalID: 2700098968205137797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_185
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 186
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbdcf6339edac1e0800000000000000
+      internalID: -2176682746016113706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_186
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 166
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398777fe75102a570800000000000000
+      internalID: 8476338925856061587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_187
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 184
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a0bbaa506b50960800000000000000
+      internalID: 7567654884321462937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_188
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 147
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605ce0b4b686eefd0800000000000000
+      internalID: -2310794748764437242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_189
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 122
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b48918512c3bfb0800000000000000
+      internalID: -4633146194009765046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_190
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 205
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce6fd9b079793e30800000000000000
+      internalID: 4483748429085765327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_191
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 136
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a192930cccb5b3520800000000000000
+      internalID: 2682838937985689882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_192
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 152
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3c1f6c5f318b690800000000000000
+      internalID: -7586291625979952210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_193
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dab6dfb96480850800000000000000
+      internalID: 6343397710936911230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_194
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 100
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ad82668f45a96c0800000000000000
+      internalID: -4135899881943803360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_195
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 141
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58b6acd0a457d760800000000000000
+      internalID: 7482542355772782682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_196
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 84
+        width: 117
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4bf16ce3d2de730800000000000000
+      internalID: 4029926989201650857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_197
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 132
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f324362c7f5ec20800000000000000
+      internalID: 3235264321596571541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_198
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 118
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db3226e046a4a870800000000000000
+      internalID: 8693255978401020883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_199
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 217
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212bd05cf0441a2b0800000000000000
+      internalID: -5575100029186756078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_200
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 143
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e765142efa89f6820800000000000000
+      internalID: 2913715365114631806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_201
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 152
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5b5c405a36bc910800000000000000
+      internalID: 1858688831621281212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_202
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 158
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553b6d3947a3963b0800000000000000
+      internalID: -5518815595994893483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_203
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 118
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd134044e3340dd0800000000000000
+      internalID: -2520832835996934691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_204
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 103
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81ef968806638e80800000000000000
+      internalID: -8177580311570292337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_205
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 199
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c74a63934f473d0800000000000000
+      internalID: -3209672107841258433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_206
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 118
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c2b59df89d671d0800000000000000
+      internalID: -3353253660680573843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_207
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 120
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b119f715e0ea083d0800000000000000
+      internalID: -3206371558167703269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_208
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 102
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080ab4dd02b9df8a0800000000000000
+      internalID: -6269684540775882624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_209
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 118
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fdef06edf7b2440800000000000000
+      internalID: 4912160411664441242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_210
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 103
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b92269eefea26830800000000000000
+      internalID: 4063002223702059442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_211
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 110
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67f9473853a8d7d0800000000000000
+      internalID: -2893383161305499795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_212
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 78
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d347f9bd1728cdfb0800000000000000
+      internalID: -4621675692061395907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_213
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 104
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eede9eba3493b60800000000000000
+      internalID: 7726281041373949440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_214
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 100
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3445665f8e1888d20800000000000000
+      internalID: 3281015166088926275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_215
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 100
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d170e31b5213c1fd0800000000000000
+      internalID: -2369965265946540259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_216
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 13
+        width: 213
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e099cab695802770800000000000000
+      internalID: 8584007772193525992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_217
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 13
+        width: 213
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec79d22c9df1696a0800000000000000
+      internalID: -6442927196780783666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_218
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b98707215a82930800000000000000
+      internalID: 4118723357845265248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_219
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 94
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4de425481f4321f0800000000000000
+      internalID: -1070925320726188724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_220
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 79
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7a211cfb92f4330800000000000000
+      internalID: 3697219722649184201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_221
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 78
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d871bae2ec2594b50800000000000000
+      internalID: 6577879776251025293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_222
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 209
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7368b56edd7a86500800000000000000
+      internalID: 389745939261916727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_223
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 92
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898e2665bb2e50910800000000000000
+      internalID: 1803096520067836056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_224
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 94
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4ccab2425dce810800000000000000
+      internalID: 1796044702742267119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_225
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 66
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a8098ea6a240180800000000000000
+      internalID: -9150141904253318600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_226
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 63
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd77bb67c20b2bc20800000000000000
+      internalID: 3220830388540372955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runner-sheet-v1_227
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 55
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7074d3b191518250800000000000000
+      internalID: 5945122669334917242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      runner-sheet-v1_0: -1371781812152643952
+      runner-sheet-v1_1: -8562774257253025771
+      runner-sheet-v1_10: -8694191841850236085
+      runner-sheet-v1_100: -6612320054403170886
+      runner-sheet-v1_101: -6379262197849585064
+      runner-sheet-v1_102: 8349888661900694637
+      runner-sheet-v1_103: -5868726001300050523
+      runner-sheet-v1_104: 8483694185012951953
+      runner-sheet-v1_105: -1922513965319482256
+      runner-sheet-v1_106: -6811885539226726584
+      runner-sheet-v1_107: 9205803381815779322
+      runner-sheet-v1_108: -4186718140174604260
+      runner-sheet-v1_109: -5505034940638355777
+      runner-sheet-v1_11: 5344909411259482375
+      runner-sheet-v1_110: 8731730564913431257
+      runner-sheet-v1_111: 1329728048214697974
+      runner-sheet-v1_112: 7506371682830274516
+      runner-sheet-v1_113: 2725567694265847904
+      runner-sheet-v1_114: -3614986557753999374
+      runner-sheet-v1_115: 1897944323206451108
+      runner-sheet-v1_116: -1878295875945138416
+      runner-sheet-v1_117: -5199845740006452520
+      runner-sheet-v1_118: -3281525115602951389
+      runner-sheet-v1_119: 3716790998236221567
+      runner-sheet-v1_12: -7709812496196941463
+      runner-sheet-v1_120: -621373978410242410
+      runner-sheet-v1_121: 3945175530728887786
+      runner-sheet-v1_122: 3338631665604801519
+      runner-sheet-v1_123: -3758949765317772327
+      runner-sheet-v1_124: -1667639840764418945
+      runner-sheet-v1_125: 2067070327171079647
+      runner-sheet-v1_126: 343974849853984532
+      runner-sheet-v1_127: 4101757736817381539
+      runner-sheet-v1_128: 7008593375095285766
+      runner-sheet-v1_129: 3140275343194784973
+      runner-sheet-v1_13: 2803869247739422594
+      runner-sheet-v1_130: -3730247332601639355
+      runner-sheet-v1_131: 4482285050270380844
+      runner-sheet-v1_132: 6678724712679466394
+      runner-sheet-v1_133: -7290412236657551
+      runner-sheet-v1_134: 2942614093502505532
+      runner-sheet-v1_135: -2061054343412389686
+      runner-sheet-v1_136: 5990488147059612006
+      runner-sheet-v1_137: -5716935059826665522
+      runner-sheet-v1_138: 4928654614772168804
+      runner-sheet-v1_139: -6183158077872376655
+      runner-sheet-v1_14: 4932102074074076830
+      runner-sheet-v1_140: 8966207079616672170
+      runner-sheet-v1_141: 1723447539068107842
+      runner-sheet-v1_142: 1353521495576240822
+      runner-sheet-v1_143: 2058417536257186879
+      runner-sheet-v1_144: -2456315054111913739
+      runner-sheet-v1_145: -4898126532988454428
+      runner-sheet-v1_146: 2446812984917848620
+      runner-sheet-v1_147: -239290518410159420
+      runner-sheet-v1_148: 4037578656427026081
+      runner-sheet-v1_149: -515506012000545015
+      runner-sheet-v1_15: 5403395752963586009
+      runner-sheet-v1_150: -7069340789998747629
+      runner-sheet-v1_151: -3119778111881353958
+      runner-sheet-v1_152: -2373753510794160406
+      runner-sheet-v1_153: -1931242222632026521
+      runner-sheet-v1_154: 675180722423474493
+      runner-sheet-v1_155: -861012670813086144
+      runner-sheet-v1_156: -8861032120358196451
+      runner-sheet-v1_157: -5948277418800039618
+      runner-sheet-v1_158: 7007267253046677444
+      runner-sheet-v1_159: 2347620494030834340
+      runner-sheet-v1_16: 5166593612139812331
+      runner-sheet-v1_160: -3909975042930791939
+      runner-sheet-v1_161: -4790558616930561038
+      runner-sheet-v1_162: -3093470295446716418
+      runner-sheet-v1_163: 5290004178349096317
+      runner-sheet-v1_164: 297708575206704579
+      runner-sheet-v1_165: 5857679479144418826
+      runner-sheet-v1_166: 7388769187317790704
+      runner-sheet-v1_167: 2254712195437883652
+      runner-sheet-v1_168: -7089486515884300669
+      runner-sheet-v1_169: 6813044163948712846
+      runner-sheet-v1_17: 9194637345250323824
+      runner-sheet-v1_170: 8001508831036433487
+      runner-sheet-v1_171: -1267617100333305499
+      runner-sheet-v1_172: -1734232556022782887
+      runner-sheet-v1_173: -4029303795380404934
+      runner-sheet-v1_174: -1308712676663687693
+      runner-sheet-v1_175: 4069559917536415423
+      runner-sheet-v1_176: 6218832086685365928
+      runner-sheet-v1_177: 2264779428153234678
+      runner-sheet-v1_178: 2554352747556451290
+      runner-sheet-v1_179: -2498709315230789725
+      runner-sheet-v1_18: -4104305105700670905
+      runner-sheet-v1_180: 1969374111730763883
+      runner-sheet-v1_181: 8531877922517141020
+      runner-sheet-v1_182: -7417724081816110122
+      runner-sheet-v1_183: 4553795330559723195
+      runner-sheet-v1_184: 2700098968205137797
+      runner-sheet-v1_185: -2176682746016113706
+      runner-sheet-v1_186: 8476338925856061587
+      runner-sheet-v1_187: 7567654884321462937
+      runner-sheet-v1_188: -2310794748764437242
+      runner-sheet-v1_189: -4633146194009765046
+      runner-sheet-v1_19: 3925751692164771901
+      runner-sheet-v1_190: 4483748429085765327
+      runner-sheet-v1_191: 2682838937985689882
+      runner-sheet-v1_192: -7586291625979952210
+      runner-sheet-v1_193: 6343397710936911230
+      runner-sheet-v1_194: -4135899881943803360
+      runner-sheet-v1_195: 7482542355772782682
+      runner-sheet-v1_196: 4029926989201650857
+      runner-sheet-v1_197: 3235264321596571541
+      runner-sheet-v1_198: 8693255978401020883
+      runner-sheet-v1_199: -5575100029186756078
+      runner-sheet-v1_2: -3605316113028093001
+      runner-sheet-v1_20: -8848023529093885075
+      runner-sheet-v1_200: 2913715365114631806
+      runner-sheet-v1_201: 1858688831621281212
+      runner-sheet-v1_202: -5518815595994893483
+      runner-sheet-v1_203: -2520832835996934691
+      runner-sheet-v1_204: -8177580311570292337
+      runner-sheet-v1_205: -3209672107841258433
+      runner-sheet-v1_206: -3353253660680573843
+      runner-sheet-v1_207: -3206371558167703269
+      runner-sheet-v1_208: -6269684540775882624
+      runner-sheet-v1_209: 4912160411664441242
+      runner-sheet-v1_21: 9098925773404273586
+      runner-sheet-v1_210: 4063002223702059442
+      runner-sheet-v1_211: -2893383161305499795
+      runner-sheet-v1_212: -4621675692061395907
+      runner-sheet-v1_213: 7726281041373949440
+      runner-sheet-v1_214: 3281015166088926275
+      runner-sheet-v1_215: -2369965265946540259
+      runner-sheet-v1_216: 8584007772193525992
+      runner-sheet-v1_217: -6442927196780783666
+      runner-sheet-v1_218: 4118723357845265248
+      runner-sheet-v1_219: -1070925320726188724
+      runner-sheet-v1_22: 4464929398935055745
+      runner-sheet-v1_220: 3697219722649184201
+      runner-sheet-v1_221: 6577879776251025293
+      runner-sheet-v1_222: 389745939261916727
+      runner-sheet-v1_223: 1803096520067836056
+      runner-sheet-v1_224: 1796044702742267119
+      runner-sheet-v1_225: -9150141904253318600
+      runner-sheet-v1_226: 3220830388540372955
+      runner-sheet-v1_227: 5945122669334917242
+      runner-sheet-v1_23: 939946533969040193
+      runner-sheet-v1_24: 5984169694834820431
+      runner-sheet-v1_25: 3472237659085490415
+      runner-sheet-v1_26: -9101880039984805993
+      runner-sheet-v1_27: -8606417113798143219
+      runner-sheet-v1_28: 7073320856958614721
+      runner-sheet-v1_29: 5416204575571691644
+      runner-sheet-v1_3: -1263271472474991893
+      runner-sheet-v1_30: 1056658285397909393
+      runner-sheet-v1_31: 1192935783238873925
+      runner-sheet-v1_32: -4180477325821113691
+      runner-sheet-v1_33: 3219720944377507297
+      runner-sheet-v1_34: 3582754952284415417
+      runner-sheet-v1_35: 1052629433092659172
+      runner-sheet-v1_36: -8613024506455100120
+      runner-sheet-v1_37: -7009297119968197649
+      runner-sheet-v1_38: -6775912037879778070
+      runner-sheet-v1_39: -4445600095900732329
+      runner-sheet-v1_4: -8616935468265909559
+      runner-sheet-v1_40: -4374707569778837872
+      runner-sheet-v1_41: 7859911496776611867
+      runner-sheet-v1_42: -2276101735147431540
+      runner-sheet-v1_43: -4046817481474131286
+      runner-sheet-v1_44: -4598489016283180566
+      runner-sheet-v1_45: -1045540658983029269
+      runner-sheet-v1_46: 5421554522745831698
+      runner-sheet-v1_47: 5937394841669252855
+      runner-sheet-v1_48: 8814281183718869671
+      runner-sheet-v1_49: -1013225414358967461
+      runner-sheet-v1_5: 7921663080289899459
+      runner-sheet-v1_50: -7774820493851935042
+      runner-sheet-v1_51: -8467636140078879976
+      runner-sheet-v1_52: -7365587612541863625
+      runner-sheet-v1_53: 133133836170298551
+      runner-sheet-v1_54: -6968242445096018768
+      runner-sheet-v1_55: 1596323520449598490
+      runner-sheet-v1_56: 5061886406715296917
+      runner-sheet-v1_57: 2862838324671928089
+      runner-sheet-v1_58: -5602872697231437822
+      runner-sheet-v1_59: -5490320102624770708
+      runner-sheet-v1_6: 5551776383320606786
+      runner-sheet-v1_60: 8656383208324921250
+      runner-sheet-v1_61: -8187489521600779279
+      runner-sheet-v1_62: -3498933550064221221
+      runner-sheet-v1_63: 2025240956695645712
+      runner-sheet-v1_64: 7376271692756502761
+      runner-sheet-v1_65: 4893386522869977991
+      runner-sheet-v1_66: 6312299230875499823
+      runner-sheet-v1_67: -2622399938931635301
+      runner-sheet-v1_68: 5742586155632754320
+      runner-sheet-v1_69: -5388045277649477129
+      runner-sheet-v1_7: -8152358041490556802
+      runner-sheet-v1_70: 2348017160577296967
+      runner-sheet-v1_71: 7086028018444255843
+      runner-sheet-v1_72: 7544662747290724566
+      runner-sheet-v1_73: 3339654490208662163
+      runner-sheet-v1_74: -4946938797254791755
+      runner-sheet-v1_75: -7471910085162790276
+      runner-sheet-v1_76: 4353597011314222052
+      runner-sheet-v1_77: -1803180794969276768
+      runner-sheet-v1_78: 1388042544879633781
+      runner-sheet-v1_79: -4533933118211132258
+      runner-sheet-v1_8: -5468884919366285976
+      runner-sheet-v1_80: 910871458735639369
+      runner-sheet-v1_81: 1189680056097584699
+      runner-sheet-v1_82: 848325293481885155
+      runner-sheet-v1_83: -3222682747694627934
+      runner-sheet-v1_84: -8294372247395830796
+      runner-sheet-v1_85: 2849798640609486270
+      runner-sheet-v1_86: -5290262460370639537
+      runner-sheet-v1_87: 2377635008320827208
+      runner-sheet-v1_88: 5050612754357321292
+      runner-sheet-v1_89: -9039465812996512894
+      runner-sheet-v1_9: -8957601889816220785
+      runner-sheet-v1_90: 3902015899504269808
+      runner-sheet-v1_91: 4115203705263299691
+      runner-sheet-v1_92: 2111779645583988915
+      runner-sheet-v1_93: -4836753114405860850
+      runner-sheet-v1_94: -8557062143363595397
+      runner-sheet-v1_95: 1479888274902800374
+      runner-sheet-v1_96: 5187430947387816255
+      runner-sheet-v1_97: -3436014674827074840
+      runner-sheet-v1_98: 3478566268164884684
+      runner-sheet-v1_99: 758576560438339743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

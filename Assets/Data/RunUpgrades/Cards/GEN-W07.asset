@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: GEN-W07
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: GEN-W07
+  title: "\u7DE9\u901F\u82E6\u9152"
+  ownerRoleId: 
+  effectKey: proc.slow_on_attack
+  description: "\u666E\u653B\u547D\u4E2D\u6709 10%\uFF0F20%\uFF0F30% \u6A5F\u7387\u4F7F\u6575\u4EBA\u6E1B\u901F 20%\uFF0C\u6301\u7E8C 1 \u79D2\uFF1B\u540C\u6575\u4EBA\u6BCF 0.2 \u79D2\u81F3\u591A\u5224\u5B9A\u4E00\u6B21\u3002"
+  quality: 0
+  category: 0
+  icon: {fileID: 21300000, guid: 1566e04868ebeb54b963b7d38c517082, type: 3}
+  artBrief: "\u7D2B\u8272\u82E6\u9152\u6CBF\u6575\u4EBA\u7684\u9774\u908A\u7D50\u6210\u51B0\u7DDA"
+  maxRank: 3
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: duration
+    values:
+    - 1
+  - key: slow
+    values:
+    - 0.2
+  - key: chances
+    values:
+    - 0.1
+    - 0.2
+    - 0.3
+  - key: targetIcd
+    values:
+    - 0.2

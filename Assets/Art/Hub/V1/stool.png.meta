@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 547062e3a70176f48bf580e74c60567d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7907222272763543738
+    second: stool_0
+  - first:
+      213: 7022032861957461652
+    second: stool_1
+  - first:
+      213: -4957261474948443904
+    second: stool_2
+  - first:
+      213: 8749438511542010994
+    second: stool_3
+  - first:
+      213: -2180892433643699655
+    second: stool_4
+  - first:
+      213: 9076283195412011197
+    second: stool_5
+  - first:
+      213: 6438421863447453653
+    second: stool_6
+  - first:
+      213: 3060518395866993693
+    second: stool_7
+  - first:
+      213: -2969547997321164288
+    second: stool_8
+  - first:
+      213: 36364345292370755
+    second: stool_9
+  - first:
+      213: -6337900150972202436
+    second: stool_10
+  - first:
+      213: 1808982329407521154
+    second: stool_11
+  - first:
+      213: -6514781556335292580
+    second: stool_12
+  - first:
+      213: -7243258386533824705
+    second: stool_13
+  - first:
+      213: 9103777267179658467
+    second: stool_14
+  - first:
+      213: 9119230706675849568
+    second: stool_15
+  - first:
+      213: 6214396144747498280
+    second: stool_16
+  - first:
+      213: -1495822154426257557
+    second: stool_17
+  - first:
+      213: 1516100872833341612
+    second: stool_18
+  - first:
+      213: 1994815254394230115
+    second: stool_19
+  - first:
+      213: -2272109893346441767
+    second: stool_20
+  - first:
+      213: -5519745005939464048
+    second: stool_21
+  - first:
+      213: -8921426978421804011
+    second: stool_22
+  - first:
+      213: -2950368772364883636
+    second: stool_23
+  - first:
+      213: 4615847381512953980
+    second: stool_24
+  - first:
+      213: 7034173333997158076
+    second: stool_25
+  - first:
+      213: -9041666201839308568
+    second: stool_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stool_0
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1527
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0c02843c81cbd60800000000000000
+      internalID: 7907222272763543738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1233
+        width: 73
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49618120fa5437160800000000000000
+      internalID: 7022032861957461652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 915
+        height: 1517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00118f604f4443bb0800000000000000
+      internalID: -4957261474948443904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1218
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274859048ff3c6970800000000000000
+      internalID: 8749438511542010994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932845fe2e9ebb1e0800000000000000
+      internalID: -2180892433643699655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1210
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8516f5a7f65fd70800000000000000
+      internalID: 9076283195412011197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_6
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1175
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfd4e4929ed95950800000000000000
+      internalID: 6438421863447453653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1453360445297a20800000000000000
+      internalID: 3060518395866993693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1118
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a033c64db0ac6d0800000000000000
+      internalID: -2969547997321164288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1102
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34334abed21318000800000000000000
+      internalID: 36364345292370755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1008
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32486f64614b08a0800000000000000
+      internalID: -6337900150972202436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 966
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2814b4d18dbca1910800000000000000
+      internalID: 1808982329407521154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 911
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f4e59f0b8d695a0800000000000000
+      internalID: -6514781556335292580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 851
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f374846bfd6ca7b90800000000000000
+      internalID: -7243258386533824705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 480
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec158cc03d175e70800000000000000
+      internalID: 9103777267179658467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 500
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0699f3013040e8e70800000000000000
+      internalID: 9119230706675849568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 479
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b4b3d4e58fd3650800000000000000
+      internalID: 6214396144747498280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 442
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f634efca5cd3be0800000000000000
+      internalID: -1495822154426257557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_18
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 468
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca814e016b54a0510800000000000000
+      internalID: 1516100872833341612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_19
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 415
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365d2b6a7e10fab10800000000000000
+      internalID: 1994815254394230115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_20
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 353
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d54f641718d770e0800000000000000
+      internalID: -2272109893346441767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_21
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 357
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098ed36792de563b0800000000000000
+      internalID: -5519745005939464048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 308
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514f49d4e69b03480800000000000000
+      internalID: -8921426978421804011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 209
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4929c6bb3f2e07d0800000000000000
+      internalID: -2950368772364883636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_24
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702f78dcb8ce0040800000000000000
+      internalID: 4615847381512953980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_25
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 14
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbefc6de0676e9160800000000000000
+      internalID: 7034173333997158076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_26
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e076b58e7c858280800000000000000
+      internalID: -9041666201839308568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stool_0: 7907222272763543738
+      stool_1: 7022032861957461652
+      stool_10: -6337900150972202436
+      stool_11: 1808982329407521154
+      stool_12: -6514781556335292580
+      stool_13: -7243258386533824705
+      stool_14: 9103777267179658467
+      stool_15: 9119230706675849568
+      stool_16: 6214396144747498280
+      stool_17: -1495822154426257557
+      stool_18: 1516100872833341612
+      stool_19: 1994815254394230115
+      stool_2: -4957261474948443904
+      stool_20: -2272109893346441767
+      stool_21: -5519745005939464048
+      stool_22: -8921426978421804011
+      stool_23: -2950368772364883636
+      stool_24: 4615847381512953980
+      stool_25: 7034173333997158076
+      stool_26: -9041666201839308568
+      stool_3: 8749438511542010994
+      stool_4: -2180892433643699655
+      stool_5: 9076283195412011197
+      stool_6: 6438421863447453653
+      stool_7: 3060518395866993693
+      stool_8: -2969547997321164288
+      stool_9: 36364345292370755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2472 @@
+fileFormatVersion: 2
+guid: 1e2c909a36065d0459ad76060ecea930
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3453238059730616910
+    second: seat-sleep_0
+  - first:
+      213: -1597727117063619010
+    second: seat-sleep_1
+  - first:
+      213: 8220842963236876340
+    second: seat-sleep_2
+  - first:
+      213: -7283366300366553122
+    second: seat-sleep_3
+  - first:
+      213: -8600190559270135491
+    second: seat-sleep_4
+  - first:
+      213: 1830923834838553779
+    second: seat-sleep_5
+  - first:
+      213: -4700014124138389860
+    second: seat-sleep_6
+  - first:
+      213: 6938165524643116493
+    second: seat-sleep_7
+  - first:
+      213: -1758774889535546990
+    second: seat-sleep_8
+  - first:
+      213: 800266384071332652
+    second: seat-sleep_9
+  - first:
+      213: -8600389640592310466
+    second: seat-sleep_10
+  - first:
+      213: 812927813888633950
+    second: seat-sleep_11
+  - first:
+      213: 2372460154501648499
+    second: seat-sleep_12
+  - first:
+      213: -8097892715856493332
+    second: seat-sleep_13
+  - first:
+      213: -4618640606915395584
+    second: seat-sleep_14
+  - first:
+      213: 3518290535008568229
+    second: seat-sleep_15
+  - first:
+      213: 8390856257056048891
+    second: seat-sleep_16
+  - first:
+      213: 6504609059756329069
+    second: seat-sleep_17
+  - first:
+      213: 4595651733382384110
+    second: seat-sleep_18
+  - first:
+      213: 169813377854636868
+    second: seat-sleep_19
+  - first:
+      213: 698499544156011900
+    second: seat-sleep_20
+  - first:
+      213: -7524161334004431939
+    second: seat-sleep_21
+  - first:
+      213: 2036568597033106168
+    second: seat-sleep_22
+  - first:
+      213: -4810030869983987114
+    second: seat-sleep_23
+  - first:
+      213: -2970653805242963618
+    second: seat-sleep_24
+  - first:
+      213: 487395128309196605
+    second: seat-sleep_25
+  - first:
+      213: 7850509255132135834
+    second: seat-sleep_26
+  - first:
+      213: -5308641384664413638
+    second: seat-sleep_27
+  - first:
+      213: 2120740681601241621
+    second: seat-sleep_28
+  - first:
+      213: 6513004350886163423
+    second: seat-sleep_29
+  - first:
+      213: -7425655547911675970
+    second: seat-sleep_30
+  - first:
+      213: -5975845105773917577
+    second: seat-sleep_31
+  - first:
+      213: -7885065000538165781
+    second: seat-sleep_32
+  - first:
+      213: 1931736414979107628
+    second: seat-sleep_33
+  - first:
+      213: 5716636754905893224
+    second: seat-sleep_34
+  - first:
+      213: 1878221529076877202
+    second: seat-sleep_35
+  - first:
+      213: -556545974278276614
+    second: seat-sleep_36
+  - first:
+      213: -383698000087265170
+    second: seat-sleep_37
+  - first:
+      213: 1553992738611212667
+    second: seat-sleep_38
+  - first:
+      213: -3745180146392345381
+    second: seat-sleep_39
+  - first:
+      213: 3155241879981875302
+    second: seat-sleep_40
+  - first:
+      213: 4969037897170721581
+    second: seat-sleep_41
+  - first:
+      213: 6468313549981079714
+    second: seat-sleep_42
+  - first:
+      213: 6804384487348611805
+    second: seat-sleep_43
+  - first:
+      213: -8262345147172961105
+    second: seat-sleep_44
+  - first:
+      213: -4453554201203740097
+    second: seat-sleep_45
+  - first:
+      213: -8032504116070029646
+    second: seat-sleep_46
+  - first:
+      213: 7543317188196284767
+    second: seat-sleep_47
+  - first:
+      213: 1518700042967382895
+    second: seat-sleep_48
+  - first:
+      213: 1988845095684609505
+    second: seat-sleep_49
+  - first:
+      213: -8256802424577770128
+    second: seat-sleep_50
+  - first:
+      213: -3384664736271910446
+    second: seat-sleep_51
+  - first:
+      213: -8349980529615060116
+    second: seat-sleep_52
+  - first:
+      213: -1624682021721970241
+    second: seat-sleep_53
+  - first:
+      213: 4407319779713758279
+    second: seat-sleep_54
+  - first:
+      213: -8317812714085074096
+    second: seat-sleep_55
+  - first:
+      213: -3528477539260565069
+    second: seat-sleep_56
+  - first:
+      213: 2768244658000797490
+    second: seat-sleep_57
+  - first:
+      213: -6521329316931177085
+    second: seat-sleep_58
+  - first:
+      213: -3618447558158898919
+    second: seat-sleep_59
+  - first:
+      213: 5750572274422022233
+    second: seat-sleep_60
+  - first:
+      213: 7071353181245624888
+    second: seat-sleep_61
+  - first:
+      213: -1395240493335256026
+    second: seat-sleep_62
+  - first:
+      213: -2624666099600945485
+    second: seat-sleep_63
+  - first:
+      213: -8752777658243824816
+    second: seat-sleep_64
+  - first:
+      213: -6543167780844515246
+    second: seat-sleep_65
+  - first:
+      213: 1511232954401349356
+    second: seat-sleep_66
+  - first:
+      213: -1910303121501565232
+    second: seat-sleep_67
+  - first:
+      213: -3780508364813303891
+    second: seat-sleep_68
+  - first:
+      213: 2209428717072419322
+    second: seat-sleep_69
+  - first:
+      213: 2907265336452195312
+    second: seat-sleep_70
+  - first:
+      213: 6009105666879424754
+    second: seat-sleep_71
+  - first:
+      213: 8279835464603892169
+    second: seat-sleep_72
+  - first:
+      213: -3751381402270786200
+    second: seat-sleep_73
+  - first:
+      213: -260978981912090191
+    second: seat-sleep_74
+  - first:
+      213: 2821334357146314472
+    second: seat-sleep_75
+  - first:
+      213: 4737783596016965941
+    second: seat-sleep_76
+  - first:
+      213: -2088452228348760631
+    second: seat-sleep_77
+  - first:
+      213: -1419079122075949753
+    second: seat-sleep_78
+  - first:
+      213: 8879505927715829211
+    second: seat-sleep_79
+  - first:
+      213: 8259285325764984531
+    second: seat-sleep_80
+  - first:
+      213: -925556926980597228
+    second: seat-sleep_81
+  - first:
+      213: -2047971537733275414
+    second: seat-sleep_82
+  - first:
+      213: 8664931612995720084
+    second: seat-sleep_83
+  - first:
+      213: 7286559793205343777
+    second: seat-sleep_84
+  - first:
+      213: -836228045639298640
+    second: seat-sleep_85
+  - first:
+      213: 4703129500852812382
+    second: seat-sleep_86
+  - first:
+      213: 8664446606780308161
+    second: seat-sleep_87
+  - first:
+      213: 7520474066709906788
+    second: seat-sleep_88
+  - first:
+      213: 3720239058123647863
+    second: seat-sleep_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seat-sleep_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 757
+        width: 67
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdb5ecd742a310d0800000000000000
+      internalID: -3453238059730616910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 863
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ef963f6abb3d9e0800000000000000
+      internalID: -1597727117063619010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 849
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430f0028e1d461270800000000000000
+      internalID: 8220842963236876340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 857
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfb99150f84cea90800000000000000
+      internalID: -7283366300366553122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 478
+        width: 327
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39190a804cf5a880800000000000000
+      internalID: -8600190559270135491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 293
+        width: 539
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b41952f68fb86910800000000000000
+      internalID: 1830923834838553779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_6
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 851
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e996b4e0236ceb0800000000000000
+      internalID: -4700014124138389860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 385
+        width: 541
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5f631e8c0594060800000000000000
+      internalID: 6938165524643116493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_8
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 860
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2995b5d6e839797e0800000000000000
+      internalID: -1758774889535546990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_9
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 853
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23124c490e1b1b00800000000000000
+      internalID: 800266384071332652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 846
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fbb8e403745a880800000000000000
+      internalID: -8600389640592310466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_11
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 853
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cedd62a89184b00800000000000000
+      internalID: 812927813888633950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_12
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 849
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370d6d0d0fbace020800000000000000
+      internalID: 2372460154501648499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4862aba718e9f80800000000000000
+      internalID: -8097892715856493332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 693
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0000d9fa6da47efb0800000000000000
+      internalID: -4618640606915395584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_15
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 652
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a30ec3d99a73d030800000000000000
+      internalID: 3518290535008568229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 705
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf680332f4f427470800000000000000
+      internalID: 8390856257056048891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_17
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 672
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6840991a73054a50800000000000000
+      internalID: 6504609059756329069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_18
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 695
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee94aa717e807cf30800000000000000
+      internalID: 4595651733382384110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 671
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44382211e5c4b5200800000000000000
+      internalID: 169813377854636868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_20
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 667
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7df03572a191b900800000000000000
+      internalID: 698499544156011900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_21
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 693
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3cfe5a12fc49790800000000000000
+      internalID: -7524161334004431939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_22
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 650
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fabfda4958534c10800000000000000
+      internalID: 2036568597033106168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 655
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65af0fb88665f3db0800000000000000
+      internalID: -4810030869983987114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_24
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 647
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59a4d37a1e16c6d0800000000000000
+      internalID: -2970653805242963618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_25
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 657
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d372020794393c600800000000000000
+      internalID: 487395128309196605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_26
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 662
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a914112e29c92fc60800000000000000
+      internalID: 7850509255132135834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_27
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 663
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ac32b79cae356b0800000000000000
+      internalID: -5308641384664413638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_28
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 633
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512df8be9626e6d10800000000000000
+      internalID: 2120740681601241621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_29
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 631
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3b42323f6d26a50800000000000000
+      internalID: 6513004350886163423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_30
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 634
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfd05a3f95c2f890800000000000000
+      internalID: -7425655547911675970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 555
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac695a988811da0800000000000000
+      internalID: -5975845105773917577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 569
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedae0ca82f929290800000000000000
+      internalID: -7885065000538165781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_33
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 552
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b248ed808eeca10800000000000000
+      internalID: 1931736414979107628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_34
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 573
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8698b1e27d2955f40800000000000000
+      internalID: 5716636754905893224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 518
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2974e1a8788c01a10800000000000000
+      internalID: 1878221529076877202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_36
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 527
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af938f59260c648f0800000000000000
+      internalID: -556545974278276614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_37
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 522
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6055cba3b4dcaaf0800000000000000
+      internalID: -383698000087265170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_38
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 517
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7135709924e09510800000000000000
+      internalID: 1553992738611212667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_39
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 507
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4507aef72760cc0800000000000000
+      internalID: -3745180146392345381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_40
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 509
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66061ccc5cba9cb20800000000000000
+      internalID: 3155241879981875302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_41
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 509
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b9050f3a195f440800000000000000
+      internalID: 4969037897170721581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8d77237e014c950800000000000000
+      internalID: 6468313549981079714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_43
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 503
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaa79bd3a70e6e50800000000000000
+      internalID: 6804384487348611805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_44
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 507
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4451b4dd0465d80800000000000000
+      internalID: -8262345147172961105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 425
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f327d49cc0cc132c0800000000000000
+      internalID: -4453554201203740097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 469
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b668c08010d68090800000000000000
+      internalID: -8032504116070029646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_47
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 422
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b986340f3fa860800000000000000
+      internalID: 7543317188196284767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_48
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 492
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bf07584a1831510800000000000000
+      internalID: 1518700042967382895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_49
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 17
+        width: 391
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e51f81c31cc99b10800000000000000
+      internalID: 1988845095684609505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_50
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 465
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d3576f0f1f96d80800000000000000
+      internalID: -8256802424577770128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_51
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 493
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9b8b6ea514701d0800000000000000
+      internalID: -3384664736271910446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_52
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 497
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63cddac2f8ee1c80800000000000000
+      internalID: -8349980529615060116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_53
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 490
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb96c462f48f379e0800000000000000
+      internalID: -1624682021721970241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_54
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 453
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74434691df1f92d30800000000000000
+      internalID: 4407319779713758279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_55
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 455
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b3bbcf761319c80800000000000000
+      internalID: -8317812714085074096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_56
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 457
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9fd6a6f54580fc0800000000000000
+      internalID: -3528477539260565069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_57
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f928389d7ca6620800000000000000
+      internalID: 2768244658000797490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_58
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 429
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385f9f8a9859f75a0800000000000000
+      internalID: -6521329316931177085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_59
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 439
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9192f810e11b8cdc0800000000000000
+      internalID: -3618447558158898919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_60
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 423
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950822804032ecf40800000000000000
+      internalID: 5750572274422022233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_61
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 423
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8325971b04e722260800000000000000
+      internalID: 7071353181245624888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_62
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 415
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624e282e92c13ace0800000000000000
+      internalID: -1395240493335256026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_63
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 373
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be8647a610539bd0800000000000000
+      internalID: -2624666099600945485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_64
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 355
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053c6621813e78680800000000000000
+      internalID: -8752777658243824816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 305
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2505bfc029ff135a0800000000000000
+      internalID: -6543167780844515246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_66
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 287
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceed4fb7d5af8f410800000000000000
+      internalID: 1511232954401349356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_67
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 341
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de4495ae6d3d75e0800000000000000
+      internalID: -1910303121501565232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_68
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 321
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daff8e41cafe88bc0800000000000000
+      internalID: -3780508364813303891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_69
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 283
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af906ad46b779ae10800000000000000
+      internalID: 2209428717072419322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_70
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 319
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f32a0f8b6ea85820800000000000000
+      internalID: 2907265336452195312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 299
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8822434c1a46350800000000000000
+      internalID: 6009105666879424754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_72
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 299
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c975629c72e7e270800000000000000
+      internalID: 8279835464603892169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_73
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 319
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d94a48d7a60fbc0800000000000000
+      internalID: -3751381402270786200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_74
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 313
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b96949aff0d06cf0800000000000000
+      internalID: -260978981912090191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_75
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 313
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6af4656a4672720800000000000000
+      internalID: 2821334357146314472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_76
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 307
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5399347241dffb140800000000000000
+      internalID: 4737783596016965941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_77
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 199
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd26ee63c35403e0800000000000000
+      internalID: -2088452228348760631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_78
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 135
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7456d7c9e0b6e4ce0800000000000000
+      internalID: -1419079122075949753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_79
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 125
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53a7a78975a3b70800000000000000
+      internalID: 8879505927715829211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_80
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 171
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de71d48e30ee9270800000000000000
+      internalID: 8259285325764984531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_81
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 167
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a5be3f0e2c723f0800000000000000
+      internalID: -925556926980597228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_82
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 175
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae03c4facb42493e0800000000000000
+      internalID: -2047971537733275414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_83
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 137
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49399aba465004870800000000000000
+      internalID: 8664931612995720084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_84
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 141
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126f5aca68f0f1560800000000000000
+      internalID: 7286559793205343777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_85
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 121
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b15374e50f1564f0800000000000000
+      internalID: -836228045639298640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_86
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 117
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5afdfedc5fd44140800000000000000
+      internalID: 4703129500852812382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_87
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 125
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca9a7c584c4e3870800000000000000
+      internalID: 8664446606780308161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_88
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 43
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46508c881571e5860800000000000000
+      internalID: 7520474066709906788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seat-sleep_89
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 31
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b6ef276b1f0a330800000000000000
+      internalID: 3720239058123647863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      seat-sleep_0: -3453238059730616910
+      seat-sleep_1: -1597727117063619010
+      seat-sleep_10: -8600389640592310466
+      seat-sleep_11: 812927813888633950
+      seat-sleep_12: 2372460154501648499
+      seat-sleep_13: -8097892715856493332
+      seat-sleep_14: -4618640606915395584
+      seat-sleep_15: 3518290535008568229
+      seat-sleep_16: 8390856257056048891
+      seat-sleep_17: 6504609059756329069
+      seat-sleep_18: 4595651733382384110
+      seat-sleep_19: 169813377854636868
+      seat-sleep_2: 8220842963236876340
+      seat-sleep_20: 698499544156011900
+      seat-sleep_21: -7524161334004431939
+      seat-sleep_22: 2036568597033106168
+      seat-sleep_23: -4810030869983987114
+      seat-sleep_24: -2970653805242963618
+      seat-sleep_25: 487395128309196605
+      seat-sleep_26: 7850509255132135834
+      seat-sleep_27: -5308641384664413638
+      seat-sleep_28: 2120740681601241621
+      seat-sleep_29: 6513004350886163423
+      seat-sleep_3: -7283366300366553122
+      seat-sleep_30: -7425655547911675970
+      seat-sleep_31: -5975845105773917577
+      seat-sleep_32: -7885065000538165781
+      seat-sleep_33: 1931736414979107628
+      seat-sleep_34: 5716636754905893224
+      seat-sleep_35: 1878221529076877202
+      seat-sleep_36: -556545974278276614
+      seat-sleep_37: -383698000087265170
+      seat-sleep_38: 1553992738611212667
+      seat-sleep_39: -3745180146392345381
+      seat-sleep_4: -8600190559270135491
+      seat-sleep_40: 3155241879981875302
+      seat-sleep_41: 4969037897170721581
+      seat-sleep_42: 6468313549981079714
+      seat-sleep_43: 6804384487348611805
+      seat-sleep_44: -8262345147172961105
+      seat-sleep_45: -4453554201203740097
+      seat-sleep_46: -8032504116070029646
+      seat-sleep_47: 7543317188196284767
+      seat-sleep_48: 1518700042967382895
+      seat-sleep_49: 1988845095684609505
+      seat-sleep_5: 1830923834838553779
+      seat-sleep_50: -8256802424577770128
+      seat-sleep_51: -3384664736271910446
+      seat-sleep_52: -8349980529615060116
+      seat-sleep_53: -1624682021721970241
+      seat-sleep_54: 4407319779713758279
+      seat-sleep_55: -8317812714085074096
+      seat-sleep_56: -3528477539260565069
+      seat-sleep_57: 2768244658000797490
+      seat-sleep_58: -6521329316931177085
+      seat-sleep_59: -3618447558158898919
+      seat-sleep_6: -4700014124138389860
+      seat-sleep_60: 5750572274422022233
+      seat-sleep_61: 7071353181245624888
+      seat-sleep_62: -1395240493335256026
+      seat-sleep_63: -2624666099600945485
+      seat-sleep_64: -8752777658243824816
+      seat-sleep_65: -6543167780844515246
+      seat-sleep_66: 1511232954401349356
+      seat-sleep_67: -1910303121501565232
+      seat-sleep_68: -3780508364813303891
+      seat-sleep_69: 2209428717072419322
+      seat-sleep_7: 6938165524643116493
+      seat-sleep_70: 2907265336452195312
+      seat-sleep_71: 6009105666879424754
+      seat-sleep_72: 8279835464603892169
+      seat-sleep_73: -3751381402270786200
+      seat-sleep_74: -260978981912090191
+      seat-sleep_75: 2821334357146314472
+      seat-sleep_76: 4737783596016965941
+      seat-sleep_77: -2088452228348760631
+      seat-sleep_78: -1419079122075949753
+      seat-sleep_79: 8879505927715829211
+      seat-sleep_8: -1758774889535546990
+      seat-sleep_80: 8259285325764984531
+      seat-sleep_81: -925556926980597228
+      seat-sleep_82: -2047971537733275414
+      seat-sleep_83: 8664931612995720084
+      seat-sleep_84: 7286559793205343777
+      seat-sleep_85: -836228045639298640
+      seat-sleep_86: 4703129500852812382
+      seat-sleep_87: 8664446606780308161
+      seat-sleep_88: 7520474066709906788
+      seat-sleep_89: 3720239058123647863
+      seat-sleep_9: 800266384071332652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

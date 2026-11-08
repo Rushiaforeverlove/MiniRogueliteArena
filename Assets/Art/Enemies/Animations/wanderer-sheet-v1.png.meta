@@ -1,0 +1,2212 @@
+fileFormatVersion: 2
+guid: e6431424389352545914078010fbd448
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 458402722831799627
+    second: wanderer-sheet-v1_0
+  - first:
+      213: -8140849747810529335
+    second: wanderer-sheet-v1_1
+  - first:
+      213: 2813840557169322414
+    second: wanderer-sheet-v1_2
+  - first:
+      213: 2204813096044387016
+    second: wanderer-sheet-v1_3
+  - first:
+      213: 161700534598245279
+    second: wanderer-sheet-v1_4
+  - first:
+      213: -3839901095068890607
+    second: wanderer-sheet-v1_5
+  - first:
+      213: -3564394028885566440
+    second: wanderer-sheet-v1_6
+  - first:
+      213: -379075456587550287
+    second: wanderer-sheet-v1_7
+  - first:
+      213: -4114073570932435345
+    second: wanderer-sheet-v1_8
+  - first:
+      213: -2587443884033998754
+    second: wanderer-sheet-v1_9
+  - first:
+      213: 5992949025674570212
+    second: wanderer-sheet-v1_10
+  - first:
+      213: 6922126835986171785
+    second: wanderer-sheet-v1_11
+  - first:
+      213: 8147300129720848935
+    second: wanderer-sheet-v1_12
+  - first:
+      213: 4849507421971820435
+    second: wanderer-sheet-v1_13
+  - first:
+      213: -8162538589865829158
+    second: wanderer-sheet-v1_14
+  - first:
+      213: -1694400209389923980
+    second: wanderer-sheet-v1_15
+  - first:
+      213: 9199727084580046864
+    second: wanderer-sheet-v1_16
+  - first:
+      213: 4902124880497710871
+    second: wanderer-sheet-v1_17
+  - first:
+      213: 6183365230999020278
+    second: wanderer-sheet-v1_18
+  - first:
+      213: -7334753300916310352
+    second: wanderer-sheet-v1_19
+  - first:
+      213: 426737886569374681
+    second: wanderer-sheet-v1_20
+  - first:
+      213: -5174641543336880948
+    second: wanderer-sheet-v1_21
+  - first:
+      213: 7635545606655501968
+    second: wanderer-sheet-v1_22
+  - first:
+      213: 66989220530454323
+    second: wanderer-sheet-v1_23
+  - first:
+      213: 5997258087543335038
+    second: wanderer-sheet-v1_24
+  - first:
+      213: 8470228522910913083
+    second: wanderer-sheet-v1_25
+  - first:
+      213: -750676386058327579
+    second: wanderer-sheet-v1_26
+  - first:
+      213: 6581164034065562695
+    second: wanderer-sheet-v1_27
+  - first:
+      213: 8033716325543959693
+    second: wanderer-sheet-v1_28
+  - first:
+      213: 8509968011996065310
+    second: wanderer-sheet-v1_29
+  - first:
+      213: 1110480043542582293
+    second: wanderer-sheet-v1_30
+  - first:
+      213: 4542586636602940649
+    second: wanderer-sheet-v1_31
+  - first:
+      213: 8295290165401822656
+    second: wanderer-sheet-v1_32
+  - first:
+      213: -1339250453558621417
+    second: wanderer-sheet-v1_33
+  - first:
+      213: 4367875171656813762
+    second: wanderer-sheet-v1_34
+  - first:
+      213: 6961040195467006739
+    second: wanderer-sheet-v1_35
+  - first:
+      213: -1579415540012901275
+    second: wanderer-sheet-v1_36
+  - first:
+      213: 5473060709085519937
+    second: wanderer-sheet-v1_37
+  - first:
+      213: 1325393460868953667
+    second: wanderer-sheet-v1_38
+  - first:
+      213: 1280207945146229001
+    second: wanderer-sheet-v1_39
+  - first:
+      213: -5633495272637541543
+    second: wanderer-sheet-v1_40
+  - first:
+      213: 7382058085903592865
+    second: wanderer-sheet-v1_41
+  - first:
+      213: 8498186151689190248
+    second: wanderer-sheet-v1_42
+  - first:
+      213: -8820136618098802538
+    second: wanderer-sheet-v1_43
+  - first:
+      213: 2321813457923948684
+    second: wanderer-sheet-v1_44
+  - first:
+      213: -377882620748304746
+    second: wanderer-sheet-v1_45
+  - first:
+      213: -3860662845807602061
+    second: wanderer-sheet-v1_46
+  - first:
+      213: 6927937094205335006
+    second: wanderer-sheet-v1_47
+  - first:
+      213: -7522384931626476328
+    second: wanderer-sheet-v1_48
+  - first:
+      213: 8070845495269146044
+    second: wanderer-sheet-v1_49
+  - first:
+      213: -7597776608752398405
+    second: wanderer-sheet-v1_50
+  - first:
+      213: 4311420651601411913
+    second: wanderer-sheet-v1_51
+  - first:
+      213: -6706652713817288403
+    second: wanderer-sheet-v1_52
+  - first:
+      213: 6330494035877474530
+    second: wanderer-sheet-v1_53
+  - first:
+      213: 1296617346085163555
+    second: wanderer-sheet-v1_54
+  - first:
+      213: 3604866294343242138
+    second: wanderer-sheet-v1_55
+  - first:
+      213: -8174427451558567781
+    second: wanderer-sheet-v1_56
+  - first:
+      213: -4974813500600384072
+    second: wanderer-sheet-v1_57
+  - first:
+      213: -4975037640397046470
+    second: wanderer-sheet-v1_58
+  - first:
+      213: -8857403757741817829
+    second: wanderer-sheet-v1_59
+  - first:
+      213: 8751315657162928917
+    second: wanderer-sheet-v1_60
+  - first:
+      213: -8726285244534832159
+    second: wanderer-sheet-v1_61
+  - first:
+      213: 1913516768430441831
+    second: wanderer-sheet-v1_62
+  - first:
+      213: -3028217885088323248
+    second: wanderer-sheet-v1_63
+  - first:
+      213: -3432216964894612886
+    second: wanderer-sheet-v1_64
+  - first:
+      213: 9147075758257525913
+    second: wanderer-sheet-v1_65
+  - first:
+      213: 202635662370836347
+    second: wanderer-sheet-v1_66
+  - first:
+      213: 7299611682211573698
+    second: wanderer-sheet-v1_67
+  - first:
+      213: 643254055049193763
+    second: wanderer-sheet-v1_68
+  - first:
+      213: 2720642662546315339
+    second: wanderer-sheet-v1_69
+  - first:
+      213: -2601171637246653904
+    second: wanderer-sheet-v1_70
+  - first:
+      213: -6580693444404176629
+    second: wanderer-sheet-v1_71
+  - first:
+      213: -3092236239118313631
+    second: wanderer-sheet-v1_72
+  - first:
+      213: 2225357235856125948
+    second: wanderer-sheet-v1_73
+  - first:
+      213: -4143385758767498645
+    second: wanderer-sheet-v1_74
+  - first:
+      213: -8014106984895838660
+    second: wanderer-sheet-v1_75
+  - first:
+      213: 9031063078838002872
+    second: wanderer-sheet-v1_76
+  - first:
+      213: 4448459785869301070
+    second: wanderer-sheet-v1_77
+  - first:
+      213: 8551583094473403375
+    second: wanderer-sheet-v1_78
+  - first:
+      213: 1551352131623388952
+    second: wanderer-sheet-v1_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 890
+        width: 215
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45167209d29c5600800000000000000
+      internalID: 458402722831799627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 893
+        width: 246
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfcce35944e50f80800000000000000
+      internalID: -8140849747810529335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1067
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea92aa01415cc0720800000000000000
+      internalID: 2813840557169322414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 894
+        width: 213
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cadad944d1199e10800000000000000
+      internalID: 2204813096044387016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1063
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b18bc87c97e3200800000000000000
+      internalID: 161700534598245279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 890
+        width: 217
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a09c77c4ee5bac0800000000000000
+      internalID: -3839901095068890607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_6
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 889
+        width: 222
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c90c4048ab88ec0800000000000000
+      internalID: -3564394028885566440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1085
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1b70371e04dbaf0800000000000000
+      internalID: -379075456587550287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_8
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1063
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66dfb072efd7e6c0800000000000000
+      internalID: -4114073570932435345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_9
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 901
+        width: 204
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5085ef0f7d871cd0800000000000000
+      internalID: -2587443884033998754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1047
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e92b58036b3b2350800000000000000
+      internalID: 5992949025674570212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1023
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987872daea5501060800000000000000
+      internalID: 6922126835986171785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_12
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1039
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722518e3d46011170800000000000000
+      internalID: 8147300129720848935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 906
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f20467e49ec4340800000000000000
+      internalID: 4849507421971820435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 903
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc11a54666d8be80800000000000000
+      internalID: -8162538589865829158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 902
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47157f3acf74c78e0800000000000000
+      internalID: -1694400209389923980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 909
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0180fea8a0ffbaf70800000000000000
+      internalID: 9199727084580046864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_17
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 908
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7179ba23b98d70440800000000000000
+      internalID: 4902124880497710871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_18
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 907
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2a23eaae9bfc550800000000000000
+      internalID: 6183365230999020278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 902
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be62c7ebb8b53a90800000000000000
+      internalID: -7334753300916310352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_20
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 909
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d32b2dc8d31ce500800000000000000
+      internalID: 426737886569374681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 902
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc41d69ceeaff28b0800000000000000
+      internalID: -5174641543336880948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 893
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096eefe3648e6f960800000000000000
+      internalID: 7635545606655501968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_23
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 694
+        width: 209
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f7f75575efde000800000000000000
+      internalID: 66989220530454323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_24
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 888
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78eb5ea47a8a3350800000000000000
+      internalID: 5997258087543335038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_25
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 887
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b329c72e6fb4c8570800000000000000
+      internalID: 8470228522910913083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_26
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 886
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e928bbddcf0595f0800000000000000
+      internalID: -750676386058327579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_27
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 664
+        width: 214
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cfd0b02ddf45b50800000000000000
+      internalID: 6581164034065562695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_28
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 890
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cdd420f6e7d7f60800000000000000
+      internalID: 8033716325543959693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_29
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 650
+        width: 216
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e66f4b1da791670800000000000000
+      internalID: 8509968011996065310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 246
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514148d47b7396f00800000000000000
+      internalID: 1110480043542582293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_31
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 660
+        width: 228
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec97247a728a0f30800000000000000
+      internalID: 4542586636602940649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_32
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 702
+        width: 225
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c52191847ace1370800000000000000
+      internalID: 8295290165401822656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_33
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 875
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b8b52eec60a6de0800000000000000
+      internalID: -1339250453558621417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_34
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 840
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc4add935fcd9c30800000000000000
+      internalID: 4367875171656813762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_35
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 825
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313d6063d259a9060800000000000000
+      internalID: 6961040195467006739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 676
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c9cc83fe9c41ae0800000000000000
+      internalID: -1579415540012901275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 678
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140a037a7b734fb40800000000000000
+      internalID: 5473060709085519937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_38
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 176
+        width: 498
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34638b6945eb46210800000000000000
+      internalID: 1325393460868953667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 440
+        width: 219
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901e211e75634c110800000000000000
+      internalID: 1280207945146229001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_40
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 660
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953d896a5edc1d1b0800000000000000
+      internalID: -5633495272637541543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 442
+        width: 449
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad6591a7b6527660800000000000000
+      internalID: 7382058085903592865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_42
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 440
+        width: 240
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bf396974f9fe570800000000000000
+      internalID: 8498186151689190248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_43
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 596
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6904ec71a74989580800000000000000
+      internalID: -8820136618098802538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_44
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 432
+        width: 218
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80474ad90db83020800000000000000
+      internalID: 2321813457923948684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_45
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 451
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ee08f22cd71caf0800000000000000
+      internalID: -377882620748304746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 440
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376d61ea89b2c6ac0800000000000000
+      internalID: -3860662845807602061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_47
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 444
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed56c56d41af42060800000000000000
+      internalID: 6927937094205335006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 238
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc17ae82ce1b9790800000000000000
+      internalID: -7522384931626476328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_49
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 130
+        width: 238
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd349e7737610070800000000000000
+      internalID: 8070845495269146044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_50
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 434
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf8a88dd664f8690800000000000000
+      internalID: -7597776608752398405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_51
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 424
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f3cff5d3e35db30800000000000000
+      internalID: 4311420651601411913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21d201e3ee2de2a0800000000000000
+      internalID: -6706652713817288403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 198
+        width: 208
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0b43509ce6ad750800000000000000
+      internalID: 6330494035877474530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_54
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 224
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32214034b928ef110800000000000000
+      internalID: 1296617346085163555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_55
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 136
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a919b199bce070230800000000000000
+      internalID: 3604866294343242138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_56
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 142
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9066a3fa899e8e80800000000000000
+      internalID: -8174427451558567781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_57
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 461
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b585e89a79e5fab0800000000000000
+      internalID: -4974813500600384072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_58
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 158
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dbfebff9d15fab0800000000000000
+      internalID: -4975037640397046470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_59
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 194
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10c69bf53e241580800000000000000
+      internalID: -8857403757741817829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_60
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 196
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513b286493be27970800000000000000
+      internalID: 8751315657162928917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_61
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 199
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3c4cecdc106e680800000000000000
+      internalID: -8726285244534832159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_62
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 199
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765cc06dc5d2e8a10800000000000000
+      internalID: 1913516768430441831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_63
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 190
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05963d0b0eb99f5d0800000000000000
+      internalID: -3028217885088323248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_64
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 192
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a622367ead05e50d0800000000000000
+      internalID: -3432216964894612886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_65
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 184
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994d68850f0f0fe70800000000000000
+      internalID: 9147075758257525913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_66
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 196
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f8072bf08efc200800000000000000
+      internalID: 202635662370836347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_67
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 192
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf2384662e6d4560800000000000000
+      internalID: 7299611682211573698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_68
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 194
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329698ba72c4de800800000000000000
+      internalID: 643254055049193763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_69
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 0
+        width: 220
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4898d5461aa1c520800000000000000
+      internalID: 2720642662546315339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_70
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 177
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a87127d28c6ebd0800000000000000
+      internalID: -2601171637246653904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_71
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 184
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b091c86ad2eaca4a0800000000000000
+      internalID: -6580693444404176629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_72
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 182
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16753cd168b2615d0800000000000000
+      internalID: -3092236239118313631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_73
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffac859d9e02ee10800000000000000
+      internalID: 2225357235856125948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_74
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 102
+        width: 207
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a3041ea9cbf76c0800000000000000
+      internalID: -4143385758767498645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_75
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 216
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c368e45682c28c090800000000000000
+      internalID: -8014106984895838660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_76
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 190
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4e8468508c45d70800000000000000
+      internalID: 9031063078838002872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_77
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 114
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4599563b9a1cbd30800000000000000
+      internalID: 4448459785869301070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_78
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 51
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feba25524835da670800000000000000
+      internalID: 8551583094473403375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wanderer-sheet-v1_79
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 23
+        width: 153
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81705f65b82878510800000000000000
+      internalID: 1551352131623388952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wanderer-sheet-v1_0: 458402722831799627
+      wanderer-sheet-v1_1: -8140849747810529335
+      wanderer-sheet-v1_10: 5992949025674570212
+      wanderer-sheet-v1_11: 6922126835986171785
+      wanderer-sheet-v1_12: 8147300129720848935
+      wanderer-sheet-v1_13: 4849507421971820435
+      wanderer-sheet-v1_14: -8162538589865829158
+      wanderer-sheet-v1_15: -1694400209389923980
+      wanderer-sheet-v1_16: 9199727084580046864
+      wanderer-sheet-v1_17: 4902124880497710871
+      wanderer-sheet-v1_18: 6183365230999020278
+      wanderer-sheet-v1_19: -7334753300916310352
+      wanderer-sheet-v1_2: 2813840557169322414
+      wanderer-sheet-v1_20: 426737886569374681
+      wanderer-sheet-v1_21: -5174641543336880948
+      wanderer-sheet-v1_22: 7635545606655501968
+      wanderer-sheet-v1_23: 66989220530454323
+      wanderer-sheet-v1_24: 5997258087543335038
+      wanderer-sheet-v1_25: 8470228522910913083
+      wanderer-sheet-v1_26: -750676386058327579
+      wanderer-sheet-v1_27: 6581164034065562695
+      wanderer-sheet-v1_28: 8033716325543959693
+      wanderer-sheet-v1_29: 8509968011996065310
+      wanderer-sheet-v1_3: 2204813096044387016
+      wanderer-sheet-v1_30: 1110480043542582293
+      wanderer-sheet-v1_31: 4542586636602940649
+      wanderer-sheet-v1_32: 8295290165401822656
+      wanderer-sheet-v1_33: -1339250453558621417
+      wanderer-sheet-v1_34: 4367875171656813762
+      wanderer-sheet-v1_35: 6961040195467006739
+      wanderer-sheet-v1_36: -1579415540012901275
+      wanderer-sheet-v1_37: 5473060709085519937
+      wanderer-sheet-v1_38: 1325393460868953667
+      wanderer-sheet-v1_39: 1280207945146229001
+      wanderer-sheet-v1_4: 161700534598245279
+      wanderer-sheet-v1_40: -5633495272637541543
+      wanderer-sheet-v1_41: 7382058085903592865
+      wanderer-sheet-v1_42: 8498186151689190248
+      wanderer-sheet-v1_43: -8820136618098802538
+      wanderer-sheet-v1_44: 2321813457923948684
+      wanderer-sheet-v1_45: -377882620748304746
+      wanderer-sheet-v1_46: -3860662845807602061
+      wanderer-sheet-v1_47: 6927937094205335006
+      wanderer-sheet-v1_48: -7522384931626476328
+      wanderer-sheet-v1_49: 8070845495269146044
+      wanderer-sheet-v1_5: -3839901095068890607
+      wanderer-sheet-v1_50: -7597776608752398405
+      wanderer-sheet-v1_51: 4311420651601411913
+      wanderer-sheet-v1_52: -6706652713817288403
+      wanderer-sheet-v1_53: 6330494035877474530
+      wanderer-sheet-v1_54: 1296617346085163555
+      wanderer-sheet-v1_55: 3604866294343242138
+      wanderer-sheet-v1_56: -8174427451558567781
+      wanderer-sheet-v1_57: -4974813500600384072
+      wanderer-sheet-v1_58: -4975037640397046470
+      wanderer-sheet-v1_59: -8857403757741817829
+      wanderer-sheet-v1_6: -3564394028885566440
+      wanderer-sheet-v1_60: 8751315657162928917
+      wanderer-sheet-v1_61: -8726285244534832159
+      wanderer-sheet-v1_62: 1913516768430441831
+      wanderer-sheet-v1_63: -3028217885088323248
+      wanderer-sheet-v1_64: -3432216964894612886
+      wanderer-sheet-v1_65: 9147075758257525913
+      wanderer-sheet-v1_66: 202635662370836347
+      wanderer-sheet-v1_67: 7299611682211573698
+      wanderer-sheet-v1_68: 643254055049193763
+      wanderer-sheet-v1_69: 2720642662546315339
+      wanderer-sheet-v1_7: -379075456587550287
+      wanderer-sheet-v1_70: -2601171637246653904
+      wanderer-sheet-v1_71: -6580693444404176629
+      wanderer-sheet-v1_72: -3092236239118313631
+      wanderer-sheet-v1_73: 2225357235856125948
+      wanderer-sheet-v1_74: -4143385758767498645
+      wanderer-sheet-v1_75: -8014106984895838660
+      wanderer-sheet-v1_76: 9031063078838002872
+      wanderer-sheet-v1_77: 4448459785869301070
+      wanderer-sheet-v1_78: 8551583094473403375
+      wanderer-sheet-v1_79: 1551352131623388952
+      wanderer-sheet-v1_8: -4114073570932435345
+      wanderer-sheet-v1_9: -2587443884033998754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

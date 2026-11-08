@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fcff1b540286a143b713f58ef4afb01, type: 3}
+  m_Name: Greatsword
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  displayName: "\u7720\u6708\u30FB\u5DE8\u528D"
+  projectilePrefab: {fileID: 65110740722944154, guid: 183277aea17aec34cb4f23f5f1659dab, type: 3}
+  attackInterval: 0.48
+  attackRange: 3.2
+  primaryAttackStyle: {fileID: 11400000, guid: c15160d7a26578846aa67dfde73eb21a, type: 2}

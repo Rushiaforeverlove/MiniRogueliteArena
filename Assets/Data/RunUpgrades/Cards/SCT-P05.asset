@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: SCT-P05
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: SCT-P05
+  title: "\u9060\u9EDE\u5831\u544A"
+  ownerRoleId: scout_01
+  effectKey: scout.distance_pass
+  description: "\u6BCF\u64CA\u6BBA 4 \u540D\u8DDD\u96E2\u81F3\u5C11 4 \u7684\u6575\u4EBA\uFF0C\u7372\u4E00\u679A\u901A\u884C\u8B49\uFF0C\u4E0A\u9650 3\uFF1B\u4E0B\u4E00\u6B21 E \u81EA\u52D5\u6D88\u8017\u4E00\u679A\uFF0C\u4F7F\u8A72\u6B21\u4E0D\u6D88\u8017\u5145\u80FD\u3002\u53D6\u5F97\u5361\u7247\u6642\u5148\u7D66\u4E00\u679A\u3002"
+  quality: 1
+  category: 2
+  icon: {fileID: 21300000, guid: 4ed6a1b6b2104c046a0d100373603f68, type: 3}
+  artBrief: "\u5370\u8457\u9060\u8DDD\u6E96\u661F\u7684\u901A\u884C\u8B49\uFF0C\u88AB\u593E\u5728\u9152\u5427\u5E33\u672C\u88E1"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: minimumDistance
+    values:
+    - 4
+  - key: killThreshold
+    values:
+    - 4
+  - key: capacity
+    values:
+    - 3
+  - key: initialTokens
+    values:
+    - 1

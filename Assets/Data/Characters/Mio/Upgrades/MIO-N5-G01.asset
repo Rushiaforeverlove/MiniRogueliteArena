@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: MIO-N5-G01
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: MIO-N5-G01
+  title: "\u4ECA\u591C\uFF0C\u7531\u6211\u958B\u8DEF"
+  ownerRoleId: mio_01
+  effectKey: mio.open_the_way
+  description: "\u958B Q \u7ACB\u523B\u88DC\u6EFF E\u3002Q \u671F\u9593\u6BCF\u6B21\u65BD\u653E E\uFF0C\u8B93\u4E0B\u4E00\u6B21\u666E\u653B\u8FFD\u52A0\u540C\u65B9\u5411\u528D\u5F71\uFF0C\u9020\u6210\u8A72\u6B21\u653B\u64CA 60% \u50B7\u5BB3\uFF1B\u4E0D\u5806\u758A\u3002"
+  quality: 2
+  category: 2
+  icon: {fileID: -5237584250111367133, guid: e3ad5dbb5b6f4d5408361246d60b0c5e, type: 2}
+  artBrief: "\u7720\u6708\u5DE8\u528D\uFF0F\u6708\u8272\uFF0F\u62D6\u528D\u8207\u89E3\u653E\uFF1B\u5716\u96C6\u683C 17"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 1
+  requiresNodeFive: 1
+  requiredCardIds: []
+  numbers:
+  - key: coefficient
+    values:
+    - 0.6

@@ -1,0 +1,1146 @@
+fileFormatVersion: 2
+guid: eeab2fd115d720a418cc2e7270f696e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4672643270600023668
+    second: SUP-GRD-W02_0
+  - first:
+      213: 3441277952985718134
+    second: SUP-GRD-W02_1
+  - first:
+      213: 5197277100810577476
+    second: SUP-GRD-W02_2
+  - first:
+      213: 4931523972969464155
+    second: SUP-GRD-W02_3
+  - first:
+      213: 5253459742209967179
+    second: SUP-GRD-W02_4
+  - first:
+      213: -745572730925849581
+    second: SUP-GRD-W02_5
+  - first:
+      213: -3477287728569520434
+    second: SUP-GRD-W02_6
+  - first:
+      213: -8004135150581111538
+    second: SUP-GRD-W02_7
+  - first:
+      213: -897708412981432869
+    second: SUP-GRD-W02_8
+  - first:
+      213: 8999871089687513261
+    second: SUP-GRD-W02_9
+  - first:
+      213: -1201466440941930925
+    second: SUP-GRD-W02_10
+  - first:
+      213: 1189860596120722735
+    second: SUP-GRD-W02_11
+  - first:
+      213: -4652409479102186957
+    second: SUP-GRD-W02_12
+  - first:
+      213: 1434489851130272889
+    second: SUP-GRD-W02_13
+  - first:
+      213: -1465897384981079263
+    second: SUP-GRD-W02_14
+  - first:
+      213: 7806517665171592604
+    second: SUP-GRD-W02_15
+  - first:
+      213: -4946129397330697809
+    second: SUP-GRD-W02_16
+  - first:
+      213: -5955001442138394096
+    second: SUP-GRD-W02_17
+  - first:
+      213: -6319310175732423423
+    second: SUP-GRD-W02_18
+  - first:
+      213: 3054290292115952731
+    second: SUP-GRD-W02_19
+  - first:
+      213: -1519227279728394508
+    second: SUP-GRD-W02_20
+  - first:
+      213: 6759601267419342572
+    second: SUP-GRD-W02_21
+  - first:
+      213: 4994614103857291707
+    second: SUP-GRD-W02_22
+  - first:
+      213: -2340494675792014432
+    second: SUP-GRD-W02_23
+  - first:
+      213: -8199388035369653966
+    second: SUP-GRD-W02_24
+  - first:
+      213: -3539699596984635499
+    second: SUP-GRD-W02_25
+  - first:
+      213: -5655123838294235094
+    second: SUP-GRD-W02_26
+  - first:
+      213: -242983876887926903
+    second: SUP-GRD-W02_27
+  - first:
+      213: -2116432862094530277
+    second: SUP-GRD-W02_28
+  - first:
+      213: 1541849279598989526
+    second: SUP-GRD-W02_29
+  - first:
+      213: -7151962079388681720
+    second: SUP-GRD-W02_30
+  - first:
+      213: 2656936220112349211
+    second: SUP-GRD-W02_31
+  - first:
+      213: -3381109801508763546
+    second: SUP-GRD-W02_32
+  - first:
+      213: 1264548088116323386
+    second: SUP-GRD-W02_33
+  - first:
+      213: -8434243217571774879
+    second: SUP-GRD-W02_34
+  - first:
+      213: -3749385113106642362
+    second: SUP-GRD-W02_35
+  - first:
+      213: -7709993759710021212
+    second: SUP-GRD-W02_36
+  - first:
+      213: 437277801491955939
+    second: SUP-GRD-W02_37
+  - first:
+      213: -4982694771907985350
+    second: SUP-GRD-W02_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SUP-GRD-W02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 55
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47edb324c4098d040800000000000000
+      internalID: 4672643270600023668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1223
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dd819c010e1cf20800000000000000
+      internalID: 3441277952985718134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1223
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4462611acff602840800000000000000
+      internalID: 5197277100810577476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1211
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b510b22dcea407440800000000000000
+      internalID: 4931523972969464155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1211
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b448d303dc908e840800000000000000
+      internalID: 5253459742209967179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1210
+        width: 156
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31462fa2d8137a5f0800000000000000
+      internalID: -745572730925849581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_6
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1199
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee9ccfb313ebfc0800000000000000
+      internalID: -3477287728569520434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1156
+        width: 27
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05256ffc799be090800000000000000
+      internalID: -8004135150581111538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_8
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1158
+        width: 17
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddac5464f2ba83f0800000000000000
+      internalID: -897708412981432869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 1174
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8c12d9217f5ec70800000000000000
+      internalID: 8999871089687513261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1205
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567a1a33a8835fe0800000000000000
+      internalID: -1201466440941930925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_11
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d920478eb338010800000000000000
+      internalID: 1189860596120722735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_12
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1143
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a34707a325f6fb0800000000000000
+      internalID: -4652409479102186957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_13
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1142
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cd58a5be458e310800000000000000
+      internalID: 1434489851130272889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_14
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1110
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b5703581618abe0800000000000000
+      internalID: -1465897384981079263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_15
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1113
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c955d5da472565c60800000000000000
+      internalID: 7806517665171592604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1044
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1acf2d481db5bb0800000000000000
+      internalID: -4946129397330697809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 929
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012f6644db59b5da0800000000000000
+      internalID: -5955001442138394096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_18
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 903
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10525f550ec4d48a0800000000000000
+      internalID: -6319310175732423423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_19
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 905
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54de7e96d4036a20800000000000000
+      internalID: 3054290292115952731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feb4ba96de9aeae0800000000000000
+      internalID: -1519227279728394508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 43
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce66fcfe98deecd50800000000000000
+      internalID: 6759601267419342572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 712
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1e19a901f605540800000000000000
+      internalID: 4994614103857291707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_23
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 644
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a359ba2e74e48fd0800000000000000
+      internalID: -2340494675792014432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_24
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 469
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392438260ce53e80800000000000000
+      internalID: -8199388035369653966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_25
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f232e78f570eec0800000000000000
+      internalID: -3539699596984635499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 73
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28e0a9c4d6f481b0800000000000000
+      internalID: -5655123838294235094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 178
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987a2fb837fb0acf0800000000000000
+      internalID: -242983876887926903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 101
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1964e7768be0a2e0800000000000000
+      internalID: -2116432862094530277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d090bf20cfb56510800000000000000
+      internalID: 1541849279598989526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 99
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a39faa1602fbc90800000000000000
+      internalID: -7151962079388681720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b186aa64a655fd420800000000000000
+      internalID: 2656936220112349211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 79
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6688a76ac82e311d0800000000000000
+      internalID: -3381109801508763546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 95
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34a29949c39c8110800000000000000
+      internalID: 1264548088116323386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 95
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ef26bea7c83fa80800000000000000
+      internalID: -8434243217571774879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 49
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a042fca1287fbc0800000000000000
+      internalID: -3749385113106642362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_36
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 39
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9710c5689900590800000000000000
+      internalID: -7709993759710021212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_37
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 31
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0871af7d5811600800000000000000
+      internalID: 437277801491955939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-GRD-W02_38
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 35
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a308a302189e9dab0800000000000000
+      internalID: -4982694771907985350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SUP-GRD-W02_0: 4672643270600023668
+      SUP-GRD-W02_1: 3441277952985718134
+      SUP-GRD-W02_10: -1201466440941930925
+      SUP-GRD-W02_11: 1189860596120722735
+      SUP-GRD-W02_12: -4652409479102186957
+      SUP-GRD-W02_13: 1434489851130272889
+      SUP-GRD-W02_14: -1465897384981079263
+      SUP-GRD-W02_15: 7806517665171592604
+      SUP-GRD-W02_16: -4946129397330697809
+      SUP-GRD-W02_17: -5955001442138394096
+      SUP-GRD-W02_18: -6319310175732423423
+      SUP-GRD-W02_19: 3054290292115952731
+      SUP-GRD-W02_2: 5197277100810577476
+      SUP-GRD-W02_20: -1519227279728394508
+      SUP-GRD-W02_21: 6759601267419342572
+      SUP-GRD-W02_22: 4994614103857291707
+      SUP-GRD-W02_23: -2340494675792014432
+      SUP-GRD-W02_24: -8199388035369653966
+      SUP-GRD-W02_25: -3539699596984635499
+      SUP-GRD-W02_26: -5655123838294235094
+      SUP-GRD-W02_27: -242983876887926903
+      SUP-GRD-W02_28: -2116432862094530277
+      SUP-GRD-W02_29: 1541849279598989526
+      SUP-GRD-W02_3: 4931523972969464155
+      SUP-GRD-W02_30: -7151962079388681720
+      SUP-GRD-W02_31: 2656936220112349211
+      SUP-GRD-W02_32: -3381109801508763546
+      SUP-GRD-W02_33: 1264548088116323386
+      SUP-GRD-W02_34: -8434243217571774879
+      SUP-GRD-W02_35: -3749385113106642362
+      SUP-GRD-W02_36: -7709993759710021212
+      SUP-GRD-W02_37: 437277801491955939
+      SUP-GRD-W02_38: -4982694771907985350
+      SUP-GRD-W02_4: 5253459742209967179
+      SUP-GRD-W02_5: -745572730925849581
+      SUP-GRD-W02_6: -3477287728569520434
+      SUP-GRD-W02_7: -8004135150581111538
+      SUP-GRD-W02_8: -897708412981432869
+      SUP-GRD-W02_9: 8999871089687513261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

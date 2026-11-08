@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: SCT-G02
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: SCT-G02
+  title: "\u96F6\u865F\u822A\u7DDA"
+  ownerRoleId: scout_01
+  effectKey: scout.route_zero
+  description: "\u6BCF\u6B21\u9583\u907F\u7559\u4E0B 3 \u79D2\u706B\u7DDA\uFF0C\u4E26\u5075\u5BDF\u8DEF\u5F91\u9644\u8FD1\u6575\u4EBA\uFF1B\u7AD9\u5728\u706B\u7DDA\u4E0A\u666E\u653B\u6216\u7528 E\uFF0C\u53EF\u5411\u6700\u591A\u5169\u540D\u5075\u5BDF\u6575\u4EBA\u8FFD\u52A0\u5404\u4E00\u679A 60% \u666E\u653B\u57FA\u6E96\u50B7\u5BB3\u7684\u5C0E\u5F15\u5F48\uFF0C\u5167\u7F6E\u51B7\u537B 1 \u79D2\u3002"
+  quality: 2
+  category: 2
+  icon: {fileID: 21300000, guid: 9d091e46cbc1ce144ad6bac650aed7f8, type: 3}
+  artBrief: "\u91D1\u8272\u822A\u7DDA\u5F9E\u9774\u908A\u5EF6\u4F38\uFF0C\u5169\u679A\u5C0E\u5F15\u5F48\u6CBF\u7DDA\u8F49\u5F4E"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: markDuration
+    values:
+    - 4
+  - key: icd
+    values:
+    - 1
+  - key: targets
+    values:
+    - 2
+  - key: duration
+    values:
+    - 3
+  - key: pathRadius
+    values:
+    - 1.5
+  - key: coefficient
+    values:
+    - 0.6

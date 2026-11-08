@@ -14,7 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterId: scout_01
   displayName: "\u5075\u5BDF\u54E1"
-  portrait: {fileID: 0}
+  identityProfile: {fileID: 11400000, guid: d35325c1ec9bb6f4085d4dd9b8be95a7, type: 2}
+  unlockedByDefault: 1
+  unlockCost: 500
+  portrait: {fileID: 21300000, guid: 7b89919c8beb2fa4ebc824f6b58dd022, type: 3}
   gameplaySprite: {fileID: 21300000, guid: 60f56a28fe64da94883b589f5aa5e744, type: 3}
   skins:
   - {fileID: 11400000, guid: 28e6058ce95de8944bac1477c306bc94, type: 2}
@@ -40,3 +43,5 @@ MonoBehaviour:
   enhancedESkill: {fileID: 11400000, guid: f712eab1dc4d6a346b2ae4a198844dda, type: 2}
   qEnhanceCost: 200
   enhancedQSkill: {fileID: 11400000, guid: 96df38f53a7524c41a1e19aaa4c975e6, type: 2}
+  nodeFiveCost: 250
+  masteryRewardSkin: {fileID: 0}

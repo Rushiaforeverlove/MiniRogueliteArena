@@ -1,0 +1,1744 @@
+fileFormatVersion: 2
+guid: d3fa0055c915b2d4f846aafd2444911d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2255276260994377419
+    second: q-transitions_0
+  - first:
+      213: 2818300012807728969
+    second: q-transitions_1
+  - first:
+      213: -3429168695455719662
+    second: q-transitions_2
+  - first:
+      213: -7399019096194612750
+    second: q-transitions_3
+  - first:
+      213: -2716239982754992114
+    second: q-transitions_4
+  - first:
+      213: -368314869644317991
+    second: q-transitions_5
+  - first:
+      213: -2755895539780941452
+    second: q-transitions_6
+  - first:
+      213: 3520938095285176737
+    second: q-transitions_7
+  - first:
+      213: -6496612879424652762
+    second: q-transitions_8
+  - first:
+      213: 7588773581699562558
+    second: q-transitions_9
+  - first:
+      213: -6252827074893180935
+    second: q-transitions_10
+  - first:
+      213: -7475494249742610832
+    second: q-transitions_11
+  - first:
+      213: -7467390787847198816
+    second: q-transitions_12
+  - first:
+      213: 859722716805126165
+    second: q-transitions_13
+  - first:
+      213: -7323322366943430502
+    second: q-transitions_14
+  - first:
+      213: 724931778994156192
+    second: q-transitions_15
+  - first:
+      213: -6011270681462480383
+    second: q-transitions_16
+  - first:
+      213: 3537270287903678792
+    second: q-transitions_17
+  - first:
+      213: 1457755315064528287
+    second: q-transitions_18
+  - first:
+      213: -1523957964564303223
+    second: q-transitions_19
+  - first:
+      213: -3009791418364233407
+    second: q-transitions_20
+  - first:
+      213: 3624659077120122526
+    second: q-transitions_21
+  - first:
+      213: -4075796741228552988
+    second: q-transitions_22
+  - first:
+      213: -2698404880738510292
+    second: q-transitions_23
+  - first:
+      213: -6864732481475210062
+    second: q-transitions_24
+  - first:
+      213: -2255381670416912241
+    second: q-transitions_25
+  - first:
+      213: 4978658816322069559
+    second: q-transitions_26
+  - first:
+      213: -2731963835726250582
+    second: q-transitions_27
+  - first:
+      213: 3828131556704671868
+    second: q-transitions_28
+  - first:
+      213: -5622575285421458386
+    second: q-transitions_29
+  - first:
+      213: -156453591809265421
+    second: q-transitions_30
+  - first:
+      213: 626814745535540662
+    second: q-transitions_31
+  - first:
+      213: 6720277522693584446
+    second: q-transitions_32
+  - first:
+      213: -4153114360055099807
+    second: q-transitions_33
+  - first:
+      213: -4527739048630265464
+    second: q-transitions_34
+  - first:
+      213: 3863006873629299811
+    second: q-transitions_35
+  - first:
+      213: 8081136196154285386
+    second: q-transitions_36
+  - first:
+      213: -5929024024845854854
+    second: q-transitions_37
+  - first:
+      213: -5985558961309520700
+    second: q-transitions_38
+  - first:
+      213: -2583756717369438641
+    second: q-transitions_39
+  - first:
+      213: -4909067172770991431
+    second: q-transitions_40
+  - first:
+      213: -4113218638114114076
+    second: q-transitions_41
+  - first:
+      213: -8922899699982702588
+    second: q-transitions_42
+  - first:
+      213: 4969572595057385773
+    second: q-transitions_43
+  - first:
+      213: 442533221798666409
+    second: q-transitions_44
+  - first:
+      213: -3029986283682030030
+    second: q-transitions_45
+  - first:
+      213: -344972050264859795
+    second: q-transitions_46
+  - first:
+      213: -297754571000856242
+    second: q-transitions_47
+  - first:
+      213: 6643938168365683783
+    second: q-transitions_48
+  - first:
+      213: -4790591660357045492
+    second: q-transitions_49
+  - first:
+      213: -4672990768537044059
+    second: q-transitions_50
+  - first:
+      213: -7824479003457889455
+    second: q-transitions_51
+  - first:
+      213: 4024691228101399548
+    second: q-transitions_52
+  - first:
+      213: 302655899362241926
+    second: q-transitions_53
+  - first:
+      213: -6227544417249225049
+    second: q-transitions_54
+  - first:
+      213: 2063247077649629903
+    second: q-transitions_55
+  - first:
+      213: -7865211675134403987
+    second: q-transitions_56
+  - first:
+      213: -4132144467157671757
+    second: q-transitions_57
+  - first:
+      213: -8315402161044896956
+    second: q-transitions_58
+  - first:
+      213: 8151787040024965229
+    second: q-transitions_59
+  - first:
+      213: 8919549221781778422
+    second: q-transitions_60
+  - first:
+      213: 8142388848429544032
+    second: q-transitions_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: q-transitions_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 450
+        width: 351
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5391f098036a3b0e0800000000000000
+      internalID: -2255276260994377419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 285
+        width: 509
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f22edfdec9c1720800000000000000
+      internalID: 2818300012807728969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 844
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fd8707d352960d0800000000000000
+      internalID: -3429168695455719662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_3
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 442
+        width: 447
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f10dfc6557615990800000000000000
+      internalID: -7399019096194612750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 442
+        width: 425
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00fc2f702afd4ad0800000000000000
+      internalID: -2716239982754992114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 805
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da2b55d39b73eaf0800000000000000
+      internalID: -368314869644317991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 779
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4790641ab9711c9d0800000000000000
+      internalID: -2755895539780941452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 765
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a90d9dfa82ecd030800000000000000
+      internalID: 3520938095285176737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_8
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 771
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a7aa6b10567d5a0800000000000000
+      internalID: -6496612879424652762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 692
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c32129d5db05960800000000000000
+      internalID: 7588773581699562558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_10
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 719
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff0c0f77ee7939a0800000000000000
+      internalID: -6252827074893180935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 719
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ecd933695b14890800000000000000
+      internalID: -7475494249742610832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 666
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7e75374af7e5890800000000000000
+      internalID: -7467390787847198816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 666
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518d08481495eeb00800000000000000
+      internalID: 859722716805126165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_14
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 632
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98f9ae9b155e5a90800000000000000
+      internalID: -7323322366943430502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_15
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 646
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2b655bc997f0a00800000000000000
+      internalID: 724931778994156192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_16
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 649
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10265be0a2da39ca0800000000000000
+      internalID: -6011270681462480383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_17
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841ea09e598e61130800000000000000
+      internalID: 3537270287903678792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_18
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 585
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ddbdb4cbcfa3410800000000000000
+      internalID: 1457755315064528287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 559
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98274853e40d9dae0800000000000000
+      internalID: -1523957964564303223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 568
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149716cc6a21b36d0800000000000000
+      internalID: -3009791418364233407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_21
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 563
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ed3a3f9306d4230800000000000000
+      internalID: 3624659077120122526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_22
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 537
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec9066557cdf67c0800000000000000
+      internalID: -4075796741228552988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_23
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 544
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a9667ce075d8ad0800000000000000
+      internalID: -2698404880738510292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_24
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 519
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b49593dd229bb0a0800000000000000
+      internalID: -6864732481475210062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 469
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f807fddf15643b0e0800000000000000
+      internalID: -2255381670416912241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 485
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7346ebcb0dfb71540800000000000000
+      internalID: 4978658816322069559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_27
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 444
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadb250bd5d161ad0800000000000000
+      internalID: -2731963835726250582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_28
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 453
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7858d65e51402530800000000000000
+      internalID: 3828131556704671868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 13
+        width: 410
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c309d419998f1b0800000000000000
+      internalID: -5622575285421458386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_30
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 436
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0ff54894a24ddf0800000000000000
+      internalID: -156453591809265421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_31
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 418
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd6f97a0b4e2b800800000000000000
+      internalID: 626814745535540662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_32
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 434
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3671342dc8334d50800000000000000
+      internalID: 6720277522693584446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_33
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 434
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e87516e7c2d56c0800000000000000
+      internalID: -4153114360055099807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_34
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 14
+        width: 398
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8895ab2035d3a21c0800000000000000
+      internalID: -4527739048630265464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_35
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 446
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3641193d8482c9530800000000000000
+      internalID: 3863006873629299811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_36
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 14
+        width: 411
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dd3510e86f52070800000000000000
+      internalID: 8081136196154285386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_37
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 348
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a775e4e0010e7bda0800000000000000
+      internalID: -5929024024845854854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_38
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 390
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc6df866d50feca0800000000000000
+      internalID: -5985558961309520700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 325
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e4a2374f6a42cd0800000000000000
+      internalID: -2583756717369438641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_40
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 307
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2347c6a6d7fdbb0800000000000000
+      internalID: -4909067172770991431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_41
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 265
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e531bff079eae6c0800000000000000
+      internalID: -4113218638114114076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_42
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 203
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40867189ffd7b2480800000000000000
+      internalID: -8922899699982702588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_43
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 241
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2169edf1f777f440800000000000000
+      internalID: 4969572595057385773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_44
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 245
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a06e9ede91342600800000000000000
+      internalID: 442533221798666409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 113
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e93de478353f5d0800000000000000
+      internalID: -3029986283682030030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 114
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b568e7fb9663bf0800000000000000
+      internalID: -344972050264859795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_47
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 118
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41ce359bc92edbf0800000000000000
+      internalID: -297754571000856242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_48
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 112
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74498132092043c50800000000000000
+      internalID: 6643938168365683783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_49
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 121
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03387c3446648db0800000000000000
+      internalID: -4790591660357045492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_50
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 118
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab7ba297a3362fb0800000000000000
+      internalID: -4672990768537044059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_51
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 116
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bd36e5dcdd96390800000000000000
+      internalID: -7824479003457889455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_52
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 88
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf35d9529539ad730800000000000000
+      internalID: 4024691228101399548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_53
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 88
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68da9aadfef333400800000000000000
+      internalID: 302655899362241926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_54
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 84
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a694e2f8515399a0800000000000000
+      internalID: -6227544417249225049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_55
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 88
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc24b2b194022ac10800000000000000
+      internalID: 2063247077649629903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_56
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 98
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6adb5437a729d290800000000000000
+      internalID: -7865211675134403987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_57
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 70
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a87a008ca7a6c0800000000000000
+      internalID: -4132144467157671757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_58
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 80
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443476a9ac1c99c80800000000000000
+      internalID: -8315402161044896956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_59
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 52
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6032557f17f02170800000000000000
+      internalID: 8151787040024965229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_60
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 23
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff2ae862ca98cb70800000000000000
+      internalID: 8919549221781778422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q-transitions_61
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 24
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062beb574839ff070800000000000000
+      internalID: 8142388848429544032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      q-transitions_0: -2255276260994377419
+      q-transitions_1: 2818300012807728969
+      q-transitions_10: -6252827074893180935
+      q-transitions_11: -7475494249742610832
+      q-transitions_12: -7467390787847198816
+      q-transitions_13: 859722716805126165
+      q-transitions_14: -7323322366943430502
+      q-transitions_15: 724931778994156192
+      q-transitions_16: -6011270681462480383
+      q-transitions_17: 3537270287903678792
+      q-transitions_18: 1457755315064528287
+      q-transitions_19: -1523957964564303223
+      q-transitions_2: -3429168695455719662
+      q-transitions_20: -3009791418364233407
+      q-transitions_21: 3624659077120122526
+      q-transitions_22: -4075796741228552988
+      q-transitions_23: -2698404880738510292
+      q-transitions_24: -6864732481475210062
+      q-transitions_25: -2255381670416912241
+      q-transitions_26: 4978658816322069559
+      q-transitions_27: -2731963835726250582
+      q-transitions_28: 3828131556704671868
+      q-transitions_29: -5622575285421458386
+      q-transitions_3: -7399019096194612750
+      q-transitions_30: -156453591809265421
+      q-transitions_31: 626814745535540662
+      q-transitions_32: 6720277522693584446
+      q-transitions_33: -4153114360055099807
+      q-transitions_34: -4527739048630265464
+      q-transitions_35: 3863006873629299811
+      q-transitions_36: 8081136196154285386
+      q-transitions_37: -5929024024845854854
+      q-transitions_38: -5985558961309520700
+      q-transitions_39: -2583756717369438641
+      q-transitions_4: -2716239982754992114
+      q-transitions_40: -4909067172770991431
+      q-transitions_41: -4113218638114114076
+      q-transitions_42: -8922899699982702588
+      q-transitions_43: 4969572595057385773
+      q-transitions_44: 442533221798666409
+      q-transitions_45: -3029986283682030030
+      q-transitions_46: -344972050264859795
+      q-transitions_47: -297754571000856242
+      q-transitions_48: 6643938168365683783
+      q-transitions_49: -4790591660357045492
+      q-transitions_5: -368314869644317991
+      q-transitions_50: -4672990768537044059
+      q-transitions_51: -7824479003457889455
+      q-transitions_52: 4024691228101399548
+      q-transitions_53: 302655899362241926
+      q-transitions_54: -6227544417249225049
+      q-transitions_55: 2063247077649629903
+      q-transitions_56: -7865211675134403987
+      q-transitions_57: -4132144467157671757
+      q-transitions_58: -8315402161044896956
+      q-transitions_59: 8151787040024965229
+      q-transitions_6: -2755895539780941452
+      q-transitions_60: 8919549221781778422
+      q-transitions_61: 8142388848429544032
+      q-transitions_7: 3520938095285176737
+      q-transitions_8: -6496612879424652762
+      q-transitions_9: 7588773581699562558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

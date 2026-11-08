@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: GRD-G01
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: GRD-G01
+  title: "\u62D2\u7D55\u9000\u5834"
+  ownerRoleId: guard_01
+  effectKey: guard.refuse_exit
+  description: "\u5BE6\u969B\u6D88\u8017 Q \u6642\u7372\u6700\u5927\u751F\u547D 40% \u7684\u5C4F\u969C\uFF0C\u6301\u7E8C 4 \u79D2\uFF1B\u6709\u5C4F\u969C\u6642\uFF0C\u6BCF\u500B\u76F4\u63A5 E\uFF0FQ \u52D5\u4F5C\u9996\u6B21\u547D\u4E2D\u53EF\u518D\u88DC 100 \u5C4F\u969C\u3002"
+  quality: 2
+  category: 2
+  icon: {fileID: 21300000, guid: a2f742957d8f9fd438b88f5d90c85294, type: 3}
+  artBrief: "\u5C11\u5973\u7528\u76FE\u62B5\u4F4F\u6DF1\u6DF5\u5DE8\u624B\uFF0C\u8EAB\u5F8C\u9152\u5427\u71C8\u4ECD\u4EAE\u8457"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 1
+  requiresNodeFive: 0
+  numbers:
+  - key: duration
+    values:
+    - 4
+  - key: shieldHealthFraction
+    values:
+    - 0.4
+  - key: shieldPerAction
+    values:
+    - 100

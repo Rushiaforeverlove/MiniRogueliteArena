@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 00a45018a14f0484eac0adf0bab9712f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3608713553527516096
+    second: corrosive-pools-v1_0
+  - first:
+      213: 849000096565021970
+    second: corrosive-pools-v1_1
+  - first:
+      213: 1781999157836021850
+    second: corrosive-pools-v1_2
+  - first:
+      213: -4068753045207443222
+    second: corrosive-pools-v1_3
+  - first:
+      213: -523939181872806416
+    second: corrosive-pools-v1_4
+  - first:
+      213: 3693488906406344340
+    second: corrosive-pools-v1_5
+  - first:
+      213: 2999720787388314747
+    second: corrosive-pools-v1_6
+  - first:
+      213: 8373277319544241700
+    second: corrosive-pools-v1_7
+  - first:
+      213: 742954662873542395
+    second: corrosive-pools-v1_8
+  - first:
+      213: 1848266620815871049
+    second: corrosive-pools-v1_9
+  - first:
+      213: -6125478889779238703
+    second: corrosive-pools-v1_10
+  - first:
+      213: -367482339627944180
+    second: corrosive-pools-v1_11
+  - first:
+      213: 6521809902748486158
+    second: corrosive-pools-v1_12
+  - first:
+      213: 8870999532015268904
+    second: corrosive-pools-v1_13
+  - first:
+      213: -9219433687751321454
+    second: corrosive-pools-v1_14
+  - first:
+      213: -6978068220974500058
+    second: corrosive-pools-v1_15
+  - first:
+      213: -7543626862262676789
+    second: corrosive-pools-v1_16
+  - first:
+      213: -6621651456002240732
+    second: corrosive-pools-v1_17
+  - first:
+      213: -5114277220551704005
+    second: corrosive-pools-v1_18
+  - first:
+      213: -2319166627462689726
+    second: corrosive-pools-v1_19
+  - first:
+      213: -1327721927475630313
+    second: corrosive-pools-v1_20
+  - first:
+      213: -2531105098155535291
+    second: corrosive-pools-v1_21
+  - first:
+      213: 1507488711005137183
+    second: corrosive-pools-v1_22
+  - first:
+      213: -2580239491030976298
+    second: corrosive-pools-v1_23
+  - first:
+      213: 5355217851008401714
+    second: corrosive-pools-v1_24
+  - first:
+      213: 6071805784734737341
+    second: corrosive-pools-v1_25
+  - first:
+      213: -5802301198387532531
+    second: corrosive-pools-v1_26
+  - first:
+      213: -4817745221722829989
+    second: corrosive-pools-v1_27
+  - first:
+      213: -7610922683708194740
+    second: corrosive-pools-v1_28
+  - first:
+      213: -5967737906204666228
+    second: corrosive-pools-v1_29
+  - first:
+      213: -7298645608353640975
+    second: corrosive-pools-v1_30
+  - first:
+      213: -2993031639256013596
+    second: corrosive-pools-v1_31
+  - first:
+      213: 552313286062303909
+    second: corrosive-pools-v1_32
+  - first:
+      213: 3732436591249072119
+    second: corrosive-pools-v1_33
+  - first:
+      213: 2250926625278462731
+    second: corrosive-pools-v1_34
+  - first:
+      213: -5436981578462776551
+    second: corrosive-pools-v1_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: corrosive-pools-v1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 620
+        width: 138
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb252e6bd9b41230800000000000000
+      internalID: 3608713553527516096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 741
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dc702f61148cb00800000000000000
+      internalID: 849000096565021970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 555
+        width: 233
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a508cd8eaceeab810800000000000000
+      internalID: 1781999157836021850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 569
+        width: 388
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae81f9d99a2e887c0800000000000000
+      internalID: -4068753045207443222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_4
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 817
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5009c07189ab8f0800000000000000
+      internalID: -523939181872806416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_5
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 618
+        width: 262
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49632386798e14330800000000000000
+      internalID: 3693488906406344340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_6
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 842
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74b2a5b92621a920800000000000000
+      internalID: 2999720787388314747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_7
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 559
+        width: 265
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ef44dcb5bd33470800000000000000
+      internalID: 8373277319544241700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_8
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 819
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe2ccc54518f4a00800000000000000
+      internalID: 742954662873542395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_9
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 590
+        width: 243
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c01f7f2bc56a910800000000000000
+      internalID: 1848266620815871049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 630
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8ed87676dedfaa0800000000000000
+      internalID: -6125478889779238703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 682
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c073f3552c076eaf0800000000000000
+      internalID: -367482339627944180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 600
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ac2f17d8f128a50800000000000000
+      internalID: 6521809902748486158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 645
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8243d64e21f1c1b70800000000000000
+      internalID: 8870999532015268904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_14
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 606
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298105b58edfd0080800000000000000
+      internalID: -9219433687751321454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_15
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 589
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6277f56acebe82f90800000000000000
+      internalID: -6978068220974500058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_16
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 579
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc21dbc2657af4790800000000000000
+      internalID: -7543626862262676789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_17
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 334
+        width: 250
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fc982751b2b14a0800000000000000
+      internalID: -6621651456002240732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_18
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 571
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32c42ae6ff6609b0800000000000000
+      internalID: -5114277220551704005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 265
+        width: 277
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c45236d3aa0dfd0800000000000000
+      internalID: -2319166627462689726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 277
+        width: 280
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f615801fbf29de0800000000000000
+      internalID: -1327721927475630313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_21
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 160
+        width: 335
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5445247d255bfdcd0800000000000000
+      internalID: -2531105098155535291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_22
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 249
+        width: 264
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f196f52eefcabe410800000000000000
+      internalID: 1507488711005137183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_23
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 491
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8f9a58ad5213cd0800000000000000
+      internalID: -2580239491030976298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_24
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 332
+        width: 267
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231cf28234e815a40800000000000000
+      internalID: 5355217851008401714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 285
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3a6400133634450800000000000000
+      internalID: 6071805784734737341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 283
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0da94e4dc51a7fa0800000000000000
+      internalID: -5802301198387532531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 19
+        width: 256
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b00e01f3ee32db0800000000000000
+      internalID: -4817745221722829989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 252
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c404c90c422906690800000000000000
+      internalID: -7610922683708194740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_29
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 225
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8699042ef55e2da0800000000000000
+      internalID: -5967737906204666228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_30
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 0
+        width: 183
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdcd943d7006ba90800000000000000
+      internalID: -7298645608353640975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_31
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 240
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4e3a4f49d9676d0800000000000000
+      internalID: -2993031639256013596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_32
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 181
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aae874e1063aa700800000000000000
+      internalID: 552313286062303909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_33
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 0
+        width: 182
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff1210fd474cc330800000000000000
+      internalID: 3732436591249072119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_34
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 78
+        width: 155
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b013bf6d5ec3f10800000000000000
+      internalID: 2250926625278462731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-pools-v1_35
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 35
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913326d8f06fb84b0800000000000000
+      internalID: -5436981578462776551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      corrosive-pools-v1_0: 3608713553527516096
+      corrosive-pools-v1_1: 849000096565021970
+      corrosive-pools-v1_10: -6125478889779238703
+      corrosive-pools-v1_11: -367482339627944180
+      corrosive-pools-v1_12: 6521809902748486158
+      corrosive-pools-v1_13: 8870999532015268904
+      corrosive-pools-v1_14: -9219433687751321454
+      corrosive-pools-v1_15: -6978068220974500058
+      corrosive-pools-v1_16: -7543626862262676789
+      corrosive-pools-v1_17: -6621651456002240732
+      corrosive-pools-v1_18: -5114277220551704005
+      corrosive-pools-v1_19: -2319166627462689726
+      corrosive-pools-v1_2: 1781999157836021850
+      corrosive-pools-v1_20: -1327721927475630313
+      corrosive-pools-v1_21: -2531105098155535291
+      corrosive-pools-v1_22: 1507488711005137183
+      corrosive-pools-v1_23: -2580239491030976298
+      corrosive-pools-v1_24: 5355217851008401714
+      corrosive-pools-v1_25: 6071805784734737341
+      corrosive-pools-v1_26: -5802301198387532531
+      corrosive-pools-v1_27: -4817745221722829989
+      corrosive-pools-v1_28: -7610922683708194740
+      corrosive-pools-v1_29: -5967737906204666228
+      corrosive-pools-v1_3: -4068753045207443222
+      corrosive-pools-v1_30: -7298645608353640975
+      corrosive-pools-v1_31: -2993031639256013596
+      corrosive-pools-v1_32: 552313286062303909
+      corrosive-pools-v1_33: 3732436591249072119
+      corrosive-pools-v1_34: 2250926625278462731
+      corrosive-pools-v1_35: -5436981578462776551
+      corrosive-pools-v1_4: -523939181872806416
+      corrosive-pools-v1_5: 3693488906406344340
+      corrosive-pools-v1_6: 2999720787388314747
+      corrosive-pools-v1_7: 8373277319544241700
+      corrosive-pools-v1_8: 742954662873542395
+      corrosive-pools-v1_9: 1848266620815871049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

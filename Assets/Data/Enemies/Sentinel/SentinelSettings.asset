@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4c7ca99990bda5468d35ffa9ba2fb14, type: 3}
+  m_Name: SentinelSettings
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Enemies.SentinelAttackSettings
+  armorReduction: 0.4
+  triggerRange: 2.4
+  centerOffset: 0.9
+  slamRadius: 1.8
+  windupSeconds: 1
+  slamSeconds: 0.35
+  recoverySeconds: 1.4
+  cooldownAfterImpact: 3.5
+  legacyDamage: 3
+  warningMaterial: {fileID: 2100000, guid: 762858db392349449a3fa595338fac93, type: 2}

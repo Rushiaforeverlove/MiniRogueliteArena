@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 6c2f7472fef24354cbee325c956b7953
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7824119294321448846
+    second: corrosive-death-v1_0
+  - first:
+      213: 5526080732905291646
+    second: corrosive-death-v1_1
+  - first:
+      213: -2257157635959372618
+    second: corrosive-death-v1_2
+  - first:
+      213: 1195462412320259984
+    second: corrosive-death-v1_3
+  - first:
+      213: -1992546363665515627
+    second: corrosive-death-v1_4
+  - first:
+      213: 4384092710468365839
+    second: corrosive-death-v1_5
+  - first:
+      213: 1162509743511782482
+    second: corrosive-death-v1_6
+  - first:
+      213: 963972954929151979
+    second: corrosive-death-v1_7
+  - first:
+      213: -2969193689955842139
+    second: corrosive-death-v1_8
+  - first:
+      213: -3402184073724821840
+    second: corrosive-death-v1_9
+  - first:
+      213: 8880461527859302567
+    second: corrosive-death-v1_10
+  - first:
+      213: -2952115995505118147
+    second: corrosive-death-v1_11
+  - first:
+      213: -6955690706221134679
+    second: corrosive-death-v1_12
+  - first:
+      213: 5206045860629989724
+    second: corrosive-death-v1_13
+  - first:
+      213: 7650817593474321381
+    second: corrosive-death-v1_14
+  - first:
+      213: -8514614663538430914
+    second: corrosive-death-v1_15
+  - first:
+      213: 6599108405766173292
+    second: corrosive-death-v1_16
+  - first:
+      213: -7252979794292908576
+    second: corrosive-death-v1_17
+  - first:
+      213: 3872752153187300639
+    second: corrosive-death-v1_18
+  - first:
+      213: 3625227825530031204
+    second: corrosive-death-v1_19
+  - first:
+      213: -519247870012465123
+    second: corrosive-death-v1_20
+  - first:
+      213: 2260530549846679445
+    second: corrosive-death-v1_21
+  - first:
+      213: -910719210591896160
+    second: corrosive-death-v1_22
+  - first:
+      213: -5839494275404672782
+    second: corrosive-death-v1_23
+  - first:
+      213: -3048452931854914500
+    second: corrosive-death-v1_24
+  - first:
+      213: -8702876905256595410
+    second: corrosive-death-v1_25
+  - first:
+      213: 254819516974392963
+    second: corrosive-death-v1_26
+  - first:
+      213: -5502110201806637657
+    second: corrosive-death-v1_27
+  - first:
+      213: -5253275917891653581
+    second: corrosive-death-v1_28
+  - first:
+      213: 6370721110566748037
+    second: corrosive-death-v1_29
+  - first:
+      213: -4656573144074023999
+    second: corrosive-death-v1_30
+  - first:
+      213: 6111585566671103093
+    second: corrosive-death-v1_31
+  - first:
+      213: 13334198292670312
+    second: corrosive-death-v1_32
+  - first:
+      213: -2672450726717025538
+    second: corrosive-death-v1_33
+  - first:
+      213: -4190697947437630818
+    second: corrosive-death-v1_34
+  - first:
+      213: 9149695364291091012
+    second: corrosive-death-v1_35
+  - first:
+      213: -4027210344828167339
+    second: corrosive-death-v1_36
+  - first:
+      213: 6487210851675390418
+    second: corrosive-death-v1_37
+  - first:
+      213: -6630701642969616190
+    second: corrosive-death-v1_38
+  - first:
+      213: -5444242835192792476
+    second: corrosive-death-v1_39
+  - first:
+      213: -5553688082458596179
+    second: corrosive-death-v1_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: corrosive-death-v1_0
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 658
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e875f425b0bd49c60800000000000000
+      internalID: 7824119294321448846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 246
+        width: 351
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f33fce52590bc40800000000000000
+      internalID: 5526080732905291646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_2
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 677
+        width: 69
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4c49ac617fca0e0800000000000000
+      internalID: -2257157635959372618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_3
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 677
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f3eaceab2279010800000000000000
+      internalID: 1195462412320259984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_4
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 663
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b7833a3ad0954e0800000000000000
+      internalID: -1992546363665515627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_5
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 128
+        width: 407
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ea8dd971d67dc30800000000000000
+      internalID: 4384092710468365839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_6
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 689
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25443f5d370122010800000000000000
+      internalID: 1162509743511782482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_7
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 204
+        width: 311
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befb2af8b48b06d00800000000000000
+      internalID: 963972954929151979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 385
+        width: 321
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7c9d8021e4bc6d0800000000000000
+      internalID: -2969193689955842139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 270
+        width: 313
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bef3294c9309c0d0800000000000000
+      internalID: -3402184073724821840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_10
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 665
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0939975bcbd3b70800000000000000
+      internalID: 8880461527859302567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_11
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 671
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d343b20a42af707d0800000000000000
+      internalID: -2952115995505118147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_12
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 674
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac0430d72c687f90800000000000000
+      internalID: -6955690706221134679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_13
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 665
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c594e3f90279f3840800000000000000
+      internalID: 5206045860629989724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_14
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 673
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb8854c01a2d2a60800000000000000
+      internalID: 7650817593474321381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 659
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ca57c631306d980800000000000000
+      internalID: -8514614663538430914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_16
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 160
+        width: 379
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62bcf7a12eb49b50800000000000000
+      internalID: 6599108405766173292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_17
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 626
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edd5161e4d385b90800000000000000
+      internalID: -7252979794292908576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_18
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 662
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15bbd98097ceb530800000000000000
+      internalID: 3872752153187300639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 608
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c449200856f4230800000000000000
+      internalID: 3625227825530031204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_20
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10678530d24bc8f0800000000000000
+      internalID: -519247870012465123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 30
+        width: 331
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f978bee840f5f10800000000000000
+      internalID: 2260530549846679445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 323
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adbb8204b97c53f0800000000000000
+      internalID: -910719210591896160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 297
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0d39e35e2f5fea0800000000000000
+      internalID: -5839494275404672782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_24
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 246
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c2a4ab538b1b5d0800000000000000
+      internalID: -3048452931854914500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 347
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20da32809b293780800000000000000
+      internalID: -8702876905256595410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_26
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3866817200d498300800000000000000
+      internalID: 254819516974392963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_27
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 238
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a533424ce394a3b0800000000000000
+      internalID: -5502110201806637657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_28
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 245
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33034feb26d9817b0800000000000000
+      internalID: -5253275917891653581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_29
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 228
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fb966b819596850800000000000000
+      internalID: 6370721110566748037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_30
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 211
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb08d4a567806fb0800000000000000
+      internalID: -4656573144074023999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_31
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 208
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574e5db31b6b0d450800000000000000
+      internalID: 6111585566671103093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_32
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 207
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8676998f16f5f2000800000000000000
+      internalID: 13334198292670312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_33
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 194
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef21c4a293c89ead0800000000000000
+      internalID: -2672450726717025538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_34
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 216
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a750a8b66a7d5c0800000000000000
+      internalID: -4190697947437630818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_35
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 215
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44adb97e47f3afe70800000000000000
+      internalID: 9149695364291091012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_36
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 23
+        width: 323
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b1db847897c18c0800000000000000
+      internalID: -4027210344828167339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_37
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 29
+        width: 336
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1cb2d16e3370a50800000000000000
+      internalID: 6487210851675390418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_38
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 176
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c072379cf30bf3a0800000000000000
+      internalID: -6630701642969616190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_39
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 29
+        width: 298
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a3e597cf92274b0800000000000000
+      internalID: -5444242835192792476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-death-v1_40
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 291
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2cbb1d165de2b0800000000000000
+      internalID: -5553688082458596179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      corrosive-death-v1_0: 7824119294321448846
+      corrosive-death-v1_1: 5526080732905291646
+      corrosive-death-v1_10: 8880461527859302567
+      corrosive-death-v1_11: -2952115995505118147
+      corrosive-death-v1_12: -6955690706221134679
+      corrosive-death-v1_13: 5206045860629989724
+      corrosive-death-v1_14: 7650817593474321381
+      corrosive-death-v1_15: -8514614663538430914
+      corrosive-death-v1_16: 6599108405766173292
+      corrosive-death-v1_17: -7252979794292908576
+      corrosive-death-v1_18: 3872752153187300639
+      corrosive-death-v1_19: 3625227825530031204
+      corrosive-death-v1_2: -2257157635959372618
+      corrosive-death-v1_20: -519247870012465123
+      corrosive-death-v1_21: 2260530549846679445
+      corrosive-death-v1_22: -910719210591896160
+      corrosive-death-v1_23: -5839494275404672782
+      corrosive-death-v1_24: -3048452931854914500
+      corrosive-death-v1_25: -8702876905256595410
+      corrosive-death-v1_26: 254819516974392963
+      corrosive-death-v1_27: -5502110201806637657
+      corrosive-death-v1_28: -5253275917891653581
+      corrosive-death-v1_29: 6370721110566748037
+      corrosive-death-v1_3: 1195462412320259984
+      corrosive-death-v1_30: -4656573144074023999
+      corrosive-death-v1_31: 6111585566671103093
+      corrosive-death-v1_32: 13334198292670312
+      corrosive-death-v1_33: -2672450726717025538
+      corrosive-death-v1_34: -4190697947437630818
+      corrosive-death-v1_35: 9149695364291091012
+      corrosive-death-v1_36: -4027210344828167339
+      corrosive-death-v1_37: 6487210851675390418
+      corrosive-death-v1_38: -6630701642969616190
+      corrosive-death-v1_39: -5444242835192792476
+      corrosive-death-v1_4: -1992546363665515627
+      corrosive-death-v1_40: -5553688082458596179
+      corrosive-death-v1_5: 4384092710468365839
+      corrosive-death-v1_6: 1162509743511782482
+      corrosive-death-v1_7: 963972954929151979
+      corrosive-death-v1_8: -2969193689955842139
+      corrosive-death-v1_9: -3402184073724821840
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

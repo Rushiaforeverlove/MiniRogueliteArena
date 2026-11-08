@@ -1,0 +1,1250 @@
+fileFormatVersion: 2
+guid: 1a03a82441d97c847aa61f896720486c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3098700660947498450
+    second: SUP-SCT-G01_0
+  - first:
+      213: 4737226490464646440
+    second: SUP-SCT-G01_1
+  - first:
+      213: 8827517446659648777
+    second: SUP-SCT-G01_2
+  - first:
+      213: 9084079453628584333
+    second: SUP-SCT-G01_3
+  - first:
+      213: 1642691001406404968
+    second: SUP-SCT-G01_4
+  - first:
+      213: -3489290039307547179
+    second: SUP-SCT-G01_5
+  - first:
+      213: -8774546466366699450
+    second: SUP-SCT-G01_6
+  - first:
+      213: -9181361094390388911
+    second: SUP-SCT-G01_7
+  - first:
+      213: -6589324392009010822
+    second: SUP-SCT-G01_8
+  - first:
+      213: -2848393446051007007
+    second: SUP-SCT-G01_9
+  - first:
+      213: -5103039261580610883
+    second: SUP-SCT-G01_10
+  - first:
+      213: 471256622355540854
+    second: SUP-SCT-G01_11
+  - first:
+      213: 9061525548837391099
+    second: SUP-SCT-G01_12
+  - first:
+      213: -7306622248454703733
+    second: SUP-SCT-G01_13
+  - first:
+      213: -4310073559910930967
+    second: SUP-SCT-G01_14
+  - first:
+      213: -7801074495613335446
+    second: SUP-SCT-G01_15
+  - first:
+      213: 7790155267194338009
+    second: SUP-SCT-G01_16
+  - first:
+      213: 9044111644184530126
+    second: SUP-SCT-G01_17
+  - first:
+      213: -9216760441331600496
+    second: SUP-SCT-G01_18
+  - first:
+      213: 222964833351711378
+    second: SUP-SCT-G01_19
+  - first:
+      213: -5019069333571882822
+    second: SUP-SCT-G01_20
+  - first:
+      213: 864858841590793131
+    second: SUP-SCT-G01_21
+  - first:
+      213: -4327827195046128604
+    second: SUP-SCT-G01_22
+  - first:
+      213: 7219841343205944928
+    second: SUP-SCT-G01_23
+  - first:
+      213: -6655296355379152394
+    second: SUP-SCT-G01_24
+  - first:
+      213: 7151801331631778377
+    second: SUP-SCT-G01_25
+  - first:
+      213: -1160679868968319612
+    second: SUP-SCT-G01_26
+  - first:
+      213: -7415077519899392898
+    second: SUP-SCT-G01_27
+  - first:
+      213: -7840836045137277721
+    second: SUP-SCT-G01_28
+  - first:
+      213: 2580096705098707606
+    second: SUP-SCT-G01_29
+  - first:
+      213: 3584762443919266373
+    second: SUP-SCT-G01_30
+  - first:
+      213: 3158027274847771755
+    second: SUP-SCT-G01_31
+  - first:
+      213: 2146819064763373035
+    second: SUP-SCT-G01_32
+  - first:
+      213: -6094148355928470484
+    second: SUP-SCT-G01_33
+  - first:
+      213: 2414708942399282129
+    second: SUP-SCT-G01_34
+  - first:
+      213: -966017655827011772
+    second: SUP-SCT-G01_35
+  - first:
+      213: 4918560448995826906
+    second: SUP-SCT-G01_36
+  - first:
+      213: 7716112738836112289
+    second: SUP-SCT-G01_37
+  - first:
+      213: 5557740714586429824
+    second: SUP-SCT-G01_38
+  - first:
+      213: 3580317352708423275
+    second: SUP-SCT-G01_39
+  - first:
+      213: -4871666283928505316
+    second: SUP-SCT-G01_40
+  - first:
+      213: 345043259684945753
+    second: SUP-SCT-G01_41
+  - first:
+      213: 1715130456085114210
+    second: SUP-SCT-G01_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SUP-SCT-G01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 1241
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ac4fe9a243ff4d0800000000000000
+      internalID: -3098700660947498450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1221
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82537b8e4620eb140800000000000000
+      internalID: 4737226490464646440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1215
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d26b8f854a18a70800000000000000
+      internalID: 8827517446659648777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_3
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1065
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81d4f03222211e70800000000000000
+      internalID: 9084079453628584333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 984
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8693f8e23c20cc610800000000000000
+      internalID: 1642691001406404968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 929
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddc3c0423d839fc0800000000000000
+      internalID: -3489290039307547179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 935
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648cd077a7c8a3680800000000000000
+      internalID: -8774546466366699450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_7
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 937
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157e446cab0459080800000000000000
+      internalID: -9181361094390388911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_8
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 936
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a717c7090640e84a0800000000000000
+      internalID: -6589324392009010822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 933
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5349390497878d0800000000000000
+      internalID: -2848393446051007007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 899
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2bd9224dc5e29b0800000000000000
+      internalID: -5103039261580610883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 893
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b6d85b66d3a8600800000000000000
+      internalID: 471256622355540854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 893
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa44950a7101cd70800000000000000
+      internalID: 9061525548837391099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 806
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8534e4f6c9a99a90800000000000000
+      internalID: -7306622248454703733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_14
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 786
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5a4b9deea8f24c0800000000000000
+      internalID: -4310073559910930967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_15
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 741
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a688b9ef3140db390800000000000000
+      internalID: -7801074495613335446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab14601f03c1c60800000000000000
+      internalID: 7790155267194338009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 646
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccc7946f93238d70800000000000000
+      internalID: 9044111644184530126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_18
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 640
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093be8a063d771080800000000000000
+      internalID: -9216760441331600496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 554
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a3559a551281300800000000000000
+      internalID: 222964833351711378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_20
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 556
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab03465880fa85ab0800000000000000
+      internalID: -5019069333571882822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_21
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 505
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba300e1c888900c00800000000000000
+      internalID: 864858841590793131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_22
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 503
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424100e881870f3c0800000000000000
+      internalID: -4327827195046128604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_23
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 506
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e28740377023460800000000000000
+      internalID: 7219841343205944928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_24
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 473
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f97caed933a3a3a0800000000000000
+      internalID: -6655296355379152394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 354
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ae3145b6d404360800000000000000
+      internalID: 7151801331631778377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 360
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48542380fcf64efe0800000000000000
+      internalID: -1160679868968319612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 345
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74896c484a581990800000000000000
+      internalID: -7415077519899392898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_28
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 361
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec8383d821cf2390800000000000000
+      internalID: -7840836045137277721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_29
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 359
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692709988485ec320800000000000000
+      internalID: 2580096705098707606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_30
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 343
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54218f92372afb130800000000000000
+      internalID: 3584762443919266373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 323
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cdb44131193db20800000000000000
+      internalID: 3158027274847771755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 306
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5d148a0980bcd10800000000000000
+      internalID: 2146819064763373035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 306
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c4a54cb5c3d6ba0800000000000000
+      internalID: -6094148355928470484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_34
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 271
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db1bab4df4c28120800000000000000
+      internalID: 2414708942399282129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_35
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447eca96f040892f0800000000000000
+      internalID: -966017655827011772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_36
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 180
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc9ea03bac324440800000000000000
+      internalID: 4918560448995826906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_37
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 184
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3613d77a3251b60800000000000000
+      internalID: 7716112738836112289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_38
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 182
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08956a6dbbf012d40800000000000000
+      internalID: 5557740714586429824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e3a57b9a7dfa130800000000000000
+      internalID: 3580317352708423275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 70
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14b132735d546cb0800000000000000
+      internalID: -4871666283928505316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 19
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ff9ad3407d9c400800000000000000
+      internalID: 345043259684945753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUP-SCT-G01_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 25
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d286a001e5dc710800000000000000
+      internalID: 1715130456085114210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SUP-SCT-G01_0: -3098700660947498450
+      SUP-SCT-G01_1: 4737226490464646440
+      SUP-SCT-G01_10: -5103039261580610883
+      SUP-SCT-G01_11: 471256622355540854
+      SUP-SCT-G01_12: 9061525548837391099
+      SUP-SCT-G01_13: -7306622248454703733
+      SUP-SCT-G01_14: -4310073559910930967
+      SUP-SCT-G01_15: -7801074495613335446
+      SUP-SCT-G01_16: 7790155267194338009
+      SUP-SCT-G01_17: 9044111644184530126
+      SUP-SCT-G01_18: -9216760441331600496
+      SUP-SCT-G01_19: 222964833351711378
+      SUP-SCT-G01_2: 8827517446659648777
+      SUP-SCT-G01_20: -5019069333571882822
+      SUP-SCT-G01_21: 864858841590793131
+      SUP-SCT-G01_22: -4327827195046128604
+      SUP-SCT-G01_23: 7219841343205944928
+      SUP-SCT-G01_24: -6655296355379152394
+      SUP-SCT-G01_25: 7151801331631778377
+      SUP-SCT-G01_26: -1160679868968319612
+      SUP-SCT-G01_27: -7415077519899392898
+      SUP-SCT-G01_28: -7840836045137277721
+      SUP-SCT-G01_29: 2580096705098707606
+      SUP-SCT-G01_3: 9084079453628584333
+      SUP-SCT-G01_30: 3584762443919266373
+      SUP-SCT-G01_31: 3158027274847771755
+      SUP-SCT-G01_32: 2146819064763373035
+      SUP-SCT-G01_33: -6094148355928470484
+      SUP-SCT-G01_34: 2414708942399282129
+      SUP-SCT-G01_35: -966017655827011772
+      SUP-SCT-G01_36: 4918560448995826906
+      SUP-SCT-G01_37: 7716112738836112289
+      SUP-SCT-G01_38: 5557740714586429824
+      SUP-SCT-G01_39: 3580317352708423275
+      SUP-SCT-G01_4: 1642691001406404968
+      SUP-SCT-G01_40: -4871666283928505316
+      SUP-SCT-G01_41: 345043259684945753
+      SUP-SCT-G01_42: 1715130456085114210
+      SUP-SCT-G01_5: -3489290039307547179
+      SUP-SCT-G01_6: -8774546466366699450
+      SUP-SCT-G01_7: -9181361094390388911
+      SUP-SCT-G01_8: -6589324392009010822
+      SUP-SCT-G01_9: -2848393446051007007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

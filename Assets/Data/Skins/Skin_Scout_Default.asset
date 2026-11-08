@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Skin_Scout_Default
   m_EditorClassIdentifier: Assembly-CSharp::CharacterSkinData
   skinId: scout_default
-  displayName: "\u6A19\u6E96\u88DD\u675F"
+  displayName: "\u5DE1\u8DEF\u8005\u30FB\u6A19\u6E96\u88DD\u5099"
   gameplaySprite: {fileID: 21300000, guid: 60f56a28fe64da94883b589f5aa5e744, type: 3}
   seatedSprite: {fileID: 21300000, guid: 60f56a28fe64da94883b589f5aa5e744, type: 3}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 7b89919c8beb2fa4ebc824f6b58dd022, type: 3}
   tint: {r: 1, g: 1, b: 1, a: 1}
   unlockedByDefault: 1

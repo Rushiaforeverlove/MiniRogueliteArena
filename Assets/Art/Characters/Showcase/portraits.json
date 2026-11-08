@@ -1,0 +1,10 @@
+{
+  "portraits": [
+    { "characterId": "scout_01", "skinId": "scout_default", "file": "rin-standard-v1.png" },
+    { "characterId": "scout_01", "skinId": "scout_blue", "file": "rin-blue-v1.png" },
+    { "characterId": "scout_01", "skinId": "scout_emerald", "file": "rin-emerald-v1.png" },
+    { "characterId": "guard_01", "skinId": "guard_default", "file": "chitose-standard-v1.png" },
+    { "characterId": "guard_01", "skinId": "guard_red", "file": "chitose-red-v1.png" },
+    { "characterId": "guard_01", "skinId": "guard_violet", "file": "chitose-violet-v1.png" }
+  ]
+}

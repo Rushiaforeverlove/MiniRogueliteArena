@@ -1,0 +1,67 @@
+{
+  "imageWidth": 1254,
+  "imageHeight": 1254,
+  "pixelFormat": "Format32bppArgb",
+  "sprites": [
+    {
+      "name": "supply-crates",
+      "rect": {
+        "x": 101,
+        "y": 750,
+        "width": 423,
+        "height": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.03
+      },
+      "visiblePixels": 91799,
+      "transparentPixels": 301330
+    },
+    {
+      "name": "rusted-barrels",
+      "rect": {
+        "x": 764,
+        "y": 736,
+        "width": 359,
+        "height": 347
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.03
+      },
+      "visiblePixels": 100043,
+      "transparentPixels": 293086
+    },
+    {
+      "name": "rail-barricade",
+      "rect": {
+        "x": 87,
+        "y": 136,
+        "width": 453,
+        "height": 230
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.03
+      },
+      "visiblePixels": 73205,
+      "transparentPixels": 319924
+    },
+    {
+      "name": "station-lamp",
+      "rect": {
+        "x": 858,
+        "y": 124,
+        "width": 186,
+        "height": 461
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.03
+      },
+      "visiblePixels": 26447,
+      "transparentPixels": 366682
+    }
+  ]
+}

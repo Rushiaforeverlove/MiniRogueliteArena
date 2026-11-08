@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: SCT-P02
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: SCT-P02
+  title: "\u6383\u63CF\u5FEB\u9580"
+  ownerRoleId: scout_01
+  effectKey: scout.scan_shutter
+  description: "\u5BE6\u969B\u6D88\u8017 Q \u6642\uFF0C\u5148\u5075\u5BDF\u534A\u5F91 8 \u5167\u6575\u4EBA 6 \u79D2\uFF1B\u8A72\u6B21 Q \u5C0D\u5075\u5BDF\u6575\u4EBA\u984D\u5916\u589E\u50B7 25%\u3002"
+  quality: 1
+  category: 2
+  icon: {fileID: 21300000, guid: cb5055ddd283a044485d29507f3720c3, type: 3}
+  artBrief: "\u76F8\u6A5F\u5FEB\u9580\u5F35\u958B\uFF0C\u4E00\u5708\u7D2B\u8272\u6383\u63CF\u7DDA\u7167\u4EAE\u602A\u7269"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 1
+  requiresNodeFive: 0
+  numbers:
+  - key: markDuration
+    values:
+    - 6
+  - key: radius
+    values:
+    - 8
+  - key: damageBonus
+    values:
+    - 0.25

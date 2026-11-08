@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ac05b04fe6ccf49bcdffa1e9d9169b, type: 3}
+  m_Name: mio_01
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Presentation.HubMotionDefinition
+  referenceHeight: 1.63
+  sleepDelay: 5
+  wakeSeconds: 0.16
+  splitHeight: 0.7009
+  material: {fileID: 2100000, guid: 88844331f9a2b46499972df96c157b21, type: 2}
+  walk:
+    key: hub.walk
+    duration: 0.96
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 256
+        height: 336
+      pivot: {x: 0.64, y: 0.104166664}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 688
+        width: 256
+        height: 336
+      pivot: {x: 0.64, y: 0.104166664}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 688
+        width: 256
+        height: 336
+      pivot: {x: 0.64, y: 0.104166664}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 688
+        width: 256
+        height: 336
+      pivot: {x: 0.64, y: 0.104166664}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 688
+        width: 256
+        height: 336
+      pivot: {x: 0.64, y: 0.104166664}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 688
+        width: 256
+        height: 336
+      pivot: {x: 0.64, y: 0.104166664}
+      pixelsPerUnit: 177.30061
+  fallAsleep:
+    key: hub.sleep
+    duration: 1.2
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503.27
+        width: 256
+        height: 184.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 503.27
+        width: 256
+        height: 184.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 502.27
+        width: 256
+        height: 185.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 503.27
+        width: 256
+        height: 184.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 503.27
+        width: 256
+        height: 184.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 502.27
+        width: 256
+        height: 185.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+  wake:
+    key: hub.wake
+    duration: 0.9
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150.27
+        width: 256
+        height: 193.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 150.27
+        width: 256
+        height: 193.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 150.27
+        width: 256
+        height: 193.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 150.27
+        width: 256
+        height: 193.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 150.27
+        width: 256
+        height: 193.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+    - texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 150.27
+        width: 256
+        height: 193.73
+      pivot: {x: 0.46, y: 0}
+      pixelsPerUnit: 177.30061
+  restingLower:
+    texture: {fileID: 2800000, guid: 3dc4abf224e8b534abd617aca496ff12, type: 3}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 344
+      width: 256
+      height: 159.27
+    pivot: {x: 0.46, y: 0.21975262}
+    pixelsPerUnit: 177.30061

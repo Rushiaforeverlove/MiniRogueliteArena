@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: SUP-GRD-G01
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: SUP-GRD-G01
+  title: "\u9632\u885B\u968A\u54E1\u7684\u5B88\u591C\u4EE4"
+  ownerRoleId: guard_01
+  effectKey: support.guard_nightwatch
+  description: "\u5BE6\u969B\u6D88\u8017 Q \u6642\uFF0C\u5916\u63F4\u5B88\u885B\u5728\u539F\u5730\u5B88\u8B77 4 \u79D2\uFF0C\u65BC 0\u30011\u30012\u30013 \u79D2\u5404\u767C\u534A\u5F91 2.5\u300180% \u666E\u653B\u57FA\u6E96\u50B7\u5BB3\u7684\u9707\u6CE2\uFF1B\u4F60\u5728\u7BC4\u570D\u5167\u6BCF\u6B21\u7372 100 \u5C4F\u969C\u3002\u540C\u6642\u4E00\u540D\uFF0C\u91CD\u65B0\u53EC\u559A\u66FF\u63DB\u3002"
+  quality: 2
+  category: 3
+  icon: {fileID: 21300000, guid: beefd4c1bbadf0e4395b2ff5fe5640cf, type: 3}
+  artBrief: "\u91D1\u8272\u5B88\u885B\u526A\u5F71\u7AD9\u5728\u9152\u5427\u9580\u524D\uFF0C\u56DB\u5708\u6696\u5149\u8B77\u4F4F\u968A\u53CB"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 1
+  requiresNodeFive: 0
+  numbers:
+  - key: activeLimit
+    values:
+    - 1
+  - key: pulseTimes
+    values:
+    - 0
+    - 1
+    - 2
+    - 3
+  - key: duration
+    values:
+    - 4
+  - key: coefficient
+    values:
+    - 0.8
+  - key: shieldPerPulse
+    values:
+    - 100
+  - key: radius
+    values:
+    - 2.5

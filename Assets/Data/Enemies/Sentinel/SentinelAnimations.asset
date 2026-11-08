@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eac3c7d3ddb614d46b0b22454327a4b8, type: 3}
+  m_Name: SentinelAnimations
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.EnemyAnimations.SentinelAnimationSet
+  common: {fileID: 11400000, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+  block:
+    frames:
+    - {fileID: 7796755327487912070, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: 8731521214186499958, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: -7608829337774522941, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: 7088935290613308772, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: 893307237725376713, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: -4762928513386294772, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    fps: 18
+    impactFrame: 4
+  windup:
+    frames:
+    - {fileID: -2117645296668398789, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: -6489783719863445178, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: 7143038215298007910, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: 7340488956542327346, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: -3250645800563341298, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: 2077353009836543874, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    fps: 10
+    impactFrame: 4
+  slam:
+    frames:
+    - {fileID: -7112459613928439640, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: -7218980495989341236, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: -470127763365657159, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: 1698551204335194390, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: 2086578887512384971, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: 8587367587450329689, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    fps: 10
+    impactFrame: 0
+  recovery:
+    frames:
+    - {fileID: -8872621439849983987, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: 2251706943971978658, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: -8302294517924276645, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: -3357715373736173493, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: -6584448790220294460, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    - {fileID: 3602427287523154217, guid: d7ffea375553b814e9d3001777f3a9d7, type: 2}
+    fps: 10
+    impactFrame: 4

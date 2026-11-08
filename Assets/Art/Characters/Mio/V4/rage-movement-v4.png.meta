@@ -1,0 +1,1432 @@
+fileFormatVersion: 2
+guid: 9e5e81b70dbac5749b0b724e95d57a26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3459546633967173577
+    second: rage-movement-v4_0
+  - first:
+      213: -4383043647395821485
+    second: rage-movement-v4_1
+  - first:
+      213: -1856141472373293642
+    second: rage-movement-v4_2
+  - first:
+      213: -7425192090757079964
+    second: rage-movement-v4_3
+  - first:
+      213: 3713380697023813264
+    second: rage-movement-v4_4
+  - first:
+      213: 2887386834341030667
+    second: rage-movement-v4_5
+  - first:
+      213: 7794784488378605764
+    second: rage-movement-v4_6
+  - first:
+      213: 2893646440814076740
+    second: rage-movement-v4_7
+  - first:
+      213: -814716189607102282
+    second: rage-movement-v4_8
+  - first:
+      213: 4025980944799748765
+    second: rage-movement-v4_9
+  - first:
+      213: 3617606167813684331
+    second: rage-movement-v4_10
+  - first:
+      213: 7052857346305174212
+    second: rage-movement-v4_11
+  - first:
+      213: -5712603643913083943
+    second: rage-movement-v4_12
+  - first:
+      213: -6950232060689233203
+    second: rage-movement-v4_13
+  - first:
+      213: 7382603016017193954
+    second: rage-movement-v4_14
+  - first:
+      213: 5567957771036783336
+    second: rage-movement-v4_15
+  - first:
+      213: -4305486311172303289
+    second: rage-movement-v4_16
+  - first:
+      213: 3919727915058024775
+    second: rage-movement-v4_17
+  - first:
+      213: -392850577618381880
+    second: rage-movement-v4_18
+  - first:
+      213: -2713266829832324221
+    second: rage-movement-v4_19
+  - first:
+      213: 1983431391667111871
+    second: rage-movement-v4_20
+  - first:
+      213: 2207799716104667002
+    second: rage-movement-v4_21
+  - first:
+      213: 3673239221491603827
+    second: rage-movement-v4_22
+  - first:
+      213: 8377420107711591097
+    second: rage-movement-v4_23
+  - first:
+      213: 7328459207021285357
+    second: rage-movement-v4_24
+  - first:
+      213: -5209227262166531833
+    second: rage-movement-v4_25
+  - first:
+      213: -4444052368066966374
+    second: rage-movement-v4_26
+  - first:
+      213: -4814421669894028840
+    second: rage-movement-v4_27
+  - first:
+      213: -5125848090373491561
+    second: rage-movement-v4_28
+  - first:
+      213: 5758618489411475487
+    second: rage-movement-v4_29
+  - first:
+      213: -8483684644851553492
+    second: rage-movement-v4_30
+  - first:
+      213: -3557193353077749459
+    second: rage-movement-v4_31
+  - first:
+      213: -1132323012648416687
+    second: rage-movement-v4_32
+  - first:
+      213: -745632102158052733
+    second: rage-movement-v4_33
+  - first:
+      213: -2324068394033748215
+    second: rage-movement-v4_34
+  - first:
+      213: -4549840594153476494
+    second: rage-movement-v4_35
+  - first:
+      213: 676135266005935083
+    second: rage-movement-v4_36
+  - first:
+      213: -4224273573362939666
+    second: rage-movement-v4_37
+  - first:
+      213: -6139797878959497969
+    second: rage-movement-v4_38
+  - first:
+      213: -5613167651742075501
+    second: rage-movement-v4_39
+  - first:
+      213: 4942730385451450519
+    second: rage-movement-v4_40
+  - first:
+      213: 4775618740938007823
+    second: rage-movement-v4_41
+  - first:
+      213: -4603126440787843466
+    second: rage-movement-v4_42
+  - first:
+      213: 2504583110533387760
+    second: rage-movement-v4_43
+  - first:
+      213: -909551900291769853
+    second: rage-movement-v4_44
+  - first:
+      213: 2172571756271765276
+    second: rage-movement-v4_45
+  - first:
+      213: 4534569467937892831
+    second: rage-movement-v4_46
+  - first:
+      213: 6596101608392959369
+    second: rage-movement-v4_47
+  - first:
+      213: -4062024528929261100
+    second: rage-movement-v4_48
+  - first:
+      213: -6431430352208806834
+    second: rage-movement-v4_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rage-movement-v4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 251
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cff2898557c20030800000000000000
+      internalID: 3459546633967173577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 759
+        width: 233
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35880f9660d4c23c0800000000000000
+      internalID: -4383043647395821485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 757
+        width: 259
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdb1564a29ad36e0800000000000000
+      internalID: -1856141472373293642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_3
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 753
+        width: 255
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c5261422b64f890800000000000000
+      internalID: -7425192090757079964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_4
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 503
+        width: 255
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09695e1d114988330800000000000000
+      internalID: 3713380697023813264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_5
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 506
+        width: 253
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b690e170f021820800000000000000
+      internalID: 2887386834341030667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_6
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 965
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c028829133ac2c60800000000000000
+      internalID: 7794784488378605764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 931
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443eb425b1c482820800000000000000
+      internalID: 2893646440814076740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 927
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b875bd21fb81b4f0800000000000000
+      internalID: -814716189607102282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_9
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 927
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92d747b6582fd730800000000000000
+      internalID: 4025980944799748765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 500
+        width: 257
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cfbc984a1543230800000000000000
+      internalID: 3617606167813684331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_11
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 729
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca260a8368c0e160800000000000000
+      internalID: 7052857346305174212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_12
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 721
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d365f5a041c8b0b0800000000000000
+      internalID: -5712603643913083943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_13
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 509
+        width: 251
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca4614c3c0db8f90800000000000000
+      internalID: -6950232060689233203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 513
+        width: 253
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebae6f0456447660800000000000000
+      internalID: 7382603016017193954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_15
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 689
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2f50ba71c554d40800000000000000
+      internalID: 5567957771036783336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 607
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746944de207df34c0800000000000000
+      internalID: -4305486311172303289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_17
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 627
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741573965cba56630800000000000000
+      internalID: 3919727915058024775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_18
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 510
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3df372b705c8af0800000000000000
+      internalID: -392850577618381880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_19
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 498
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b7efa913a885ad0800000000000000
+      internalID: -2713266829832324221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 223
+        width: 535
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb74da09750968b10800000000000000
+      internalID: 1983431391667111871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 495
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f70a5f42ea3ae10800000000000000
+      internalID: 2207799716104667002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 487
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3791a0c3c97f9f230800000000000000
+      internalID: 3673239221491603827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_23
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 203
+        width: 521
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b23d56d333924470800000000000000
+      internalID: 8377420107711591097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_24
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 488
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defc17922dae3b560800000000000000
+      internalID: 7328459207021285357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_25
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 495
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701884c976b15b7b0800000000000000
+      internalID: -5209227262166531833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_26
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 497
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c8226baed8352c0800000000000000
+      internalID: -4444052368066966374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_27
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 241
+        width: 251
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d10607cffcbf2db0800000000000000
+      internalID: -4814421669894028840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_28
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 497
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7947ca8d1545dd8b0800000000000000
+      internalID: -5125848090373491561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_29
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 499
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f181e527109baef40800000000000000
+      internalID: 5758618489411475487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_30
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 421
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bef2593c5e34a80800000000000000
+      internalID: -8483684644851553492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_31
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 271
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d298b600e7f42aec0800000000000000
+      internalID: -3557193353077749459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_32
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 269
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a4714283e2940f0800000000000000
+      internalID: -1132323012648416687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 249
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382ddb9bd8bf6a5f0800000000000000
+      internalID: -745632102158052733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 211
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907e7ebeb104fbfd0800000000000000
+      internalID: -2324068394033748215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e64d0f518bbd0c0800000000000000
+      internalID: -4549840594153476494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 243
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3e56e217d126900800000000000000
+      internalID: 676135266005935083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 195
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8c1a1f09d5065c0800000000000000
+      internalID: -4224273573362939666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 247
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d1cefeb5e0bcaa0800000000000000
+      internalID: -6139797878959497969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_39
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 271
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3953335b2c50a12b0800000000000000
+      internalID: -5613167651742075501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 257
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7900d5d091b189440800000000000000
+      internalID: 4942730385451450519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_41
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 229
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05ee4c41f7664240800000000000000
+      internalID: 4775618740938007823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_42
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 247
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e1a8f3e86e10c0800000000000000
+      internalID: -4603126440787843466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_43
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 235
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f519c5b11112c220800000000000000
+      internalID: 2504583110533387760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_44
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0
+        width: 235
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ad35e9d5f9063f0800000000000000
+      internalID: -909551900291769853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_45
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 175
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1700a56086862e10800000000000000
+      internalID: 2172571756271765276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_46
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 180
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd925c9e7e60eee30800000000000000
+      internalID: 4534569467937892831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_47
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 175
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98525a6177f0a8b50800000000000000
+      internalID: 6596101608392959369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_48
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 151
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d97f34663ac0a7c0800000000000000
+      internalID: -4062024528929261100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-movement-v4_49
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cbdea7b28feb6a0800000000000000
+      internalID: -6431430352208806834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rage-movement-v4_0: 3459546633967173577
+      rage-movement-v4_1: -4383043647395821485
+      rage-movement-v4_10: 3617606167813684331
+      rage-movement-v4_11: 7052857346305174212
+      rage-movement-v4_12: -5712603643913083943
+      rage-movement-v4_13: -6950232060689233203
+      rage-movement-v4_14: 7382603016017193954
+      rage-movement-v4_15: 5567957771036783336
+      rage-movement-v4_16: -4305486311172303289
+      rage-movement-v4_17: 3919727915058024775
+      rage-movement-v4_18: -392850577618381880
+      rage-movement-v4_19: -2713266829832324221
+      rage-movement-v4_2: -1856141472373293642
+      rage-movement-v4_20: 1983431391667111871
+      rage-movement-v4_21: 2207799716104667002
+      rage-movement-v4_22: 3673239221491603827
+      rage-movement-v4_23: 8377420107711591097
+      rage-movement-v4_24: 7328459207021285357
+      rage-movement-v4_25: -5209227262166531833
+      rage-movement-v4_26: -4444052368066966374
+      rage-movement-v4_27: -4814421669894028840
+      rage-movement-v4_28: -5125848090373491561
+      rage-movement-v4_29: 5758618489411475487
+      rage-movement-v4_3: -7425192090757079964
+      rage-movement-v4_30: -8483684644851553492
+      rage-movement-v4_31: -3557193353077749459
+      rage-movement-v4_32: -1132323012648416687
+      rage-movement-v4_33: -745632102158052733
+      rage-movement-v4_34: -2324068394033748215
+      rage-movement-v4_35: -4549840594153476494
+      rage-movement-v4_36: 676135266005935083
+      rage-movement-v4_37: -4224273573362939666
+      rage-movement-v4_38: -6139797878959497969
+      rage-movement-v4_39: -5613167651742075501
+      rage-movement-v4_4: 3713380697023813264
+      rage-movement-v4_40: 4942730385451450519
+      rage-movement-v4_41: 4775618740938007823
+      rage-movement-v4_42: -4603126440787843466
+      rage-movement-v4_43: 2504583110533387760
+      rage-movement-v4_44: -909551900291769853
+      rage-movement-v4_45: 2172571756271765276
+      rage-movement-v4_46: 4534569467937892831
+      rage-movement-v4_47: 6596101608392959369
+      rage-movement-v4_48: -4062024528929261100
+      rage-movement-v4_49: -6431430352208806834
+      rage-movement-v4_5: 2887386834341030667
+      rage-movement-v4_6: 7794784488378605764
+      rage-movement-v4_7: 2893646440814076740
+      rage-movement-v4_8: -814716189607102282
+      rage-movement-v4_9: 4025980944799748765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

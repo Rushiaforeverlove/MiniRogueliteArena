@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: 1d43d24288b44d94082b065325eacc00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6577955307178873470
+    second: GEN-W08_0
+  - first:
+      213: 6832130656211302310
+    second: GEN-W08_1
+  - first:
+      213: -4853234257168143497
+    second: GEN-W08_2
+  - first:
+      213: 7167046839858238008
+    second: GEN-W08_3
+  - first:
+      213: 7120582125198833235
+    second: GEN-W08_4
+  - first:
+      213: -4248641693617854430
+    second: GEN-W08_5
+  - first:
+      213: -2997012329828750796
+    second: GEN-W08_6
+  - first:
+      213: -1304259101034097706
+    second: GEN-W08_7
+  - first:
+      213: 7360061970996050544
+    second: GEN-W08_8
+  - first:
+      213: -4794511077408355882
+    second: GEN-W08_9
+  - first:
+      213: -7668830336317000754
+    second: GEN-W08_10
+  - first:
+      213: 7171546149314467543
+    second: GEN-W08_11
+  - first:
+      213: -1186172931728782583
+    second: GEN-W08_12
+  - first:
+      213: 7876923823285713403
+    second: GEN-W08_13
+  - first:
+      213: 7119156552032637434
+    second: GEN-W08_14
+  - first:
+      213: -2796668872444774546
+    second: GEN-W08_15
+  - first:
+      213: -5401154569964981738
+    second: GEN-W08_16
+  - first:
+      213: -5824451325560403174
+    second: GEN-W08_17
+  - first:
+      213: 5681401912119314719
+    second: GEN-W08_18
+  - first:
+      213: 5670342136896004474
+    second: GEN-W08_19
+  - first:
+      213: -8348604239397143004
+    second: GEN-W08_20
+  - first:
+      213: 7629816974064033762
+    second: GEN-W08_21
+  - first:
+      213: 8203637423001936059
+    second: GEN-W08_22
+  - first:
+      213: -7611087321393866706
+    second: GEN-W08_23
+  - first:
+      213: -9055658940812290812
+    second: GEN-W08_24
+  - first:
+      213: 7114782358590630751
+    second: GEN-W08_25
+  - first:
+      213: 3961047254480070622
+    second: GEN-W08_26
+  - first:
+      213: 8099604487226385001
+    second: GEN-W08_27
+  - first:
+      213: 7553807606304855931
+    second: GEN-W08_28
+  - first:
+      213: 7981171221674596565
+    second: GEN-W08_29
+  - first:
+      213: 233194443371051085
+    second: GEN-W08_30
+  - first:
+      213: 7730041493809991285
+    second: GEN-W08_31
+  - first:
+      213: -5295083923727541460
+    second: GEN-W08_32
+  - first:
+      213: 4246743145403403567
+    second: GEN-W08_33
+  - first:
+      213: 7788551225962108858
+    second: GEN-W08_34
+  - first:
+      213: -9098603084932727928
+    second: GEN-W08_35
+  - first:
+      213: -7462987105383382795
+    second: GEN-W08_36
+  - first:
+      213: 4822894657799268648
+    second: GEN-W08_37
+  - first:
+      213: -4247929592668192764
+    second: GEN-W08_38
+  - first:
+      213: -4783503250454057515
+    second: GEN-W08_39
+  - first:
+      213: -4776909860266740471
+    second: GEN-W08_40
+  - first:
+      213: 6249587165152708769
+    second: GEN-W08_41
+  - first:
+      213: -1042648335470655077
+    second: GEN-W08_42
+  - first:
+      213: -4541367785486731423
+    second: GEN-W08_43
+  - first:
+      213: -5683707310740229168
+    second: GEN-W08_44
+  - first:
+      213: 5676117581112222944
+    second: GEN-W08_45
+  - first:
+      213: 6144205998242416940
+    second: GEN-W08_46
+  - first:
+      213: 9079476296263182633
+    second: GEN-W08_47
+  - first:
+      213: -253845154303759862
+    second: GEN-W08_48
+  - first:
+      213: 6145339556320180625
+    second: GEN-W08_49
+  - first:
+      213: 6284133119240008129
+    second: GEN-W08_50
+  - first:
+      213: 8767769724187673676
+    second: GEN-W08_51
+  - first:
+      213: 8444578680497914383
+    second: GEN-W08_52
+  - first:
+      213: 1142681602569586022
+    second: GEN-W08_53
+  - first:
+      213: 3055368372814308616
+    second: GEN-W08_54
+  - first:
+      213: 8714245055010444297
+    second: GEN-W08_55
+  - first:
+      213: 4876554947310803285
+    second: GEN-W08_56
+  - first:
+      213: 3981260344342389903
+    second: GEN-W08_57
+  - first:
+      213: -5612709990762415863
+    second: GEN-W08_58
+  - first:
+      213: 3969635311336353648
+    second: GEN-W08_59
+  - first:
+      213: 6178374563230899235
+    second: GEN-W08_60
+  - first:
+      213: -7756220201127273618
+    second: GEN-W08_61
+  - first:
+      213: -1086646098072615786
+    second: GEN-W08_62
+  - first:
+      213: 6594712763620279207
+    second: GEN-W08_63
+  - first:
+      213: 3384252227217962223
+    second: GEN-W08_64
+  - first:
+      213: -3860121097614080686
+    second: GEN-W08_65
+  - first:
+      213: 8844765123834833760
+    second: GEN-W08_66
+  - first:
+      213: 6677275256527942647
+    second: GEN-W08_67
+  - first:
+      213: -5096697287576258179
+    second: GEN-W08_68
+  - first:
+      213: 585317982719401566
+    second: GEN-W08_69
+  - first:
+      213: -5218641227030010619
+    second: GEN-W08_70
+  - first:
+      213: -8741189787282490899
+    second: GEN-W08_71
+  - first:
+      213: 4893780423853242
+    second: GEN-W08_72
+  - first:
+      213: 5550639248589928672
+    second: GEN-W08_73
+  - first:
+      213: 3924031374823679627
+    second: GEN-W08_74
+  - first:
+      213: -3430973443594008721
+    second: GEN-W08_75
+  - first:
+      213: 8407942766346889789
+    second: GEN-W08_76
+  - first:
+      213: 8163166194485026432
+    second: GEN-W08_77
+  - first:
+      213: -6372651845722409424
+    second: GEN-W08_78
+  - first:
+      213: 3962753152918834983
+    second: GEN-W08_79
+  - first:
+      213: -1503695406055708341
+    second: GEN-W08_80
+  - first:
+      213: -4313118891220683550
+    second: GEN-W08_81
+  - first:
+      213: 1864839528009097860
+    second: GEN-W08_82
+  - first:
+      213: 3516576126253177229
+    second: GEN-W08_83
+  - first:
+      213: -8588776745521718670
+    second: GEN-W08_84
+  - first:
+      213: -8070005822351241372
+    second: GEN-W08_85
+  - first:
+      213: -7582677134264717314
+    second: GEN-W08_86
+  - first:
+      213: -8207965096625073574
+    second: GEN-W08_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GEN-W08_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 1233
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d2537ef7866b4a0800000000000000
+      internalID: -6577955307178873470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_1
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1175
+        width: 112
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7f78632aa90de50800000000000000
+      internalID: 6832130656211302310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1123
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b6cb91829d5acb0800000000000000
+      internalID: -4853234257168143497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1094
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8321652d027767360800000000000000
+      internalID: 7167046839858238008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1064
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356f87667b361d260800000000000000
+      internalID: 7120582125198833235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1078
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2286ef1d3eac905c0800000000000000
+      internalID: -4248641693617854430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_6
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1080
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a67153a297866d0800000000000000
+      internalID: -2997012329828750796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_7
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1074
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3dac3024756ede0800000000000000
+      internalID: -1304259101034097706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_8
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1075
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ab41a0e51342660800000000000000
+      internalID: 7360061970996050544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_9
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1076
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d94667d399767db0800000000000000
+      internalID: -4794511077408355882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_10
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1060
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3f519b077d29590800000000000000
+      internalID: -7668830336317000754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1060
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d69530f933768360800000000000000
+      internalID: 7171546149314467543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1060
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b4f12d00ed98fe0800000000000000
+      internalID: -1186172931728782583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1066
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9b1c9cb74705d60800000000000000
+      internalID: 7876923823285713403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1002
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1dc484a235cc260800000000000000
+      internalID: 7119156552032637434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1053
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6779875a7c3039d0800000000000000
+      internalID: -2796668872444774546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1046
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6127240098e3b05b0800000000000000
+      internalID: -5401154569964981738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1050
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b4b60f0646b2fa0800000000000000
+      internalID: -5824451325560403174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1030
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19c81e00f468de40800000000000000
+      internalID: 5681401912119314719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1036
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71ad98712a11be40800000000000000
+      internalID: 5670342136896004474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_20
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1046
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eb9645dacc32c80800000000000000
+      internalID: -8348604239397143004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_21
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1048
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef15580d1e82e960800000000000000
+      internalID: 7629816974064033762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1035
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0a12085cc29d170800000000000000
+      internalID: 8203637423001936059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1020
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28d6dd086cff5690800000000000000
+      internalID: -7611087321393866706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_24
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1012
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4051bc91c26d35280800000000000000
+      internalID: -9055658940812290812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_25
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1020
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ba2020cd8ccb260800000000000000
+      internalID: 7114782358590630751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_26
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1030
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed722ddcd7778f630800000000000000
+      internalID: 3961047254480070622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 905
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962e94a1e53976070800000000000000
+      internalID: 8099604487226385001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 851
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77d1730ff384d860800000000000000
+      internalID: 7553807606304855931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 821
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d81c77a0f0d2ce60800000000000000
+      internalID: 7981171221674596565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_30
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 757
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f9b85c197c3300800000000000000
+      internalID: 233194443371051085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_31
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 793
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e039978cf964b60800000000000000
+      internalID: 7730041493809991285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_32
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 779
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b9656d9351486b0800000000000000
+      internalID: -5295083923727541460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_33
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 705
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d481af3667fea30800000000000000
+      internalID: 4246743145403403567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_34
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 757
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab79762131e761c60800000000000000
+      internalID: 7788551225962108858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_35
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 761
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bbf4263b44bb180800000000000000
+      internalID: -9098603084932727928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_36
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 662
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f08d4ca4c42e6890800000000000000
+      internalID: -7462987105383382795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_37
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 618
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8292143732d5ee240800000000000000
+      internalID: 4822894657799268648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 513
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400842eba825c05c0800000000000000
+      internalID: -4247929592668192764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 531
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd62c643259d9db0800000000000000
+      internalID: -4783503250454057515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_40
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 523
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9057dbe8ac105bdb0800000000000000
+      internalID: -4776909860266740471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_41
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 525
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a884cb3a6efab650800000000000000
+      internalID: 6249587165152708769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_42
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 520
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b998e92fcd4c781f0800000000000000
+      internalID: -1042648335470655077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_43
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 515
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16739af6f02d9f0c0800000000000000
+      internalID: -4541367785486731423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_44
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 513
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3b900805a6f11b0800000000000000
+      internalID: -5683707310740229168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_45
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 515
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e42b8dddde95ce40800000000000000
+      internalID: 5676117581112222944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_46
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 517
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2940105dca944550800000000000000
+      internalID: 6144205998242416940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 471
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929a8591697c00e70800000000000000
+      internalID: 9079476296263182633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_48
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 465
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a25c55d292a7cf0800000000000000
+      internalID: -253845154303759862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 451
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199fe9e54c1a84550800000000000000
+      internalID: 6145339556320180625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 455
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c17195f6c9b53750800000000000000
+      internalID: 6284133119240008129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 441
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4481aa4c106da970800000000000000
+      internalID: 8767769724187673676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 439
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f024ae0919b213570800000000000000
+      internalID: 8444578680497914383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_53
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 444
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665c8840dde9bdf00800000000000000
+      internalID: 1142681602569586022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_54
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 421
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8056f87d859d66a20800000000000000
+      internalID: 3055368372814308616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 407
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9041a9d15b73fe870800000000000000
+      internalID: 8714245055010444297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 387
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559522233e00da340800000000000000
+      internalID: 4876554947310803285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_57
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 385
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84a0e68037404730800000000000000
+      internalID: 3981260344342389903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_58
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 355
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909f1553006ab12b0800000000000000
+      internalID: -5612709990762415863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_59
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 333
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fec0c984af61730800000000000000
+      internalID: 3969635311336353648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_60
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 308
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cdfaa4eeefdb550800000000000000
+      internalID: 6178374563230899235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_61
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 240
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b991042de5c5490800000000000000
+      internalID: -7756220201127273618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_62
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 312
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69441df81257be0f0800000000000000
+      internalID: -1086646098072615786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a342577150258b50800000000000000
+      internalID: 6594712763620279207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_64
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 256
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4b6a9587747fe20800000000000000
+      internalID: 3384252227217962223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_65
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 264
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255c8b240581e6ac0800000000000000
+      internalID: -3860121097614080686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_66
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 208
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b60ffb40beeba70800000000000000
+      internalID: 8844765123834833760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_67
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 200
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f37ad4d7727aac50800000000000000
+      internalID: 6677275256527942647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_68
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 204
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79f15602d4e449b0800000000000000
+      internalID: -5096697287576258179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_69
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 150
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e53a8aa977f1800800000000000000
+      internalID: 585317982719401566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_70
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 173
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505eaac1479a397b0800000000000000
+      internalID: -5218641227030010619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_71
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 168
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de931c6833e01b680800000000000000
+      internalID: -8741189787282490899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_72
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 117
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4c5cb0ed2611000800000000000000
+      internalID: 4893780423853242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_73
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 125
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e83b80fcf4d70d40800000000000000
+      internalID: 5550639248589928672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_74
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 101
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b866ad7beb5f47630800000000000000
+      internalID: 3924031374823679627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_75
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 97
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67c7c4c4dbb260d0800000000000000
+      internalID: -3430973443594008721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 110
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aebe716630fa470800000000000000
+      internalID: 8407942766346889789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_77
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 93
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ed1c05764694170800000000000000
+      internalID: 8163166194485026432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_78
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 112
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0367a7af8eacf87a0800000000000000
+      internalID: -6372651845722409424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_79
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 103
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f494c3ff68ef630800000000000000
+      internalID: 3962753152918834983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_80
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 45
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49a9afbefcc12be0800000000000000
+      internalID: -1503695406055708341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_81
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 79
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4b3c66839b424c0800000000000000
+      internalID: -4313118891220683550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_82
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482e61e9bad31e910800000000000000
+      internalID: 1864839528009097860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_83
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 87
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8990feea536dc030800000000000000
+      internalID: 3516576126253177229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_84
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 87
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ada042e098ec880800000000000000
+      internalID: -8588776745521718670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 63
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f8b671674910090800000000000000
+      internalID: -8070005822351241372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_86
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 71
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effaca5325be4c690800000000000000
+      internalID: -7582677134264717314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-W08_87
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 65
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a529bd67b33771e80800000000000000
+      internalID: -8207965096625073574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GEN-W08_0: -6577955307178873470
+      GEN-W08_1: 6832130656211302310
+      GEN-W08_10: -7668830336317000754
+      GEN-W08_11: 7171546149314467543
+      GEN-W08_12: -1186172931728782583
+      GEN-W08_13: 7876923823285713403
+      GEN-W08_14: 7119156552032637434
+      GEN-W08_15: -2796668872444774546
+      GEN-W08_16: -5401154569964981738
+      GEN-W08_17: -5824451325560403174
+      GEN-W08_18: 5681401912119314719
+      GEN-W08_19: 5670342136896004474
+      GEN-W08_2: -4853234257168143497
+      GEN-W08_20: -8348604239397143004
+      GEN-W08_21: 7629816974064033762
+      GEN-W08_22: 8203637423001936059
+      GEN-W08_23: -7611087321393866706
+      GEN-W08_24: -9055658940812290812
+      GEN-W08_25: 7114782358590630751
+      GEN-W08_26: 3961047254480070622
+      GEN-W08_27: 8099604487226385001
+      GEN-W08_28: 7553807606304855931
+      GEN-W08_29: 7981171221674596565
+      GEN-W08_3: 7167046839858238008
+      GEN-W08_30: 233194443371051085
+      GEN-W08_31: 7730041493809991285
+      GEN-W08_32: -5295083923727541460
+      GEN-W08_33: 4246743145403403567
+      GEN-W08_34: 7788551225962108858
+      GEN-W08_35: -9098603084932727928
+      GEN-W08_36: -7462987105383382795
+      GEN-W08_37: 4822894657799268648
+      GEN-W08_38: -4247929592668192764
+      GEN-W08_39: -4783503250454057515
+      GEN-W08_4: 7120582125198833235
+      GEN-W08_40: -4776909860266740471
+      GEN-W08_41: 6249587165152708769
+      GEN-W08_42: -1042648335470655077
+      GEN-W08_43: -4541367785486731423
+      GEN-W08_44: -5683707310740229168
+      GEN-W08_45: 5676117581112222944
+      GEN-W08_46: 6144205998242416940
+      GEN-W08_47: 9079476296263182633
+      GEN-W08_48: -253845154303759862
+      GEN-W08_49: 6145339556320180625
+      GEN-W08_5: -4248641693617854430
+      GEN-W08_50: 6284133119240008129
+      GEN-W08_51: 8767769724187673676
+      GEN-W08_52: 8444578680497914383
+      GEN-W08_53: 1142681602569586022
+      GEN-W08_54: 3055368372814308616
+      GEN-W08_55: 8714245055010444297
+      GEN-W08_56: 4876554947310803285
+      GEN-W08_57: 3981260344342389903
+      GEN-W08_58: -5612709990762415863
+      GEN-W08_59: 3969635311336353648
+      GEN-W08_6: -2997012329828750796
+      GEN-W08_60: 6178374563230899235
+      GEN-W08_61: -7756220201127273618
+      GEN-W08_62: -1086646098072615786
+      GEN-W08_63: 6594712763620279207
+      GEN-W08_64: 3384252227217962223
+      GEN-W08_65: -3860121097614080686
+      GEN-W08_66: 8844765123834833760
+      GEN-W08_67: 6677275256527942647
+      GEN-W08_68: -5096697287576258179
+      GEN-W08_69: 585317982719401566
+      GEN-W08_7: -1304259101034097706
+      GEN-W08_70: -5218641227030010619
+      GEN-W08_71: -8741189787282490899
+      GEN-W08_72: 4893780423853242
+      GEN-W08_73: 5550639248589928672
+      GEN-W08_74: 3924031374823679627
+      GEN-W08_75: -3430973443594008721
+      GEN-W08_76: 8407942766346889789
+      GEN-W08_77: 8163166194485026432
+      GEN-W08_78: -6372651845722409424
+      GEN-W08_79: 3962753152918834983
+      GEN-W08_8: 7360061970996050544
+      GEN-W08_80: -1503695406055708341
+      GEN-W08_81: -4313118891220683550
+      GEN-W08_82: 1864839528009097860
+      GEN-W08_83: 3516576126253177229
+      GEN-W08_84: -8588776745521718670
+      GEN-W08_85: -8070005822351241372
+      GEN-W08_86: -7582677134264717314
+      GEN-W08_87: -8207965096625073574
+      GEN-W08_9: -4794511077408355882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

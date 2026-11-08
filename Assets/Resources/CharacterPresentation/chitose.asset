@@ -1,0 +1,1372 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2211e904915782c4d9ebb5245bc3f706, type: 3}
+  m_Name: chitose
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Presentation.CharacterPresentationDefinition
+  characterId: guard_01
+  hubHeight: 2.05
+  battleHeight: 1.85
+  aimHeight: 0.65
+  muzzleReach: 0.65
+  circularSkills: 1
+  characterMaterial: {fileID: 2100000, guid: 88844331f9a2b46499972df96c157b21, type: 2}
+  effectMaterial: {fileID: 2100000, guid: dd470b6590737414f92f2c0b8950dfd1, type: 2}
+  motions:
+  - key: hub.idle
+    duration: 2
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 919
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 919
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 919
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 919
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 919
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 919
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+  - key: hub.walk
+    duration: 0.85
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 693
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 693
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 693
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 693
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 693
+        width: 229
+        height: 226
+      pivot: {x: 0.55458516, y: 0.03982301}
+      pixelsPerUnit: 114.5946
+  - key: hub.special
+    duration: 4
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 229
+        height: 232
+      pivot: {x: 0.55458516, y: 0.04310345}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 461
+        width: 229
+        height: 232
+      pivot: {x: 0.55458516, y: 0.04310345}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 461
+        width: 229
+        height: 232
+      pivot: {x: 0.55458516, y: 0.038793102}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 461
+        width: 229
+        height: 232
+      pivot: {x: 0.55458516, y: 0.038793102}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 461
+        width: 229
+        height: 232
+      pivot: {x: 0.55458516, y: 0.038793102}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 461
+        width: 229
+        height: 232
+      pivot: {x: 0.55458516, y: 0.038793102}
+      pixelsPerUnit: 114.5946
+  - key: hub.seat
+    duration: 3.6
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 229
+        height: 228
+      pivot: {x: 0.55458516, y: 0.04385965}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 233
+        width: 229
+        height: 228
+      pivot: {x: 0.55458516, y: 0.04385965}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 233
+        width: 229
+        height: 228
+      pivot: {x: 0.55458516, y: 0.04385965}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 233
+        width: 229
+        height: 228
+      pivot: {x: 0.55458516, y: 0.04385965}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 233
+        width: 229
+        height: 228
+      pivot: {x: 0.55458516, y: 0.04385965}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 233
+        width: 229
+        height: 228
+      pivot: {x: 0.55458516, y: 0.04385965}
+      pixelsPerUnit: 114.5946
+  - key: hub.seatSpecial
+    duration: 4
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 229
+        height: 233
+      pivot: {x: 0.55458516, y: 0.060085837}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 229
+        height: 233
+      pivot: {x: 0.55458516, y: 0.060085837}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 229
+        height: 233
+      pivot: {x: 0.55458516, y: 0.060085837}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 229
+        height: 233
+      pivot: {x: 0.55458516, y: 0.060085837}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 0
+        width: 229
+        height: 233
+      pivot: {x: 0.55458516, y: 0.060085837}
+      pixelsPerUnit: 114.5946
+    - texture: {fileID: 2800000, guid: d271fb38fbf20034fa859eccb4ccdbd1, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 0
+        width: 229
+        height: 233
+      pivot: {x: 0.55458516, y: 0.060085837}
+      pixelsPerUnit: 114.5946
+  - key: combat.idle
+    duration: 1.5
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1052
+        width: 212
+        height: 183
+      pivot: {x: 0.5943396, y: 0.032786883}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1052
+        width: 213
+        height: 183
+      pivot: {x: 0.5915493, y: 0.032786883}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1052
+        width: 212
+        height: 183
+      pivot: {x: 0.5943396, y: 0.032786883}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1052
+        width: 212
+        height: 183
+      pivot: {x: 0.5943396, y: 0.032786883}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1052
+        width: 213
+        height: 183
+      pivot: {x: 0.5915493, y: 0.032786883}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1052
+        width: 212
+        height: 183
+      pivot: {x: 0.5943396, y: 0.032786883}
+      pixelsPerUnit: 91.89189
+  - key: combat.walk
+    duration: 0.8
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 873
+        width: 212
+        height: 179
+      pivot: {x: 0.5943396, y: 0.022346368}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 873
+        width: 213
+        height: 179
+      pivot: {x: 0.5915493, y: 0.022346368}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 873
+        width: 212
+        height: 179
+      pivot: {x: 0.5943396, y: 0.022346368}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 873
+        width: 212
+        height: 179
+      pivot: {x: 0.5943396, y: 0.022346368}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 873
+        width: 213
+        height: 179
+      pivot: {x: 0.5915493, y: 0.02793296}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 873
+        width: 212
+        height: 179
+      pivot: {x: 0.5943396, y: 0.022346368}
+      pixelsPerUnit: 91.89189
+  - key: combat.shoot
+    duration: 0.5
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 212
+        height: 177
+      pivot: {x: 0.5943396, y: 0.016949153}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 696
+        width: 213
+        height: 177
+      pivot: {x: 0.5915493, y: 0.016949153}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 696
+        width: 212
+        height: 177
+      pivot: {x: 0.5943396, y: 0.016949153}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 696
+        width: 212
+        height: 177
+      pivot: {x: 0.5943396, y: 0.016949153}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 696
+        width: 213
+        height: 177
+      pivot: {x: 0.5915493, y: 0.016949153}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 696
+        width: 212
+        height: 177
+      pivot: {x: 0.5943396, y: 0.016949153}
+      pixelsPerUnit: 91.89189
+  - key: combat.moveShoot
+    duration: 0.8
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 212
+        height: 175
+      pivot: {x: 0.5943396, y: 0.034285713}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 521
+        width: 213
+        height: 175
+      pivot: {x: 0.5915493, y: 0.034285713}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 521
+        width: 212
+        height: 175
+      pivot: {x: 0.5943396, y: 0.034285713}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 521
+        width: 212
+        height: 175
+      pivot: {x: 0.5943396, y: 0.034285713}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 521
+        width: 213
+        height: 175
+      pivot: {x: 0.5915493, y: 0.034285713}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 521
+        width: 212
+        height: 175
+      pivot: {x: 0.5943396, y: 0.034285713}
+      pixelsPerUnit: 91.89189
+  - key: combat.dodge
+    duration: 0.6
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 212
+        height: 176
+      pivot: {x: 0.5943396, y: 0.028409092}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 345
+        width: 213
+        height: 176
+      pivot: {x: 0.5915493, y: 0.03409091}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 345
+        width: 212
+        height: 176
+      pivot: {x: 0.5943396, y: 0.03409091}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 345
+        width: 212
+        height: 176
+      pivot: {x: 0.5943396, y: 0.03409091}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 345
+        width: 213
+        height: 176
+      pivot: {x: 0.5915493, y: 0.045454547}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 345
+        width: 212
+        height: 176
+      pivot: {x: 0.5943396, y: 0.03409091}
+      pixelsPerUnit: 91.89189
+  - key: combat.hurt
+    duration: 0.55
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 212
+        height: 174
+      pivot: {x: 0.5943396, y: 0.022988506}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 171
+        width: 213
+        height: 174
+      pivot: {x: 0.5915493, y: 0.03448276}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 171
+        width: 212
+        height: 174
+      pivot: {x: 0.5943396, y: 0.028735632}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 171
+        width: 212
+        height: 174
+      pivot: {x: 0.5943396, y: 0.028735632}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 171
+        width: 213
+        height: 174
+      pivot: {x: 0.5915493, y: 0.040229887}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 171
+        width: 212
+        height: 174
+      pivot: {x: 0.5943396, y: 0.03448276}
+      pixelsPerUnit: 91.89189
+  - key: combat.death
+    duration: 1.1
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 212
+        height: 171
+      pivot: {x: 0.5943396, y: 0.029239766}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 213
+        height: 171
+      pivot: {x: 0.5915493, y: 0.029239766}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 212
+        height: 171
+      pivot: {x: 0.5943396, y: 0.040935673}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 212
+        height: 171
+      pivot: {x: 0.5943396, y: 0.040935673}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 213
+        height: 171
+      pivot: {x: 0.5915493, y: 0.046783626}
+      pixelsPerUnit: 91.89189
+    - texture: {fileID: 2800000, guid: 7c032ea710830134484ae0c551491bb4, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 212
+        height: 171
+      pivot: {x: 0.5943396, y: 0.046783626}
+      pixelsPerUnit: 91.89189
+  - key: skill.e
+    duration: 0.8
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 256
+        height: 258
+      pivot: {x: 0.47265625, y: 0.027131783}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 766
+        width: 256
+        height: 258
+      pivot: {x: 0.47265625, y: 0.027131783}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 766
+        width: 256
+        height: 258
+      pivot: {x: 0.47265625, y: 0.031007752}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 766
+        width: 256
+        height: 258
+      pivot: {x: 0.47265625, y: 0.031007752}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 766
+        width: 256
+        height: 258
+      pivot: {x: 0.47265625, y: 0.031007752}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 766
+        width: 256
+        height: 258
+      pivot: {x: 0.47265625, y: 0.027131783}
+      pixelsPerUnit: 130.27026
+  - key: skill.q
+    duration: 0.9
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.02734375}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 510
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.0234375}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 510
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.03125}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 510
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.0234375}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 510
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.03125}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 510
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.02734375}
+      pixelsPerUnit: 130.27026
+  - key: action.talk
+    duration: 2.5
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.02734375}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 254
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.02734375}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 254
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.02734375}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 254
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.046875}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 254
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.046875}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 254
+        width: 256
+        height: 256
+      pivot: {x: 0.47265625, y: 0.02734375}
+      pixelsPerUnit: 130.27026
+  - key: action.victory
+    duration: 2.5
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 254
+      pivot: {x: 0.47265625, y: 0.01968504}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 254
+      pivot: {x: 0.47265625, y: 0.01968504}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 254
+      pivot: {x: 0.47265625, y: 0.027559055}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 254
+      pivot: {x: 0.47265625, y: 0.031496063}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 254
+      pivot: {x: 0.47265625, y: 0.027559055}
+      pixelsPerUnit: 130.27026
+    - texture: {fileID: 2800000, guid: eac938031a97256429a8abfbfc6f2ef6, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 254
+      pivot: {x: 0.47265625, y: 0.01968504}
+      pixelsPerUnit: 130.27026
+  - key: fx.muzzle
+    duration: 0.45
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+  - key: fx.projectile
+    duration: 0.45
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+  - key: fx.e
+    duration: 0.45
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 256
+        height: 250
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 262
+        width: 256
+        height: 250
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 262
+        width: 256
+        height: 250
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 262
+        width: 256
+        height: 250
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 262
+        width: 256
+        height: 250
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 262
+        width: 256
+        height: 250
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+  - key: fx.q
+    duration: 0.45
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 262
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 262
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 262
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 262
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 262
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 262
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+  - key: fx.hit
+    duration: 0.45
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+    - texture: {fileID: 2800000, guid: eec45754647bd17468d7da521dfac77a, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      pivot: {x: 0.5, y: 0.5}
+      pixelsPerUnit: 44.324326
+  seatUpper:
+    key: seat.upper
+    duration: 3.6
+    loop: 1
+    frames:
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 705.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 705.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 705.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 705.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 705.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+  seatSpecialUpper:
+    key: seat.special
+    duration: 4
+    loop: 0
+    frames:
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 193.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 193.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 193.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+    - texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 193.68
+        width: 256
+        height: 318.32
+      pivot: {x: 0.5, y: 0.018848957}
+      pixelsPerUnit: 280
+  seatLower:
+    texture: {fileID: 2800000, guid: 039854ead334a2a47844997fce6e478f, type: 3}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 512
+      width: 256
+      height: 193.68
+    pivot: {x: 0.5, y: 1}
+    pixelsPerUnit: 280
+  seatedScale: 0.902439
+  seatedRestSeconds: 3
+  seatLowerOffset: {x: 0, y: -0.021428572}

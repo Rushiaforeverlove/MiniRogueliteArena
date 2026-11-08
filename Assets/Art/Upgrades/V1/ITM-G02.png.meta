@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: c71dc1b99305abf429b8f797a6a4a4be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3211457473294371295
+    second: ITM-G02_0
+  - first:
+      213: 5356347530005706723
+    second: ITM-G02_1
+  - first:
+      213: 274108732574300831
+    second: ITM-G02_2
+  - first:
+      213: -6741918804996682991
+    second: ITM-G02_3
+  - first:
+      213: 485514576105989146
+    second: ITM-G02_4
+  - first:
+      213: 8757742271993938903
+    second: ITM-G02_5
+  - first:
+      213: 4775064758167189620
+    second: ITM-G02_6
+  - first:
+      213: -3722082191497761806
+    second: ITM-G02_7
+  - first:
+      213: -1703559712115318676
+    second: ITM-G02_8
+  - first:
+      213: 4915285921878019792
+    second: ITM-G02_9
+  - first:
+      213: 121115098542260440
+    second: ITM-G02_10
+  - first:
+      213: -1481190222463089245
+    second: ITM-G02_11
+  - first:
+      213: 476546601653368757
+    second: ITM-G02_12
+  - first:
+      213: 7985042571117202415
+    second: ITM-G02_13
+  - first:
+      213: -1373564971416844788
+    second: ITM-G02_14
+  - first:
+      213: 3065296219429864004
+    second: ITM-G02_15
+  - first:
+      213: -5221100757625733034
+    second: ITM-G02_16
+  - first:
+      213: -4473476346771352711
+    second: ITM-G02_17
+  - first:
+      213: -1627555629741618833
+    second: ITM-G02_18
+  - first:
+      213: 3252219913874076465
+    second: ITM-G02_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ITM-G02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1239
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126f30d617c9e63d0800000000000000
+      internalID: -3211457473294371295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1175
+        width: 108
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7f78b03b1955a40800000000000000
+      internalID: 5356347530005706723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_2
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1146
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a7ce2a074ddc300800000000000000
+      internalID: 274108732574300831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1123
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b85ab2194ef62a0800000000000000
+      internalID: -6741918804996682991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1462124fe4ecb600800000000000000
+      internalID: 485514576105989146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_5
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d30f942230c98970800000000000000
+      internalID: 8757742271993938903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1129
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ba022910744240800000000000000
+      internalID: 4775064758167189620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1130
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbe7fe97f1885cc0800000000000000
+      internalID: -3722082191497761806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_8
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1074
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6023b9b77dbb58e0800000000000000
+      internalID: -1703559712115318676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_9
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de840fe08a963440800000000000000
+      internalID: 4915285921878019792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1110
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d04c895a894ea100800000000000000
+      internalID: 121115098542260440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_11
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1114
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a54e412751c17be0800000000000000
+      internalID: -1481190222463089245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_12
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 738
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7f77efb980d9600800000000000000
+      internalID: 476546601653368757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 685
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb00df69e190de60800000000000000
+      internalID: 7985042571117202415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 660
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0687ca9fed10fce0800000000000000
+      internalID: -1373564971416844788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 658
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4420772cbae1a8a20800000000000000
+      internalID: 3065296219429864004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 594
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6500235068cea87b0800000000000000
+      internalID: -5221100757625733034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 511
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973d49fc6f40be1c0800000000000000
+      internalID: -4473476346771352711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 311
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69401527c2c969e0800000000000000
+      internalID: -1627555629741618833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITM-G02_19
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 113
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1337ae9d7c4322d20800000000000000
+      internalID: 3252219913874076465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ITM-G02_0: -3211457473294371295
+      ITM-G02_1: 5356347530005706723
+      ITM-G02_10: 121115098542260440
+      ITM-G02_11: -1481190222463089245
+      ITM-G02_12: 476546601653368757
+      ITM-G02_13: 7985042571117202415
+      ITM-G02_14: -1373564971416844788
+      ITM-G02_15: 3065296219429864004
+      ITM-G02_16: -5221100757625733034
+      ITM-G02_17: -4473476346771352711
+      ITM-G02_18: -1627555629741618833
+      ITM-G02_19: 3252219913874076465
+      ITM-G02_2: 274108732574300831
+      ITM-G02_3: -6741918804996682991
+      ITM-G02_4: 485514576105989146
+      ITM-G02_5: 8757742271993938903
+      ITM-G02_6: 4775064758167189620
+      ITM-G02_7: -3722082191497761806
+      ITM-G02_8: -1703559712115318676
+      ITM-G02_9: 4915285921878019792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

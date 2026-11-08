@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: ITM-P04
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: ITM-P04
+  title: "\u516C\u8F49\u9152\u6AC3"
+  ownerRoleId: 
+  effectKey: item.orbiting_bottles
+  description: "\u4E09\u74F6\u9152\u4EE5\u534A\u5F91 2.1\u3001\u6BCF\u5708 3 \u79D2\u516C\u8F49\uFF0C\u63A5\u89F8\u5404\u9020\u6210 40% \u666E\u653B\u57FA\u6E96\u50B7\u5BB3\uFF1A\u70C8\u9152\u9644\u52A0 2 \u79D2\u71C3\u71D2\u3001\u6BCF 0.5 \u79D2\u518D\u50B7 20%\uFF1B\u51B0\u9152\u6E1B\u901F 25% \u6301\u7E8C 1.5 \u79D2\uFF1B\u8B77\u9152\u547D\u4E2D\u7D66 100 \u5C4F\u969C\u3001\u51B7\u537B 5 \u79D2\u3002\u9583\u907F\u5F8C\u672C\u5361\u8207\u74B0\u8EAB\u9152\u5203\u516C\u8F49\u52A0\u901F 40%\uFF0C\u6301\u7E8C 2 \u79D2\u3002"
+  quality: 1
+  category: 1
+  icon: {fileID: 21300000, guid: cbda621ce490e1d4ca6b0598eac789e3, type: 3}
+  artBrief: "\u7D05\u8272\u70C8\u9152\u3001\u85CD\u8272\u51B0\u9152\u3001\u7425\u73C0\u8B77\u9152\u74B0\u7E5E\u4E00\u5EA7\u61F8\u6D6E\u5C0F\u9152\u67B6\uFF0C\u74F6\u5C3E\u62D6\u51FA\u4E09\u8272\u661F\u8ECC"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: count
+    values:
+    - 3
+  - key: orbitRadius
+    values:
+    - 2.1
+  - key: orbitPeriod
+    values:
+    - 3
+  - key: hitRadius
+    values:
+    - 0.25
+  - key: contactCoefficient
+    values:
+    - 0.4
+  - key: perBottleTargetIcd
+    values:
+    - 0.8
+  - key: burnCoefficient
+    values:
+    - 0.2
+  - key: burnDuration
+    values:
+    - 2
+  - key: burnInterval
+    values:
+    - 0.5
+  - key: slow
+    values:
+    - 0.25
+  - key: slowDuration
+    values:
+    - 1.5
+  - key: shield
+    values:
+    - 100
+  - key: shieldIcd
+    values:
+    - 5
+  - key: dodgeOrbitSpeedBonus
+    values:
+    - 0.4
+  - key: speedDuration
+    values:
+    - 2

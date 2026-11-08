@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: eac938031a97256429a8abfbfc6f2ef6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8008193625213479604
+    second: chitose-actions-v1_0
+  - first:
+      213: -1061991265354540354
+    second: chitose-actions-v1_1
+  - first:
+      213: 1113175195800922211
+    second: chitose-actions-v1_2
+  - first:
+      213: 3579931368058148050
+    second: chitose-actions-v1_3
+  - first:
+      213: 6359692984017394223
+    second: chitose-actions-v1_4
+  - first:
+      213: -6046452155286611037
+    second: chitose-actions-v1_5
+  - first:
+      213: 925115907069102654
+    second: chitose-actions-v1_6
+  - first:
+      213: -5626480632624081835
+    second: chitose-actions-v1_7
+  - first:
+      213: -2935877064051755022
+    second: chitose-actions-v1_8
+  - first:
+      213: -3508620346001153764
+    second: chitose-actions-v1_9
+  - first:
+      213: -370542805508837596
+    second: chitose-actions-v1_10
+  - first:
+      213: 1431153368435013254
+    second: chitose-actions-v1_11
+  - first:
+      213: -1132594883800678895
+    second: chitose-actions-v1_12
+  - first:
+      213: -7247685086919788860
+    second: chitose-actions-v1_13
+  - first:
+      213: 5448639474563534540
+    second: chitose-actions-v1_14
+  - first:
+      213: -3050225028281219210
+    second: chitose-actions-v1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chitose-actions-v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 275
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c455a9cb35e2dd090800000000000000
+      internalID: -8008193625213479604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 509
+        width: 239
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba99f1229c0341f0800000000000000
+      internalID: -1061991265354540354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 739
+        width: 243
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3686d7651fac27f00800000000000000
+      internalID: 1113175195800922211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_3
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 762
+        width: 258
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d45269ac987ea130800000000000000
+      internalID: 3579931368058148050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 977
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a96e8e21b224850800000000000000
+      internalID: 6359692984017394223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_5
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 763
+        width: 220
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab1fbcdccfa61ca0800000000000000
+      internalID: -6046452155286611037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_6
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 0
+        width: 237
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3acae8140ca6dc00800000000000000
+      internalID: 925115907069102654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 238
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55493dccca9bae1b0800000000000000
+      internalID: -5626480632624081835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_8
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 711
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f77afc7d5ba147d0800000000000000
+      internalID: -2935877064051755022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_9
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 225
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11a4e08260ee4fc0800000000000000
+      internalID: -3508620346001153764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 533
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fa19718419bdaf0800000000000000
+      internalID: -370542805508837596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_11
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 265
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6863ca0f76a7cd310800000000000000
+      internalID: 1431153368435013254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 231
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eb2a434f63840f0800000000000000
+      internalID: -1132594883800678895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_13
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 437
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6ff3630dc0b6b90800000000000000
+      internalID: -7247685086919788860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccec786ebb47d9b40800000000000000
+      internalID: 5448639474563534540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chitose-actions-v1_15
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 407
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677ca406f7c6ba5d0800000000000000
+      internalID: -3050225028281219210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chitose-actions-v1_0: -8008193625213479604
+      chitose-actions-v1_1: -1061991265354540354
+      chitose-actions-v1_10: -370542805508837596
+      chitose-actions-v1_11: 1431153368435013254
+      chitose-actions-v1_12: -1132594883800678895
+      chitose-actions-v1_13: -7247685086919788860
+      chitose-actions-v1_14: 5448639474563534540
+      chitose-actions-v1_15: -3050225028281219210
+      chitose-actions-v1_2: 1113175195800922211
+      chitose-actions-v1_3: 3579931368058148050
+      chitose-actions-v1_4: 6359692984017394223
+      chitose-actions-v1_5: -6046452155286611037
+      chitose-actions-v1_6: 925115907069102654
+      chitose-actions-v1_7: -5626480632624081835
+      chitose-actions-v1_8: -2935877064051755022
+      chitose-actions-v1_9: -3508620346001153764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

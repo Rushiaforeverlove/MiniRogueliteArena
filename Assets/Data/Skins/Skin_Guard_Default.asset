@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Skin_Guard_Default
   m_EditorClassIdentifier: Assembly-CSharp::CharacterSkinData
   skinId: guard_default
-  displayName: "\u6A19\u6E96\u88DD\u675F"
+  displayName: "\u5B88\u591C\u4EBA\u30FB\u6A19\u6E96\u88DD\u5099"
   gameplaySprite: {fileID: 21300000, guid: 60f56a28fe64da94883b589f5aa5e744, type: 3}
   seatedSprite: {fileID: 21300000, guid: 60f56a28fe64da94883b589f5aa5e744, type: 3}
-  portrait: {fileID: 0}
-  tint: {r: 0.8509804, g: 0.9098039, b: 1, a: 1}
+  portrait: {fileID: 21300000, guid: b97e0921848914d42aa59aabc727ec5c, type: 3}
+  tint: {r: 1, g: 1, b: 1, a: 1}
   unlockedByDefault: 1

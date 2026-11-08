@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: SUP-SCT-P01
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: SUP-SCT-P01
+  title: "\u9060\u7AEF\u5831\u9EDE"
+  ownerRoleId: scout_01
+  effectKey: support.scout_callout
+  description: "\u5BE6\u969B\u6D88\u8017 Q \u6642\uFF0C\u65A5\u5019\u5411\u6700\u9060\u5169\u540D\u6575\u4EBA\u5404\u63D0\u4F9B\u4E00\u767C\u72D9\u64CA\uFF0C\u5148\u5075\u5BDF\u518D\u9020\u6210 150% \u666E\u653B\u57FA\u6E96\u50B7\u5BB3\u3002"
+  quality: 1
+  category: 3
+  icon: {fileID: 21300000, guid: fbbbac8b58c70394887cdcd1f10d04a5, type: 3}
+  artBrief: "\u901A\u8A0A\u8033\u6A5F\u88E1\u50B3\u4F86\u5831\u9EDE\uFF0C\u5169\u689D\u7D2B\u8272\u72D9\u64CA\u7DDA\u5207\u5165\u756B\u9762"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 1
+  requiresNodeFive: 0
+  numbers:
+  - key: coefficient
+    values:
+    - 1.5
+  - key: markDuration
+    values:
+    - 4
+  - key: targets
+    values:
+    - 2

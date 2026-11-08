@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: MIO-P05
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: MIO-P05
+  title: "\u528D\u9CF4\u4ECD\u672A\u505C"
+  ownerRoleId: mio_01
+  effectKey: mio.unending_chime
+  description: "Q \u671F\u9593\u666E\u653B\u6216 E \u6BCF\u64CA\u6BBA\u4E00\u540D\u6575\u4EBA\uFF0C\u89E3\u653E\u6642\u9593 +0.15 \u79D2\uFF0C\u6BCF\u6B21 Q \u6700\u591A\u5EF6\u9577 3 \u79D2\u3002"
+  quality: 1
+  category: 2
+  icon: {fileID: 6527887794040030984, guid: e3ad5dbb5b6f4d5408361246d60b0c5e, type: 2}
+  artBrief: "\u7720\u6708\u5DE8\u528D\uFF0F\u6708\u8272\uFF0F\u62D6\u528D\u8207\u89E3\u653E\uFF1B\u5716\u96C6\u683C 12"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 1
+  requiresNodeFive: 0
+  requiredCardIds: []
+  numbers:
+  - key: seconds
+    values:
+    - 0.15
+  - key: cap
+    values:
+    - 3

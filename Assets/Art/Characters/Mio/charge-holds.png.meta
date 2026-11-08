@@ -1,0 +1,1250 @@
+fileFormatVersion: 2
+guid: 95e3097bcb5447d4480ea759a1eccb67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6598265605215955175
+    second: charge-holds_0
+  - first:
+      213: 2364668365011643254
+    second: charge-holds_1
+  - first:
+      213: -4120907662463560066
+    second: charge-holds_2
+  - first:
+      213: -7416913277168644388
+    second: charge-holds_3
+  - first:
+      213: 7776836933319538364
+    second: charge-holds_4
+  - first:
+      213: -7398474381016986370
+    second: charge-holds_5
+  - first:
+      213: 4416348975991645521
+    second: charge-holds_6
+  - first:
+      213: 6484875954269962425
+    second: charge-holds_7
+  - first:
+      213: -1483890731739302512
+    second: charge-holds_8
+  - first:
+      213: 540343207471910453
+    second: charge-holds_9
+  - first:
+      213: 1341703123804130776
+    second: charge-holds_10
+  - first:
+      213: -3265862145663384612
+    second: charge-holds_11
+  - first:
+      213: 3664120564966084610
+    second: charge-holds_12
+  - first:
+      213: -8350098609951541061
+    second: charge-holds_13
+  - first:
+      213: -343409504068365569
+    second: charge-holds_14
+  - first:
+      213: 3596721950344116023
+    second: charge-holds_15
+  - first:
+      213: -4466216116836385674
+    second: charge-holds_16
+  - first:
+      213: -499029145412464347
+    second: charge-holds_17
+  - first:
+      213: 743633359457897304
+    second: charge-holds_18
+  - first:
+      213: 7072382444459355744
+    second: charge-holds_19
+  - first:
+      213: -3974078310309262506
+    second: charge-holds_20
+  - first:
+      213: -9004246869035425301
+    second: charge-holds_21
+  - first:
+      213: 248894798089789684
+    second: charge-holds_22
+  - first:
+      213: -5266752753772308294
+    second: charge-holds_23
+  - first:
+      213: -6715239038938506031
+    second: charge-holds_24
+  - first:
+      213: 7840135380460322807
+    second: charge-holds_25
+  - first:
+      213: 8567507483323935915
+    second: charge-holds_26
+  - first:
+      213: -3537871500287769383
+    second: charge-holds_27
+  - first:
+      213: -7281680981068794561
+    second: charge-holds_28
+  - first:
+      213: 2937426163177496598
+    second: charge-holds_29
+  - first:
+      213: 2910209829863041066
+    second: charge-holds_30
+  - first:
+      213: -2086502356151697211
+    second: charge-holds_31
+  - first:
+      213: -3217268852541356562
+    second: charge-holds_32
+  - first:
+      213: -4144974849882285516
+    second: charge-holds_33
+  - first:
+      213: -8942801294258304525
+    second: charge-holds_34
+  - first:
+      213: 5121133848355514577
+    second: charge-holds_35
+  - first:
+      213: -6655736681965082078
+    second: charge-holds_36
+  - first:
+      213: 1409167699885158497
+    second: charge-holds_37
+  - first:
+      213: 5394694952478916800
+    second: charge-holds_38
+  - first:
+      213: -2031923618014178122
+    second: charge-holds_39
+  - first:
+      213: -3422902811265886435
+    second: charge-holds_40
+  - first:
+      213: -5356496686829698219
+    second: charge-holds_41
+  - first:
+      213: 5681122443356832615
+    second: charge-holds_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charge-holds_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 441
+        width: 445
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8239cdb9fb19b50800000000000000
+      internalID: 6598265605215955175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 422
+        width: 451
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b6f14795df0d020800000000000000
+      internalID: 2364668365011643254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_2
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 439
+        width: 443
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e769ca280589fc6c0800000000000000
+      internalID: -4120907662463560066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_3
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 709
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde0c70cba4d11990800000000000000
+      internalID: -7416913277168644388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_4
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 438
+        width: 431
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb636a6ccffdceb60800000000000000
+      internalID: 7776836933319538364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_5
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 692
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc87afcfb6535990800000000000000
+      internalID: -7398474381016986370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 646
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155642eaef50a4d30800000000000000
+      internalID: 4416348975991645521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_7
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 646
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0cbb27258eef950800000000000000
+      internalID: 6484875954269962425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_8
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 623
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0953f21dd39286be0800000000000000
+      internalID: -1483890731739302512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_9
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 555
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e882ac84faf7700800000000000000
+      internalID: 540343207471910453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 547
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd8068e1efae9210800000000000000
+      internalID: 1341703123804130776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 517
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3c65a8ea35da2d0800000000000000
+      internalID: -3265862145663384612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_12
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 503
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200d1019d3299d230800000000000000
+      internalID: 3664120564966084610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 499
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8fa521e8d7e1c80800000000000000
+      internalID: -8350098609951541061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 486
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2138120e6fb3bf0800000000000000
+      internalID: -343409504068365569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 491
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7377c1ebe8f1ae130800000000000000
+      internalID: 3596721950344116023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 483
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cb7d1da10d402c0800000000000000
+      internalID: -4466216116836385674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_17
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 469
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5219f1fd2a71319f0800000000000000
+      internalID: -499029145412464347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_18
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 469
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b4e99b99ae15a00800000000000000
+      internalID: 743633359457897304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 483
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e65b5bc56262260800000000000000
+      internalID: 7072382444459355744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_20
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 485
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b8e6415dc39d8c0800000000000000
+      internalID: -3974078310309262506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_21
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 440
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1683ddd2d7a0380800000000000000
+      internalID: -9004246869035425301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_22
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 457
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0a59a0080447300800000000000000
+      internalID: 248894798089789684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_23
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 457
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8579f564cb8e6b0800000000000000
+      internalID: -5266752753772308294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_24
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 432
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc1c364cadaec2a0800000000000000
+      internalID: -6715239038938506031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_25
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 442
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff3f47f691cdcc60800000000000000
+      internalID: 7840135380460322807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 457
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac260ad9a6e5e670800000000000000
+      internalID: 8567507483323935915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 436
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d48e5c6d94f6eec0800000000000000
+      internalID: -3537871500287769383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_28
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 442
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f353dab4ab542fa90800000000000000
+      internalID: -7281680981068794561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_29
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 446
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61022224885d3c820800000000000000
+      internalID: 2937426163177496598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_30
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 440
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2826dadb64236820800000000000000
+      internalID: 2910209829863041066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0009e69214b03e0800000000000000
+      internalID: -2086502356151697211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 438
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee508514607f953d0800000000000000
+      internalID: -3217268852541356562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_33
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 309
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a96d5c5571a76c0800000000000000
+      internalID: -4144974849882285516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_34
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f984d69a99c4e380800000000000000
+      internalID: -8942801294258304525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_35
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 324
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8a5762a1ce11740800000000000000
+      internalID: 5121133848355514577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_36
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 316
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a2fe850c212a3a0800000000000000
+      internalID: -6655736681965082078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_37
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 0
+        width: 416
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160fb949e8e5e8310800000000000000
+      internalID: 1409167699885158497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_38
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 313
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0491a1a7ecdda40800000000000000
+      internalID: 5394694952478916800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d9892c382dc3e0800000000000000
+      internalID: -2031923618014178122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_40
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 194
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d179fc947086f70d0800000000000000
+      internalID: -3422902811265886435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55385fca4a6e9a5b0800000000000000
+      internalID: -5356496686829698219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-holds_42
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 82
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76388c923c667de40800000000000000
+      internalID: 5681122443356832615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      charge-holds_0: 6598265605215955175
+      charge-holds_1: 2364668365011643254
+      charge-holds_10: 1341703123804130776
+      charge-holds_11: -3265862145663384612
+      charge-holds_12: 3664120564966084610
+      charge-holds_13: -8350098609951541061
+      charge-holds_14: -343409504068365569
+      charge-holds_15: 3596721950344116023
+      charge-holds_16: -4466216116836385674
+      charge-holds_17: -499029145412464347
+      charge-holds_18: 743633359457897304
+      charge-holds_19: 7072382444459355744
+      charge-holds_2: -4120907662463560066
+      charge-holds_20: -3974078310309262506
+      charge-holds_21: -9004246869035425301
+      charge-holds_22: 248894798089789684
+      charge-holds_23: -5266752753772308294
+      charge-holds_24: -6715239038938506031
+      charge-holds_25: 7840135380460322807
+      charge-holds_26: 8567507483323935915
+      charge-holds_27: -3537871500287769383
+      charge-holds_28: -7281680981068794561
+      charge-holds_29: 2937426163177496598
+      charge-holds_3: -7416913277168644388
+      charge-holds_30: 2910209829863041066
+      charge-holds_31: -2086502356151697211
+      charge-holds_32: -3217268852541356562
+      charge-holds_33: -4144974849882285516
+      charge-holds_34: -8942801294258304525
+      charge-holds_35: 5121133848355514577
+      charge-holds_36: -6655736681965082078
+      charge-holds_37: 1409167699885158497
+      charge-holds_38: 5394694952478916800
+      charge-holds_39: -2031923618014178122
+      charge-holds_4: 7776836933319538364
+      charge-holds_40: -3422902811265886435
+      charge-holds_41: -5356496686829698219
+      charge-holds_42: 5681122443356832615
+      charge-holds_5: -7398474381016986370
+      charge-holds_6: 4416348975991645521
+      charge-holds_7: 6484875954269962425
+      charge-holds_8: -1483890731739302512
+      charge-holds_9: 540343207471910453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

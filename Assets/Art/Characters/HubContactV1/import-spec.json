@@ -1,0 +1,498 @@
+{
+  "version": 1,
+  "mio": {
+    "referenceHeight": 1.63,
+    "splitHeight": 0.7009,
+    "walk": {
+      "key": "hub.walk",
+      "duration": 0.96,
+      "loop": true,
+      "frames": [
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 0,
+            "y": 688,
+            "width": 256,
+            "height": 336
+          },
+          "pivot": {
+            "x": 0.64,
+            "y": 0.10416666666666667
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 256,
+            "y": 688,
+            "width": 256,
+            "height": 336
+          },
+          "pivot": {
+            "x": 0.64,
+            "y": 0.10416666666666667
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 512,
+            "y": 688,
+            "width": 256,
+            "height": 336
+          },
+          "pivot": {
+            "x": 0.64,
+            "y": 0.10416666666666667
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 768,
+            "y": 688,
+            "width": 256,
+            "height": 336
+          },
+          "pivot": {
+            "x": 0.64,
+            "y": 0.10416666666666667
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 1024,
+            "y": 688,
+            "width": 256,
+            "height": 336
+          },
+          "pivot": {
+            "x": 0.64,
+            "y": 0.10416666666666667
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 1280,
+            "y": 688,
+            "width": 256,
+            "height": 336
+          },
+          "pivot": {
+            "x": 0.64,
+            "y": 0.10416666666666667
+          },
+          "pixelsPerUnit": 177.30061349693253
+        }
+      ]
+    },
+    "fallAsleep": {
+      "key": "hub.sleep",
+      "duration": 1.2,
+      "loop": false,
+      "frames": [
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 0,
+            "y": 503.27,
+            "width": 256,
+            "height": 184.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 256,
+            "y": 503.27,
+            "width": 256,
+            "height": 184.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 512,
+            "y": 502.27,
+            "width": 256,
+            "height": 185.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 768,
+            "y": 503.27,
+            "width": 256,
+            "height": 184.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 1024,
+            "y": 503.27,
+            "width": 256,
+            "height": 184.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 1280,
+            "y": 502.27,
+            "width": 256,
+            "height": 185.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        }
+      ]
+    },
+    "wake": {
+      "key": "hub.wake",
+      "duration": 0.9,
+      "loop": false,
+      "frames": [
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 0,
+            "y": 150.26999999999998,
+            "width": 256,
+            "height": 193.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 256,
+            "y": 150.26999999999998,
+            "width": 256,
+            "height": 193.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 512,
+            "y": 150.26999999999998,
+            "width": 256,
+            "height": 193.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 768,
+            "y": 150.26999999999998,
+            "width": 256,
+            "height": 193.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 1024,
+            "y": 150.26999999999998,
+            "width": 256,
+            "height": 193.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        },
+        {
+          "texture": "mio-hub-corrected-v1",
+          "rect": {
+            "x": 1280,
+            "y": 150.26999999999998,
+            "width": 256,
+            "height": 193.73000000000002
+          },
+          "pivot": {
+            "x": 0.46,
+            "y": 0.0
+          },
+          "pixelsPerUnit": 177.30061349693253
+        }
+      ]
+    },
+    "restingLower": {
+      "texture": "mio-hub-corrected-v1",
+      "rect": {
+        "x": 0,
+        "y": 344,
+        "width": 256,
+        "height": 159.26999999999998
+      },
+      "pivot": {
+        "x": 0.46,
+        "y": 0.21975262133484022
+      },
+      "pixelsPerUnit": 177.30061349693253
+    }
+  },
+  "chitose": {
+    "seatedScale": 0.902439024390244,
+    "seatedRestSeconds": 3,
+    "seatLowerOffset": {
+      "x": 0,
+      "y": -0.02142857142857143
+    },
+    "idle": {
+      "key": "seat.upper",
+      "duration": 3.6,
+      "loop": true,
+      "frames": [
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 0,
+            "y": 705.6800000000001,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        },
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 256,
+            "y": 705.6800000000001,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        },
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 512,
+            "y": 705.6800000000001,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        },
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 768,
+            "y": 705.6800000000001,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        },
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 1024,
+            "y": 705.6800000000001,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        },
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 1280,
+            "y": 705.6800000000001,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        }
+      ]
+    },
+    "drink": {
+      "key": "seat.special",
+      "duration": 4,
+      "loop": false,
+      "frames": [
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 0,
+            "y": 193.68,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        },
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 256,
+            "y": 193.68,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        },
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 512,
+            "y": 193.68,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        },
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 768,
+            "y": 193.68,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        },
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 1024,
+            "y": 193.68,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        },
+        {
+          "texture": "chitose-seat-corrected-v1",
+          "rect": {
+            "x": 1280,
+            "y": 193.68,
+            "width": 256,
+            "height": 318.32
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.018848957024377985
+          },
+          "pixelsPerUnit": 280
+        }
+      ]
+    },
+    "lower": {
+      "texture": "chitose-seat-corrected-v1",
+      "rect": {
+        "x": 0,
+        "y": 512,
+        "width": 256,
+        "height": 193.68
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "pixelsPerUnit": 280
+    }
+  }
+}

@@ -1,0 +1,2576 @@
+fileFormatVersion: 2
+guid: 24d79d44bfa1ff04c80b5ceb55983fdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6083856846738514333
+    second: corrosive-core-v1_0
+  - first:
+      213: -2877275744812595257
+    second: corrosive-core-v1_1
+  - first:
+      213: -1481404091982626741
+    second: corrosive-core-v1_2
+  - first:
+      213: -8078353209194474625
+    second: corrosive-core-v1_3
+  - first:
+      213: -5260088667555590373
+    second: corrosive-core-v1_4
+  - first:
+      213: 7241445334473705593
+    second: corrosive-core-v1_5
+  - first:
+      213: -2621591538296456170
+    second: corrosive-core-v1_6
+  - first:
+      213: 5379123713869376786
+    second: corrosive-core-v1_7
+  - first:
+      213: -5232849539290174959
+    second: corrosive-core-v1_8
+  - first:
+      213: 5450863155038594298
+    second: corrosive-core-v1_9
+  - first:
+      213: 354975445467158049
+    second: corrosive-core-v1_10
+  - first:
+      213: -985661150969381655
+    second: corrosive-core-v1_11
+  - first:
+      213: -1709948703938959501
+    second: corrosive-core-v1_12
+  - first:
+      213: 7324179085550906467
+    second: corrosive-core-v1_13
+  - first:
+      213: -1072194243048937925
+    second: corrosive-core-v1_14
+  - first:
+      213: -5289897924162509044
+    second: corrosive-core-v1_15
+  - first:
+      213: 1015765374170586329
+    second: corrosive-core-v1_16
+  - first:
+      213: -2829485033814289474
+    second: corrosive-core-v1_17
+  - first:
+      213: -6325000477523845014
+    second: corrosive-core-v1_18
+  - first:
+      213: 4234326127125935467
+    second: corrosive-core-v1_19
+  - first:
+      213: -2800168330560716287
+    second: corrosive-core-v1_20
+  - first:
+      213: -984656269840509754
+    second: corrosive-core-v1_21
+  - first:
+      213: 5079014099428316962
+    second: corrosive-core-v1_22
+  - first:
+      213: -2268719527843248545
+    second: corrosive-core-v1_23
+  - first:
+      213: -8446519984455789380
+    second: corrosive-core-v1_24
+  - first:
+      213: 7188242708395994763
+    second: corrosive-core-v1_25
+  - first:
+      213: 1088174147873873626
+    second: corrosive-core-v1_26
+  - first:
+      213: 605071573796470354
+    second: corrosive-core-v1_27
+  - first:
+      213: 908071289128808260
+    second: corrosive-core-v1_28
+  - first:
+      213: -5850466474302941199
+    second: corrosive-core-v1_29
+  - first:
+      213: -4717913683399360499
+    second: corrosive-core-v1_30
+  - first:
+      213: -21951946523879502
+    second: corrosive-core-v1_31
+  - first:
+      213: -476619372358884962
+    second: corrosive-core-v1_32
+  - first:
+      213: 2877950980401867762
+    second: corrosive-core-v1_33
+  - first:
+      213: 9190089742554406098
+    second: corrosive-core-v1_34
+  - first:
+      213: 2723142040487997008
+    second: corrosive-core-v1_35
+  - first:
+      213: 8788386787918577959
+    second: corrosive-core-v1_36
+  - first:
+      213: 115790284058781121
+    second: corrosive-core-v1_37
+  - first:
+      213: -1937706818366993417
+    second: corrosive-core-v1_38
+  - first:
+      213: 1648963039933595599
+    second: corrosive-core-v1_39
+  - first:
+      213: 7882254492747660248
+    second: corrosive-core-v1_40
+  - first:
+      213: -8883413900070834002
+    second: corrosive-core-v1_41
+  - first:
+      213: 3026884525077728772
+    second: corrosive-core-v1_42
+  - first:
+      213: -5941431691254434521
+    second: corrosive-core-v1_43
+  - first:
+      213: 3206209305014288529
+    second: corrosive-core-v1_44
+  - first:
+      213: -2338173838233279499
+    second: corrosive-core-v1_45
+  - first:
+      213: 7852095572533061760
+    second: corrosive-core-v1_46
+  - first:
+      213: -6310707361957268930
+    second: corrosive-core-v1_47
+  - first:
+      213: 5891919094592033426
+    second: corrosive-core-v1_48
+  - first:
+      213: 6318002502674879943
+    second: corrosive-core-v1_49
+  - first:
+      213: -7002750229517369080
+    second: corrosive-core-v1_50
+  - first:
+      213: 8345043529249896049
+    second: corrosive-core-v1_51
+  - first:
+      213: 103944358408608906
+    second: corrosive-core-v1_52
+  - first:
+      213: -6319585959941747237
+    second: corrosive-core-v1_53
+  - first:
+      213: 2104518708088249925
+    second: corrosive-core-v1_54
+  - first:
+      213: 4256788234146594384
+    second: corrosive-core-v1_55
+  - first:
+      213: 1483428474992284083
+    second: corrosive-core-v1_56
+  - first:
+      213: -4091936685716117651
+    second: corrosive-core-v1_57
+  - first:
+      213: -4048299146410814916
+    second: corrosive-core-v1_58
+  - first:
+      213: -7162485567851793060
+    second: corrosive-core-v1_59
+  - first:
+      213: -319053187042397158
+    second: corrosive-core-v1_60
+  - first:
+      213: -7077898137912748799
+    second: corrosive-core-v1_61
+  - first:
+      213: -9007711751955957283
+    second: corrosive-core-v1_62
+  - first:
+      213: -4749965529665859237
+    second: corrosive-core-v1_63
+  - first:
+      213: -6738869717345051806
+    second: corrosive-core-v1_64
+  - first:
+      213: 7005133571275705602
+    second: corrosive-core-v1_65
+  - first:
+      213: 3176457896458257649
+    second: corrosive-core-v1_66
+  - first:
+      213: 2934990869695244571
+    second: corrosive-core-v1_67
+  - first:
+      213: 679451141639481635
+    second: corrosive-core-v1_68
+  - first:
+      213: -1125587904861823769
+    second: corrosive-core-v1_69
+  - first:
+      213: -3308633499934898918
+    second: corrosive-core-v1_70
+  - first:
+      213: -4889168985809383594
+    second: corrosive-core-v1_71
+  - first:
+      213: 3269353088027221389
+    second: corrosive-core-v1_72
+  - first:
+      213: 3594880997123389168
+    second: corrosive-core-v1_73
+  - first:
+      213: -3952461215398211452
+    second: corrosive-core-v1_74
+  - first:
+      213: -1986131255727351963
+    second: corrosive-core-v1_75
+  - first:
+      213: 6853478315602372940
+    second: corrosive-core-v1_76
+  - first:
+      213: 6965866794161566477
+    second: corrosive-core-v1_77
+  - first:
+      213: -5289665482934880318
+    second: corrosive-core-v1_78
+  - first:
+      213: 7385504133411051493
+    second: corrosive-core-v1_79
+  - first:
+      213: -5345237781455660125
+    second: corrosive-core-v1_80
+  - first:
+      213: -3861273477464448843
+    second: corrosive-core-v1_81
+  - first:
+      213: 2656511058327730703
+    second: corrosive-core-v1_82
+  - first:
+      213: -7474830904358864159
+    second: corrosive-core-v1_83
+  - first:
+      213: -2352886419727471572
+    second: corrosive-core-v1_84
+  - first:
+      213: -3109618228840891691
+    second: corrosive-core-v1_85
+  - first:
+      213: -1668198731267229308
+    second: corrosive-core-v1_86
+  - first:
+      213: 4003837182665951903
+    second: corrosive-core-v1_87
+  - first:
+      213: -5110034752880418910
+    second: corrosive-core-v1_88
+  - first:
+      213: 8861362954689144873
+    second: corrosive-core-v1_89
+  - first:
+      213: 8110111130774208773
+    second: corrosive-core-v1_90
+  - first:
+      213: 270801902860532458
+    second: corrosive-core-v1_91
+  - first:
+      213: 3843027465988867175
+    second: corrosive-core-v1_92
+  - first:
+      213: 7751225875248953453
+    second: corrosive-core-v1_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: corrosive-core-v1_0
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1136
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d916d2681933e6450800000000000000
+      internalID: 6083856846738514333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 223
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7099d54fcd118d0800000000000000
+      internalID: -2877275744812595257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 886
+        width: 238
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40c090c3def07be0800000000000000
+      internalID: -1481404091982626741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 892
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7393d3ae8ce3ef80800000000000000
+      internalID: -8078353209194474625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 890
+        width: 253
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f8a4bd9396007b0800000000000000
+      internalID: -5260088667555590373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_5
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 942
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97807b53a28ce7460800000000000000
+      internalID: 7241445334473705593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_6
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 942
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c7badb26c3e9bd0800000000000000
+      internalID: -2621591538296456170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 946
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d6018948c76aa40800000000000000
+      internalID: 5379123713869376786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_8
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 902
+        width: 222
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aea8f911f2167b0800000000000000
+      internalID: -5232849539290174959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_9
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 945
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4275bd82b55ab40800000000000000
+      internalID: 5450863155038594298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_10
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 892
+        width: 201
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1265e0379402de400800000000000000
+      internalID: 354975445467158049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_11
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 926
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec319bc76a3252f0800000000000000
+      internalID: -985661150969381655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 650
+        width: 221
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3772495a6ba0548e0800000000000000
+      internalID: -1709948703938959501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 900
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c6b99b216b4a560800000000000000
+      internalID: 7324179085550906467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 908
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3669d4440dce11f0800000000000000
+      internalID: -1072194243048937925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_15
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 906
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07a7347dd18696b0800000000000000
+      internalID: -5289897924162509044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_16
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 902
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc549ed939b81e00800000000000000
+      internalID: 1015765374170586329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_17
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 890
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3173e5a56abb8d0800000000000000
+      internalID: -2829485033814289474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 894
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60e305b3951938a0800000000000000
+      internalID: -6325000477523845014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 670
+        width: 223
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b653f7e9d2953ca30800000000000000
+      internalID: 4234326127125935467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_20
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 892
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10241a14dbdc329d0800000000000000
+      internalID: -2800168330560716287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_21
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 676
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c49b4ae65cc552f0800000000000000
+      internalID: -984656269840509754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22710a5e9684c7640800000000000000
+      internalID: 5079014099428316962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 666
+        width: 210
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5649ef0c93e380e0800000000000000
+      internalID: -2268719527843248545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_24
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 652
+        width: 225
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4564263dee7ca80800000000000000
+      internalID: -8446519984455789380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_25
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 658
+        width: 215
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e2c3988a4c1c360800000000000000
+      internalID: 7188242708395994763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 674
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade19c14f98f91f00800000000000000
+      internalID: 1088174147873873626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 674
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e33dbf365a56800800000000000000
+      internalID: 605071573796470354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_28
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 678
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fe04bb60e1a9c00800000000000000
+      internalID: 908071289128808260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 674
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f757dc1db7fecea0800000000000000
+      internalID: -5850466474302941199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_30
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 688
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00c604608a968eb0800000000000000
+      internalID: -4717913683399360499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_31
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 674
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7d05922d202bff0800000000000000
+      internalID: -21951946523879502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_32
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 684
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91aa71c435b269f0800000000000000
+      internalID: -476619372358884962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_33
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 688
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb27db2b2980f720800000000000000
+      internalID: 2877950980401867762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_34
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 683
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc9aeefde1c98f70800000000000000
+      internalID: 9190089742554406098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_35
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 664
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e283c024b8ac520800000000000000
+      internalID: 2723142040487997008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_36
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 676
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7218f92883f96f970800000000000000
+      internalID: 8788386787918577959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_37
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 686
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5e3cd56ae5b9100800000000000000
+      internalID: 115790284058781121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 652
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb02644ae1eb15e0800000000000000
+      internalID: -1937706818366993417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_39
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 660
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf7df2f52b42e610800000000000000
+      internalID: 1648963039933595599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_40
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 666
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db737df2b4636d60800000000000000
+      internalID: 7882254492747660248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 666
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0b28dcf16c7b480800000000000000
+      internalID: -8883413900070834002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_42
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 666
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e826d3077a10a20800000000000000
+      internalID: 3026884525077728772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_43
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 442
+        width: 233
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725f7891b5bcb8da0800000000000000
+      internalID: -5941431691254434521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_44
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 660
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190cdec206ebe7c20800000000000000
+      internalID: 3206209305014288529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_45
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 666
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f36ef448432d8fd0800000000000000
+      internalID: -2338173838233279499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_46
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 652
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088204f225f38fc60800000000000000
+      internalID: 7852095572533061760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_47
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 662
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e323811071ddb68a0800000000000000
+      internalID: -6310707361957268930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 219
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292df76233d44c150800000000000000
+      internalID: 5891919094592033426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 422
+        width: 210
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c517fd4dcd0ea750800000000000000
+      internalID: 6318002502674879943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_50
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 444
+        width: 231
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80105d6b4cb31de90800000000000000
+      internalID: -7002750229517369080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_51
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 426
+        width: 231
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176bc1c30ec8fc370800000000000000
+      internalID: 8345043529249896049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_52
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 422
+        width: 215
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd95fd7d8417100800000000000000
+      internalID: 103944358408608906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_53
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 644
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd40225d025c48a0800000000000000
+      internalID: -6319585959941747237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 618
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e93c26d90c43d10800000000000000
+      internalID: 2104518708088249925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_55
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 404
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ebe547856231b30800000000000000
+      internalID: 4256788234146594384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 437
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b15d95a652369410800000000000000
+      internalID: 1483428474992284083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_57
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 441
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67608ca3458637c0800000000000000
+      internalID: -4091936685716117651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_58
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 208
+        width: 237
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c329aa9006d81d7c0800000000000000
+      internalID: -4048299146410814916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_59
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 452
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55f453135db99c90800000000000000
+      internalID: -7162485567851793060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_60
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 443
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14b1e911de729bf0800000000000000
+      internalID: -319053187042397158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_61
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 438
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105df45d42146cd90800000000000000
+      internalID: -7077898137912748799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_62
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 449
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9bd81f2ed2ef280800000000000000
+      internalID: -9007711751955957283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_63
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 422
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b519ae4648bb41eb0800000000000000
+      internalID: -4749965529665859237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 227
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bd20632b9ba72a0800000000000000
+      internalID: -6738869717345051806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_65
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 184
+        width: 216
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4d084edb373160800000000000000
+      internalID: 7005133571275705602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_66
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 424
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4016290ab051c20800000000000000
+      internalID: 3176457896458257649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_67
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 434
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19233f45ae2bb820800000000000000
+      internalID: 2934990869695244571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_68
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 196
+        width: 212
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329a7a3a635ed6900800000000000000
+      internalID: 679451141639481635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_69
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 219
+        width: 220
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec1c3f93cb1160f0800000000000000
+      internalID: -1125587904861823769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_70
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 422
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a154c689c5f5512d0800000000000000
+      internalID: -3308633499934898918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_71
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 422
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f89f916be262cb0800000000000000
+      internalID: -4889168985809383594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_72
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 213
+        width: 207
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d5031df431f5d20800000000000000
+      internalID: 3269353088027221389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_73
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 261
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6775b683593e130800000000000000
+      internalID: 3594880997123389168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_74
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 221
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4805ea337790629c0800000000000000
+      internalID: -3952461215398211452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 209
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56712195528df64e0800000000000000
+      internalID: -1986131255727351963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_76
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 222
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49625d77327c1f50800000000000000
+      internalID: 6853478315602372940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_77
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 213
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0370ba41fabba060800000000000000
+      internalID: 6965866794161566477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_78
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 215
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c77505e4455796b0800000000000000
+      internalID: -5289665482934880318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_79
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 211
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7152711e49e7660800000000000000
+      internalID: 7385504133411051493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_80
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 221
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab965cde86e1d5b0800000000000000
+      internalID: -5345237781455660125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_81
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 223
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0281bea300a6ac0800000000000000
+      internalID: -3861273477464448843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_82
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 217
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a75859bb2ddd420800000000000000
+      internalID: 2656511058327730703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_83
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 211
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaf39555e0144890800000000000000
+      internalID: -7474830904358864159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_84
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 203
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cad43744ed85fd0800000000000000
+      internalID: -2352886419727471572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 215
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dafbd242ba68d4d0800000000000000
+      internalID: -3109618228840891691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_86
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 204
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4893f08a71e59d8e0800000000000000
+      internalID: -1668198731267229308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_87
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 193
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a0e4354bc709730800000000000000
+      internalID: 4003837182665951903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_88
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 196
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af59a467728519b0800000000000000
+      internalID: -5110034752880418910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_89
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 15
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9286d0468a2e9fa70800000000000000
+      internalID: 8861362954689144873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_90
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 16
+        width: 204
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5010dbeaa17ec8070800000000000000
+      internalID: 8110111130774208773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_91
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 15
+        width: 203
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea708855e412c300800000000000000
+      internalID: 270801902860532458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_92
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764065c7e1d255530800000000000000
+      internalID: 3843027465988867175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corrosive-core-v1_93
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 134
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68b704add2e19b60800000000000000
+      internalID: 7751225875248953453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      corrosive-core-v1_0: 6083856846738514333
+      corrosive-core-v1_1: -2877275744812595257
+      corrosive-core-v1_10: 354975445467158049
+      corrosive-core-v1_11: -985661150969381655
+      corrosive-core-v1_12: -1709948703938959501
+      corrosive-core-v1_13: 7324179085550906467
+      corrosive-core-v1_14: -1072194243048937925
+      corrosive-core-v1_15: -5289897924162509044
+      corrosive-core-v1_16: 1015765374170586329
+      corrosive-core-v1_17: -2829485033814289474
+      corrosive-core-v1_18: -6325000477523845014
+      corrosive-core-v1_19: 4234326127125935467
+      corrosive-core-v1_2: -1481404091982626741
+      corrosive-core-v1_20: -2800168330560716287
+      corrosive-core-v1_21: -984656269840509754
+      corrosive-core-v1_22: 5079014099428316962
+      corrosive-core-v1_23: -2268719527843248545
+      corrosive-core-v1_24: -8446519984455789380
+      corrosive-core-v1_25: 7188242708395994763
+      corrosive-core-v1_26: 1088174147873873626
+      corrosive-core-v1_27: 605071573796470354
+      corrosive-core-v1_28: 908071289128808260
+      corrosive-core-v1_29: -5850466474302941199
+      corrosive-core-v1_3: -8078353209194474625
+      corrosive-core-v1_30: -4717913683399360499
+      corrosive-core-v1_31: -21951946523879502
+      corrosive-core-v1_32: -476619372358884962
+      corrosive-core-v1_33: 2877950980401867762
+      corrosive-core-v1_34: 9190089742554406098
+      corrosive-core-v1_35: 2723142040487997008
+      corrosive-core-v1_36: 8788386787918577959
+      corrosive-core-v1_37: 115790284058781121
+      corrosive-core-v1_38: -1937706818366993417
+      corrosive-core-v1_39: 1648963039933595599
+      corrosive-core-v1_4: -5260088667555590373
+      corrosive-core-v1_40: 7882254492747660248
+      corrosive-core-v1_41: -8883413900070834002
+      corrosive-core-v1_42: 3026884525077728772
+      corrosive-core-v1_43: -5941431691254434521
+      corrosive-core-v1_44: 3206209305014288529
+      corrosive-core-v1_45: -2338173838233279499
+      corrosive-core-v1_46: 7852095572533061760
+      corrosive-core-v1_47: -6310707361957268930
+      corrosive-core-v1_48: 5891919094592033426
+      corrosive-core-v1_49: 6318002502674879943
+      corrosive-core-v1_5: 7241445334473705593
+      corrosive-core-v1_50: -7002750229517369080
+      corrosive-core-v1_51: 8345043529249896049
+      corrosive-core-v1_52: 103944358408608906
+      corrosive-core-v1_53: -6319585959941747237
+      corrosive-core-v1_54: 2104518708088249925
+      corrosive-core-v1_55: 4256788234146594384
+      corrosive-core-v1_56: 1483428474992284083
+      corrosive-core-v1_57: -4091936685716117651
+      corrosive-core-v1_58: -4048299146410814916
+      corrosive-core-v1_59: -7162485567851793060
+      corrosive-core-v1_6: -2621591538296456170
+      corrosive-core-v1_60: -319053187042397158
+      corrosive-core-v1_61: -7077898137912748799
+      corrosive-core-v1_62: -9007711751955957283
+      corrosive-core-v1_63: -4749965529665859237
+      corrosive-core-v1_64: -6738869717345051806
+      corrosive-core-v1_65: 7005133571275705602
+      corrosive-core-v1_66: 3176457896458257649
+      corrosive-core-v1_67: 2934990869695244571
+      corrosive-core-v1_68: 679451141639481635
+      corrosive-core-v1_69: -1125587904861823769
+      corrosive-core-v1_7: 5379123713869376786
+      corrosive-core-v1_70: -3308633499934898918
+      corrosive-core-v1_71: -4889168985809383594
+      corrosive-core-v1_72: 3269353088027221389
+      corrosive-core-v1_73: 3594880997123389168
+      corrosive-core-v1_74: -3952461215398211452
+      corrosive-core-v1_75: -1986131255727351963
+      corrosive-core-v1_76: 6853478315602372940
+      corrosive-core-v1_77: 6965866794161566477
+      corrosive-core-v1_78: -5289665482934880318
+      corrosive-core-v1_79: 7385504133411051493
+      corrosive-core-v1_8: -5232849539290174959
+      corrosive-core-v1_80: -5345237781455660125
+      corrosive-core-v1_81: -3861273477464448843
+      corrosive-core-v1_82: 2656511058327730703
+      corrosive-core-v1_83: -7474830904358864159
+      corrosive-core-v1_84: -2352886419727471572
+      corrosive-core-v1_85: -3109618228840891691
+      corrosive-core-v1_86: -1668198731267229308
+      corrosive-core-v1_87: 4003837182665951903
+      corrosive-core-v1_88: -5110034752880418910
+      corrosive-core-v1_89: 8861362954689144873
+      corrosive-core-v1_9: 5450863155038594298
+      corrosive-core-v1_90: 8110111130774208773
+      corrosive-core-v1_91: 270801902860532458
+      corrosive-core-v1_92: 3843027465988867175
+      corrosive-core-v1_93: 7751225875248953453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

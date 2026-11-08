@@ -1,0 +1,1354 @@
+fileFormatVersion: 2
+guid: 5970b17def1d64446812137d67be4e54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6720268852541585844
+    second: gacha_0
+  - first:
+      213: -1021694866596305865
+    second: gacha_1
+  - first:
+      213: -6663149974848155074
+    second: gacha_2
+  - first:
+      213: 5877328484055719712
+    second: gacha_3
+  - first:
+      213: 5125510378360557619
+    second: gacha_4
+  - first:
+      213: 8174198657771645691
+    second: gacha_5
+  - first:
+      213: -4856730833797496663
+    second: gacha_6
+  - first:
+      213: -3120652894900594427
+    second: gacha_7
+  - first:
+      213: -29714504349675775
+    second: gacha_8
+  - first:
+      213: 395713058553621832
+    second: gacha_9
+  - first:
+      213: 2384607515399371303
+    second: gacha_10
+  - first:
+      213: -3030983423988568354
+    second: gacha_11
+  - first:
+      213: 7522428687903894983
+    second: gacha_12
+  - first:
+      213: 5426857479411263271
+    second: gacha_13
+  - first:
+      213: -9098904717398185798
+    second: gacha_14
+  - first:
+      213: -7776060228797502125
+    second: gacha_15
+  - first:
+      213: 3971509607049446457
+    second: gacha_16
+  - first:
+      213: -3492493404860909791
+    second: gacha_17
+  - first:
+      213: 5719809846252260488
+    second: gacha_18
+  - first:
+      213: 7084419145841205789
+    second: gacha_19
+  - first:
+      213: -5894896479850967427
+    second: gacha_20
+  - first:
+      213: 5906814088993398463
+    second: gacha_21
+  - first:
+      213: 7603523006007061797
+    second: gacha_22
+  - first:
+      213: 221235372312054425
+    second: gacha_23
+  - first:
+      213: 3663379790185099524
+    second: gacha_24
+  - first:
+      213: 1226561023625029896
+    second: gacha_25
+  - first:
+      213: -7358412845506152361
+    second: gacha_26
+  - first:
+      213: 5035324384902643773
+    second: gacha_27
+  - first:
+      213: -521475516962490639
+    second: gacha_28
+  - first:
+      213: -2487221325243497657
+    second: gacha_29
+  - first:
+      213: -7383495583350001351
+    second: gacha_30
+  - first:
+      213: -6389636254681012417
+    second: gacha_31
+  - first:
+      213: 6709117998867144868
+    second: gacha_32
+  - first:
+      213: 6142932928465838594
+    second: gacha_33
+  - first:
+      213: 9043597488757277258
+    second: gacha_34
+  - first:
+      213: 6485048914881879030
+    second: gacha_35
+  - first:
+      213: -8046842617920397955
+    second: gacha_36
+  - first:
+      213: 5952313955765700362
+    second: gacha_37
+  - first:
+      213: -8541758590931364731
+    second: gacha_38
+  - first:
+      213: -1941366883803579717
+    second: gacha_39
+  - first:
+      213: 5488160509945412428
+    second: gacha_40
+  - first:
+      213: -4479651011076944053
+    second: gacha_41
+  - first:
+      213: 83231414014773823
+    second: gacha_42
+  - first:
+      213: -3568533533975541914
+    second: gacha_43
+  - first:
+      213: 5023966679096958121
+    second: gacha_44
+  - first:
+      213: -8078997188542008062
+    second: gacha_45
+  - first:
+      213: -541917744990809251
+    second: gacha_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gacha_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 893
+        height: 1518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c460329851fccb2a0800000000000000
+      internalID: -6720268852541585844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1457
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734efa79ee532d1f0800000000000000
+      internalID: -1021694866596305865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_2
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1279
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32d508966cb783a0800000000000000
+      internalID: -6663149974848155074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1167
+        width: 20
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f1d68ed17709150800000000000000
+      internalID: 5877328484055719712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1087
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33052c27888712740800000000000000
+      internalID: 5125510378360557619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_5
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1032
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa24f7de56907170800000000000000
+      internalID: 8174198657771645691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_6
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1042
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a040d9e90d699cb0800000000000000
+      internalID: -4856730833797496663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1029
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509d72cd9b631b4d0800000000000000
+      internalID: -3120652894900594427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 985
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f8f83d0de669ff0800000000000000
+      internalID: -29714504349675775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 975
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d62102eeadd7500800000000000000
+      internalID: 395713058553621832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 927
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a3b1ca6e3d71120800000000000000
+      internalID: 2384607515399371303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 917
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede601d72a8cfe5d0800000000000000
+      internalID: -3030983423988568354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_12
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 913
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd28be3909056860800000000000000
+      internalID: 7522428687903894983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 791
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727eaf2ff12105b40800000000000000
+      internalID: 5426857479411263271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_14
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 764
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8ea5a1e523ab180800000000000000
+      internalID: -9098904717398185798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_15
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 751
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d6b76db62e51490800000000000000
+      internalID: -7776060228797502125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 703
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934cb3612f2ad1730800000000000000
+      internalID: 3971509607049446457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_17
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 694
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127fed690cb288fc0800000000000000
+      internalID: -3492493404860909791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 679
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cc5a410c8d06f40800000000000000
+      internalID: 5719809846252260488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_19
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 661
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1267d3ada9e05260800000000000000
+      internalID: 7084419145841205789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_20
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 574
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e48c252ee113ea0800000000000000
+      internalID: -5894896479850967427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 551
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe59b84e1839f150800000000000000
+      internalID: 5906814088993398463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_22
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 498
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52daf8683e3258960800000000000000
+      internalID: 7603523006007061797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 437
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a4962266cf11300800000000000000
+      internalID: 221235372312054425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 445
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401f35f7280f6d230800000000000000
+      internalID: 3663379790185099524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_25
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 447
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809628c90ce950110800000000000000
+      internalID: 1226561023625029896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_26
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 437
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7583fe8e08aa1e990800000000000000
+      internalID: -7358412845506152361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 393
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d300cfa89d011e540800000000000000
+      internalID: 5035324384902643773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_28
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 358
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6336cb7c853c8f0800000000000000
+      internalID: -521475516962490639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_29
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 275
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743c51fe16d9b7dd0800000000000000
+      internalID: -2487221325243497657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 245
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931f1c9e2ed888990800000000000000
+      internalID: -7383495583350001351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 210
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37e7cb1ea37357a0800000000000000
+      internalID: -6389636254681012417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_32
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 208
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0e7a606439b1d50800000000000000
+      internalID: 6709117998867144868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 103
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202a148a3f4104550800000000000000
+      internalID: 6142932928465838594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_34
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 79
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a420ef04000518d70800000000000000
+      internalID: 9043597488757277258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_35
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 91
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb119af0a58ff950800000000000000
+      internalID: 6485048914881879030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_36
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 82
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d5163e54fd35090800000000000000
+      internalID: -8046842617920397955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 38
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07c30d810eda9250800000000000000
+      internalID: 5952313955765700362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 63
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584156651d3957980800000000000000
+      internalID: -8541758590931364731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_39
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 63
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba3e20ea11ee05e0800000000000000
+      internalID: -1941366883803579717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_40
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 61
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b7f9108ecd92c40800000000000000
+      internalID: 5488160509945412428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_41
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f0a0fb32515d1c0800000000000000
+      internalID: -4479651011076944053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_42
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 23
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a0182b782b72100800000000000000
+      internalID: 83231414014773823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_43
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 24
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667815268a50a7ec0800000000000000
+      internalID: -3568533533975541914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_44
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 15
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac19f69317b8b540800000000000000
+      internalID: 5023966679096958121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_45
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205f2938cd2a1ef80800000000000000
+      internalID: -8078997188542008062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_46
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d539750aea8ba78f0800000000000000
+      internalID: -541917744990809251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gacha_0: -6720268852541585844
+      gacha_1: -1021694866596305865
+      gacha_10: 2384607515399371303
+      gacha_11: -3030983423988568354
+      gacha_12: 7522428687903894983
+      gacha_13: 5426857479411263271
+      gacha_14: -9098904717398185798
+      gacha_15: -7776060228797502125
+      gacha_16: 3971509607049446457
+      gacha_17: -3492493404860909791
+      gacha_18: 5719809846252260488
+      gacha_19: 7084419145841205789
+      gacha_2: -6663149974848155074
+      gacha_20: -5894896479850967427
+      gacha_21: 5906814088993398463
+      gacha_22: 7603523006007061797
+      gacha_23: 221235372312054425
+      gacha_24: 3663379790185099524
+      gacha_25: 1226561023625029896
+      gacha_26: -7358412845506152361
+      gacha_27: 5035324384902643773
+      gacha_28: -521475516962490639
+      gacha_29: -2487221325243497657
+      gacha_3: 5877328484055719712
+      gacha_30: -7383495583350001351
+      gacha_31: -6389636254681012417
+      gacha_32: 6709117998867144868
+      gacha_33: 6142932928465838594
+      gacha_34: 9043597488757277258
+      gacha_35: 6485048914881879030
+      gacha_36: -8046842617920397955
+      gacha_37: 5952313955765700362
+      gacha_38: -8541758590931364731
+      gacha_39: -1941366883803579717
+      gacha_4: 5125510378360557619
+      gacha_40: 5488160509945412428
+      gacha_41: -4479651011076944053
+      gacha_42: 83231414014773823
+      gacha_43: -3568533533975541914
+      gacha_44: 5023966679096958121
+      gacha_45: -8078997188542008062
+      gacha_46: -541917744990809251
+      gacha_5: 8174198657771645691
+      gacha_6: -4856730833797496663
+      gacha_7: -3120652894900594427
+      gacha_8: -29714504349675775
+      gacha_9: 395713058553621832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

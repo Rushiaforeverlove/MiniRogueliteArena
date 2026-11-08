@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: 283f06177c7c13f4aa0d89495e84f791
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4945947173528023903
+    second: rage-mobile-v4e_0
+  - first:
+      213: 8354693356319037537
+    second: rage-mobile-v4e_1
+  - first:
+      213: 8975042593442061068
+    second: rage-mobile-v4e_2
+  - first:
+      213: 1830078916145875898
+    second: rage-mobile-v4e_3
+  - first:
+      213: -9004491414091132690
+    second: rage-mobile-v4e_4
+  - first:
+      213: 1829594930252962716
+    second: rage-mobile-v4e_5
+  - first:
+      213: -1675184303774278839
+    second: rage-mobile-v4e_6
+  - first:
+      213: 1760064883725102815
+    second: rage-mobile-v4e_7
+  - first:
+      213: -6280386280866817105
+    second: rage-mobile-v4e_8
+  - first:
+      213: -3759409456017005280
+    second: rage-mobile-v4e_9
+  - first:
+      213: -6401975814111644050
+    second: rage-mobile-v4e_10
+  - first:
+      213: 8766113200842151782
+    second: rage-mobile-v4e_11
+  - first:
+      213: -5903195140533903686
+    second: rage-mobile-v4e_12
+  - first:
+      213: -495265417184109792
+    second: rage-mobile-v4e_13
+  - first:
+      213: -374061605406543287
+    second: rage-mobile-v4e_14
+  - first:
+      213: -2003057366731721043
+    second: rage-mobile-v4e_15
+  - first:
+      213: -986785182281559463
+    second: rage-mobile-v4e_16
+  - first:
+      213: -1772254285698288942
+    second: rage-mobile-v4e_17
+  - first:
+      213: 8598024571595292751
+    second: rage-mobile-v4e_18
+  - first:
+      213: -6540250798984040436
+    second: rage-mobile-v4e_19
+  - first:
+      213: -3597722733966546040
+    second: rage-mobile-v4e_20
+  - first:
+      213: 3354874864041148079
+    second: rage-mobile-v4e_21
+  - first:
+      213: 8793110630912083735
+    second: rage-mobile-v4e_22
+  - first:
+      213: 5479250112405995206
+    second: rage-mobile-v4e_23
+  - first:
+      213: -7482949267126464423
+    second: rage-mobile-v4e_24
+  - first:
+      213: 4783630568123563317
+    second: rage-mobile-v4e_25
+  - first:
+      213: -1616185882125903394
+    second: rage-mobile-v4e_26
+  - first:
+      213: 4507842472951900472
+    second: rage-mobile-v4e_27
+  - first:
+      213: 5798426426619602230
+    second: rage-mobile-v4e_28
+  - first:
+      213: 7939625021499909839
+    second: rage-mobile-v4e_29
+  - first:
+      213: -5307678141295111885
+    second: rage-mobile-v4e_30
+  - first:
+      213: 844402826382659773
+    second: rage-mobile-v4e_31
+  - first:
+      213: -7783583030807529560
+    second: rage-mobile-v4e_32
+  - first:
+      213: -5718016938246194631
+    second: rage-mobile-v4e_33
+  - first:
+      213: 6903054647352164324
+    second: rage-mobile-v4e_34
+  - first:
+      213: 3002149417948371390
+    second: rage-mobile-v4e_35
+  - first:
+      213: -5632805013656067498
+    second: rage-mobile-v4e_36
+  - first:
+      213: 8920970731663689929
+    second: rage-mobile-v4e_37
+  - first:
+      213: 6505340651641563896
+    second: rage-mobile-v4e_38
+  - first:
+      213: 2047176916172224469
+    second: rage-mobile-v4e_39
+  - first:
+      213: 5941399178844593057
+    second: rage-mobile-v4e_40
+  - first:
+      213: 1683607597526796208
+    second: rage-mobile-v4e_41
+  - first:
+      213: 4072376277590806859
+    second: rage-mobile-v4e_42
+  - first:
+      213: -1164174216862288532
+    second: rage-mobile-v4e_43
+  - first:
+      213: -431243665025968461
+    second: rage-mobile-v4e_44
+  - first:
+      213: -429499766745628204
+    second: rage-mobile-v4e_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rage-mobile-v4e_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 277
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f533cf3efb883a440800000000000000
+      internalID: 4945947173528023903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16856bea755d1f370800000000000000
+      internalID: 8354693356319037537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 972
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b5d1adfa1cd8c70800000000000000
+      internalID: 8975042593442061068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 723
+        width: 223
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb8ecbf31fb56910800000000000000
+      internalID: 1830078916145875898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 981
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee01b0844ce990380800000000000000
+      internalID: -9004491414091132690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 963
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b559c35e6046910800000000000000
+      internalID: 1829594930252962716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 719
+        width: 253
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b593050cc80c8e0800000000000000
+      internalID: -1675184303774278839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 975
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdee210cfa10d6810800000000000000
+      internalID: 1760064883725102815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 981
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab52b4d3f597d8a0800000000000000
+      internalID: -6280386280866817105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 982
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025acd89405e3dbc0800000000000000
+      internalID: -3759409456017005280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_10
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 980
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66bb3b8aec9727a0800000000000000
+      internalID: -6401975814111644050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 705
+        width: 267
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6671f05e28d77a970800000000000000
+      internalID: 8766113200842151782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_12
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 729
+        width: 221
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe1aa0db43a31ea0800000000000000
+      internalID: -5903195140533903686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_13
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 687
+        width: 281
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b94332ab67029f0800000000000000
+      internalID: -495265417184109792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_14
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 980
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94271a5a3f01fcaf0800000000000000
+      internalID: -374061605406543287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 939
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6f93700f5b334e0800000000000000
+      internalID: -2003057366731721043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 867
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9521d7cda1c3e42f0800000000000000
+      internalID: -986785182281559463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_17
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 865
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d23a41fd10b767e0800000000000000
+      internalID: -1772254285698288942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_18
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 799
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4084082bc1525770800000000000000
+      internalID: 8598024571595292751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 243
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c007790dc8c5c35a0800000000000000
+      internalID: -6540250798984040436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 727
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ba3992c32521ec0800000000000000
+      internalID: -3597722733966546040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_21
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 723
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae3f09f9e8ee8e20800000000000000
+      internalID: 3354874864041148079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 489
+        width: 277
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717c93ae787670a70800000000000000
+      internalID: 8793110630912083735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_23
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 725
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce7a7962f43a0c40800000000000000
+      internalID: 5479250112405995206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_24
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 727
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95058a4b949372890800000000000000
+      internalID: -7482949267126464423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 487
+        width: 235
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d74bd28aed26240800000000000000
+      internalID: 4783630568123563317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_26
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 529
+        width: 233
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed952ecc0872299e0800000000000000
+      internalID: -1616185882125903394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_27
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 519
+        width: 231
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83967b778d21f8e30800000000000000
+      internalID: 4507842472951900472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_28
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 527
+        width: 237
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63526e61d16287050800000000000000
+      internalID: 5798426426619602230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 267
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc62e4024e63f2e60800000000000000
+      internalID: 7939625021499909839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 406
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331dffd0ad65756b0800000000000000
+      internalID: -5307678141295111885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 215
+        width: 217
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0dfd195ebe7bb00800000000000000
+      internalID: 844402826382659773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_32
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 215
+        width: 255
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a775f009782bf390800000000000000
+      internalID: -7783583030807529560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_33
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 267
+        width: 220
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a3b28d3e585a0b0800000000000000
+      internalID: -5718016938246194631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_34
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 431
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff888b0a39ccf50800000000000000
+      internalID: 6903054647352164324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 215
+        width: 219
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb955735df6c9a920800000000000000
+      internalID: 3002149417948371390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_36
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 175
+        width: 263
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652adf71fa144d1b0800000000000000
+      internalID: -5632805013656067498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_37
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 435
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c888787d97adcb70800000000000000
+      internalID: 8920970731663689929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 227
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fae00c1bdc974a50800000000000000
+      internalID: 6505340651641563896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_39
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 27
+        width: 275
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d733d01f88096c10800000000000000
+      internalID: 2047176916172224469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 29
+        width: 243
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab54d30317147250800000000000000
+      internalID: 5941399178844593057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 169
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7cbb790306d5710800000000000000
+      internalID: 1683607597526796208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_42
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 143
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b411789e5acf38830800000000000000
+      internalID: 4072376277590806859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 259
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c653143c7b508dfe0800000000000000
+      internalID: -1164174216862288532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_44
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 29
+        width: 223
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b65d76eb2ae30af0800000000000000
+      internalID: -431243665025968461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-mobile-v4e_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 233
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1830cdc3c1a0af0800000000000000
+      internalID: -429499766745628204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rage-mobile-v4e_0: 4945947173528023903
+      rage-mobile-v4e_1: 8354693356319037537
+      rage-mobile-v4e_10: -6401975814111644050
+      rage-mobile-v4e_11: 8766113200842151782
+      rage-mobile-v4e_12: -5903195140533903686
+      rage-mobile-v4e_13: -495265417184109792
+      rage-mobile-v4e_14: -374061605406543287
+      rage-mobile-v4e_15: -2003057366731721043
+      rage-mobile-v4e_16: -986785182281559463
+      rage-mobile-v4e_17: -1772254285698288942
+      rage-mobile-v4e_18: 8598024571595292751
+      rage-mobile-v4e_19: -6540250798984040436
+      rage-mobile-v4e_2: 8975042593442061068
+      rage-mobile-v4e_20: -3597722733966546040
+      rage-mobile-v4e_21: 3354874864041148079
+      rage-mobile-v4e_22: 8793110630912083735
+      rage-mobile-v4e_23: 5479250112405995206
+      rage-mobile-v4e_24: -7482949267126464423
+      rage-mobile-v4e_25: 4783630568123563317
+      rage-mobile-v4e_26: -1616185882125903394
+      rage-mobile-v4e_27: 4507842472951900472
+      rage-mobile-v4e_28: 5798426426619602230
+      rage-mobile-v4e_29: 7939625021499909839
+      rage-mobile-v4e_3: 1830078916145875898
+      rage-mobile-v4e_30: -5307678141295111885
+      rage-mobile-v4e_31: 844402826382659773
+      rage-mobile-v4e_32: -7783583030807529560
+      rage-mobile-v4e_33: -5718016938246194631
+      rage-mobile-v4e_34: 6903054647352164324
+      rage-mobile-v4e_35: 3002149417948371390
+      rage-mobile-v4e_36: -5632805013656067498
+      rage-mobile-v4e_37: 8920970731663689929
+      rage-mobile-v4e_38: 6505340651641563896
+      rage-mobile-v4e_39: 2047176916172224469
+      rage-mobile-v4e_4: -9004491414091132690
+      rage-mobile-v4e_40: 5941399178844593057
+      rage-mobile-v4e_41: 1683607597526796208
+      rage-mobile-v4e_42: 4072376277590806859
+      rage-mobile-v4e_43: -1164174216862288532
+      rage-mobile-v4e_44: -431243665025968461
+      rage-mobile-v4e_45: -429499766745628204
+      rage-mobile-v4e_5: 1829594930252962716
+      rage-mobile-v4e_6: -1675184303774278839
+      rage-mobile-v4e_7: 1760064883725102815
+      rage-mobile-v4e_8: -6280386280866817105
+      rage-mobile-v4e_9: -3759409456017005280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

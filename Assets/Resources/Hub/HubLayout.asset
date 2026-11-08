@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae648f088470b6b4abc49df44bb328dc, type: 3}
+  m_Name: HubLayout
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Hub.HubLayoutData
+  bounds:
+    serializedVersion: 2
+    x: -106
+    y: -5
+    width: 130
+    height: 12.5
+  floorY: -3
+  playerY: -2.75
+  returnX: 12
+  counterStart: -10
+  counterEnd: 10
+  counterFloorY: -3
+  counterHeight: 1.35
+  seatSurfaceHeight: 0.79
+  walkingSpeed: 6.5
+  walkingFloorOffset: -0.55
+  counterRuns:
+  - id: reserved
+    start: -80
+    end: -44
+  - id: main
+    start: -10
+    end: 10
+  props:
+  - id: notice
+    artId: board
+    legacyName: OtherFeatures
+    position: {x: -28, y: -3}
+    sortingOrder: -800
+  - id: wardrobe
+    artId: wardrobe
+    legacyName: Wardrobe
+    position: {x: -22, y: -3}
+    sortingOrder: -800
+  - id: draw
+    artId: gacha
+    legacyName: SkinDrawStation
+    position: {x: -16, y: -3}
+    sortingOrder: -800
+  - id: exit
+    artId: door
+    legacyName: ExitDoor
+    position: {x: 16, y: -3}
+    sortingOrder: -800
+  - id: bartender
+    artId: bartender
+    legacyName: Bartender
+    position: {x: 6.5, y: -3}
+    sortingOrder: -500
+  - id: lounge
+    artId: bench
+    legacyName: 
+    position: {x: -103, y: -3}
+    sortingOrder: -800
+  seats:
+  - id: seat_0
+    legacySeatName: 
+    character: {fileID: 0}
+    x: -76
+    alignSeatedContacts: 0
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  - id: seat_1
+    legacySeatName: 
+    character: {fileID: 0}
+    x: -72.4
+    alignSeatedContacts: 0
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  - id: seat_2
+    legacySeatName: 
+    character: {fileID: 0}
+    x: -68.8
+    alignSeatedContacts: 0
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  - id: seat_3
+    legacySeatName: 
+    character: {fileID: 0}
+    x: -65.2
+    alignSeatedContacts: 0
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  - id: seat_4
+    legacySeatName: 
+    character: {fileID: 0}
+    x: -61.6
+    alignSeatedContacts: 0
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  - id: seat_5
+    legacySeatName: 
+    character: {fileID: 0}
+    x: -58
+    alignSeatedContacts: 0
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  - id: seat_6
+    legacySeatName: 
+    character: {fileID: 0}
+    x: -54.4
+    alignSeatedContacts: 0
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  - id: seat_7
+    legacySeatName: 
+    character: {fileID: 0}
+    x: -50.8
+    alignSeatedContacts: 0
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  - id: seat_8
+    legacySeatName: 
+    character: {fileID: 0}
+    x: -47.2
+    alignSeatedContacts: 0
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  - id: seat_9
+    legacySeatName: SeatedScout
+    character: {fileID: 11400000, guid: 26d989de7598eca42842f83fd378dd52, type: 2}
+    x: -6
+    alignSeatedContacts: 0
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  - id: seat_10
+    legacySeatName: SeatedGuard
+    character: {fileID: 11400000, guid: 4def47718191f934881ad04137b0bec9, type: 2}
+    x: -2
+    alignSeatedContacts: 0
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  - id: seat_11
+    legacySeatName: SeatedMio
+    character: {fileID: 11400000, guid: 21b489f471dc032439578b86514855f1, type: 2}
+    x: 2
+    alignSeatedContacts: 1
+    localHip: {x: 0, y: 0}
+    localTableContact: {x: 0, y: 0.726}
+  contentSlots:
+  - id: event_0
+    decorationArtId: event
+    position: {x: -98, y: -3}
+    contentPrefab: {fileID: 0}
+  - id: event_1
+    decorationArtId: event
+    position: {x: -92, y: -3}
+    contentPrefab: {fileID: 0}
+  - id: event_2
+    decorationArtId: event
+    position: {x: -86, y: -3}
+    contentPrefab: {fileID: 0}
+  - id: event_3
+    decorationArtId: event
+    position: {x: -40, y: -3}
+    contentPrefab: {fileID: 0}
+  - id: event_4
+    decorationArtId: event
+    position: {x: -36, y: -3}
+    contentPrefab: {fileID: 0}
+  - id: event_5
+    decorationArtId: 
+    position: {x: -32, y: -3}
+    contentPrefab: {fileID: 0}

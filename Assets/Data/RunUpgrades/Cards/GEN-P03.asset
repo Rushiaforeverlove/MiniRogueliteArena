@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: GEN-P03
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: GEN-P03
+  title: "\u7DCA\u6025\u6ED1\u6B65"
+  ownerRoleId: 
+  effectKey: charge.add_dodge
+  description: "\u9583\u907F\u6700\u5927\u5145\u80FD +1\u3002\u53D6\u5F97\u6642\u88DC\u6EFF\u65B0\u589E\u7684\u4E00\u683C\uFF1B\u4E0D\u6539\u8B8A\u8DDD\u96E2\u8207\u514D\u50B7\u6642\u9593\u3002"
+  quality: 1
+  category: 0
+  icon: {fileID: 21300000, guid: 095e2adce6c130a4393f26fa042bbd43, type: 3}
+  artBrief: "\u5169\u679A\u8173\u6B65\u7BAD\u982D\u6263\u5728\u540C\u4E00\u689D\u8170\u5E36\u4E0A"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: charges
+    values:
+    - 1

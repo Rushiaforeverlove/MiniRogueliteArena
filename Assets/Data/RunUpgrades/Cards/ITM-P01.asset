@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: ITM-P01
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: ITM-P01
+  title: "\u8B77\u9001\u7121\u4EBA\u6A5F"
+  ownerRoleId: 
+  effectKey: item.escort_drone
+  description: "\u6BCF 10 \u79D2\u53EC\u559A\u4E00\u53F0\u7121\u4EBA\u6A5F\uFF0C\u5148\u7D66 100 \u9EDE\u5C4F\u969C\uFF0C\u63A5\u8457\u5728 4 \u79D2\u5167\u5C04\u51FA 4 \u767C\u652F\u63F4\u5F48\uFF0C\u6BCF\u767C\u9020\u6210 60% \u666E\u653B\u57FA\u6E96\u50B7\u5BB3\u3002"
+  quality: 1
+  category: 1
+  icon: {fileID: 21300000, guid: a355e034a4649744cbb05d94c0fab2e1, type: 3}
+  artBrief: "\u6258\u8457\u5C0F\u9152\u76E4\u8207\u91AB\u7642\u71C8\u7684\u6D6E\u6E38\u7121\u4EBA\u6A5F"
+  maxRank: 1
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: duration
+    values:
+    - 4
+  - key: shots
+    values:
+    - 4
+  - key: interval
+    values:
+    - 10
+  - key: shield
+    values:
+    - 100
+  - key: coefficient
+    values:
+    - 0.6

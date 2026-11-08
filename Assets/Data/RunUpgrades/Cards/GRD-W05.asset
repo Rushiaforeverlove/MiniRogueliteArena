@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029710ca30f03af488976c41d95ae1f8, type: 3}
+  m_Name: GRD-W05
+  m_EditorClassIdentifier: Assembly-CSharp::AbyssBar.Upgrades.UpgradeCardData
+  id: GRD-W05
+  title: "\u52A0\u539A\u9774\u8DDF"
+  ownerRoleId: guard_01
+  effectKey: guard.steady_boots
+  description: "\u9583\u907F\u8DDD\u96E2 +0.5\uFF0F+1\uFF1B\u843D\u5730\u5F8C\u514D\u75AB\u64CA\u9000 0.5\uFF0F1 \u79D2\uFF0C\u4E0D\u63D0\u4F9B\u984D\u5916\u514D\u50B7\u3002"
+  quality: 0
+  category: 2
+  icon: {fileID: 21300000, guid: b28a16aee5b41604f836ed1c805aba4b, type: 3}
+  artBrief: "\u52A0\u4E0A\u92FC\u88FD\u978B\u8DDF\u7684\u9774\u5B50\u628A\u5730\u677F\u8E29\u51FA\u7D30\u88C2\u7D0B"
+  maxRank: 2
+  drawWeight: 1
+  requiresQ: 0
+  requiresNodeFive: 0
+  numbers:
+  - key: stabilityDurations
+    values:
+    - 0.5
+    - 1
+  - key: distanceBonuses
+    values:
+    - 0.5
+    - 1

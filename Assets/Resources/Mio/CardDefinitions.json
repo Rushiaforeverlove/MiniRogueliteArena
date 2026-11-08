@@ -1,0 +1,786 @@
+{
+  "cards": [
+    {
+      "id": "MIO-W01",
+      "title": "磨刃石",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.grindstone",
+      "description": "每層點按斬擊傷害 +15%、近身斬擊距離 +5%。",
+      "quality": 0,
+      "category": 2,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 0,
+      "numbers": [
+        {
+          "key": "fraction",
+          "values": [
+            0.15,
+            0.3,
+            0.45
+          ]
+        },
+        {
+          "key": "range",
+          "values": [
+            0.05,
+            0.1,
+            0.15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-W02",
+      "title": "半月步",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.halfmoon_step",
+      "description": "點按近斬命中後，移動速度 +15%，持續 1 秒；再次觸發刷新。",
+      "quality": 0,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 1,
+      "numbers": [
+        {
+          "key": "fraction",
+          "values": [
+            0.15
+          ]
+        },
+        {
+          "key": "duration",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-W03",
+      "title": "握柄纏帶",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.grip_wrap",
+      "description": "每層完整蓄力所需時間減少 8%。",
+      "quality": 0,
+      "category": 2,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 2,
+      "numbers": [
+        {
+          "key": "fraction",
+          "values": [
+            0.08,
+            0.16,
+            0.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-W04",
+      "title": "筆直的答案",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.straight_answer",
+      "description": "每層蓄力劍氣額外穿透 2 名敵人，射程 +10%。",
+      "quality": 0,
+      "category": 2,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 3,
+      "numbers": [
+        {
+          "key": "targets",
+          "values": [
+            2,
+            4
+          ]
+        },
+        {
+          "key": "range",
+          "values": [
+            0.1,
+            0.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-W05",
+      "title": "回身一劍",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.turning_cut",
+      "description": "E 命中後 3 秒內，下一次點按角度 +30°、傷害 +25%；使用後消耗。",
+      "quality": 0,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 4,
+      "numbers": [
+        {
+          "key": "fraction",
+          "values": [
+            0.25
+          ]
+        },
+        {
+          "key": "angle",
+          "values": [
+            30
+          ]
+        },
+        {
+          "key": "duration",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-W06",
+      "title": "借來的落腳處",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.borrowed_footing",
+      "description": "E 每次施放只要命中，便推進下一次 E 充能；每層推進 0.4 秒。",
+      "quality": 0,
+      "category": 2,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 5,
+      "numbers": [
+        {
+          "key": "seconds",
+          "values": [
+            0.4,
+            0.8,
+            1.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-W07",
+      "title": "未出鞘的耐心",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.patience",
+      "description": "連續 2 秒未使用普攻，下一次完整蓄力劍氣傷害 +40%。E、Q 不打斷等待。",
+      "quality": 0,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 6,
+      "numbers": [
+        {
+          "key": "fraction",
+          "values": [
+            0.4
+          ]
+        },
+        {
+          "key": "window",
+          "values": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-W08",
+      "title": "刀背的餘溫",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.warm_blade",
+      "description": "點按斬擊命中至少 3 名敵人時，獲得最大生命 3% 護盾，持續 3 秒，冷卻 5 秒。",
+      "quality": 0,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 7,
+      "numbers": [
+        {
+          "key": "fraction",
+          "values": [
+            0.03
+          ]
+        },
+        {
+          "key": "duration",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "cooldown",
+          "values": [
+            5
+          ]
+        },
+        {
+          "key": "count",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-P01",
+      "title": "三拍斷奏",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.three_beats",
+      "description": "每第三次點按追加短距離衝擊波，造成點按基準傷害 80%；揮空也計數。",
+      "quality": 1,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 8,
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            0.8
+          ]
+        },
+        {
+          "key": "count",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "range",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-P02",
+      "title": "月光折返",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.moon_return",
+      "description": "完整蓄力劍氣到射程終點或碰牆後向發射位置折返；回程造成 50% 傷害，可再次命中同一敵人。",
+      "quality": 1,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 9,
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-P03",
+      "title": "穿陣換手",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.cross_step",
+      "description": "蓄滿狀態可跨越 E 保留 2 秒；E 中放開左鍵，會在動作完成後釋放劍氣。",
+      "quality": 1,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 10,
+      "numbers": [
+        {
+          "key": "window",
+          "values": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-P04",
+      "title": "圓舞的空位",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.circular_space",
+      "description": "E 旋斬推開敵人；之後 2 秒內第一次點按，將扇形內敵人輕拉向前方。",
+      "quality": 1,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 11,
+      "numbers": [
+        {
+          "key": "push",
+          "values": [
+            0.6
+          ]
+        },
+        {
+          "key": "pull",
+          "values": [
+            0.45
+          ]
+        },
+        {
+          "key": "window",
+          "values": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-P05",
+      "title": "劍鳴仍未停",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.unending_chime",
+      "description": "Q 期間普攻或 E 每擊殺一名敵人，解放時間 +0.15 秒，每次 Q 最多延長 3 秒。",
+      "quality": 1,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 12,
+      "numbers": [
+        {
+          "key": "seconds",
+          "values": [
+            0.15
+          ]
+        },
+        {
+          "key": "cap",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-G01",
+      "title": "無鞘之境",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.unsheathed",
+      "description": "每第三次點按改為 360° 大迴斬，造成原點按 160% 傷害，仍視為點按普攻。",
+      "quality": 2,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 13,
+      "numbers": [
+        {
+          "key": "count",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            1.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-G02",
+      "title": "一線斷界",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.rift_path",
+      "description": "完整蓄力劍氣留下裂光 1.5 秒，沿實際飛行路徑斬擊 3 次，每次造成該劍氣傷害 25%；折返不再留痕。",
+      "quality": 2,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 14,
+      "numbers": [
+        {
+          "key": "duration",
+          "values": [
+            1.5
+          ]
+        },
+        {
+          "key": "count",
+          "values": [
+            3
+          ]
+        },
+        {
+          "key": "coefficient",
+          "values": [
+            0.25
+          ]
+        },
+        {
+          "key": "width",
+          "values": [
+            0.3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-N5-W01",
+      "title": "收刀之前",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.before_sheathing",
+      "description": "E 命中後 3 秒內，下一次完整蓄力所需時間減少 20%，使用後消耗。",
+      "quality": 0,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": true,
+      "requiredCardIds": [],
+      "iconIndex": 15,
+      "numbers": [
+        {
+          "key": "fraction",
+          "values": [
+            0.2
+          ]
+        },
+        {
+          "key": "window",
+          "values": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-N5-P01",
+      "title": "交錯月痕",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.crossed_moons",
+      "description": "E 命中位於裂光路徑內的敵人時，在旋斬中心追加一次交叉斬，造成 E 傷害 100%；每次 E 一次。",
+      "quality": 1,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": true,
+      "requiredCardIds": [
+        "MIO-G02"
+      ],
+      "iconIndex": 16,
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MIO-N5-G01",
+      "title": "今夜，由我開路",
+      "ownerRoleId": "mio_01",
+      "effectKey": "mio.open_the_way",
+      "description": "開 Q 立刻補滿 E。Q 期間每次施放 E，讓下一次普攻追加同方向劍影，造成該次攻擊 60% 傷害；不堆疊。",
+      "quality": 2,
+      "category": 2,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": true,
+      "requiredCardIds": [],
+      "iconIndex": 17,
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            0.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-MIO-W01",
+      "title": "澪的磨刀服務",
+      "ownerRoleId": "mio_01",
+      "effectKey": "support.mio_whetstone",
+      "description": "每層使普攻對生命高於 80% 的敵人，傷害 +20%。",
+      "quality": 0,
+      "category": 3,
+      "maxRank": 3,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 18,
+      "numbers": [
+        {
+          "key": "fraction",
+          "values": [
+            0.2,
+            0.4,
+            0.6
+          ]
+        },
+        {
+          "key": "healthThreshold",
+          "values": [
+            0.8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-MIO-W02",
+      "title": "破陣者的腳步",
+      "ownerRoleId": "mio_01",
+      "effectKey": "support.mio_step",
+      "description": "閃避後移動速度 +20%，持續 1.5 秒。",
+      "quality": 0,
+      "category": 3,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 19,
+      "numbers": [
+        {
+          "key": "fraction",
+          "values": [
+            0.2
+          ]
+        },
+        {
+          "key": "duration",
+          "values": [
+            1.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-MIO-W03",
+      "title": "替你擋一下",
+      "ownerRoleId": "mio_01",
+      "effectKey": "support.mio_cover",
+      "description": "使用 E 獲得最大生命 4% 護盾，持續 2 秒；冷卻 6 秒。",
+      "quality": 0,
+      "category": 3,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 20,
+      "numbers": [
+        {
+          "key": "fraction",
+          "values": [
+            0.04
+          ]
+        },
+        {
+          "key": "duration",
+          "values": [
+            2
+          ]
+        },
+        {
+          "key": "cooldown",
+          "values": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-MIO-W04",
+      "title": "出門前的叮嚀",
+      "ownerRoleId": "mio_01",
+      "effectKey": "support.mio_note",
+      "description": "生命低於 30% 時，每層受到的傷害降低 10%。",
+      "quality": 0,
+      "category": 3,
+      "maxRank": 2,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 21,
+      "numbers": [
+        {
+          "key": "fraction",
+          "values": [
+            0.1,
+            0.2
+          ]
+        },
+        {
+          "key": "healthThreshold",
+          "values": [
+            0.3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-MIO-P01",
+      "title": "借你一道月光",
+      "ownerRoleId": "mio_01",
+      "effectKey": "support.mio_moonbeam",
+      "description": "每完成 5 次普攻，下一次普攻追加一道穿透劍氣，造成普攻基準傷害 80%。",
+      "quality": 1,
+      "category": 3,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 22,
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            0.8
+          ]
+        },
+        {
+          "key": "count",
+          "values": [
+            5
+          ]
+        },
+        {
+          "key": "targets",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "range",
+          "values": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-MIO-P02",
+      "title": "退路也是刀路",
+      "ownerRoleId": "mio_01",
+      "effectKey": "support.mio_retreat",
+      "description": "閃避起點 0.5 秒後斬擊附近敵人，造成普攻基準傷害 120%；冷卻 4 秒。",
+      "quality": 1,
+      "category": 3,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": false,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 23,
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            1.2
+          ]
+        },
+        {
+          "key": "cooldown",
+          "values": [
+            4
+          ]
+        },
+        {
+          "key": "delay",
+          "values": [
+            0.5
+          ]
+        },
+        {
+          "key": "radius",
+          "values": [
+            1.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SUP-MIO-G01",
+      "title": "有人替你開路",
+      "ownerRoleId": "mio_01",
+      "effectKey": "support.mio_clear_path",
+      "description": "使用 Q 朝瞄準方向放出巨大劍影，造成普攻基準傷害 500% 並推開敵人；每次 Q 一次。",
+      "quality": 2,
+      "category": 3,
+      "maxRank": 1,
+      "drawWeight": 1,
+      "requiresQ": true,
+      "requiresNodeFive": false,
+      "requiredCardIds": [],
+      "iconIndex": 24,
+      "numbers": [
+        {
+          "key": "coefficient",
+          "values": [
+            5
+          ]
+        },
+        {
+          "key": "range",
+          "values": [
+            10
+          ]
+        },
+        {
+          "key": "push",
+          "values": [
+            1.2
+          ]
+        }
+      ]
+    }
+  ]
+}

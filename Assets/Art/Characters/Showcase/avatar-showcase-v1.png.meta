@@ -1,0 +1,1510 @@
+fileFormatVersion: 2
+guid: d68d213ea78197e479f28fecd4cc0c82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6472955747836830871
+    second: avatar-showcase-v1_0
+  - first:
+      213: -7586166721629360579
+    second: avatar-showcase-v1_1
+  - first:
+      213: 1888238406539550436
+    second: avatar-showcase-v1_2
+  - first:
+      213: 8991182507931427074
+    second: avatar-showcase-v1_3
+  - first:
+      213: -5413503741681193571
+    second: avatar-showcase-v1_4
+  - first:
+      213: 3465759981958843575
+    second: avatar-showcase-v1_5
+  - first:
+      213: 3832969432465107512
+    second: avatar-showcase-v1_6
+  - first:
+      213: -6546064386123063248
+    second: avatar-showcase-v1_7
+  - first:
+      213: -6249069823506535390
+    second: avatar-showcase-v1_8
+  - first:
+      213: 2402268444709833826
+    second: avatar-showcase-v1_9
+  - first:
+      213: 805060970978435649
+    second: avatar-showcase-v1_10
+  - first:
+      213: -5207509957152112204
+    second: avatar-showcase-v1_11
+  - first:
+      213: -6308829873326593625
+    second: avatar-showcase-v1_12
+  - first:
+      213: -7273552905145043194
+    second: avatar-showcase-v1_13
+  - first:
+      213: -628356423122705078
+    second: avatar-showcase-v1_14
+  - first:
+      213: 7607663692457497475
+    second: avatar-showcase-v1_15
+  - first:
+      213: -597279466080456762
+    second: avatar-showcase-v1_16
+  - first:
+      213: 1732178825107834816
+    second: avatar-showcase-v1_17
+  - first:
+      213: 7518030326953666135
+    second: avatar-showcase-v1_18
+  - first:
+      213: 413174993344897374
+    second: avatar-showcase-v1_19
+  - first:
+      213: -3849723768440806090
+    second: avatar-showcase-v1_20
+  - first:
+      213: 2967895925275722271
+    second: avatar-showcase-v1_21
+  - first:
+      213: 6303894210902627761
+    second: avatar-showcase-v1_22
+  - first:
+      213: -2459244693188993593
+    second: avatar-showcase-v1_23
+  - first:
+      213: -2580652936406950004
+    second: avatar-showcase-v1_24
+  - first:
+      213: 3509853174755901684
+    second: avatar-showcase-v1_25
+  - first:
+      213: -5794298229948604419
+    second: avatar-showcase-v1_26
+  - first:
+      213: -5937214615361867882
+    second: avatar-showcase-v1_27
+  - first:
+      213: -6743143020462417334
+    second: avatar-showcase-v1_28
+  - first:
+      213: -2739181734968076767
+    second: avatar-showcase-v1_29
+  - first:
+      213: 4184071299561352992
+    second: avatar-showcase-v1_30
+  - first:
+      213: 3692282379914276297
+    second: avatar-showcase-v1_31
+  - first:
+      213: 2384839321189464996
+    second: avatar-showcase-v1_32
+  - first:
+      213: -6863185022482304073
+    second: avatar-showcase-v1_33
+  - first:
+      213: 1396913623294809092
+    second: avatar-showcase-v1_34
+  - first:
+      213: -7577778944006384615
+    second: avatar-showcase-v1_35
+  - first:
+      213: 6133603998361854413
+    second: avatar-showcase-v1_36
+  - first:
+      213: -7579290260378861465
+    second: avatar-showcase-v1_37
+  - first:
+      213: 5133130426435639068
+    second: avatar-showcase-v1_38
+  - first:
+      213: -4431231789190003426
+    second: avatar-showcase-v1_39
+  - first:
+      213: -4457536939631811423
+    second: avatar-showcase-v1_40
+  - first:
+      213: 8440955179420395466
+    second: avatar-showcase-v1_41
+  - first:
+      213: -8139844805538542486
+    second: avatar-showcase-v1_42
+  - first:
+      213: -7609724743739360476
+    second: avatar-showcase-v1_43
+  - first:
+      213: 7802260029095309017
+    second: avatar-showcase-v1_44
+  - first:
+      213: -8009133246534804087
+    second: avatar-showcase-v1_45
+  - first:
+      213: 7334685727144315489
+    second: avatar-showcase-v1_46
+  - first:
+      213: -4086325674766595483
+    second: avatar-showcase-v1_47
+  - first:
+      213: -3717456574522133413
+    second: avatar-showcase-v1_48
+  - first:
+      213: 1176532402726762473
+    second: avatar-showcase-v1_49
+  - first:
+      213: -8563670643623291941
+    second: avatar-showcase-v1_50
+  - first:
+      213: 6638856528261390622
+    second: avatar-showcase-v1_51
+  - first:
+      213: -9021369815281039966
+    second: avatar-showcase-v1_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: avatar-showcase-v1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 928
+        width: 207
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bdc53ea017b26a0800000000000000
+      internalID: -6472955747836830871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1081
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e64665f8588b690800000000000000
+      internalID: -7586166721629360579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 928
+        width: 179
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee1a0193de543a10800000000000000
+      internalID: 1888238406539550436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 906
+        width: 213
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20165f78ad817cc70800000000000000
+      internalID: 8991182507931427074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_4
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 924
+        width: 132
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d28d6670f5fd4b0800000000000000
+      internalID: -5413503741681193571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_5
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1087
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bccb69575ad81030800000000000000
+      internalID: 3465759981958843575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_6
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 926
+        width: 177
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a63011461713530800000000000000
+      internalID: 3832969432465107512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_7
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 922
+        width: 152
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030ac449f15b725a0800000000000000
+      internalID: -6546064386123063248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_8
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1031
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ca741ca18d649a0800000000000000
+      internalID: -6249069823506535390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 567
+        width: 165
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c4f063c62965120800000000000000
+      internalID: 2402268444709833826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 706
+        width: 137
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14263bd00b62c2b00800000000000000
+      internalID: 805060970978435649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_11
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 700
+        width: 207
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b183a7d8453bb7b0800000000000000
+      internalID: -5207509957152112204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_12
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 704
+        width: 209
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9eef3e7a88278a0800000000000000
+      internalID: -6308829873326593625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_13
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 684
+        width: 117
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607b1d17b262f0b90800000000000000
+      internalID: -7273552905145043194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_14
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 666
+        width: 221
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45af6f8921a747f0800000000000000
+      internalID: -628356423122705078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_15
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 874
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383d09732d9d39960800000000000000
+      internalID: 7607663692457497475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_16
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 808
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfa3a87d7906b7f0800000000000000
+      internalID: -597279466080456762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 792
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c78106c67fe90810800000000000000
+      internalID: 1732178825107834816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 463
+        width: 138
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756efa800c8655860800000000000000
+      internalID: 7518030326953666135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_19
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 668
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51a564a774ebb500800000000000000
+      internalID: 413174993344897374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 571
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63525ba11a8039ac0800000000000000
+      internalID: -3849723768440806090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 483
+        width: 217
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1283649e95103920800000000000000
+      internalID: 2967895925275722271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 459
+        width: 189
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b51e76a26eeb7750800000000000000
+      internalID: 6303894210902627761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_23
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 477
+        width: 133
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd94be2bf10fddd0800000000000000
+      internalID: -2459244693188993593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_24
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 450
+        width: 268
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f15e4c3ddaf2cd0800000000000000
+      internalID: -2580652936406950004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_25
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 483
+        width: 180
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f04a1fcdd085b030800000000000000
+      internalID: 3509853174755901684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 269
+        width: 203
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff1d399574869fa0800000000000000
+      internalID: -5794298229948604419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 196
+        width: 234
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f291893c6ca9da0800000000000000
+      internalID: -5937214615361867882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_28
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 467
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4adeab462b8b62a0800000000000000
+      internalID: -6743143020462417334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_29
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 263
+        width: 219
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1265dff89b87cf9d0800000000000000
+      internalID: -2739181734968076767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_30
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 270
+        width: 185
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fe245cdaec01a30800000000000000
+      internalID: 4184071299561352992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_31
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 247
+        width: 236
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd6931134f9d3330800000000000000
+      internalID: 3692282379914276297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_32
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 249
+        width: 151
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abb1e92ab6a81120800000000000000
+      internalID: 2384839321189464996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_33
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 307
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b33923b59111c0a0800000000000000
+      internalID: -6863185022482304073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_34
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 261
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404146a0a85d26310800000000000000
+      internalID: 1396913623294809092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 159
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9149010033256d690800000000000000
+      internalID: -7577778944006384615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 23
+        width: 210
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1264bd650fe1550800000000000000
+      internalID: 6133603998361854413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_37
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 29
+        width: 197
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7604a8c3aa3f0d690800000000000000
+      internalID: -7579290260378861465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_38
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 168
+        width: 53
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1712752dea8c3740800000000000000
+      internalID: 5133130426435639068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_39
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 21
+        width: 115
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1549e75a2a1182c0800000000000000
+      internalID: -4431231789190003426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_40
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 160
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4601c35c5a322c0800000000000000
+      internalID: -4457536939631811423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_41
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 23
+        width: 179
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7a85a730c442570800000000000000
+      internalID: 8440955179420395466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_42
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 23
+        width: 126
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c011fa646790f80800000000000000
+      internalID: -8139844805538542486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_43
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 79
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b3ae2e9a3d46690800000000000000
+      internalID: -7609724743739360476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_44
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 67
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de64778822374c60800000000000000
+      internalID: 7802260029095309017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_45
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 96
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d95891fb7d9d090800000000000000
+      internalID: -8009133246534804087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_46
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 88
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a8099dec90ac560800000000000000
+      internalID: 7334685727144315489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_47
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 96
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a8af6f2747a47c0800000000000000
+      internalID: -4086325674766595483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_48
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 80
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54faaff0f0f86cc0800000000000000
+      internalID: -3717456574522133413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_49
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 37
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7f34b9cf1e35010800000000000000
+      internalID: 1176532402726762473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_50
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 69
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd394610ceab72980800000000000000
+      internalID: -8563670643623291941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_51
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 45
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11adc996d4f12c50800000000000000
+      internalID: 6638856528261390622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar-showcase-v1_52
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a50eb443f7adc280800000000000000
+      internalID: -9021369815281039966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      avatar-showcase-v1_0: -6472955747836830871
+      avatar-showcase-v1_1: -7586166721629360579
+      avatar-showcase-v1_10: 805060970978435649
+      avatar-showcase-v1_11: -5207509957152112204
+      avatar-showcase-v1_12: -6308829873326593625
+      avatar-showcase-v1_13: -7273552905145043194
+      avatar-showcase-v1_14: -628356423122705078
+      avatar-showcase-v1_15: 7607663692457497475
+      avatar-showcase-v1_16: -597279466080456762
+      avatar-showcase-v1_17: 1732178825107834816
+      avatar-showcase-v1_18: 7518030326953666135
+      avatar-showcase-v1_19: 413174993344897374
+      avatar-showcase-v1_2: 1888238406539550436
+      avatar-showcase-v1_20: -3849723768440806090
+      avatar-showcase-v1_21: 2967895925275722271
+      avatar-showcase-v1_22: 6303894210902627761
+      avatar-showcase-v1_23: -2459244693188993593
+      avatar-showcase-v1_24: -2580652936406950004
+      avatar-showcase-v1_25: 3509853174755901684
+      avatar-showcase-v1_26: -5794298229948604419
+      avatar-showcase-v1_27: -5937214615361867882
+      avatar-showcase-v1_28: -6743143020462417334
+      avatar-showcase-v1_29: -2739181734968076767
+      avatar-showcase-v1_3: 8991182507931427074
+      avatar-showcase-v1_30: 4184071299561352992
+      avatar-showcase-v1_31: 3692282379914276297
+      avatar-showcase-v1_32: 2384839321189464996
+      avatar-showcase-v1_33: -6863185022482304073
+      avatar-showcase-v1_34: 1396913623294809092
+      avatar-showcase-v1_35: -7577778944006384615
+      avatar-showcase-v1_36: 6133603998361854413
+      avatar-showcase-v1_37: -7579290260378861465
+      avatar-showcase-v1_38: 5133130426435639068
+      avatar-showcase-v1_39: -4431231789190003426
+      avatar-showcase-v1_4: -5413503741681193571
+      avatar-showcase-v1_40: -4457536939631811423
+      avatar-showcase-v1_41: 8440955179420395466
+      avatar-showcase-v1_42: -8139844805538542486
+      avatar-showcase-v1_43: -7609724743739360476
+      avatar-showcase-v1_44: 7802260029095309017
+      avatar-showcase-v1_45: -8009133246534804087
+      avatar-showcase-v1_46: 7334685727144315489
+      avatar-showcase-v1_47: -4086325674766595483
+      avatar-showcase-v1_48: -3717456574522133413
+      avatar-showcase-v1_49: 1176532402726762473
+      avatar-showcase-v1_5: 3465759981958843575
+      avatar-showcase-v1_50: -8563670643623291941
+      avatar-showcase-v1_51: 6638856528261390622
+      avatar-showcase-v1_52: -9021369815281039966
+      avatar-showcase-v1_6: 3832969432465107512
+      avatar-showcase-v1_7: -6546064386123063248
+      avatar-showcase-v1_8: -6249069823506535390
+      avatar-showcase-v1_9: 2402268444709833826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: aa6838d2ec3df1b4ca929513caa537d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1283855331475604820
+    second: GRD-N5-G01_0
+  - first:
+      213: 4878521199194311447
+    second: GRD-N5-G01_1
+  - first:
+      213: -2563340700204627930
+    second: GRD-N5-G01_2
+  - first:
+      213: -2665324089016361524
+    second: GRD-N5-G01_3
+  - first:
+      213: -2165791952756755932
+    second: GRD-N5-G01_4
+  - first:
+      213: 3875662465880468836
+    second: GRD-N5-G01_5
+  - first:
+      213: 4538704161782469810
+    second: GRD-N5-G01_6
+  - first:
+      213: -1308266041860461581
+    second: GRD-N5-G01_7
+  - first:
+      213: 7920386155727892385
+    second: GRD-N5-G01_8
+  - first:
+      213: -997936829145589204
+    second: GRD-N5-G01_9
+  - first:
+      213: -7174245646516679387
+    second: GRD-N5-G01_10
+  - first:
+      213: 6290790515896251516
+    second: GRD-N5-G01_11
+  - first:
+      213: -480353971215208628
+    second: GRD-N5-G01_12
+  - first:
+      213: 1680910130020363023
+    second: GRD-N5-G01_13
+  - first:
+      213: -8613739633539359056
+    second: GRD-N5-G01_14
+  - first:
+      213: 5087111185191147501
+    second: GRD-N5-G01_15
+  - first:
+      213: -7375753152082401296
+    second: GRD-N5-G01_16
+  - first:
+      213: 8775770312575044938
+    second: GRD-N5-G01_17
+  - first:
+      213: -6934989244324616835
+    second: GRD-N5-G01_18
+  - first:
+      213: 8969689001152893900
+    second: GRD-N5-G01_19
+  - first:
+      213: 777145885888494036
+    second: GRD-N5-G01_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GRD-N5-G01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1245
+        height: 1247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455489f2f9b21d110800000000000000
+      internalID: 1283855331475604820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b8033ee2df3b340800000000000000
+      internalID: 4878521199194311447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_2
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1176
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628800ed63f2d6cd0800000000000000
+      internalID: -2563340700204627930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_3
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1066
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd53eeccddd20bd0800000000000000
+      internalID: -2665324089016361524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_4
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 949
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b88e91bf81f1e0800000000000000
+      internalID: -2165791952756755932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_5
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 935
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dae148a7e19c530800000000000000
+      internalID: 3875662465880468836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_6
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 931
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b491a75367bcfe30800000000000000
+      internalID: 4538704161782469810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 905
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb633767fa18dde0800000000000000
+      internalID: -1308266041860461581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_8
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 915
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af2510ae3ddaed60800000000000000
+      internalID: 7920386155727892385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 5
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a5f7ebdbd9622f0800000000000000
+      internalID: -997936829145589204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 825
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d0bf36895ff6c90800000000000000
+      internalID: -7174245646516679387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c747468e4a06d4750800000000000000
+      internalID: 6290790515896251516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 472
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fe443bb907559f0800000000000000
+      internalID: -480353971215208628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b283f7bdac35710800000000000000
+      internalID: 1680910130020363023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 387
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bede2bd079d57880800000000000000
+      internalID: -8613739633539359056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 258
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de71c369bac099640800000000000000
+      internalID: 5087111185191147501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_16
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 35
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7292b269f04a990800000000000000
+      internalID: -7375753152082401296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_17
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 53
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d447f6a9cc9c970800000000000000
+      internalID: 8775770312575044938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_18
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 7
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7560e28608f1cf90800000000000000
+      internalID: -6934989244324616835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_19
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 29
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc352738f9cba7c70800000000000000
+      internalID: 8969689001152893900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRD-N5-G01_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 15
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d93a03d01af8ca00800000000000000
+      internalID: 777145885888494036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GRD-N5-G01_0: 1283855331475604820
+      GRD-N5-G01_1: 4878521199194311447
+      GRD-N5-G01_10: -7174245646516679387
+      GRD-N5-G01_11: 6290790515896251516
+      GRD-N5-G01_12: -480353971215208628
+      GRD-N5-G01_13: 1680910130020363023
+      GRD-N5-G01_14: -8613739633539359056
+      GRD-N5-G01_15: 5087111185191147501
+      GRD-N5-G01_16: -7375753152082401296
+      GRD-N5-G01_17: 8775770312575044938
+      GRD-N5-G01_18: -6934989244324616835
+      GRD-N5-G01_19: 8969689001152893900
+      GRD-N5-G01_2: -2563340700204627930
+      GRD-N5-G01_20: 777145885888494036
+      GRD-N5-G01_3: -2665324089016361524
+      GRD-N5-G01_4: -2165791952756755932
+      GRD-N5-G01_5: 3875662465880468836
+      GRD-N5-G01_6: 4538704161782469810
+      GRD-N5-G01_7: -1308266041860461581
+      GRD-N5-G01_8: 7920386155727892385
+      GRD-N5-G01_9: -997936829145589204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

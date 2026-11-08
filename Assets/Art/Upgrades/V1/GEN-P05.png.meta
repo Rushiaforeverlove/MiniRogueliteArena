@@ -1,0 +1,2914 @@
+fileFormatVersion: 2
+guid: b075a682d880f504ea9c91dc93d35b13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2059241207958235747
+    second: GEN-P05_0
+  - first:
+      213: -2135337180432752582
+    second: GEN-P05_1
+  - first:
+      213: -4207268735829651816
+    second: GEN-P05_2
+  - first:
+      213: 8304489678996823670
+    second: GEN-P05_3
+  - first:
+      213: -2742695302037024768
+    second: GEN-P05_4
+  - first:
+      213: -3472558986770914250
+    second: GEN-P05_5
+  - first:
+      213: -8409377077085298428
+    second: GEN-P05_6
+  - first:
+      213: -7219820450443584208
+    second: GEN-P05_7
+  - first:
+      213: 8132353042453761993
+    second: GEN-P05_8
+  - first:
+      213: 1885612145834292122
+    second: GEN-P05_9
+  - first:
+      213: 6589327981907388802
+    second: GEN-P05_10
+  - first:
+      213: 7793453004867197690
+    second: GEN-P05_11
+  - first:
+      213: -2478898710832625764
+    second: GEN-P05_12
+  - first:
+      213: -742966071891155774
+    second: GEN-P05_13
+  - first:
+      213: -5729995009728228857
+    second: GEN-P05_14
+  - first:
+      213: -3491271087025725037
+    second: GEN-P05_15
+  - first:
+      213: -6841818204318573268
+    second: GEN-P05_16
+  - first:
+      213: 5992677413074602541
+    second: GEN-P05_17
+  - first:
+      213: 1645073830496619693
+    second: GEN-P05_18
+  - first:
+      213: -5847588722472238950
+    second: GEN-P05_19
+  - first:
+      213: -7434899529652878275
+    second: GEN-P05_20
+  - first:
+      213: 1625224345371687605
+    second: GEN-P05_21
+  - first:
+      213: -352641191622819723
+    second: GEN-P05_22
+  - first:
+      213: -8032762250264516677
+    second: GEN-P05_23
+  - first:
+      213: -16588528806990165
+    second: GEN-P05_24
+  - first:
+      213: -176540001966769385
+    second: GEN-P05_25
+  - first:
+      213: 8046093868233914900
+    second: GEN-P05_26
+  - first:
+      213: 5946177349392368726
+    second: GEN-P05_27
+  - first:
+      213: 6464833570538531100
+    second: GEN-P05_28
+  - first:
+      213: -1755065761654262643
+    second: GEN-P05_29
+  - first:
+      213: -7706843719899643421
+    second: GEN-P05_30
+  - first:
+      213: -5011172257903102578
+    second: GEN-P05_31
+  - first:
+      213: 1004394447537018429
+    second: GEN-P05_32
+  - first:
+      213: 6241559708561390049
+    second: GEN-P05_33
+  - first:
+      213: 3853345186834424772
+    second: GEN-P05_34
+  - first:
+      213: 433434853051094622
+    second: GEN-P05_35
+  - first:
+      213: -7071569157706298868
+    second: GEN-P05_36
+  - first:
+      213: 5289016003888328879
+    second: GEN-P05_37
+  - first:
+      213: 1061717215679655115
+    second: GEN-P05_38
+  - first:
+      213: 6091740266370115542
+    second: GEN-P05_39
+  - first:
+      213: 5959272266057006096
+    second: GEN-P05_40
+  - first:
+      213: 1377782600030359257
+    second: GEN-P05_41
+  - first:
+      213: -7318308734255167759
+    second: GEN-P05_42
+  - first:
+      213: -1655228781271986067
+    second: GEN-P05_43
+  - first:
+      213: -1135097178190094955
+    second: GEN-P05_44
+  - first:
+      213: -3046678861881865590
+    second: GEN-P05_45
+  - first:
+      213: -3640323060740387426
+    second: GEN-P05_46
+  - first:
+      213: 6593010943863214267
+    second: GEN-P05_47
+  - first:
+      213: 7689073074641422149
+    second: GEN-P05_48
+  - first:
+      213: 3996482965786413030
+    second: GEN-P05_49
+  - first:
+      213: -1310805626002867708
+    second: GEN-P05_50
+  - first:
+      213: 6356416745781643708
+    second: GEN-P05_51
+  - first:
+      213: 6464046522114263425
+    second: GEN-P05_52
+  - first:
+      213: 1493608640333558520
+    second: GEN-P05_53
+  - first:
+      213: 2095563533515750649
+    second: GEN-P05_54
+  - first:
+      213: 8424198902367191431
+    second: GEN-P05_55
+  - first:
+      213: -6941547210763231541
+    second: GEN-P05_56
+  - first:
+      213: 7916816378575302416
+    second: GEN-P05_57
+  - first:
+      213: -4106021097285034495
+    second: GEN-P05_58
+  - first:
+      213: 2062319866946605924
+    second: GEN-P05_59
+  - first:
+      213: -6762244470537046094
+    second: GEN-P05_60
+  - first:
+      213: 2329888400525088765
+    second: GEN-P05_61
+  - first:
+      213: -2903246901306003509
+    second: GEN-P05_62
+  - first:
+      213: 5170430589646418649
+    second: GEN-P05_63
+  - first:
+      213: -13955597701151427
+    second: GEN-P05_64
+  - first:
+      213: 5246531749480453429
+    second: GEN-P05_65
+  - first:
+      213: -3480408816235140104
+    second: GEN-P05_66
+  - first:
+      213: 9101367469412009600
+    second: GEN-P05_67
+  - first:
+      213: 3406857099360699430
+    second: GEN-P05_68
+  - first:
+      213: 5394691427403609044
+    second: GEN-P05_69
+  - first:
+      213: 4701019667300368498
+    second: GEN-P05_70
+  - first:
+      213: 8304905506453797711
+    second: GEN-P05_71
+  - first:
+      213: 8507027878051970103
+    second: GEN-P05_72
+  - first:
+      213: -5547046798652948219
+    second: GEN-P05_73
+  - first:
+      213: -6261515876996011296
+    second: GEN-P05_74
+  - first:
+      213: 1768370636253636366
+    second: GEN-P05_75
+  - first:
+      213: -6469478415596787361
+    second: GEN-P05_76
+  - first:
+      213: 7655800476719310263
+    second: GEN-P05_77
+  - first:
+      213: 1051011850168240862
+    second: GEN-P05_78
+  - first:
+      213: -1428493540339069468
+    second: GEN-P05_79
+  - first:
+      213: -3660651588273698727
+    second: GEN-P05_80
+  - first:
+      213: 2901200930730772212
+    second: GEN-P05_81
+  - first:
+      213: 1560206114578454038
+    second: GEN-P05_82
+  - first:
+      213: -1326616562421273570
+    second: GEN-P05_83
+  - first:
+      213: -8532139520967853027
+    second: GEN-P05_84
+  - first:
+      213: 4153319541221845603
+    second: GEN-P05_85
+  - first:
+      213: 3701910622226634147
+    second: GEN-P05_86
+  - first:
+      213: -8822621433658129228
+    second: GEN-P05_87
+  - first:
+      213: 1188926312415667059
+    second: GEN-P05_88
+  - first:
+      213: 4769479082171456336
+    second: GEN-P05_89
+  - first:
+      213: -5414258589078496343
+    second: GEN-P05_90
+  - first:
+      213: -4507943079686005688
+    second: GEN-P05_91
+  - first:
+      213: 363470714528703881
+    second: GEN-P05_92
+  - first:
+      213: -4401126025661949017
+    second: GEN-P05_93
+  - first:
+      213: -4973174212598679548
+    second: GEN-P05_94
+  - first:
+      213: 8233998377331952180
+    second: GEN-P05_95
+  - first:
+      213: 3995519933514756716
+    second: GEN-P05_96
+  - first:
+      213: -5092296965569434173
+    second: GEN-P05_97
+  - first:
+      213: -2063026430878873573
+    second: GEN-P05_98
+  - first:
+      213: -8392565040825563528
+    second: GEN-P05_99
+  - first:
+      213: -6006589511941192037
+    second: GEN-P05_100
+  - first:
+      213: -1272913124049023001
+    second: GEN-P05_101
+  - first:
+      213: 2467407017494775693
+    second: GEN-P05_102
+  - first:
+      213: 4465990179853686052
+    second: GEN-P05_103
+  - first:
+      213: 7064308517500058592
+    second: GEN-P05_104
+  - first:
+      213: 6542526960787860604
+    second: GEN-P05_105
+  - first:
+      213: -2376608433555456082
+    second: GEN-P05_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GEN-P05_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1241
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d959dcc180b1c63e0800000000000000
+      internalID: -2059241207958235747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1118
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a302f9cd522cd52e0800000000000000
+      internalID: -2135337180432752582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_2
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1205
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e44463067cc95c0800000000000000
+      internalID: -4207268735829651816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1202
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ed08d2d597f3370800000000000000
+      internalID: 8304489678996823670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1194
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00053fa772dffe9d0800000000000000
+      internalID: -2742695302037024768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_5
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634edebfffdfecfc0800000000000000
+      internalID: -3472558986770914250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_6
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1175
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401a40a6a14eb4b80800000000000000
+      internalID: -8409377077085298428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1181
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d95357d8b0ecb90800000000000000
+      internalID: -7219820450443584208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1157
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf068b410cebd070800000000000000
+      internalID: 8132353042453761993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_9
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a937d98914a0b2a10800000000000000
+      internalID: 1885612145834292122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1074
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289a12643eef17b50800000000000000
+      internalID: 6589327981907388802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 877
+        width: 118
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa5fc86738e72c60800000000000000
+      internalID: 7793453004867197690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1074
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97c5aa91ce299dd0800000000000000
+      internalID: -2478898710832625764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1050
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4a2c44b4470b5f0800000000000000
+      internalID: -742966071891155774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_14
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1050
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7025360c5e7fa70b0800000000000000
+      internalID: -5729995009728228857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1014
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3916d33a1738c8fc0800000000000000
+      internalID: -3491271087025725037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_16
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 988
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d5ac9b79afc01a0800000000000000
+      internalID: -6841818204318573268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 972
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a81db4b544a2350800000000000000
+      internalID: 5992677413074602541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 963
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacca00dee974d610800000000000000
+      internalID: 1645073830496619693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_19
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 966
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90467ce90139dea0800000000000000
+      internalID: -5847588722472238950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 950
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d344252054ee1d890800000000000000
+      internalID: -7434899529652878275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 951
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba323a6ee4fd8610800000000000000
+      internalID: 1625224345371687605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 958
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570c62064ba2b1bf0800000000000000
+      internalID: -352641191622819723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 935
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7e0d3fa45e58090800000000000000
+      internalID: -8032762250264516677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 921
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeec1922d015cff0800000000000000
+      internalID: -16588528806990165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 930
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bbf16bdcdcc8df0800000000000000
+      internalID: -176540001966769385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 922
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41af78d3eb779af60800000000000000
+      internalID: 8046093868233914900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 919
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654810a8bc0158250800000000000000
+      internalID: 5946177349392368726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 849
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1928f751e3b7b950800000000000000
+      internalID: 6464833570538531100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 785
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84b52f0df0c4a7e0800000000000000
+      internalID: -1755065761654262643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 753
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e18ee7287acb0590800000000000000
+      internalID: -7706843719899643421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 763
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85b46bb16db47ab0800000000000000
+      internalID: -5011172257903102578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3691d3bd6350fd00800000000000000
+      internalID: 1004394447537018429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 648
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e931395c797e9650800000000000000
+      internalID: 6241559708561390049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_34
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 662
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c32a321805d97530800000000000000
+      internalID: 3853345186834424772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 529
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e565261d3bed30600800000000000000
+      internalID: 433434853051094622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 480
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ace4e515dbcdd90800000000000000
+      internalID: -7071569157706298868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 399
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0be1b780c566940800000000000000
+      internalID: 5289016003888328879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 369
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcca084be2afbbe00800000000000000
+      internalID: 1061717215679655115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 379
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d72fe03f753a8450800000000000000
+      internalID: 6091740266370115542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 391
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c3a2a6d8693b250800000000000000
+      internalID: 5959272266057006096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 364
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de068499fdde1310800000000000000
+      internalID: 1377782600030359257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 361
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f60512faf4207a90800000000000000
+      internalID: -7318308734255167759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 375
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60d74671327709e0800000000000000
+      internalID: -1655228781271986067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_44
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 337
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d5e6461235f30f0800000000000000
+      internalID: -1135097178190094955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 345
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a07d497b508b5d0800000000000000
+      internalID: -3046678861881865590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 306
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d08e8a679fa7dc0800000000000000
+      internalID: -3640323060740387426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 322
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0da3da5841f7b50800000000000000
+      internalID: 6593010943863214267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 312
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547c502193315ba60800000000000000
+      internalID: 7689073074641422149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 288
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e74996451c567730800000000000000
+      internalID: 3996482965786413030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40af3846a351fcde0800000000000000
+      internalID: -1310805626002867708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_51
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 276
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9c8a04a57863850800000000000000
+      internalID: 6356416745781643708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_52
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 242
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189483a5018e4b950800000000000000
+      internalID: 6464046522114263425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 264
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f23988152d5ab410800000000000000
+      internalID: 1493608640333558520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_54
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 276
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcf7735eefe41d10800000000000000
+      internalID: 2095563533515750649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_55
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 256
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78105d4b444c8e470800000000000000
+      internalID: 8424198902367191431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_56
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 257
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce9ad6f69baaaf90800000000000000
+      internalID: -6941547210763231541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_57
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 240
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fa9fc1d8e2edd60800000000000000
+      internalID: 7916816378575302416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 223
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ed010119b7407c0800000000000000
+      internalID: -4106021097285034495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_59
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 175
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463559a0ef4de9c10800000000000000
+      internalID: 2062319866946605924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_60
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 189
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b73a416b7ea722a0800000000000000
+      internalID: -6762244470537046094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_61
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 37
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7d99fe72d655020800000000000000
+      internalID: 2329888400525088765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_62
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfe668435895b7d0800000000000000
+      internalID: -2903246901306003509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 122
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d230b72a3f01c740800000000000000
+      internalID: 5170430589646418649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_64
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 108
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d350564357b6ecff0800000000000000
+      internalID: -13955597701151427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_65
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535579e24dc6fc840800000000000000
+      internalID: 5246531749480453429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_66
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 113
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbaa232f9a13bfc0800000000000000
+      internalID: -3480408816235140104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_67
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 99
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08649980e7d8e4e70800000000000000
+      internalID: 9101367469412009600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_68
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 130
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62489e74b76974f20800000000000000
+      internalID: 3406857099360699430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_69
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 94
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3bc3b554bcdda40800000000000000
+      internalID: 5394691427403609044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_70
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 49
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2704097fa706d3140800000000000000
+      internalID: 4701019667300368498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_71
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 109
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b3d5d8e83f04370800000000000000
+      internalID: 8304905506453797711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_72
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cf1ad68c80f0670800000000000000
+      internalID: 8507027878051970103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501c2dd735ee403b0800000000000000
+      internalID: -5547046798652948219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_74
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 103
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea2f2c1c70aa19a0800000000000000
+      internalID: -6261515876996011296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_75
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 114
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07212579b38a8810800000000000000
+      internalID: 1768370636253636366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_76
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 111
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59eb4468abc736a0800000000000000
+      internalID: -6469478415596787361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_77
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5ee1ea8fdde3a60800000000000000
+      internalID: 7655800476719310263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_78
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 91
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda010095b1f59e00800000000000000
+      internalID: 1051011850168240862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_79
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 95
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed462c81b8fc2ce0800000000000000
+      internalID: -1428493540339069468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_80
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9580a7286c0c23dc0800000000000000
+      internalID: -3660651588273698727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_81
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 88
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f68d3210e2234820800000000000000
+      internalID: 2901200930730772212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_82
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 85
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61657d3e137f6a510800000000000000
+      internalID: 1560206114578454038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_83
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 79
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ceab3e349e69de0800000000000000
+      internalID: -1326616562421273570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_84
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 83
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cb3a69f40c79980800000000000000
+      internalID: -8532139520967853027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_85
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 86
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a67351e1e83a930800000000000000
+      internalID: 4153319541221845603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_86
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 69
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5501ce814df5330800000000000000
+      internalID: 3701910622226634147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_87
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 81
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b44f03ec80cf8580800000000000000
+      internalID: -8822621433658129228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_88
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 79
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373a6a39e2aef7010800000000000000
+      internalID: 1188926312415667059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_89
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 63
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b5c7894f7903240800000000000000
+      internalID: 4769479082171456336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_90
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 64
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5edbcf70bcd4b0800000000000000
+      internalID: -5414258589078496343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_91
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c92a337a19071c0800000000000000
+      internalID: -4507943079686005688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_92
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 67
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985adb960be4b0500800000000000000
+      internalID: 363470714528703881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_93
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 70
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab51b4a23f0ce2c0800000000000000
+      internalID: -4401126025661949017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_94
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 49
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4083ce3176cbbfab0800000000000000
+      internalID: -4973174212598679548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_95
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 31
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a830a06e9054270800000000000000
+      internalID: 8233998377331952180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_96
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 13
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62b32ad530f27730800000000000000
+      internalID: 3995519933514756716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_97
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 63
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd2f64d3e68459b0800000000000000
+      internalID: -5092296965569434173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_98
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1809393468ae53e0800000000000000
+      internalID: -2063026430878873573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_99
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 55
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8760b33af8e978b80800000000000000
+      internalID: -8392565040825563528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 45
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b968825c9ae44aca0800000000000000
+      internalID: -6006589511941192037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_101
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 52
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef00230244b55ee0800000000000000
+      internalID: -1272913124049023001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_102
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 37
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87051a0c9dfd3220800000000000000
+      internalID: 2467407017494775693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_103
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 6
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425df8028626afd30800000000000000
+      internalID: 4465990179853686052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_104
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 33
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb7b591b27790260800000000000000
+      internalID: 7064308517500058592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_105
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 33
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c2d276b99bbca50800000000000000
+      internalID: 6542526960787860604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN-P05_106
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 12
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafbab3b837940fd0800000000000000
+      internalID: -2376608433555456082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GEN-P05_0: -2059241207958235747
+      GEN-P05_1: -2135337180432752582
+      GEN-P05_10: 6589327981907388802
+      GEN-P05_100: -6006589511941192037
+      GEN-P05_101: -1272913124049023001
+      GEN-P05_102: 2467407017494775693
+      GEN-P05_103: 4465990179853686052
+      GEN-P05_104: 7064308517500058592
+      GEN-P05_105: 6542526960787860604
+      GEN-P05_106: -2376608433555456082
+      GEN-P05_11: 7793453004867197690
+      GEN-P05_12: -2478898710832625764
+      GEN-P05_13: -742966071891155774
+      GEN-P05_14: -5729995009728228857
+      GEN-P05_15: -3491271087025725037
+      GEN-P05_16: -6841818204318573268
+      GEN-P05_17: 5992677413074602541
+      GEN-P05_18: 1645073830496619693
+      GEN-P05_19: -5847588722472238950
+      GEN-P05_2: -4207268735829651816
+      GEN-P05_20: -7434899529652878275
+      GEN-P05_21: 1625224345371687605
+      GEN-P05_22: -352641191622819723
+      GEN-P05_23: -8032762250264516677
+      GEN-P05_24: -16588528806990165
+      GEN-P05_25: -176540001966769385
+      GEN-P05_26: 8046093868233914900
+      GEN-P05_27: 5946177349392368726
+      GEN-P05_28: 6464833570538531100
+      GEN-P05_29: -1755065761654262643
+      GEN-P05_3: 8304489678996823670
+      GEN-P05_30: -7706843719899643421
+      GEN-P05_31: -5011172257903102578
+      GEN-P05_32: 1004394447537018429
+      GEN-P05_33: 6241559708561390049
+      GEN-P05_34: 3853345186834424772
+      GEN-P05_35: 433434853051094622
+      GEN-P05_36: -7071569157706298868
+      GEN-P05_37: 5289016003888328879
+      GEN-P05_38: 1061717215679655115
+      GEN-P05_39: 6091740266370115542
+      GEN-P05_4: -2742695302037024768
+      GEN-P05_40: 5959272266057006096
+      GEN-P05_41: 1377782600030359257
+      GEN-P05_42: -7318308734255167759
+      GEN-P05_43: -1655228781271986067
+      GEN-P05_44: -1135097178190094955
+      GEN-P05_45: -3046678861881865590
+      GEN-P05_46: -3640323060740387426
+      GEN-P05_47: 6593010943863214267
+      GEN-P05_48: 7689073074641422149
+      GEN-P05_49: 3996482965786413030
+      GEN-P05_5: -3472558986770914250
+      GEN-P05_50: -1310805626002867708
+      GEN-P05_51: 6356416745781643708
+      GEN-P05_52: 6464046522114263425
+      GEN-P05_53: 1493608640333558520
+      GEN-P05_54: 2095563533515750649
+      GEN-P05_55: 8424198902367191431
+      GEN-P05_56: -6941547210763231541
+      GEN-P05_57: 7916816378575302416
+      GEN-P05_58: -4106021097285034495
+      GEN-P05_59: 2062319866946605924
+      GEN-P05_6: -8409377077085298428
+      GEN-P05_60: -6762244470537046094
+      GEN-P05_61: 2329888400525088765
+      GEN-P05_62: -2903246901306003509
+      GEN-P05_63: 5170430589646418649
+      GEN-P05_64: -13955597701151427
+      GEN-P05_65: 5246531749480453429
+      GEN-P05_66: -3480408816235140104
+      GEN-P05_67: 9101367469412009600
+      GEN-P05_68: 3406857099360699430
+      GEN-P05_69: 5394691427403609044
+      GEN-P05_7: -7219820450443584208
+      GEN-P05_70: 4701019667300368498
+      GEN-P05_71: 8304905506453797711
+      GEN-P05_72: 8507027878051970103
+      GEN-P05_73: -5547046798652948219
+      GEN-P05_74: -6261515876996011296
+      GEN-P05_75: 1768370636253636366
+      GEN-P05_76: -6469478415596787361
+      GEN-P05_77: 7655800476719310263
+      GEN-P05_78: 1051011850168240862
+      GEN-P05_79: -1428493540339069468
+      GEN-P05_8: 8132353042453761993
+      GEN-P05_80: -3660651588273698727
+      GEN-P05_81: 2901200930730772212
+      GEN-P05_82: 1560206114578454038
+      GEN-P05_83: -1326616562421273570
+      GEN-P05_84: -8532139520967853027
+      GEN-P05_85: 4153319541221845603
+      GEN-P05_86: 3701910622226634147
+      GEN-P05_87: -8822621433658129228
+      GEN-P05_88: 1188926312415667059
+      GEN-P05_89: 4769479082171456336
+      GEN-P05_9: 1885612145834292122
+      GEN-P05_90: -5414258589078496343
+      GEN-P05_91: -4507943079686005688
+      GEN-P05_92: 363470714528703881
+      GEN-P05_93: -4401126025661949017
+      GEN-P05_94: -4973174212598679548
+      GEN-P05_95: 8233998377331952180
+      GEN-P05_96: 3995519933514756716
+      GEN-P05_97: -5092296965569434173
+      GEN-P05_98: -2063026430878873573
+      GEN-P05_99: -8392565040825563528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

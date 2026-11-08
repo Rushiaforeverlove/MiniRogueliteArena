@@ -1,0 +1,3330 @@
+fileFormatVersion: 2
+guid: 57e95479e31fd554db1cd7eac61f75fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2533404175057504719
+    second: charger-common-v1_0
+  - first:
+      213: -9202473918198456280
+    second: charger-common-v1_1
+  - first:
+      213: 6057367489784066667
+    second: charger-common-v1_2
+  - first:
+      213: 9133905307567050826
+    second: charger-common-v1_3
+  - first:
+      213: 6500294636163783215
+    second: charger-common-v1_4
+  - first:
+      213: 1554685679937822548
+    second: charger-common-v1_5
+  - first:
+      213: -983507444800774189
+    second: charger-common-v1_6
+  - first:
+      213: 2892984902710126490
+    second: charger-common-v1_7
+  - first:
+      213: 4527562053147765439
+    second: charger-common-v1_8
+  - first:
+      213: 5464813092576185249
+    second: charger-common-v1_9
+  - first:
+      213: -1270868074316794149
+    second: charger-common-v1_10
+  - first:
+      213: -7640770968306851786
+    second: charger-common-v1_11
+  - first:
+      213: 5999091102470127311
+    second: charger-common-v1_12
+  - first:
+      213: 5627579456954869558
+    second: charger-common-v1_13
+  - first:
+      213: 6532179597469225466
+    second: charger-common-v1_14
+  - first:
+      213: -7068330730916175452
+    second: charger-common-v1_15
+  - first:
+      213: -3054670190727043883
+    second: charger-common-v1_16
+  - first:
+      213: 5266505209678614986
+    second: charger-common-v1_17
+  - first:
+      213: 1136240623953206798
+    second: charger-common-v1_18
+  - first:
+      213: 4934787583896801232
+    second: charger-common-v1_19
+  - first:
+      213: -4609173401303201953
+    second: charger-common-v1_20
+  - first:
+      213: 6129108649258410525
+    second: charger-common-v1_21
+  - first:
+      213: -6287526363999105207
+    second: charger-common-v1_22
+  - first:
+      213: 1061022031325511485
+    second: charger-common-v1_23
+  - first:
+      213: 757265946125696229
+    second: charger-common-v1_24
+  - first:
+      213: -3345894032637298199
+    second: charger-common-v1_25
+  - first:
+      213: -4210687662515908705
+    second: charger-common-v1_26
+  - first:
+      213: -7072182439583492090
+    second: charger-common-v1_27
+  - first:
+      213: -9106149925488570312
+    second: charger-common-v1_28
+  - first:
+      213: -8718174908271293046
+    second: charger-common-v1_29
+  - first:
+      213: 2762476393466987451
+    second: charger-common-v1_30
+  - first:
+      213: -7085811837576759276
+    second: charger-common-v1_31
+  - first:
+      213: 8362577099864106660
+    second: charger-common-v1_32
+  - first:
+      213: 6006498079274633244
+    second: charger-common-v1_33
+  - first:
+      213: -6335163947508561565
+    second: charger-common-v1_34
+  - first:
+      213: 5855790372781986812
+    second: charger-common-v1_35
+  - first:
+      213: -1903028615504426868
+    second: charger-common-v1_36
+  - first:
+      213: -3279091255161480168
+    second: charger-common-v1_37
+  - first:
+      213: 8100760155545951240
+    second: charger-common-v1_38
+  - first:
+      213: -4166790970393730527
+    second: charger-common-v1_39
+  - first:
+      213: 1015751755133309672
+    second: charger-common-v1_40
+  - first:
+      213: 8024442108670052225
+    second: charger-common-v1_41
+  - first:
+      213: 960634173145298906
+    second: charger-common-v1_42
+  - first:
+      213: -7710719180369939261
+    second: charger-common-v1_43
+  - first:
+      213: -5238659556581639342
+    second: charger-common-v1_44
+  - first:
+      213: -6827535633003409458
+    second: charger-common-v1_45
+  - first:
+      213: -6628278587116168719
+    second: charger-common-v1_46
+  - first:
+      213: -7289330982191235864
+    second: charger-common-v1_47
+  - first:
+      213: -7793523020932125840
+    second: charger-common-v1_48
+  - first:
+      213: 238739169082799995
+    second: charger-common-v1_49
+  - first:
+      213: 3487891472605378497
+    second: charger-common-v1_50
+  - first:
+      213: 4676681718933385132
+    second: charger-common-v1_51
+  - first:
+      213: -5398571867585869905
+    second: charger-common-v1_52
+  - first:
+      213: 740645164546063255
+    second: charger-common-v1_53
+  - first:
+      213: 8387651797552874872
+    second: charger-common-v1_54
+  - first:
+      213: -3932774926270790682
+    second: charger-common-v1_55
+  - first:
+      213: 870578486226034900
+    second: charger-common-v1_56
+  - first:
+      213: 4214002448489808992
+    second: charger-common-v1_57
+  - first:
+      213: 7685802364379781680
+    second: charger-common-v1_58
+  - first:
+      213: -876888894201219389
+    second: charger-common-v1_59
+  - first:
+      213: 888153952691929145
+    second: charger-common-v1_60
+  - first:
+      213: 1305575650997327469
+    second: charger-common-v1_61
+  - first:
+      213: 3705267800668154263
+    second: charger-common-v1_62
+  - first:
+      213: -9150746194298622629
+    second: charger-common-v1_63
+  - first:
+      213: 6663349683617316894
+    second: charger-common-v1_64
+  - first:
+      213: -1973088961351353654
+    second: charger-common-v1_65
+  - first:
+      213: -4610934858328381414
+    second: charger-common-v1_66
+  - first:
+      213: -4173854758797639915
+    second: charger-common-v1_67
+  - first:
+      213: -8486666127976257741
+    second: charger-common-v1_68
+  - first:
+      213: -4194136500697045880
+    second: charger-common-v1_69
+  - first:
+      213: -1848018325907041787
+    second: charger-common-v1_70
+  - first:
+      213: 4562217789781496490
+    second: charger-common-v1_71
+  - first:
+      213: 5836929539529701998
+    second: charger-common-v1_72
+  - first:
+      213: -5076678266921491689
+    second: charger-common-v1_73
+  - first:
+      213: 4083089587643137030
+    second: charger-common-v1_74
+  - first:
+      213: 5830744376193968955
+    second: charger-common-v1_75
+  - first:
+      213: -1379302952870012919
+    second: charger-common-v1_76
+  - first:
+      213: -4893644283128447181
+    second: charger-common-v1_77
+  - first:
+      213: -959405092790691757
+    second: charger-common-v1_78
+  - first:
+      213: 1486868278998962933
+    second: charger-common-v1_79
+  - first:
+      213: -5053668989033801877
+    second: charger-common-v1_80
+  - first:
+      213: -7381613707508627945
+    second: charger-common-v1_81
+  - first:
+      213: 3922138019966204147
+    second: charger-common-v1_82
+  - first:
+      213: -3617567624616855756
+    second: charger-common-v1_83
+  - first:
+      213: 7206864696203317282
+    second: charger-common-v1_84
+  - first:
+      213: -5813467887785187332
+    second: charger-common-v1_85
+  - first:
+      213: -7488075153520530968
+    second: charger-common-v1_86
+  - first:
+      213: -2100822177891010717
+    second: charger-common-v1_87
+  - first:
+      213: 3174593160020804162
+    second: charger-common-v1_88
+  - first:
+      213: -2578697180669010902
+    second: charger-common-v1_89
+  - first:
+      213: -4374147507204486282
+    second: charger-common-v1_90
+  - first:
+      213: 6596866498495760647
+    second: charger-common-v1_91
+  - first:
+      213: -6416317931595412402
+    second: charger-common-v1_92
+  - first:
+      213: -5311232066069468701
+    second: charger-common-v1_93
+  - first:
+      213: -84422110940938342
+    second: charger-common-v1_94
+  - first:
+      213: -4399313565981800346
+    second: charger-common-v1_95
+  - first:
+      213: -8267815338159509194
+    second: charger-common-v1_96
+  - first:
+      213: 154799979705266239
+    second: charger-common-v1_97
+  - first:
+      213: -5997915976339241139
+    second: charger-common-v1_98
+  - first:
+      213: -7904005637164068433
+    second: charger-common-v1_99
+  - first:
+      213: 6988984999178272784
+    second: charger-common-v1_100
+  - first:
+      213: 3886615317603866761
+    second: charger-common-v1_101
+  - first:
+      213: -6805539816459333680
+    second: charger-common-v1_102
+  - first:
+      213: 6442088915083054857
+    second: charger-common-v1_103
+  - first:
+      213: -8582638422281754647
+    second: charger-common-v1_104
+  - first:
+      213: 4472138386434037473
+    second: charger-common-v1_105
+  - first:
+      213: -7060808554655074658
+    second: charger-common-v1_106
+  - first:
+      213: -6511287841277215358
+    second: charger-common-v1_107
+  - first:
+      213: 326590286802398600
+    second: charger-common-v1_108
+  - first:
+      213: 2021558210565719983
+    second: charger-common-v1_109
+  - first:
+      213: 5122737865486421389
+    second: charger-common-v1_110
+  - first:
+      213: -2669357540396801623
+    second: charger-common-v1_111
+  - first:
+      213: 418631395783333518
+    second: charger-common-v1_112
+  - first:
+      213: -1052066953487091335
+    second: charger-common-v1_113
+  - first:
+      213: -7863316190958814774
+    second: charger-common-v1_114
+  - first:
+      213: 2406506286068516387
+    second: charger-common-v1_115
+  - first:
+      213: 4075868501034211445
+    second: charger-common-v1_116
+  - first:
+      213: -3000092507008515459
+    second: charger-common-v1_117
+  - first:
+      213: -2445485598727896817
+    second: charger-common-v1_118
+  - first:
+      213: -844217974359821201
+    second: charger-common-v1_119
+  - first:
+      213: 5619425496994284912
+    second: charger-common-v1_120
+  - first:
+      213: 7416952745844068689
+    second: charger-common-v1_121
+  - first:
+      213: 1238050052820076753
+    second: charger-common-v1_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charger-common-v1_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 925
+        width: 220
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136b439435a87dcd0800000000000000
+      internalID: -2533404175057504719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 874
+        width: 210
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ebfa6abe3a4080800000000000000
+      internalID: -9202473918198456280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 919
+        width: 244
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62349e73a7101450800000000000000
+      internalID: 6057367489784066667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_3
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 932
+        width: 205
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40d695db7622ce70800000000000000
+      internalID: 9133905307567050826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_4
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 870
+        width: 218
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a5be3188fa53a50800000000000000
+      internalID: 6500294636163783215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_5
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 874
+        width: 201
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f941a836a539510800000000000000
+      internalID: 1554685679937822548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_6
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1098
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df92b69031e952f0800000000000000
+      internalID: -983507444800774189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_7
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1079
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97ea9af072f52820800000000000000
+      internalID: 2892984902710126490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_8
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 910
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba296403b125de30800000000000000
+      internalID: 4527562053147765439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 213
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab48eacd8ae6db40800000000000000
+      internalID: 5464813092576185249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 886
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd676f14838fc5ee0800000000000000
+      internalID: -1270868074316794149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 620
+        width: 221
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630e3ff694786f590800000000000000
+      internalID: -7640770968306851786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 880
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce30f9b29d014350800000000000000
+      internalID: 5999091102470127311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 620
+        width: 239
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637a41d23bd291e40800000000000000
+      internalID: 5627579456954869558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 630
+        width: 218
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af115342cb6f6aa50800000000000000
+      internalID: 6532179597469225466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_15
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 861
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1a3cc56ae38ed90800000000000000
+      internalID: -7068330730916175452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 634
+        width: 203
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d46db755a1ab95d0800000000000000
+      internalID: -3054670190727043883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_17
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 636
+        width: 223
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac153a6c592661940800000000000000
+      internalID: 5266505209678614986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_18
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 678
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e5912d3dcb4cf00800000000000000
+      internalID: 1136240623953206798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_19
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 630
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df4d247923eb7440800000000000000
+      internalID: 4934787583896801232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_20
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 645
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57c423463de800c0800000000000000
+      internalID: -4609173401303201953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_21
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 646
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1262d4d7d7fe0550800000000000000
+      internalID: 6129108649258410525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_22
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 642
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f0eeda5183eb8a0800000000000000
+      internalID: -6287526363999105207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 628
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f350c7ae189be00800000000000000
+      internalID: 1061022031325511485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_24
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 646
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec7257ad59528a00800000000000000
+      internalID: 757265946125696229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 212
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9fd88ca1ff091d0800000000000000
+      internalID: -3345894032637298199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 634
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f8e9f41e1a095c0800000000000000
+      internalID: -4210687662515908705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 618
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608dedd8a8f8add90800000000000000
+      internalID: -7072182439583492090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_28
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 392
+        width: 223
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830ddc3a3e470a180800000000000000
+      internalID: -9106149925488570312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_29
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 392
+        width: 220
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d04ce9c12d20780800000000000000
+      internalID: -8718174908271293046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_30
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 626
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb38005c4a9465620800000000000000
+      internalID: 2762476393466987451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 450
+        width: 218
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418bafb0da32aad90800000000000000
+      internalID: -7085811837576759276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 459
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a66734c097dd0470800000000000000
+      internalID: 8362577099864106660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_33
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 130
+        width: 209
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c180b37ed2e5b5350800000000000000
+      internalID: 6006498079274633244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 479
+        width: 209
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36904e274f9f418a0800000000000000
+      internalID: -6335163947508561565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 467
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf392d89152f34150800000000000000
+      internalID: 5855790372781986812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_36
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 423
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88847f8e851795e0800000000000000
+      internalID: -1903028615504426868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_37
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 408
+        width: 251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c920670e35e72d0800000000000000
+      internalID: -3279091255161480168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_38
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 424
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c54f9117eab6070800000000000000
+      internalID: 8100760155545951240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_39
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 432
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122606460b59c26c0800000000000000
+      internalID: -4166790970393730527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_40
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 442
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e253b0f6dca81e00800000000000000
+      internalID: 1015751755133309672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_41
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 434
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18707ff159b8c5f60800000000000000
+      internalID: 8024442108670052225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 419
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad73d69d0bbd45d00800000000000000
+      internalID: 960634173145298906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_43
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 417
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4324332c50ef490800000000000000
+      internalID: -7710719180369939261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 392
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bfebe83ea8c47b0800000000000000
+      internalID: -5238659556581639342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_45
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 417
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf828ff388bf31a0800000000000000
+      internalID: -6827535633003409458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_46
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 422
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9dc9e3ebf9304a0800000000000000
+      internalID: -6628278587116168719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_47
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 427
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecfd3c971817da90800000000000000
+      internalID: -7289330982191235864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 163
+        width: 213
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be284ba18d7d390800000000000000
+      internalID: -7793523020932125840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_49
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 148
+        width: 232
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77f627620c205300800000000000000
+      internalID: 238739169082799995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_50
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 390
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7f1cf80da776030800000000000000
+      internalID: 3487891472605378497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_51
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 209
+        width: 231
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf6698ce39e6e040800000000000000
+      internalID: 4676681718933385132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_52
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 404
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa780224d7b6415b0800000000000000
+      internalID: -5398571867585869905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_53
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 382
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bf0616adc474a00800000000000000
+      internalID: 740645164546063255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_54
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 400
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8754ec4cedce66470800000000000000
+      internalID: 8387651797552874872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 390
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e301129a0afb69c0800000000000000
+      internalID: -3932774926270790682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_56
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 98
+        width: 248
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0a99c458ae41c00800000000000000
+      internalID: 870578486226034900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_57
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 82
+        width: 225
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0648cd076e42b7a30800000000000000
+      internalID: 4214002448489808992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ad6be778479aa60800000000000000
+      internalID: 7685802364379781680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 225
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6b6a9523aa4d3f0800000000000000
+      internalID: -876888894201219389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_60
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 240
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930cf08705b535c00800000000000000
+      internalID: 888153952691929145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_61
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 225
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66581923265e1210800000000000000
+      internalID: 1305575650997327469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_62
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 234
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799a480fe61cb6330800000000000000
+      internalID: 3705267800668154263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 212
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5da21ba1d4020180800000000000000
+      internalID: -9150746194298622629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_64
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 211
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10c83abb39f87c50800000000000000
+      internalID: 6663349683617316894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_65
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 225
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca78642b0e2e94e0800000000000000
+      internalID: -1973088961351353654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_66
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 202
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18eed61d2ba200c0800000000000000
+      internalID: -4610934858328381414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_67
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 192
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ffacdf53d7316c0800000000000000
+      internalID: -4173854758797639915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_68
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 201
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337a2a2fe1e493a80800000000000000
+      internalID: -8486666127976257741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_69
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 200
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e378f21f6bc5c0800000000000000
+      internalID: -4194136500697045880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_70
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 168
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50216e1bf158a56e0800000000000000
+      internalID: -1848018325907041787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_71
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 120
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2d4eb78e0405f30800000000000000
+      internalID: 4562217789781496490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_72
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 134
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6af6a6ad70f00150800000000000000
+      internalID: 5836929539529701998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_73
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 170
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e23d73040c89b0800000000000000
+      internalID: -5076678266921491689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_74
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 182
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cb099c85c0aa830800000000000000
+      internalID: 4083089587643137030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_75
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3be5271e17fae050800000000000000
+      internalID: 5830744376193968955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_76
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 176
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9081980b54bbbdce0800000000000000
+      internalID: -1379302952870012919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_77
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 152
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ff10fb378461cb0800000000000000
+      internalID: -4893644283128447181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3589288b6228fa2f0800000000000000
+      internalID: -959405092790691757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 170
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2978d62da62a410800000000000000
+      internalID: 1486868278998962933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_80
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 165
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b679b3874d2cdd9b0800000000000000
+      internalID: -5053668989033801877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_81
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 168
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7164bc6417d3f8990800000000000000
+      internalID: -7381613707508627945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_82
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 160
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8b320bfbb3e6630800000000000000
+      internalID: 3922138019966204147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_83
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 162
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43732cf7961dbcdc0800000000000000
+      internalID: -3617567624616855756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_84
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 160
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2209081f14de30460800000000000000
+      internalID: 7206864696203317282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_85
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 160
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf76c63d1c9625fa0800000000000000
+      internalID: -5813467887785187332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_86
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 165
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9eaf64253051890800000000000000
+      internalID: -7488075153520530968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_87
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 13
+        width: 205
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3673b8e1c5168d2e0800000000000000
+      internalID: -2100822177891010717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_88
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 156
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242cc69c8ab6e0c20800000000000000
+      internalID: 3174593160020804162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 140
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c1ce2a390a63cd0800000000000000
+      internalID: -2578697180669010902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_90
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b8ae57408eb43c0800000000000000
+      internalID: -4374147507204486282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_91
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 146
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709c381f027cc8b50800000000000000
+      internalID: 6596866498495760647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_92
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 144
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c494916d8a4f6a0800000000000000
+      internalID: -6416317931595412402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_93
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 127
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e3467396ba46b0800000000000000
+      internalID: -5311232066069468701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_94
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 163
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f3d22998214def0800000000000000
+      internalID: -84422110940938342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_95
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 148
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668091cce9f72f2c0800000000000000
+      internalID: -4399313565981800346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_96
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 144
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631f97431c1d24d80800000000000000
+      internalID: -8267815338159509194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_97
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 120
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30f199e2c5f52200800000000000000
+      internalID: 154799979705266239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_98
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47c8a5a23f13cca0800000000000000
+      internalID: -5997915976339241139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_99
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 146
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1962e00c45f4290800000000000000
+      internalID: -7904005637164068433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_100
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 144
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0100e88d3dcddf060800000000000000
+      internalID: 6988984999178272784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_101
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 203
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988de580a0800f530800000000000000
+      internalID: 3886615317603866761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_102
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 128
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df0a2f189ddd81a0800000000000000
+      internalID: -6805539816459333680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_103
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 132
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fc1039cb5e66950800000000000000
+      internalID: 6442088915083054857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_104
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7e644e3d754e880800000000000000
+      internalID: -8582638422281754647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_105
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 136
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e61ac50b2a301e30800000000000000
+      internalID: 4472138386434037473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_106
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 134
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96beb08708f20e90800000000000000
+      internalID: -7060808554655074658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_107
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 106
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28df956e43243a5a0800000000000000
+      internalID: -6511287841277215358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_108
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 120
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d23ffa228488400800000000000000
+      internalID: 326590286802398600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_109
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 126
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa74b895b740e0c10800000000000000
+      internalID: 2021558210565719983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_110
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 207
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dc2cd72fe971740800000000000000
+      internalID: 5122737865486421389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_111
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 11
+        width: 219
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1632ab57984fad0800000000000000
+      internalID: -2669357540396801623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_112
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 110
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86dd7559074fc500800000000000000
+      internalID: 418631395783333518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_113
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 116
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979797d0eae4661f0800000000000000
+      internalID: -1052066953487091335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_114
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac972510693efd290800000000000000
+      internalID: -7863316190958814774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_115
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 110
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326cbda87b0a56120800000000000000
+      internalID: 2406506286068516387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_116
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 96
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578195b8ec4609830800000000000000
+      internalID: 4075868501034211445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_117
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 0
+        width: 213
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72427292c78d56d0800000000000000
+      internalID: -3000092507008515459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_118
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 98
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f018d700ec3ef0ed0800000000000000
+      internalID: -2445485598727896817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_119
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 99
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f647845a93cb844f0800000000000000
+      internalID: -844217974359821201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_120
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 84
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0750e1e67b53cfd40800000000000000
+      internalID: 5619425496994284912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_121
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 95
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151d4e3c93f4ee660800000000000000
+      internalID: 7416952745844068689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charger-common-v1_122
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 15
+        width: 197
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d88e7ca6ff6e2110800000000000000
+      internalID: 1238050052820076753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      charger-common-v1_0: -2533404175057504719
+      charger-common-v1_1: -9202473918198456280
+      charger-common-v1_10: -1270868074316794149
+      charger-common-v1_100: 6988984999178272784
+      charger-common-v1_101: 3886615317603866761
+      charger-common-v1_102: -6805539816459333680
+      charger-common-v1_103: 6442088915083054857
+      charger-common-v1_104: -8582638422281754647
+      charger-common-v1_105: 4472138386434037473
+      charger-common-v1_106: -7060808554655074658
+      charger-common-v1_107: -6511287841277215358
+      charger-common-v1_108: 326590286802398600
+      charger-common-v1_109: 2021558210565719983
+      charger-common-v1_11: -7640770968306851786
+      charger-common-v1_110: 5122737865486421389
+      charger-common-v1_111: -2669357540396801623
+      charger-common-v1_112: 418631395783333518
+      charger-common-v1_113: -1052066953487091335
+      charger-common-v1_114: -7863316190958814774
+      charger-common-v1_115: 2406506286068516387
+      charger-common-v1_116: 4075868501034211445
+      charger-common-v1_117: -3000092507008515459
+      charger-common-v1_118: -2445485598727896817
+      charger-common-v1_119: -844217974359821201
+      charger-common-v1_12: 5999091102470127311
+      charger-common-v1_120: 5619425496994284912
+      charger-common-v1_121: 7416952745844068689
+      charger-common-v1_122: 1238050052820076753
+      charger-common-v1_13: 5627579456954869558
+      charger-common-v1_14: 6532179597469225466
+      charger-common-v1_15: -7068330730916175452
+      charger-common-v1_16: -3054670190727043883
+      charger-common-v1_17: 5266505209678614986
+      charger-common-v1_18: 1136240623953206798
+      charger-common-v1_19: 4934787583896801232
+      charger-common-v1_2: 6057367489784066667
+      charger-common-v1_20: -4609173401303201953
+      charger-common-v1_21: 6129108649258410525
+      charger-common-v1_22: -6287526363999105207
+      charger-common-v1_23: 1061022031325511485
+      charger-common-v1_24: 757265946125696229
+      charger-common-v1_25: -3345894032637298199
+      charger-common-v1_26: -4210687662515908705
+      charger-common-v1_27: -7072182439583492090
+      charger-common-v1_28: -9106149925488570312
+      charger-common-v1_29: -8718174908271293046
+      charger-common-v1_3: 9133905307567050826
+      charger-common-v1_30: 2762476393466987451
+      charger-common-v1_31: -7085811837576759276
+      charger-common-v1_32: 8362577099864106660
+      charger-common-v1_33: 6006498079274633244
+      charger-common-v1_34: -6335163947508561565
+      charger-common-v1_35: 5855790372781986812
+      charger-common-v1_36: -1903028615504426868
+      charger-common-v1_37: -3279091255161480168
+      charger-common-v1_38: 8100760155545951240
+      charger-common-v1_39: -4166790970393730527
+      charger-common-v1_4: 6500294636163783215
+      charger-common-v1_40: 1015751755133309672
+      charger-common-v1_41: 8024442108670052225
+      charger-common-v1_42: 960634173145298906
+      charger-common-v1_43: -7710719180369939261
+      charger-common-v1_44: -5238659556581639342
+      charger-common-v1_45: -6827535633003409458
+      charger-common-v1_46: -6628278587116168719
+      charger-common-v1_47: -7289330982191235864
+      charger-common-v1_48: -7793523020932125840
+      charger-common-v1_49: 238739169082799995
+      charger-common-v1_5: 1554685679937822548
+      charger-common-v1_50: 3487891472605378497
+      charger-common-v1_51: 4676681718933385132
+      charger-common-v1_52: -5398571867585869905
+      charger-common-v1_53: 740645164546063255
+      charger-common-v1_54: 8387651797552874872
+      charger-common-v1_55: -3932774926270790682
+      charger-common-v1_56: 870578486226034900
+      charger-common-v1_57: 4214002448489808992
+      charger-common-v1_58: 7685802364379781680
+      charger-common-v1_59: -876888894201219389
+      charger-common-v1_6: -983507444800774189
+      charger-common-v1_60: 888153952691929145
+      charger-common-v1_61: 1305575650997327469
+      charger-common-v1_62: 3705267800668154263
+      charger-common-v1_63: -9150746194298622629
+      charger-common-v1_64: 6663349683617316894
+      charger-common-v1_65: -1973088961351353654
+      charger-common-v1_66: -4610934858328381414
+      charger-common-v1_67: -4173854758797639915
+      charger-common-v1_68: -8486666127976257741
+      charger-common-v1_69: -4194136500697045880
+      charger-common-v1_7: 2892984902710126490
+      charger-common-v1_70: -1848018325907041787
+      charger-common-v1_71: 4562217789781496490
+      charger-common-v1_72: 5836929539529701998
+      charger-common-v1_73: -5076678266921491689
+      charger-common-v1_74: 4083089587643137030
+      charger-common-v1_75: 5830744376193968955
+      charger-common-v1_76: -1379302952870012919
+      charger-common-v1_77: -4893644283128447181
+      charger-common-v1_78: -959405092790691757
+      charger-common-v1_79: 1486868278998962933
+      charger-common-v1_8: 4527562053147765439
+      charger-common-v1_80: -5053668989033801877
+      charger-common-v1_81: -7381613707508627945
+      charger-common-v1_82: 3922138019966204147
+      charger-common-v1_83: -3617567624616855756
+      charger-common-v1_84: 7206864696203317282
+      charger-common-v1_85: -5813467887785187332
+      charger-common-v1_86: -7488075153520530968
+      charger-common-v1_87: -2100822177891010717
+      charger-common-v1_88: 3174593160020804162
+      charger-common-v1_89: -2578697180669010902
+      charger-common-v1_9: 5464813092576185249
+      charger-common-v1_90: -4374147507204486282
+      charger-common-v1_91: 6596866498495760647
+      charger-common-v1_92: -6416317931595412402
+      charger-common-v1_93: -5311232066069468701
+      charger-common-v1_94: -84422110940938342
+      charger-common-v1_95: -4399313565981800346
+      charger-common-v1_96: -8267815338159509194
+      charger-common-v1_97: 154799979705266239
+      charger-common-v1_98: -5997915976339241139
+      charger-common-v1_99: -7904005637164068433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

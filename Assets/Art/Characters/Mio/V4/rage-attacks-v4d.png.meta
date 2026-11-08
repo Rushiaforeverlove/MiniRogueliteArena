@@ -1,0 +1,2446 @@
+fileFormatVersion: 2
+guid: e2a2ba19fb088f346a1a24157debd261
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6408262627872271511
+    second: rage-attacks-v4d_0
+  - first:
+      213: -3746770703499623698
+    second: rage-attacks-v4d_1
+  - first:
+      213: -4407741364912856099
+    second: rage-attacks-v4d_2
+  - first:
+      213: -494114629503835546
+    second: rage-attacks-v4d_3
+  - first:
+      213: 2206888069275814302
+    second: rage-attacks-v4d_4
+  - first:
+      213: 3242602800406242797
+    second: rage-attacks-v4d_5
+  - first:
+      213: -7696814890116868104
+    second: rage-attacks-v4d_6
+  - first:
+      213: 8509051610196589686
+    second: rage-attacks-v4d_7
+  - first:
+      213: 3492455220562909396
+    second: rage-attacks-v4d_8
+  - first:
+      213: -3669616063540849329
+    second: rage-attacks-v4d_9
+  - first:
+      213: 2124841024723974807
+    second: rage-attacks-v4d_10
+  - first:
+      213: 6539017163512050815
+    second: rage-attacks-v4d_11
+  - first:
+      213: 507027805120234632
+    second: rage-attacks-v4d_12
+  - first:
+      213: -280708133820661100
+    second: rage-attacks-v4d_13
+  - first:
+      213: -5038293800440370847
+    second: rage-attacks-v4d_14
+  - first:
+      213: -1686756517648165792
+    second: rage-attacks-v4d_15
+  - first:
+      213: 2653824073857498569
+    second: rage-attacks-v4d_16
+  - first:
+      213: -1047184512603591541
+    second: rage-attacks-v4d_17
+  - first:
+      213: 2833241213285308750
+    second: rage-attacks-v4d_18
+  - first:
+      213: -2560715957317688590
+    second: rage-attacks-v4d_19
+  - first:
+      213: -5108347271685649756
+    second: rage-attacks-v4d_20
+  - first:
+      213: 315469105122928149
+    second: rage-attacks-v4d_21
+  - first:
+      213: -5912760412996658919
+    second: rage-attacks-v4d_22
+  - first:
+      213: -5501694868478484078
+    second: rage-attacks-v4d_23
+  - first:
+      213: 7870190067098639102
+    second: rage-attacks-v4d_24
+  - first:
+      213: -6356619663822376571
+    second: rage-attacks-v4d_25
+  - first:
+      213: 450038721308785692
+    second: rage-attacks-v4d_26
+  - first:
+      213: -1152666304410221794
+    second: rage-attacks-v4d_27
+  - first:
+      213: -6676823744974291919
+    second: rage-attacks-v4d_28
+  - first:
+      213: 738486173056068946
+    second: rage-attacks-v4d_29
+  - first:
+      213: -6927015601240815929
+    second: rage-attacks-v4d_30
+  - first:
+      213: -2501152084808394615
+    second: rage-attacks-v4d_31
+  - first:
+      213: -7762593053017542261
+    second: rage-attacks-v4d_32
+  - first:
+      213: -4591046575244546176
+    second: rage-attacks-v4d_33
+  - first:
+      213: -1473001276679009301
+    second: rage-attacks-v4d_34
+  - first:
+      213: -3276394858405168971
+    second: rage-attacks-v4d_35
+  - first:
+      213: -8132565376470490095
+    second: rage-attacks-v4d_36
+  - first:
+      213: -3820086293445486750
+    second: rage-attacks-v4d_37
+  - first:
+      213: 4421319790094505427
+    second: rage-attacks-v4d_38
+  - first:
+      213: 3546839129868881087
+    second: rage-attacks-v4d_39
+  - first:
+      213: -4849390269527829243
+    second: rage-attacks-v4d_40
+  - first:
+      213: -925495406969552457
+    second: rage-attacks-v4d_41
+  - first:
+      213: 2818316520407071150
+    second: rage-attacks-v4d_42
+  - first:
+      213: 3106092608520748302
+    second: rage-attacks-v4d_43
+  - first:
+      213: -4003838559518038896
+    second: rage-attacks-v4d_44
+  - first:
+      213: -5863268676616422447
+    second: rage-attacks-v4d_45
+  - first:
+      213: 2941464170493240255
+    second: rage-attacks-v4d_46
+  - first:
+      213: -3152151627910887855
+    second: rage-attacks-v4d_47
+  - first:
+      213: 8793302340090209356
+    second: rage-attacks-v4d_48
+  - first:
+      213: 4570225037037918530
+    second: rage-attacks-v4d_49
+  - first:
+      213: -3642488107273130995
+    second: rage-attacks-v4d_50
+  - first:
+      213: -2760787747468832437
+    second: rage-attacks-v4d_51
+  - first:
+      213: -55968479466440752
+    second: rage-attacks-v4d_52
+  - first:
+      213: 1425505030582563002
+    second: rage-attacks-v4d_53
+  - first:
+      213: -5223239227692357619
+    second: rage-attacks-v4d_54
+  - first:
+      213: 7130573475757712146
+    second: rage-attacks-v4d_55
+  - first:
+      213: -3827330699988538279
+    second: rage-attacks-v4d_56
+  - first:
+      213: 5909719519358034336
+    second: rage-attacks-v4d_57
+  - first:
+      213: 1631311198419831279
+    second: rage-attacks-v4d_58
+  - first:
+      213: 5689666312180710024
+    second: rage-attacks-v4d_59
+  - first:
+      213: -2021773483037463712
+    second: rage-attacks-v4d_60
+  - first:
+      213: -4857587675413739143
+    second: rage-attacks-v4d_61
+  - first:
+      213: 7142668465573778005
+    second: rage-attacks-v4d_62
+  - first:
+      213: -5704226929269895646
+    second: rage-attacks-v4d_63
+  - first:
+      213: -5159947978322912218
+    second: rage-attacks-v4d_64
+  - first:
+      213: 4769322108881158378
+    second: rage-attacks-v4d_65
+  - first:
+      213: 8300473519153480240
+    second: rage-attacks-v4d_66
+  - first:
+      213: -8532523960091632090
+    second: rage-attacks-v4d_67
+  - first:
+      213: 7345632544078360903
+    second: rage-attacks-v4d_68
+  - first:
+      213: -337934829909597043
+    second: rage-attacks-v4d_69
+  - first:
+      213: 1256054961285112547
+    second: rage-attacks-v4d_70
+  - first:
+      213: 7896542080635165176
+    second: rage-attacks-v4d_71
+  - first:
+      213: 1604808764327948364
+    second: rage-attacks-v4d_72
+  - first:
+      213: 4832287849960924463
+    second: rage-attacks-v4d_73
+  - first:
+      213: 6390313042843485550
+    second: rage-attacks-v4d_74
+  - first:
+      213: -5293531031733227081
+    second: rage-attacks-v4d_75
+  - first:
+      213: 6202937058232382894
+    second: rage-attacks-v4d_76
+  - first:
+      213: -8517877287361951108
+    second: rage-attacks-v4d_77
+  - first:
+      213: -6030702704285452683
+    second: rage-attacks-v4d_78
+  - first:
+      213: -6893790063618546178
+    second: rage-attacks-v4d_79
+  - first:
+      213: -8402367670393472914
+    second: rage-attacks-v4d_80
+  - first:
+      213: 6574478445150817296
+    second: rage-attacks-v4d_81
+  - first:
+      213: -3120051275727816632
+    second: rage-attacks-v4d_82
+  - first:
+      213: -3903669670369881059
+    second: rage-attacks-v4d_83
+  - first:
+      213: -2056194102725586855
+    second: rage-attacks-v4d_84
+  - first:
+      213: -7208496143926821331
+    second: rage-attacks-v4d_85
+  - first:
+      213: 2549906645416270864
+    second: rage-attacks-v4d_86
+  - first:
+      213: -7103297680068401606
+    second: rage-attacks-v4d_87
+  - first:
+      213: -8604404349068568037
+    second: rage-attacks-v4d_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rage-attacks-v4d_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 737
+        width: 209
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9631346a7174117a0800000000000000
+      internalID: -6408262627872271511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 791
+        width: 201
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2801b75ebc00cc0800000000000000
+      internalID: -3746770703499623698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 725
+        width: 255
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3e292f49e84d2c0800000000000000
+      internalID: -4407741364912856099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 943
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662a916cc5d8429f0800000000000000
+      internalID: -494114629503835546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_4
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 629
+        width: 313
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e998b34a10170ae10800000000000000
+      internalID: 2206888069275814302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_5
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 701
+        width: 271
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5a6e1211a000d20800000000000000
+      internalID: 3242602800406242797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_6
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 959
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f795ac03ab6f2590800000000000000
+      internalID: -7696814890116868104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_7
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 723
+        width: 203
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cbb394b59361670800000000000000
+      internalID: 8509051610196589686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_8
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 975
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d85c9fe481b77030800000000000000
+      internalID: 3492455220562909396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_9
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 983
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f459496f1a7e21dc0800000000000000
+      internalID: -3669616063540849329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 961
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a79d277a3fc7d10800000000000000
+      internalID: 2124841024723974807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 927
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74715b07714fba50800000000000000
+      internalID: 6539017163512050815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 899
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88400773a13590700800000000000000
+      internalID: 507027805120234632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_13
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 965
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4928e068079ba1cf0800000000000000
+      internalID: -280708133820661100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_14
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 927
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169e2b68b72641ab0800000000000000
+      internalID: -5038293800440370847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_15
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 944
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064910f42ef6798e0800000000000000
+      internalID: -1686756517648165792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 885
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdf7a24fe644d420800000000000000
+      internalID: 2653824073857498569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_17
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 868
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce8f7eb37a771f0800000000000000
+      internalID: -1047184512603591541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 831
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e491ed05fd1b15720800000000000000
+      internalID: 2833241213285308750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 747
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2a7617762867cd0800000000000000
+      internalID: -2560715957317688590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 743
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa47d9b8318b19b0800000000000000
+      internalID: -5108347271685649756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 733
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516667cca75c06400800000000000000
+      internalID: 315469105122928149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 737
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91997554bb7a1fda0800000000000000
+      internalID: -5912760412996658919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_23
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 737
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29120c59aad06a3b0800000000000000
+      internalID: -5501694868478484078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 765
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efad8300b28883d60800000000000000
+      internalID: 7870190067098639102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_25
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 757
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581ba953810c8c7a0800000000000000
+      internalID: -6356619663822376571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_26
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 735
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cf7c625dbde3600800000000000000
+      internalID: 450038721308785692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_27
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 765
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13011d6a18e000f0800000000000000
+      internalID: -1152666304410221794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_28
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 765
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf9e4ed282753a0800000000000000
+      internalID: -6676823744974291919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_29
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 749
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d6b800341af3a00800000000000000
+      internalID: 738486173056068946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_30
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 767
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6c376f20c4edf90800000000000000
+      internalID: -6927015601240815929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 463
+        width: 199
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98894c73e6f1a4dd0800000000000000
+      internalID: -2501152084808394615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 727
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8179fa0fbab54490800000000000000
+      internalID: -7762593053017542261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_33
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 467
+        width: 199
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f6647d6735940c0800000000000000
+      internalID: -4591046575244546176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 709
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebc9d5a429de8be0800000000000000
+      internalID: -1473001276679009301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_35
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 399
+        width: 223
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8f7d04c38e782d0800000000000000
+      internalID: -3276394858405168971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 481
+        width: 225
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114e5d6d0e2532f80800000000000000
+      internalID: -8132565376470490095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_37
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 471
+        width: 233
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267d7db71c35cfac0800000000000000
+      internalID: -3820086293445486750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_38
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 471
+        width: 223
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5dcf68ceeab5d30800000000000000
+      internalID: 4421319790094505427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_39
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 643
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc4a4b8567e83130800000000000000
+      internalID: 3546839129868881087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_40
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 513
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505de873e3183bcb0800000000000000
+      internalID: -4849390269527829243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_41
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 492
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b10352b4daf723f0800000000000000
+      internalID: -925495406969552457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_42
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 517
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea97a7771fbac1720800000000000000
+      internalID: 2818316520407071150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 495
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d785a45ce0b1b20800000000000000
+      internalID: 3106092608520748302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_44
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 497
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0946ae91b028f68c0800000000000000
+      internalID: -4003838559518038896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_45
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 493
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db7a9b143c71aea0800000000000000
+      internalID: -5863268676616422447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 486
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3e9c9141e22d820800000000000000
+      internalID: 2941464170493240255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_47
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 461
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156c3349bce4144d0800000000000000
+      internalID: -3152151627910887855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_48
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 487
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4420bfa3e5180a70800000000000000
+      internalID: 8793302340090209356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_49
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 484
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249dd340573bc6f30800000000000000
+      internalID: 4570225037037918530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_50
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 495
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c666b7d58437dc0800000000000000
+      internalID: -3642488107273130995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_51
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 478
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b419ed3cb26bfa9d0800000000000000
+      internalID: -2760787747468832437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_52
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 482
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7b8c6e6f8293ff0800000000000000
+      internalID: -55968479466440752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 205
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0f76dc54968c310800000000000000
+      internalID: 1425505030582563002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_54
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 197
+        width: 253
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08e288a8935387b0800000000000000
+      internalID: -5223239227692357619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_55
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 463
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2136c5bfbc2e4f260800000000000000
+      internalID: 7130573475757712146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_56
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 47
+        width: 253
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c6c35a10792eac0800000000000000
+      internalID: -3827330699988538279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_57
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 461
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a12781879a830250800000000000000
+      internalID: 5909719519358034336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_58
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 462
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe94ee354e493a610800000000000000
+      internalID: 1631311198419831279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_59
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 449
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ab904ad51c5fe40800000000000000
+      internalID: 5689666312180710024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_60
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 221
+        width: 233
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b6f3f9ab731f3e0800000000000000
+      internalID: -2021773483037463712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_61
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 223
+        width: 257
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97906adeeb1669cb0800000000000000
+      internalID: -4857587675413739143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_62
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 441
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552d8ee302bdf1360800000000000000
+      internalID: 7142668465573778005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_63
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 461
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e86a284d386d0b0800000000000000
+      internalID: -5704226929269895646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_64
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 461
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c519cf6ae2468b0800000000000000
+      internalID: -5159947978322912218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_65
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 447
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae047476039003240800000000000000
+      internalID: 4769322108881158378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_66
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 241
+        width: 197
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0320ea810b4313370800000000000000
+      internalID: 8300473519153480240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_67
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 433
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e9a316aa2669980800000000000000
+      internalID: -8532523960091632090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_68
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 435
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741f65841ede0f560800000000000000
+      internalID: 7345632544078360903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_69
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 439
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84a10a001a6f4bf0800000000000000
+      internalID: -337934829909597043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_70
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 245
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e224c915576e6110800000000000000
+      internalID: 1256054961285112547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_71
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 246
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9de264f27269d60800000000000000
+      internalID: 7896542080635165176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_72
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 223
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40733a811d654610800000000000000
+      internalID: 1604808764327948364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_73
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 247
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f256b5d623cbf0340800000000000000
+      internalID: 4832287849960924463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_74
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 227
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e654b3aead3fea850800000000000000
+      internalID: 6390313042843485550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_75
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 217
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1b80ea2999986b0800000000000000
+      internalID: -5293531031733227081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_76
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 29
+        width: 188
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea53c00d362451650800000000000000
+      internalID: 6202937058232382894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_77
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 160
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a4c6e9cbb6ac980800000000000000
+      internalID: -8517877287361951108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_78
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 183
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576f31da7d3ae4ca0800000000000000
+      internalID: -6030702704285452683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_79
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 29
+        width: 177
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef526e546765450a0800000000000000
+      internalID: -6893790063618546178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_80
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 27
+        width: 269
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6878f51f1bc46b80800000000000000
+      internalID: -8402367670393472914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_81
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 28
+        width: 233
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c4da2105d3d3b50800000000000000
+      internalID: 6574478445150817296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_82
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 166
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8483d3d35e953b4d0800000000000000
+      internalID: -3120051275727816632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_83
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 166
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1413290e1163d9c0800000000000000
+      internalID: -3903669670369881059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_84
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 27
+        width: 193
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950d9c59b5ee673e0800000000000000
+      internalID: -2056194102725586855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_85
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 141
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ef77803f646fb90800000000000000
+      internalID: -7208496143926821331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_86
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 63
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cd1728596136320800000000000000
+      internalID: 2549906645416270864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_87
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 63
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36aaa515640c6d90800000000000000
+      internalID: -7103297680068401606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rage-attacks-v4d_88
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a11f525d3079880800000000000000
+      internalID: -8604404349068568037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rage-attacks-v4d_0: -6408262627872271511
+      rage-attacks-v4d_1: -3746770703499623698
+      rage-attacks-v4d_10: 2124841024723974807
+      rage-attacks-v4d_11: 6539017163512050815
+      rage-attacks-v4d_12: 507027805120234632
+      rage-attacks-v4d_13: -280708133820661100
+      rage-attacks-v4d_14: -5038293800440370847
+      rage-attacks-v4d_15: -1686756517648165792
+      rage-attacks-v4d_16: 2653824073857498569
+      rage-attacks-v4d_17: -1047184512603591541
+      rage-attacks-v4d_18: 2833241213285308750
+      rage-attacks-v4d_19: -2560715957317688590
+      rage-attacks-v4d_2: -4407741364912856099
+      rage-attacks-v4d_20: -5108347271685649756
+      rage-attacks-v4d_21: 315469105122928149
+      rage-attacks-v4d_22: -5912760412996658919
+      rage-attacks-v4d_23: -5501694868478484078
+      rage-attacks-v4d_24: 7870190067098639102
+      rage-attacks-v4d_25: -6356619663822376571
+      rage-attacks-v4d_26: 450038721308785692
+      rage-attacks-v4d_27: -1152666304410221794
+      rage-attacks-v4d_28: -6676823744974291919
+      rage-attacks-v4d_29: 738486173056068946
+      rage-attacks-v4d_3: -494114629503835546
+      rage-attacks-v4d_30: -6927015601240815929
+      rage-attacks-v4d_31: -2501152084808394615
+      rage-attacks-v4d_32: -7762593053017542261
+      rage-attacks-v4d_33: -4591046575244546176
+      rage-attacks-v4d_34: -1473001276679009301
+      rage-attacks-v4d_35: -3276394858405168971
+      rage-attacks-v4d_36: -8132565376470490095
+      rage-attacks-v4d_37: -3820086293445486750
+      rage-attacks-v4d_38: 4421319790094505427
+      rage-attacks-v4d_39: 3546839129868881087
+      rage-attacks-v4d_4: 2206888069275814302
+      rage-attacks-v4d_40: -4849390269527829243
+      rage-attacks-v4d_41: -925495406969552457
+      rage-attacks-v4d_42: 2818316520407071150
+      rage-attacks-v4d_43: 3106092608520748302
+      rage-attacks-v4d_44: -4003838559518038896
+      rage-attacks-v4d_45: -5863268676616422447
+      rage-attacks-v4d_46: 2941464170493240255
+      rage-attacks-v4d_47: -3152151627910887855
+      rage-attacks-v4d_48: 8793302340090209356
+      rage-attacks-v4d_49: 4570225037037918530
+      rage-attacks-v4d_5: 3242602800406242797
+      rage-attacks-v4d_50: -3642488107273130995
+      rage-attacks-v4d_51: -2760787747468832437
+      rage-attacks-v4d_52: -55968479466440752
+      rage-attacks-v4d_53: 1425505030582563002
+      rage-attacks-v4d_54: -5223239227692357619
+      rage-attacks-v4d_55: 7130573475757712146
+      rage-attacks-v4d_56: -3827330699988538279
+      rage-attacks-v4d_57: 5909719519358034336
+      rage-attacks-v4d_58: 1631311198419831279
+      rage-attacks-v4d_59: 5689666312180710024
+      rage-attacks-v4d_6: -7696814890116868104
+      rage-attacks-v4d_60: -2021773483037463712
+      rage-attacks-v4d_61: -4857587675413739143
+      rage-attacks-v4d_62: 7142668465573778005
+      rage-attacks-v4d_63: -5704226929269895646
+      rage-attacks-v4d_64: -5159947978322912218
+      rage-attacks-v4d_65: 4769322108881158378
+      rage-attacks-v4d_66: 8300473519153480240
+      rage-attacks-v4d_67: -8532523960091632090
+      rage-attacks-v4d_68: 7345632544078360903
+      rage-attacks-v4d_69: -337934829909597043
+      rage-attacks-v4d_7: 8509051610196589686
+      rage-attacks-v4d_70: 1256054961285112547
+      rage-attacks-v4d_71: 7896542080635165176
+      rage-attacks-v4d_72: 1604808764327948364
+      rage-attacks-v4d_73: 4832287849960924463
+      rage-attacks-v4d_74: 6390313042843485550
+      rage-attacks-v4d_75: -5293531031733227081
+      rage-attacks-v4d_76: 6202937058232382894
+      rage-attacks-v4d_77: -8517877287361951108
+      rage-attacks-v4d_78: -6030702704285452683
+      rage-attacks-v4d_79: -6893790063618546178
+      rage-attacks-v4d_8: 3492455220562909396
+      rage-attacks-v4d_80: -8402367670393472914
+      rage-attacks-v4d_81: 6574478445150817296
+      rage-attacks-v4d_82: -3120051275727816632
+      rage-attacks-v4d_83: -3903669670369881059
+      rage-attacks-v4d_84: -2056194102725586855
+      rage-attacks-v4d_85: -7208496143926821331
+      rage-attacks-v4d_86: 2549906645416270864
+      rage-attacks-v4d_87: -7103297680068401606
+      rage-attacks-v4d_88: -8604404349068568037
+      rage-attacks-v4d_9: -3669616063540849329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1614 @@
+fileFormatVersion: 2
+guid: becd4905623c6b9459ffb9550266f08a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1655062965666232894
+    second: wardrobe_0
+  - first:
+      213: 5356905691582079244
+    second: wardrobe_1
+  - first:
+      213: -1955998181992878169
+    second: wardrobe_2
+  - first:
+      213: 8803054309740487835
+    second: wardrobe_3
+  - first:
+      213: 4926727372632653913
+    second: wardrobe_4
+  - first:
+      213: 7541825606360925033
+    second: wardrobe_5
+  - first:
+      213: 3684648841662585739
+    second: wardrobe_6
+  - first:
+      213: -6414761731328071126
+    second: wardrobe_7
+  - first:
+      213: -2161317371474563227
+    second: wardrobe_8
+  - first:
+      213: -9105226173561204390
+    second: wardrobe_9
+  - first:
+      213: -4386699845211050260
+    second: wardrobe_10
+  - first:
+      213: 231418759464413290
+    second: wardrobe_11
+  - first:
+      213: -5415476875934955371
+    second: wardrobe_12
+  - first:
+      213: -5532663750716678815
+    second: wardrobe_13
+  - first:
+      213: -2014134034796060361
+    second: wardrobe_14
+  - first:
+      213: -4032278326612296544
+    second: wardrobe_15
+  - first:
+      213: -8192392207377872646
+    second: wardrobe_16
+  - first:
+      213: 4976080537657626564
+    second: wardrobe_17
+  - first:
+      213: -2537435394828824181
+    second: wardrobe_18
+  - first:
+      213: -7960600738963052095
+    second: wardrobe_19
+  - first:
+      213: -77761626239618507
+    second: wardrobe_20
+  - first:
+      213: 5293832538630189946
+    second: wardrobe_21
+  - first:
+      213: 1216604524545106929
+    second: wardrobe_22
+  - first:
+      213: 4242970107425547507
+    second: wardrobe_23
+  - first:
+      213: 1283994928529195810
+    second: wardrobe_24
+  - first:
+      213: -3428937492849438891
+    second: wardrobe_25
+  - first:
+      213: -8294295308945934568
+    second: wardrobe_26
+  - first:
+      213: 5649705972634601351
+    second: wardrobe_27
+  - first:
+      213: -1177340119775925651
+    second: wardrobe_28
+  - first:
+      213: 6673840616519145560
+    second: wardrobe_29
+  - first:
+      213: 6966789827367265375
+    second: wardrobe_30
+  - first:
+      213: 1679626856444898504
+    second: wardrobe_31
+  - first:
+      213: -5057759410309973476
+    second: wardrobe_32
+  - first:
+      213: 3600920119043523489
+    second: wardrobe_33
+  - first:
+      213: 3189893685285763169
+    second: wardrobe_34
+  - first:
+      213: -705930749350442471
+    second: wardrobe_35
+  - first:
+      213: -4761152778543431492
+    second: wardrobe_36
+  - first:
+      213: 6842418105891967972
+    second: wardrobe_37
+  - first:
+      213: -8680834299101631134
+    second: wardrobe_38
+  - first:
+      213: -6673778432829912901
+    second: wardrobe_39
+  - first:
+      213: -8997302523928621445
+    second: wardrobe_40
+  - first:
+      213: -7873627146591532591
+    second: wardrobe_41
+  - first:
+      213: 9109645148263278237
+    second: wardrobe_42
+  - first:
+      213: -3050253096968060791
+    second: wardrobe_43
+  - first:
+      213: 3253626057926580015
+    second: wardrobe_44
+  - first:
+      213: -1179185311785868614
+    second: wardrobe_45
+  - first:
+      213: 1264234586243245628
+    second: wardrobe_46
+  - first:
+      213: 2429801268798063500
+    second: wardrobe_47
+  - first:
+      213: 2850513014453376097
+    second: wardrobe_48
+  - first:
+      213: 3255810147817842891
+    second: wardrobe_49
+  - first:
+      213: 5783174215604270520
+    second: wardrobe_50
+  - first:
+      213: 4634586759316711276
+    second: wardrobe_51
+  - first:
+      213: 7231659813219574176
+    second: wardrobe_52
+  - first:
+      213: -1955715325047040918
+    second: wardrobe_53
+  - first:
+      213: 5322162621868473311
+    second: wardrobe_54
+  - first:
+      213: -5682733078699992632
+    second: wardrobe_55
+  - first:
+      213: -2994421486486052809
+    second: wardrobe_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wardrobe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 866
+        width: 245
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c54f8a60090809e0800000000000000
+      internalID: -1655062965666232894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1068
+        width: 189
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01a40a285d875a40800000000000000
+      internalID: 5356905691582079244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1044
+        width: 63
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af210d4406ead4e0800000000000000
+      internalID: -1955998181992878169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1139
+        width: 111
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94ad8e014bba2a70800000000000000
+      internalID: 8803054309740487835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1070
+        width: 121
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95086f641704f5440800000000000000
+      internalID: 4926727372632653913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_5
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1052
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96386114e62f9a860800000000000000
+      internalID: 7541825606360925033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_6
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1153
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b5a517990822330800000000000000
+      internalID: 3684648841662585739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_7
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1153
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aab6531303af6a0800000000000000
+      internalID: -6414761731328071126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_8
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1119
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fa0624d457102e0800000000000000
+      internalID: -2161317371474563227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1076
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a519b45690db3a180800000000000000
+      internalID: -9105226173561204390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1109
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee2fe58bbf4f13c0800000000000000
+      internalID: -4386699845211050260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1101
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68ec38b22a263300800000000000000
+      internalID: 231418759464413290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_12
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 918
+        width: 183
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5980e88497c58d4b0800000000000000
+      internalID: -5415476875934955371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1058
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d1adcc1a70833b0800000000000000
+      internalID: -5532663750716678815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_14
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1078
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731e4f544cb5c04e0800000000000000
+      internalID: -2014134034796060361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1044
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac74c2d9387a08c0800000000000000
+      internalID: -4032278326612296544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1042
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8409a41b6ce4e80800000000000000
+      internalID: -8192392207377872646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1269
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf41d472e69e0540800000000000000
+      internalID: 4976080537657626564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_18
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 688
+        width: 59
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8199bac3f739ccd0800000000000000
+      internalID: -2537435394828824181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_19
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 428
+        width: 151
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c925631ec3468190800000000000000
+      internalID: -7960600738963052095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 5
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532b4d2863cbbeef0800000000000000
+      internalID: -77761626239618507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 315
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73f47d55a8777940800000000000000
+      internalID: 5293832538630189946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 299
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3e4a58e5f32e010800000000000000
+      internalID: 1216604524545106929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 210
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f463bd15de02ea30800000000000000
+      internalID: 4242970107425547507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 195
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223c268a59aa1d110800000000000000
+      internalID: 1283994928529195810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 199
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fc0bd7487f960d0800000000000000
+      internalID: -3428937492849438891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_26
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 180
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817b6109c5eb4ec80800000000000000
+      internalID: -8294295308945934568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 177
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787c94016a9c76e40800000000000000
+      internalID: 5649705972634601351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_28
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 161
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aa0fc166f39afe0800000000000000
+      internalID: -1177340119775925651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_29
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85892336eae3e9c50800000000000000
+      internalID: 6673840616519145560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_30
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 145
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54e705bf620fa060800000000000000
+      internalID: 6966789827367265375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 112
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccaa951abb3f4710800000000000000
+      internalID: 1679626856444898504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_32
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 112
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ab51d0d9a3fc9b0800000000000000
+      internalID: -5057759410309973476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_33
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 147
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3852015c909f130800000000000000
+      internalID: 3600920119043523489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_34
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 100
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16838bee767c44c20800000000000000
+      internalID: 3189893685285763169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_35
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 136
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a01f049b70436f0800000000000000
+      internalID: -705930749350442471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb00e8906ccfcedb0800000000000000
+      internalID: -4761152778543431492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_37
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 112
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3546eb30725fe50800000000000000
+      internalID: 6842418105891967972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_38
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 116
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d2500b23b778780800000000000000
+      internalID: -8680834299101631134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_39
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 84
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb88281efd9f163a0800000000000000
+      internalID: -6673778432829912901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 96
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e42843609232380800000000000000
+      internalID: -8997302523928621445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_41
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 96
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d90a8193d14bb290800000000000000
+      internalID: -7873627146591532591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_42
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 86
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96e7145ff5fb6e70800000000000000
+      internalID: 9109645148263278237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_43
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 78
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9800f2028f25ba5d0800000000000000
+      internalID: -3050253096968060791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_44
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 82
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f271ba649a3372d20800000000000000
+      internalID: 3253626057926580015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_45
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab225aed431b2afe0800000000000000
+      internalID: -1179185311785868614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_46
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 39
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36aac178a67b8110800000000000000
+      internalID: 1264234586243245628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_47
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 84
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83808d516368b120800000000000000
+      internalID: 2429801268798063500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 79
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1641f16eb7e0f8720800000000000000
+      internalID: 2850513014453376097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_49
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 64
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc86bc45416fe2d20800000000000000
+      internalID: 3255810147817842891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_50
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 70
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b57a4bfe46f14050800000000000000
+      internalID: 5783174215604270520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_51
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 56
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c672dcd3a1c515040800000000000000
+      internalID: 4634586759316711276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 60
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1ab6ff8440c5460800000000000000
+      internalID: 7231659813219574176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_53
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 48
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6498c01647ebd4e0800000000000000
+      internalID: -1955715325047040918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_54
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 64
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbf451e4be1cd940800000000000000
+      internalID: 5322162621868473311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_55
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 62
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c999b29f50e221b0800000000000000
+      internalID: -5682733078699992632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_56
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 48
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730a33ee58da176d0800000000000000
+      internalID: -2994421486486052809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wardrobe_0: -1655062965666232894
+      wardrobe_1: 5356905691582079244
+      wardrobe_10: -4386699845211050260
+      wardrobe_11: 231418759464413290
+      wardrobe_12: -5415476875934955371
+      wardrobe_13: -5532663750716678815
+      wardrobe_14: -2014134034796060361
+      wardrobe_15: -4032278326612296544
+      wardrobe_16: -8192392207377872646
+      wardrobe_17: 4976080537657626564
+      wardrobe_18: -2537435394828824181
+      wardrobe_19: -7960600738963052095
+      wardrobe_2: -1955998181992878169
+      wardrobe_20: -77761626239618507
+      wardrobe_21: 5293832538630189946
+      wardrobe_22: 1216604524545106929
+      wardrobe_23: 4242970107425547507
+      wardrobe_24: 1283994928529195810
+      wardrobe_25: -3428937492849438891
+      wardrobe_26: -8294295308945934568
+      wardrobe_27: 5649705972634601351
+      wardrobe_28: -1177340119775925651
+      wardrobe_29: 6673840616519145560
+      wardrobe_3: 8803054309740487835
+      wardrobe_30: 6966789827367265375
+      wardrobe_31: 1679626856444898504
+      wardrobe_32: -5057759410309973476
+      wardrobe_33: 3600920119043523489
+      wardrobe_34: 3189893685285763169
+      wardrobe_35: -705930749350442471
+      wardrobe_36: -4761152778543431492
+      wardrobe_37: 6842418105891967972
+      wardrobe_38: -8680834299101631134
+      wardrobe_39: -6673778432829912901
+      wardrobe_4: 4926727372632653913
+      wardrobe_40: -8997302523928621445
+      wardrobe_41: -7873627146591532591
+      wardrobe_42: 9109645148263278237
+      wardrobe_43: -3050253096968060791
+      wardrobe_44: 3253626057926580015
+      wardrobe_45: -1179185311785868614
+      wardrobe_46: 1264234586243245628
+      wardrobe_47: 2429801268798063500
+      wardrobe_48: 2850513014453376097
+      wardrobe_49: 3255810147817842891
+      wardrobe_5: 7541825606360925033
+      wardrobe_50: 5783174215604270520
+      wardrobe_51: 4634586759316711276
+      wardrobe_52: 7231659813219574176
+      wardrobe_53: -1955715325047040918
+      wardrobe_54: 5322162621868473311
+      wardrobe_55: -5682733078699992632
+      wardrobe_56: -2994421486486052809
+      wardrobe_6: 3684648841662585739
+      wardrobe_7: -6414761731328071126
+      wardrobe_8: -2161317371474563227
+      wardrobe_9: -9105226173561204390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
